@@ -23,6 +23,7 @@ NOTEBOOK_MAPPINGS = {
     "geographical": "geographical",
     "demographical": "demographical",
     "temporal": "temporal",
+    "conclusion": "conclusion",
 }
 
 
