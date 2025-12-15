@@ -1,10 +1,49 @@
 /.cursor
 
+# Data directories
 /data_scraping/results
 /data_classification/data
 /data_scraping/database/data
-/data_scraping/venv
-/data_scraping/results
-/data_classification/venv
-/ml_training/bert/venv
 ml_training/bert/data
+
+# Virtual environments
+**/venv/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Large data files
+*.db
+*.duckdb
+*.sqlite
+*.sqlite3
+
+# Large export files
+*.parquet
+*.log
+*.json
+*.csv
+
+# IDE
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Large data exports
+data_scraping/parser/data/exported/
+data_scraping/parser/logs/
