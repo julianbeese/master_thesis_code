@@ -1,0 +1,112 @@
+2025-10-01 21:57:20,478 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-10-01 21:57:20,478 - __main__ - INFO - Max Debatten: 3
+2025-10-01 21:57:20,478 - __main__ - INFO - Quell-Datenbank: database/data/parliament_data.db
+2025-10-01 21:57:20,478 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data_fixed_v2.db
+2025-10-01 21:57:20,478 - __main__ - INFO - Gemini-Modell: gemini-2.0-flash
+2025-10-01 21:57:20,478 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-10-01 21:57:20,478 - __main__ - INFO - max_debates: 3
+2025-10-01 21:57:20,478 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-10-01 21:57:20,478 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-10-01 21:57:20,478 - __main__ - INFO - estimated_total_tokens: 4125
+2025-10-01 21:57:20,478 - __main__ - INFO - estimated_input_cost: 0.0003
+2025-10-01 21:57:20,478 - __main__ - INFO - estimated_output_cost: 0.0001
+2025-10-01 21:57:20,478 - __main__ - INFO - estimated_total_cost: 0.0004
+2025-10-01 21:57:20,478 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-10-01 21:57:20,478 - __main__ - INFO - Initialisiere Komponenten...
+2025-10-01 21:57:20,491 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-2.0-flash' erfolgreich initialisiert
+2025-10-01 21:57:20,491 - __main__ - INFO - ✅ Gemini API verfügbar
+2025-10-01 21:57:20,500 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_sessions (
+            session_id TEXT PRIMARY KEY,
+     ...
+2025-10-01 21:57:20,500 - classifier.brexit_database - INFO - Tabelle 'brexit_sessions' erstellt/überprüft
+2025-10-01 21:57:20,501 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_debates (
+            debate_id INTEGER PRIMARY KEY,
+    ...
+2025-10-01 21:57:20,501 - classifier.brexit_database - INFO - Tabelle 'brexit_debates' erstellt/überprüft
+2025-10-01 21:57:20,501 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_speeches (
+            speech_id TEXT PRIMARY KEY,
+      ...
+2025-10-01 21:57:20,501 - classifier.brexit_database - INFO - Tabelle 'brexit_speeches' erstellt/überprüft
+2025-10-01 21:57:20,502 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_keywords (
+            keyword_id INTEGER PRIMARY KEY,
+  ...
+2025-10-01 21:57:20,502 - classifier.brexit_database - INFO - Tabelle 'brexit_keywords' erstellt/überprüft
+2025-10-01 21:57:20,502 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS classification_log (
+            log_id INTEGER PRIMARY KEY,
+   ...
+2025-10-01 21:57:20,502 - classifier.brexit_database - INFO - Tabelle 'classification_log' erstellt/überprüft
+2025-10-01 21:57:20,502 - classifier.brexit_database - INFO - Brexit-Datenbank initialisiert: database/data/brexit_data_fixed_v2.db
+2025-10-01 21:57:20,502 - __main__ - INFO - Lade Debatten aus der Datenbank...
+2025-10-01 21:57:20,511 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, s.date
+        FROM parliament_debates d
+       ...
+2025-10-01 21:57:20,511 - __main__ - INFO - Gefunden: 3 Debatten
+2025-10-01 21:57:20,511 - __main__ - INFO - Starte Klassifikation...
+2025-10-01 21:57:20,512 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:57:20,512 - __main__ - INFO - Verarbeite Debatte 1/3: Growth Strategy — [Mr Philip Hollobone in the Chai...
+2025-10-01 21:57:20,513 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:57:20,519 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:57:22,122 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_sessions WHERE session_id = ?...
+2025-10-01 21:57:22,127 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+                INSERT INTO brexit_sessions 
+                (session_id, date, session_type, total...
+2025-10-01 21:57:22,134 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO brexit_debates 
+            (debate_id, session_id, title, is_br...
+2025-10-01 21:57:22,135 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.87)
+2025-10-01 21:57:22,135 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:57:22,135 - __main__ - INFO - Verarbeite Debatte 2/3: Economy and Society: Contribution of Music...
+2025-10-01 21:57:22,136 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:57:22,138 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:57:23,212 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_sessions WHERE session_id = ?...
+2025-10-01 21:57:23,217 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO brexit_debates 
+            (debate_id, session_id, title, is_br...
+2025-10-01 21:57:23,218 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.66)
+2025-10-01 21:57:23,218 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:57:23,218 - __main__ - INFO - Verarbeite Debatte 3/3: Motorhomes and Vehicle Excise Duty — [Sir David Am...
+2025-10-01 21:57:23,219 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:57:23,220 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:57:24,662 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_sessions WHERE session_id = ?...
+2025-10-01 21:57:24,667 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO brexit_debates 
+            (debate_id, session_id, title, is_br...
+2025-10-01 21:57:24,667 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.66)
+2025-10-01 21:57:24,668 - __main__ - INFO - === KLASSIFIKATION ABGESCHLOSSEN ===
+2025-10-01 21:57:24,668 - __main__ - INFO - Verarbeitete Debatten: 3
+2025-10-01 21:57:24,668 - __main__ - INFO - Brexit-Debatten gefunden: 3
+2025-10-01 21:57:24,668 - __main__ - INFO - Brexit-Anteil: 100.0%
+2025-10-01 21:57:24,668 - __main__ - INFO - Dauer: 4.2 Sekunden
+2025-10-01 21:57:24,668 - __main__ - INFO - Fehler: 0
+2025-10-01 21:57:24,668 - __main__ - INFO - === KOSTEN-ANALYSE ===
+2025-10-01 21:57:24,668 - __main__ - INFO - Gesamtkosten: $0.0005
+2025-10-01 21:57:24,668 - __main__ - INFO - Kosten pro Debatte: $0.000157
+2025-10-01 21:57:24,668 - __main__ - INFO - Geschätzte Kosten für 1000 Debatten: $0.16
+2025-10-01 21:57:24,669 - __main__ - INFO - API-Anfragen: 3
+2025-10-01 21:57:24,669 - __main__ - INFO - Geschwindigkeit: 43.1 Anfragen/Minute
+2025-10-01 21:57:24,669 - __main__ - INFO - === REPORTS ===
+2025-10-01 21:57:24,669 - __main__ - INFO - Kosten-Report: results/cost_report_20251001_215720.csv
+2025-10-01 21:57:24,669 - __main__ - INFO - JSON-Report: results/classification_report_20251001_215720.json
+2025-10-01 21:57:24,672 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-10-01 21:57:24,682 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

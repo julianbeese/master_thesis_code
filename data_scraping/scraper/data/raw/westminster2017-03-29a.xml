@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2017-03-29a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.115.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.115.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.115.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.116.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.116.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.116.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.117.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.117.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.117.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.118.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.118.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.118.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.119.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.119.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.119.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.119.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.119.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.119.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.119.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.119.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.121.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.121.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.121.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.121.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.121.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.121.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.122.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.122.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.122.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.123.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.123.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.125.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.125.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.125.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.125.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.125.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.125.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.125.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.125.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.125.4" newgid="uk.org.publicwhip/westminhall/2017-03-29b.125.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.125.5" newgid="uk.org.publicwhip/westminhall/2017-03-29b.125.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.126.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.126.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.126.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.126.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.126.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.126.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.126.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.126.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.126.4" newgid="uk.org.publicwhip/westminhall/2017-03-29b.126.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.127.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.127.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.127.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.128.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.128.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.128.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.128.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.128.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.128.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.128.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.128.4" newgid="uk.org.publicwhip/westminhall/2017-03-29b.128.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.129.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.130.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.130.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.131.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.131.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.131.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.131.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.132.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.132.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.132.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.132.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.134.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.134.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.134.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.134.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.134.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.134.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.135.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.135.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.135.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.135.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.135.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.135.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.135.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.136.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.136.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.136.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.136.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.136.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.136.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.136.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.136.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.136.4" newgid="uk.org.publicwhip/westminhall/2017-03-29b.136.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.137.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.137.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.137.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.137.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.137.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.137.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.137.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.137.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.137.4" newgid="uk.org.publicwhip/westminhall/2017-03-29b.137.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.137.5" newgid="uk.org.publicwhip/westminhall/2017-03-29b.137.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.137.6" newgid="uk.org.publicwhip/westminhall/2017-03-29b.137.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.137.7" newgid="uk.org.publicwhip/westminhall/2017-03-29b.137.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.137.8" newgid="uk.org.publicwhip/westminhall/2017-03-29b.137.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.137.9" newgid="uk.org.publicwhip/westminhall/2017-03-29b.137.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.139.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.139.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.139.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.139.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.139.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.139.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.139.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.140.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.140.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.140.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.140.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.141.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.141.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.141.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.141.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.141.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.142.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.142.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.142.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.142.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.142.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.142.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.142.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-03-29a.142.3" speakername="David Tredinnick" person_id="uk.org.publicwhip/person/10602" colnum="142" time="10:58:00" url="">
+    <p pid="a142.3/1">My hon. Friend makes a powerful point. There is insanity about this subject. The amount of money spent on homeopathic prescriptions in the health service is about £110,000 per annum. So why are those who are against it so fanatically against it? What is it that gives them the swivel-eyed look? Why do they take so much trouble to rub out an alternative at a time when the mantra of the Government is patient choice? It is quite bemusing. Many of the patients that go to homeopaths have contraindications to pharmaceutical  drugs, or chronic illnesses that have not been helped by conventional medicines. I say to the Minister that there are no cost savings to be made by banning homeopathic prescriptions, as patients will still need other interventions instead. The Government should assess how much money the health service has spent on other interventions for these patients before the successful use of homeopathic medicine.</p>
+    <p pid="a142.3/2">If we look around the world, we see a much more developed landscape. In France, 70% of pregnant women use homeopathy. You can go to any chemist in France and find homeopathic preparations and chemists who are qualified to talk about them. If we go further afield, I particularly like the example of India where there is a Ministry for complementary medicine called the Ministry of AYUSH—the “H” in AYUSH stands for homeopathic medicine. I will say a little about that later.</p>
+    <p pid="a142.3/3">We have already discussed evidence and there is always a need for good studies. There was a study in France, which I sent to the Secretary of State a long time ago for consideration by the chief medical officer. I have not had a reply yet, although I accosted him about it in the Division Lobby this week. A bullet-proof study named EPI3, which looks at the integration of homeopathy into general practice in France, showed positive outcomes, as does a randomised double-blind, double-dummy, multi-centre, non-inferiority clinical trial, which covers everything possible to follow the protocol, looking at the effect of an echinacea-based hot drink versus oseltamivir in influenza treatment. There are also promising indications that homeopathy could be helpful in combating the increasing problem of antimicrobial resistance. That is an example of a good study. I will come back to the EPI3 study.</p>
+    <p pid="a142.3/4">The attacks on homoeopathy in the NHS come pretty much from one person. They come from an organisation called the Good Thinking Society, a charity that is not supposed to campaign for changes in the health service, but its website states that it wants to raise money because it</p>
+    <p pid="a142.3/5" class="indent" pwmotiontext="yes">“Helps us campaign against the funding of homeopathy”.</p>
+    <p pid="a142.3/6">According to the website, its leader, the Good Thinking Society’s chairman, largely funds the whole operation and another charity. It launched an attack on the Liverpool homeopathic service to shut it down, and eventually it was shut down. It worked like this. There was a consultation for local people at the end of 2015, at which I had a representative. Some 90% of those present were in favour of retaining or extending the service. Voting was by secret ballot, using hand-held remote controls, and 90% were in favour. One lady present, who suffered from a range of chronic conditions that conventional medicine had been unable to treat, was close to tears. She said that the only thing that had allowed her to live a relatively normal life was homeopathy. She pleaded with the clinical commissioning group not to cut the homeopathy service.</p>
+    <p pid="a142.3/7">The next stage was a formal consultation open to everybody, with no restriction by area and no checking of who was contributing. That consultation found 73% against keeping the homeopathic service. It is my belief that that consultation was hijacked by the Good Thinking Society—that it got people to call in and distort the result. <phrase class="honfriend" person_id="uk.org.publicwhip/person/10545" name="Andrew Smith">The right hon. Member for Oxford East (Mr Andrew Smith)</phrase> and I have been here for a long time—nearly   30 years—and I think we can smell electoral fraud when we feel it. I cannot see how the results can go from 90% in favour to 73% against.</p>
+    <p pid="a142.3/8">Patients who relied on that service have nowhere to go now, except for being a charge on the health service. That decision caused immense pain. One patient, Mr T, aged 58 from Liverpool, said in an interview from October 2015:</p>
+    <p pid="a142.3/9" class="indent" pwmotiontext="yes">“After 3 years of trying everything my doctor gave me homeopathy, and within 4 months my stomach problems were better. 18 months later I can lead a normal life again.”</p>
+    <p pid="a142.3/10">A London patient with arthritis said:</p>
+    <p pid="a142.3/11" class="indent" pwmotiontext="yes">“It is the only thing that has helped me find remission from a disease that previously left me wheelchair-bound.”</p>
+    <p pid="a142.3/12">The core of this debate is the most recent, and most serious, attack on NHS homeopathy—the attack on the Royal London Hospital for Integrated Medicine, the largest public sector provider of integrated medicine in Europe, formerly known as the Royal London Homeopathic Hospital. It offers an innovative patient-centred service, integrating the best of conventional and complementary treatments for a wide range of conditions. All clinics are led by consultants, doctors and other registered healthcare professionals, who received additional training in complementary medicine. This is a flagship hospital that is admired around the world. Instead of threatening it with closure, it should be hailed as an example of best practice and used to develop integrated medicine and to spread understanding of its benefits to the public and the health community.</p>
+    <p pid="a142.3/13">For greater accuracy, I spoke to the director, Peter Fisher, and I have a briefing note from him. Apart from being a director of the hospital, he happens to be—as he described himself when he came before the Select Committee on Health in the last Parliament, during an inquiry into long-term care and conditions when I was acting Chair of the Committee—physician to Her Majesty the Queen. This is not somebody with a little training; he is a highly proficient, highly trained doctor—so much so that he is a doctor at that level.</p>
+    <p pid="a142.3/14">Mr Fisher says:</p>
+    <p pid="a142.3/15" class="indent" pwmotiontext="yes">“The Good Thinking Society is harassing the Royal London Hospital for Integrated Medicine by threatening legal action against its host clinical commissioning group, Camden. The RLHIM has an agreement with the north London cluster of clinical commissioning groups, led by Camden, for clinical care pathways for 13 conditions. Patients who do not have these conditions can be treated if normal treatments have failed or have caused serious adverse effects, and in certain other circumstances. The GTS is attempting to close the latter pathway. This would cripple the hospital, preventing it from providing homeopathy, herbal and other treatments and from treating cancer patients. The GTS has harassed the RLHIM and other complementary medicine providers with legal action, reporting to the ASA”—</p>
+    <p pid="a142.3/16">the Advertising Standards Authority—</p>
+    <p pid="a142.3/17" class="indent" pwmotiontext="yes">“and the Charity Commission.”</p>
+    <p pid="a142.3/18">I will say more on that if we have time. He continues:</p>
+    <p pid="a142.3/19" class="indent" pwmotiontext="yes">“The RLHIM is the largest public sector centre for integrated medicine in Europe with a strong record of provision, innovation and research. A large scale study in France comparing conventional and homeopathic GPs showed that homeopathic GPs prescribe far fewer drugs, with the same or better clinical results, at 20% less cost.”</p>
+    <p pid="a142.3/20">So there is an economic argument here, which I will say a word about in a moment.</p>
+    <p pid="a142.3/21">In the year ending March 2016, the Good Thinking Society had an income of about £100,000. It gave £25,000 to something called the Nightingale Collaboration, which is not a charity, so that it could use the money more freely. That organisation has attacked osteopaths, who are regulated by an Act of Parliament—I was on the Bill Committee for that—and homeopaths, and has waged a campaign against complementary therapies with the Advertising Standards Authority.</p>
+    <p pid="a142.3/22">The individual, Simon Singh, is a strange and inconsistent individual. He sent me an email before Christmas explaining why he could not send me a Christmas card. I am not sure I would have expected one, as I absolutely despise him. In 2015, it was reported that the charity made claims that processed sugars are not deadly and do not feed cancer, but he did not reveal that the charity was receiving funds from a very large soft drinks manufacturer. I think it is accepted that large amounts of sugar are not necessarily a good diet for cancer patients. I think that is why he got his nickname, “Sugar Drinks Simon”.</p>
+    <p pid="a142.3/23">Mr Singh also criticised the lyrics of the Katie Melua song “Nine Million Bicycles” for inaccuracy, referring to the size of the observable universe. He proposed correcting the lyrics, saying that the value of 13.7 billion light years would be correct. I looked into that and found that the correct figure is 46.5 billion light years from home. Even on that subject, on which Mr Singh professes to have knowledge, he was wrong—so there is no surprise that he is wrong about homeopathy, about which he has absolutely no knowledge.</p>
+    <p pid="a142.3/24">To recap, we have what my daughter would call the absolutely bonkers situation where an individual, Singh, who is a physicist, not a physician, with no understanding or experience of homeopathy, is trying to cripple our leading academic medical centre, part of the University College London Hospitals NHS Foundation Trust, whose director—the man running it—is the Queen’s doctor. How mad can you get?</p>
+    <p pid="a142.3/25">The core problem is not about whether or not homeopathy is effective. There have long been arguments about evidence-based medicine. Professor Sackett, who was responsible for the phrase, did not say it is about whether medicines work or not. He said it is about integrating individual clinical experience and the best external evidence; it is not just about external evidence. It is not just about the medicine—it is about the patient’s and the clinician’s experience. The nub of it is that complementary medicine can reduce the costs on the health service. I have quoted the French EPI3 study, which said that French GPs who integrate homeopathy in their practice use about a third of the antibiotics and psychotropic drugs and half the analgesics, with very similar results, at 20% less cost. That is not taking into account antimicrobial resistance or the adverse effects of analgesics, sleeping tablets or whatever.</p>
+    <p pid="a142.3/26">There is a turf war here between two sides of the medical establishment, which is actually about resources. We have to resist that. The Secretary of State said, very sensibly, on LBC on <phrase class="date" code="2017-09-10">10 September</phrase> 2014:</p>
+    <p pid="a142.3/27" class="indent" pwmotiontext="yes">“There are some bits of the NHS where it”—</p>
+    <p pid="a142.3/28">homeopathy—</p>
+    <p pid="a142.3/29" class="indent" pwmotiontext="yes">“is sanctioned by GPs, but it wouldn’t be done without a doctor saying they thought that that was the right thing to do. And what doctors say is the right thing.”</p>
+    <p pid="a142.3/30">He signed early-day motion 1240, which was about supporting homeopathic hospitals, in the 2006-07 Session of Parliament. It was signed by more than 200 Members—nearly a third of the Members of the House of Commons.</p>
+    <p pid="a142.3/31">Today of all days—Brexit day—when the Prime Minister will be writing to the European Commission, I found this written answer in the Scottish Parliament from <phrase class="date" code="2017-02-23">23 February</phrase> 2011. The then Health spokesman—no less an individual than the current First Minister, Nicola Sturgeon—replied. This is what she said in reply to a question about the effectiveness of homeopathy in relation to the Scottish Government’s integrative approach to patient care:</p>
+    <p pid="a142.3/32" class="indent" pwmotiontext="yes">“In primary care, costs will relate to the cost of the remedy, which can be cheaper than the cost of orthodox drugs. Practitioners have also noted a reduction in side effects and dependency risks in some cases. In secondary care in Scotland, homoeopathy is only employed within a broader integrative care approach, with surveys showing both enhanced wellbeing and symptom reduction across a broad range of long term conditions, and a resultant reduction in NHS costs through reduced GP and hospital visits and repeat prescriptions.”</p>
+    <p pid="a142.3/33">Well, there we are. That is what the First Minister in the devolved Administration thinks.</p>
+    <p pid="a142.3/34">Homeopathy is a wonderful system of medicine. It has been part of the national health service for a long time, and I look forward to hearing from the Minister about the Government’s position.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.146.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.148.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.148.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.148.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.148.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.148.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.149.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.149.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.149.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.149.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.149.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.151.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.151.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.151.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.152.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.152.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.152.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.152.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.156.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.158.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.158.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.159.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.159.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.159.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.160.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.160.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.160.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.160.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.160.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.161.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.161.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.161.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.161.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.163.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.164.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.164.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.166.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.166.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.166.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.167.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.168.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.168.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.168.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.168.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.169.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.169.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.169.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.170.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.170.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.170.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.171.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.171.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.171.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.171.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.171.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.172.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.172.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.172.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.172.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.172.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.172.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.172.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.172.4" newgid="uk.org.publicwhip/westminhall/2017-03-29b.172.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.176.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.176.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.180.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.181.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.181.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.181.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.181.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.181.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.181.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.181.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.182.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.182.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.183.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.183.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.183.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.183.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.183.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.183.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.183.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.186.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.186.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.186.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.186.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.186.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.187.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.187.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.188.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.189.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.190.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.190.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.190.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.190.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.190.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.190.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.191.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.192.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.192.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.193.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.193.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.193.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.193.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.193.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.193.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.193.3" newgid="uk.org.publicwhip/westminhall/2017-03-29b.193.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.193.4" newgid="uk.org.publicwhip/westminhall/2017-03-29b.193.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.194.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.194.1" newgid="uk.org.publicwhip/westminhall/2017-03-29b.194.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.194.2" newgid="uk.org.publicwhip/westminhall/2017-03-29b.194.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-29a.196.0" newgid="uk.org.publicwhip/westminhall/2017-03-29b.196.0" matchtype="perfectmatch"/>
+</publicwhip>
+

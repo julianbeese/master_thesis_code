@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.1.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.1.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.1.2" newgid="uk.org.publicwhip/westminhall/2014-06-17b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.4.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.5.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.5.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.5.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.5.2" newgid="uk.org.publicwhip/westminhall/2014-06-17b.5.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.8.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.9.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.9.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.9.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.12.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.13.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.13.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.13.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.13.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.14.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.14.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.14.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.14.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.14.2" newgid="uk.org.publicwhip/westminhall/2014-06-17b.14.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.17.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.17.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.17.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.17.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.20.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.20.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.20.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.20.2" newgid="uk.org.publicwhip/westminhall/2014-06-17b.20.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.21.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.21.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.21.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.21.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2014-06-17a.21.1" speakerid="uk.org.publicwhip/member/40064" speakername="Jane Ellison" colnum="21"  time="010:48:00" url="http://www.publications.parliament.uk/pa/cm201415/cmhansrd/cm140617/halltext/140617h0001.htm#140617h0001.htm_spnew17">
+	<p pid="a.21.1/1">If my hon. Friend does not mind, may I try to get through this point?</p>
+	<p pid="a.21.1/2">That example highlights a difficult situation for a clinician. Furthermore, if the family&#8217;s wishes are overridden and they make a big campaign out of it and express their grief and dissatisfaction publicly, even though they know the wishes of the deceased, the programme as a whole could be put in jeopardy. If the <i>Burton Mail</i> ran the headline, &#8220;They took my son&#8217;s heart against my wishes&#8221;, the impact on those on the donation register and on families who want to have that conversation could be significant. The issues are sensitive, but it is not for lack of will that people do not ensure that an individual&#8217;s wishes are respected. It is important to understand the pressure that clinicians are under in those difficult circumstances. I want to put it on the record that, once retrieved from a body, a heart needs to be used within six hours, livers and lungs within 12 hours and kidneys within approximately 24 hours. The decisions have to be made quickly. It is not like the reading of a will, which can take place weeks, months or years later once calm has been restored and people are more reflective. Such decisions must be made on the spot.</p>
+	<p pid="a.21.1/3">I hope that that provides a little context as to why clinicians face challenges. Most organ donors are not on the register, so the key thing is to change the culture around how we talk about the end of life and to make donation a natural thing for everyone to allow. For some people and communities, however, that is not easy.</p>
+	<p pid="a.21.1/4">I pay tribute to the specialist nurses for organ donation&#8212;the lovely SN-ODs&#8212;for their wonderful work. There is no doubt that having trained people who can have</p>
+	<p pid="a.21.1/5">conversations at sensitive times is absolutely critical. I note the challenge about the number of specialist nurses drawn from minority and ethnic communities, who we know make a difference, and I will discuss it with NHS England and NHS Blood and Transplant.</p>
+	<p pid="a.21.1/6">Our strategy is evolutionary, but that does not mean that we cannot make big leaps forward in some areas. The nudge work to get more people to sign up has been extraordinary in some cases. In one of the largest public sector studies of its kind, over 1 million people took part to test eight different ways of asking people to join the register. That has resulted in some significant gains, as was mentioned by the shadow Minister. There is a range of other measures, including using social media and other points of contact. There is a schools project, &#8220;Give and Let Live&#8221;. Getting teenagers to discuss the subject with their families and become thought leaders is important. As a result of the work going on in schools, young people are often good at leading conversations within the family.</p>
+	<p pid="a.21.1/7">National transplant week is coming up. I do not have time to go into the details, but many things are happening around the theme of &#8220;Spell it out&#8221;. It is all about the conversation and about getting family members to talk to each other. Given the interest&#8212;I am sure that Members of Parliament can help&#8212;I will attempt to write to all colleagues with more details about the week and how we can play our part and do our bit in our constituencies to lead the conversation. For example, my hon. Friend the Member for Burton visited a local mosque to see whether he could help to lead the conversation there, something which in many cases is far more effective than top-down campaigns. I do, however, note the challenges around some of the big, high-profile, in-your-face campaigns that have been run in places such as Scotland.</p>
+	<p pid="a.21.1/8">I want to assure <phrase class="honfriend" id="uk.org.publicwhip/member/40586" name="Jim Shannon">the hon. Member for Strangford (Jim Shannon)</phrase> and others that work is going on to consider widening the pool of donors. The Royal College of Obstetricians and Gynaecologists is doing some research on babies&#8212;a sensitive subject&#8212;to see what can be done about the challenge of child donation. The Advisory Committee on the Safety of Blood, Tissues and Organs is reviewing the evidence on the outcomes of UK transplants of organs from donors who had cancer or a history of cancer. We are beginning to learn more about the possibility of successful donation even when someone has suffered from cancer, and SaBTO is drawing up a series of recommendations to help transplant surgeons.</p>
+	<p pid="a.21.1/9">It is also worth saying that, even in Wales and in Northern Ireland were the private Member&#8217;s Bill to succeed, it is still the case that a family can override a decision in the circumstances that I have described. We must be sensitive to the circumstances in which decisions are being taken. In Wales, relatives will still be asked to support the donation and can object if they know that the deceased would not have consented.</p>
+	<p pid="a.21.1/10">In the remaining minute or so, I want to say that it is absolutely right for Members to place concerns on the record about donation from black, Asian and minority ethnic communities, where the refusal rate to donation is nearly 80% compared with around 40% nationally, which is significant. My Department supports the National Black Asian and Minority Ethnic Transplant Alliance, which does great work in this area, including, for example, on consent rates. Subject to parliamentary business,</p>
+	<p pid="a.21.1/11">I intend to visit Birmingham next week to launch a new project to train peer educators from the Pakistani Muslim community in Birmingham. We are training community champions there to go out and do some of that work. I am happy to talk to colleagues to see whether we can replicate that elsewhere. There are some significant cultural, rather than doctrinal, reasons why&#8212;</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.23.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.23.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.23.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.23.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.24.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.24.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.24.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.24.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.26.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.26.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.28.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.28.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.28.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.31.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.31.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.31.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.31.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.31.2" newgid="uk.org.publicwhip/westminhall/2014-06-17b.31.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.34.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.34.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.37.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.39.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.39.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.40.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.40.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.40.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.42.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.42.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.42.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.42.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.43.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.45.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.45.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.46.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.46.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.46.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.46.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.47.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.47.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.47.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.47.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.48.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.48.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.48.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.48.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.50.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.50.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.50.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.50.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.52.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.52.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.52.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.52.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.52.2" newgid="uk.org.publicwhip/westminhall/2014-06-17b.52.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.52.3" newgid="uk.org.publicwhip/westminhall/2014-06-17b.52.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.53.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.53.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.53.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.53.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.54.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.54.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.55.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.55.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.56.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.56.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.57.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.57.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.57.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.57.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.59.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.59.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.59.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.59.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.62.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.62.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.63.0" newgid="uk.org.publicwhip/westminhall/2014-06-17b.63.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-06-17a.63.1" newgid="uk.org.publicwhip/westminhall/2014-06-17b.63.1" matchtype="perfectmatch"/>
+</publicwhip>
+

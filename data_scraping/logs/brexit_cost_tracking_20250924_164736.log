@@ -1,0 +1,15 @@
+2025-09-24 16:47:36,354 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-09-24 16:47:36,354 - __main__ - INFO - Max Debatten: 10000
+2025-09-24 16:47:36,354 - __main__ - INFO - Quell-Datenbank: database/data/parliament_data.db
+2025-09-24 16:47:36,354 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data.db
+2025-09-24 16:47:36,354 - __main__ - INFO - Gemini-Modell: gemini-1.5-flash
+2025-09-24 16:47:36,354 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-09-24 16:47:36,354 - __main__ - INFO - max_debates: 10000
+2025-09-24 16:47:36,354 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-09-24 16:47:36,354 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-09-24 16:47:36,354 - __main__ - INFO - estimated_total_tokens: 13750000
+2025-09-24 16:47:36,354 - __main__ - INFO - estimated_input_cost: 0.9375
+2025-09-24 16:47:36,354 - __main__ - INFO - estimated_output_cost: 0.375
+2025-09-24 16:47:36,354 - __main__ - INFO - estimated_total_cost: 1.3125
+2025-09-24 16:47:36,354 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-09-24 16:47:36,354 - __main__ - INFO - Dry-Run Modus - keine Ausführung

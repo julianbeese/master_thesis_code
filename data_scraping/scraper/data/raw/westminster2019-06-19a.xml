@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2019-06-19a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.99.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.99.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.99.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.99.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.102.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.102.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.103.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.103.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.103.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.103.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.104.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.105.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.105.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.105.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.106.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.106.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.108.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.108.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.109.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.109.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.109.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.109.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.110.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.110.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.110.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.110.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.113.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.113.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2019-06-19a.113.0" speakername="Nick Gibb" person_id="uk.org.publicwhip/person/10225" colnum="113" time="22:27:00" url="">
+    <p pid="a113.0/1">It is a pleasure to have you chairing our sitting today, Ms Buck. I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25272" name="Suella Braverman">the Member for Fareham (Suella Braverman)</phrase> on securing the debate and on an excellent opening speech on the future of free schools. I commend her commitment to the free school programme. She has been heavily involved in setting up and running Michaela Community School in Brent.</p>
+    <p pid="a113.0/2">The shadow Schools Minister, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25220" name="Mike Kane">the hon. Member for Wythenshawe and Sale East (Mike Kane)</phrase>, has reiterated Labour’s policy to politicise the running of schools, to remove academies’ autonomy, which is key to the raising of standards, and to abolish the free schools programme. That will be hugely damaging to academies and free schools and to academic standards, and it should alarm the teachers and headteachers of the 8,000 academies and nearly 500 free schools in this country. Similarly, Labour’s policy of abolishing SATs, the key accountability measure for primary schools, would be a hugely retrograde step and would again undermine the drive for higher standards in schools.</p>
+    <p pid="a113.0/3">As my hon. Friend the Member for Fareham said, Michaela Community School in Brent was rated outstanding by Ofsted in 2017. Inspectors commented on the “exceedingly strong” progress that pupils make and on their</p>
+    <p pid="a113.0/4" class="indent" pwmotiontext="yes">“powerful determination to achieve as well as they can”.</p>
+    <p pid="a113.0/5">We want every child in this country to have access to a world-class education, regardless of their background. Thanks to the free schools programme, extraordinary schools such as Michaela are changing what is thought to be possible and raising expectations across the country. I congratulate my hon. Friend on the Michaela Community School trust’s success in the most recent free school application round, announced last week. As she said, the proposed new school will open in Stevenage, where there is a need for new, quality secondary school places. Michaela Community School in Stevenage will replicate the ethos of the existing Michaela school in Brent, with a focus on traditional academic subjects and on teaching the value of self-discipline, excellent behaviour and responsibility for one’s own development. I wish the trust and my hon. Friend every success during the next exciting phase of establishing the school.</p>
+    <p pid="a113.0/6">I hope my hon. Friend will allow me to begin by outlining how free schools such as Michaela are making a real impact on the lives of pupils across the country. All around the country, the Government have built the foundations of an education system through which teachers and headteachers control the levers of school improvement and parents exercise choice, taking power away from local education authorities and handing it back to local communities.</p>
+    <p pid="a113.0/7">A key part of the Government’s reforms has been the free schools programme. The programme was established in 2010, with the first free schools opening in 2011. The Government invited proposers to take up the challenge of setting up a new school, and groups who were passionate about ensuring that the next generation is  best placed to face the challenges and opportunities that lie ahead came forward with their ideas and plans to make that a reality. Indeed, my hon. Friend was one of the very early pioneers of the programme, and Michaela Community School Brent was successful in only the second round of free school applications.</p>
+    <p pid="a113.0/8">We now have 446 open free schools, which will provide around 250,000 places when at full capacity; 122 of 152 local authorities now have at least one free school in their area, and we are working with groups to establish a further 285 free schools. The free schools programme has provided a route for opening innovative schools that do things differently, and successfully opened schools that local authorities would not have commissioned, as my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/14131" name="John Howell">the Member for Henley (John Howell)</phrase> rightly pointed out.</p>
+    <p pid="a113.0/9">Of those open free schools inspected by Ofsted,  84% have been rated good or outstanding, with 30% rated outstanding. That is a significant achievement, and I congratulate the proposers and teachers for their dedication to ensuring the success of their free schools and their pupils. Furthermore, in 2018, four of the top 10 Progress 8 scores for state-funded schools in England were achieved by free schools: William Perkin Church of England High School in Ealing, Dixons Trinity Academy in Bradford, Eden Girls’ School in Coventry and Tauheedul Islam Boys’ High School in Blackburn.</p>
+    <p pid="a113.0/10">The latter two schools were opened by Star Academies, which has grown through the free schools programme from running a single school in the north-west to running 24 schools across the country, made up of nine academies and 15 free schools, with approval to open five additional free schools. Of the 10 free schools that have had Ofsted inspections since opening or joining the trust, all have been rated outstanding.</p>
+    <p pid="a113.0/11">All these successful schools teach a stretching, knowledge-rich curriculum. Each takes a strong approach to behaviour management, so that teachers can teach uninterrupted. I have seen at first hand Michaela school’s commitment to high academic standards, showing what it is possible to achieve. I urge Opposition Members to visit some of those free schools, particularly Michaela or the Tauheedul Islam Boys’ High School, to see for themselves before they cast judgment on a hugely successful programme.</p>
+    <p pid="a113.0/12">I am grateful to my hon. Friend the Member for Henley for his kind comments; Europa School UK is a classic example of how the free schools programme empowers innovation, such as by teaching through a European language other than English. As he says, standards at the Europa School UK in Culham are very high indeed.</p>
+    <p pid="a113.0/13"><phrase class="honfriend" person_id="uk.org.publicwhip/person/10357" name="Ivan Lewis">The hon. Member for Bury South (Mr Lewis)</phrase> said that the academies programme has led to more schools being put into special measures and requiring improvements, but the opposite is the case. In 2010, when there were just 200 academies, 68% of schools were good or outstanding; today, that figure is 86%.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.114.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.114.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.115.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.115.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.115.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.115.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.115.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.117.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.118.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.119.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.119.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.119.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.119.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.120.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.120.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.120.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.120.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.120.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.120.3" newgid="uk.org.publicwhip/westminhall/2019-06-19b.120.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.120.4" newgid="uk.org.publicwhip/westminhall/2019-06-19b.120.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.120.5" newgid="uk.org.publicwhip/westminhall/2019-06-19b.120.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.122.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.122.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.122.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.125.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.125.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.125.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.125.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.125.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.125.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.126.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.126.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.126.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.126.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.126.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.126.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.126.3" newgid="uk.org.publicwhip/westminhall/2019-06-19b.126.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.127.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.127.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.127.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.127.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.127.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.128.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.128.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.128.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.128.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.128.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.129.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.130.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.130.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.130.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.130.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.131.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.131.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.132.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.132.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.134.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.134.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.135.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.137.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.137.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.139.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.139.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.139.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.141.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.142.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.142.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.142.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.143.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.143.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.143.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.143.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.143.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.143.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.143.3" newgid="uk.org.publicwhip/westminhall/2019-06-19b.143.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.143.4" newgid="uk.org.publicwhip/westminhall/2019-06-19b.143.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.144.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.144.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.145.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.145.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.145.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.145.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.145.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.146.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.146.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.147.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.147.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.148.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.148.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.148.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.148.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.148.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.149.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.149.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.149.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.149.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.149.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.149.3" newgid="uk.org.publicwhip/westminhall/2019-06-19b.149.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.149.4" newgid="uk.org.publicwhip/westminhall/2019-06-19b.149.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.150.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.150.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.150.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.150.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.150.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.150.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.150.3" newgid="uk.org.publicwhip/westminhall/2019-06-19b.150.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.150.4" newgid="uk.org.publicwhip/westminhall/2019-06-19b.150.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.151.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.151.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.151.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.151.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.151.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.151.3" newgid="uk.org.publicwhip/westminhall/2019-06-19b.151.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.153.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.153.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.153.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.153.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.153.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.153.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.154.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.154.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.154.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.156.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.157.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.157.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.157.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.157.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.157.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.157.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.157.3" newgid="uk.org.publicwhip/westminhall/2019-06-19b.157.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.158.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.158.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.158.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.158.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.158.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.158.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.159.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.159.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.159.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.159.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.159.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.159.3" newgid="uk.org.publicwhip/westminhall/2019-06-19b.159.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.160.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.160.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.160.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.161.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.161.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.161.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.161.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.161.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.161.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.162.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.162.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.163.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.164.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.164.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.165.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.165.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.165.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.165.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.165.2" newgid="uk.org.publicwhip/westminhall/2019-06-19b.165.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.166.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.166.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.166.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.167.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.167.1" newgid="uk.org.publicwhip/westminhall/2019-06-19b.167.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.169.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.170.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-06-19a.173.0" newgid="uk.org.publicwhip/westminhall/2019-06-19b.173.0" matchtype="perfectmatch"/>
+</publicwhip>
+

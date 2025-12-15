@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-11-15a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.111.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.111.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.111.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.111.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.111.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.111.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.116.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.116.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.116.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.117.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.118.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.119.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.119.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.121.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.121.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.122.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.124.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.124.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.125.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.125.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.127.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.128.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.129.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.129.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.129.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.130.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.130.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.130.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.130.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.130.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.130.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.130.3" newgid="uk.org.publicwhip/westminhall/2021-11-15b.130.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.131.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.131.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.132.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.132.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.132.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.132.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.133.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.133.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.133.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.133.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.133.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.133.3" newgid="uk.org.publicwhip/westminhall/2021-11-15b.133.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.135.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.135.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.135.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.135.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.135.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.137.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.137.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.137.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.137.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.139.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.139.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.139.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.139.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.139.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.139.3" newgid="uk.org.publicwhip/westminhall/2021-11-15b.139.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.141.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.141.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.141.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.142.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.143.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.143.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.143.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.143.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.143.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.143.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-15a.143.2" speakername="Philip Dunne" type="Continuation Speech" person_id="uk.org.publicwhip/person/11696" colnum="143" time="18:40:00" url="">
+    <p pid="a143.2/1">I was intending to intervene, but if I have a couple of minutes, I will take advantage of them.</p>
+    <p pid="a143.2/2">The petition that <phrase class="honfriend" person_id="uk.org.publicwhip/person/25634" name="Tonia Antoniazzi">the hon. Member for Gower (Tonia Antoniazzi)</phrase> spoke to—I apologise to her for not being here for her speech—was stimulated by some of the campaign groups with whom I worked when I introduced my private Member’s Bill in 2020. It reflects, as Members have said, the widespread growing awareness of, and horror at, the state of our rivers as a consequence of the uncontrolled dumping of sewage in river systems by water treatment works and the water sewage system, which has been overwhelmed for a variety of reasons. I want to touch on two areas where it is really important that we take things forward, now that the Environment Act has become law.</p>
+    <p pid="a143.2/3">I completely disagree with the description that <phrase class="honfriend" person_id="uk.org.publicwhip/person/25702" name="Mike Amesbury">the hon. Member for Weaver Vale (Mike Amesbury)</phrase>, for whom I normally have a lot of time, gave of the amendment that was finally made to the Bill. He is simply wrong. The Act will lead to a progressive reduction in sewer discharges, and that will be enforceable in the way described by my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11389" name="Maria Miller">the Member for Basingstoke (Mrs Miller)</phrase>, and as I described in the closing stages of consideration of Lords amendments.</p>
+    <p pid="a143.2/4">I want to touch on two points, one of them raised by my right hon. Friend the Member for Basingstoke. We will have a planning Bill before us before long. It has to include measures for the proper separation of surface and firewater systems for new developments. Water running off hard standing in all new developments across the country can, through the right to connect, be connected to foul water drainage systems. That is what leads to an overwhelming quantity of water causing problems in the treatment works, which have not been expanded to cope with development over the last 60 or so years. It is a problem that successive Governments have contributed to by not investing enough in the infrastructure of our drainage systems.</p>
+    <p pid="a143.2/5">The right to connect needs to be dealt with by our having the subsystem to require separation by developers. They should be required to contribute to the capital costs of infrastructure works under the ground; at present, they are not. They have to contribute to the connection charge, but not to the capital for works that would allow full separation for new developments, which is essential.</p>
+    <p pid="a143.2/6">Finally, I encourage the Minister—I pay tribute to the work that she did to improve the Environment Bill, particularly as it went through the Lords—to adjust Ofwat’s priorities. She has the opportunity to encourage Ofwat, through the its forthcoming strategic policy statement, to focus not just on leakage and keeping bills down, but on keeping sewage out of our rivers by investing more in the treatment network for which our water companies are responsible.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.144.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.144.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.144.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.144.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.144.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.144.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.145.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.145.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.145.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.145.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.145.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.146.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.147.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.147.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.147.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.147.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.148.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.148.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.148.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.148.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.148.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.148.3" newgid="uk.org.publicwhip/westminhall/2021-11-15b.148.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.149.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.150.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.150.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.151.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.152.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.152.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.152.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.152.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.152.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.152.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.152.3" newgid="uk.org.publicwhip/westminhall/2021-11-15b.152.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.154.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.155.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.155.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.155.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.155.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.155.2" newgid="uk.org.publicwhip/westminhall/2021-11-15b.155.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.155.3" newgid="uk.org.publicwhip/westminhall/2021-11-15b.155.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.155.4" newgid="uk.org.publicwhip/westminhall/2021-11-15b.155.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.155.5" newgid="uk.org.publicwhip/westminhall/2021-11-15b.155.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.156.0" newgid="uk.org.publicwhip/westminhall/2021-11-15b.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-15a.156.1" newgid="uk.org.publicwhip/westminhall/2021-11-15b.156.1" matchtype="perfectmatch"/>
+</publicwhip>
+

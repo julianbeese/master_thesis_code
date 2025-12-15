@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2019-03-06b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.381.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.381.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.381.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.381.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.383.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.383.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.384.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.384.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.384.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.384.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.390.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.390.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.391.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.391.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.395.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.395.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.397.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.397.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.399.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.399.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.399.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.399.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.402.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.402.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.402.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.402.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.404.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.404.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.404.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.404.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.405.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.405.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.405.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.405.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.405.2" newgid="uk.org.publicwhip/westminhall/2019-03-06c.405.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.406.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.406.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.406.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.406.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.407.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.407.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.407.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.407.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.408.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.408.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.408.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.408.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.408.2" newgid="uk.org.publicwhip/westminhall/2019-03-06c.408.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.409.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.409.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.409.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.409.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.410.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.410.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.410.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.410.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.412.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.412.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.412.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.412.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.412.2" newgid="uk.org.publicwhip/westminhall/2019-03-06c.412.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.413.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.413.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.413.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.413.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.419.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.419.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.423.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.423.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.423.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.423.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.424.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.424.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.424.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.424.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.427.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.427.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.430.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.430.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.430.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.430.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.432.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.432.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.432.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.432.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.433.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.433.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.434.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.434.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.435.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.435.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.436.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.436.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.437.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.437.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.437.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.437.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.437.2" newgid="uk.org.publicwhip/westminhall/2019-03-06c.437.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.438.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.438.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.438.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.438.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.438.2" newgid="uk.org.publicwhip/westminhall/2019-03-06c.438.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.438.3" newgid="uk.org.publicwhip/westminhall/2019-03-06c.438.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.438.4" newgid="uk.org.publicwhip/westminhall/2019-03-06c.438.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.439.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.439.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.439.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.439.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.439.2" newgid="uk.org.publicwhip/westminhall/2019-03-06c.439.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.439.3" newgid="uk.org.publicwhip/westminhall/2019-03-06c.439.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.440.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.440.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.440.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.440.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.440.2" newgid="uk.org.publicwhip/westminhall/2019-03-06c.440.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.440.3" newgid="uk.org.publicwhip/westminhall/2019-03-06c.440.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.441.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.441.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.441.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.441.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.442.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.442.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.442.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.442.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.443.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.443.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.444.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.444.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.444.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.444.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.444.2" newgid="uk.org.publicwhip/westminhall/2019-03-06c.444.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.446.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.446.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.446.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.446.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.446.2" newgid="uk.org.publicwhip/westminhall/2019-03-06c.446.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.446.3" newgid="uk.org.publicwhip/westminhall/2019-03-06c.446.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.448.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.448.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.448.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.448.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.450.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.450.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.450.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.450.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.451.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.451.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.451.1" newgid="uk.org.publicwhip/westminhall/2019-03-06c.451.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.453.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.453.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2019-03-06b.453.0" speakername="Fabian Hamilton" person_id="uk.org.publicwhip/person/10256" colnum="453" time="17:00:00" url="">
+    <p pid="b453.0/1">It is always a pleasure and a privilege to serve under your chairmanship, Sir Henry, and I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/24716" name="Jack Lopresti">the hon. Member for Filton and Bradley Stoke (Jack Lopresti)</phrase> on introducing the debate. My first contact with Iraqi Kurdistan was in 2010, when I received a telephone call from the then Chief Whip of my party, asking me whether I would be willing to fly via Vienna—no direct flights even then—to Irbil in order to speak to the Kurdistan regional Parliament about the importance of opposition parties. That was a good introduction to being in opposition in 2010, which was fairly new to us after 13 years in government. I had been to Iraq once before, in 1980, but I had never been to the north, to Irbil.</p>
+    <p pid="b453.0/2">As the hon. Member for Filton and Bradley Stoke said, what a surprise it was to arrive in a region of a middle eastern Arab country that I had visited so long ago—it was quite progressive in 1980 and went downhill after that—and to see the progress being made. What a surprise to see how that Parliament was developing, and to see the Kurdish values that I already know from my constituency, where we have a small but substantial population of Kurdish refugees in the city of Leeds, who sadly are now increasing. I saw for myself what was going on, and it felt like a separate nation. It felt like a region that was going to secede from the Republic of Iraq any time soon, because the values seemed so different. We were told that a visa was needed to go from Baghdad to Irbil at that time.</p>
+    <p pid="b453.0/3">I was fortunate to go back to Irbil and Slemani just a year later with the all-party parliamentary group, under the leadership of the hon. Gentleman’s predecessor, and with the secretary, Gary Kent, who knows the region and the country very well. During that visit we learnt more about the Anfal—the terrible slaughter of Kurds because they were Kurds under Saddam’s presidency. We learnt what the Halabja gas attack really meant for men, women and children. We heard more about that in a conference two or three years ago in London on the anniversary of the 1988 atrocity. The Labour, coalition and Conservative Governments have since learned that was genocide.</p>
+    <p pid="b453.0/4">There is no doubt that the violence by the then leadership of Iraq was aimed at the Kurds. The Kurds always seem to attract the wrath of the regimes in the region. Let us look at what is happening in Turkey—nothing like what happened in Iraq, but quite a lot of oppression—and in Syria and Iran. But it is in Iraq that there has been the only regional autonomy, until the referendum—as the hon. Gentleman so clearly stated, until the disgusting attack and oppression by the Iraqi army in Kurdistan. We were all shocked by that violence. I was in regular contact with Gary Kent at the time.</p>
+    <p pid="b453.0/5">The Opposition believe in people’s right to self-determination, in whatever part of the world. I know the Minister will emphasise that too. If they have cultural integrity, linguistic individuality and cultural separateness, no matter the religion, they have the right to self-determination, to decide for themselves what their future as a nation should and could be.</p>
+    <p pid="b453.0/6">In talking to the families of the victims of the Anfal in 2011, I was struck by the comparison they made to the holocaust of the Jewish people in the second world  war. I come from a Jewish background; my family died in the holocaust and in the concentration camps. To hear people of the Muslim faith, who are Kurds, talk about their empathy with the Jewish people and the state of Israel was a revelation. One MP said to me, “You know, if Israel opens an embassy in Baghdad tomorrow”—unlikely, but perhaps more likely today than it was seven or eight years ago—“they will open one the next day in Irbil. We would welcome an Israeli presence here.” I had never heard anybody in the region say that before, and I was struck by it.</p>
+    <p pid="b453.0/7">When we drove from Slemani on that road route back to Irbil, I took a number of photographs—we were delayed by a whole load of sheep crossing the road. I was struck by the similarity of the countryside to my native Yorkshire, which I have represented for 22 years. When I showed the photograph to my wife, she asked if it was Ilkley moor. I replied, “No, this is an area you won’t visit. This is Slemani to Irbil.” She was as shocked as everyone else.</p>
+    <p pid="b453.0/8">I am grateful to the hon. Gentleman for raising such an important issue. He said that the Kurds could no longer rely on Baghdad. He pointed to the army seizing Kirkuk after that referendum was crushed. He talked, most importantly of all, of the Kurdish peshmerga saving Iraq. The Opposition would certainly concur with that. They contained Daesh through their bravery and extraordinary organisation. Their army contains men and women—something unseen and unheard of in the region.</p>
+    <p pid="b453.0/9">My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24927" name="Mary Glindon">the Member for North Tyneside (Mary Glindon)</phrase>, who has considerable experience of the Kurdish cause, talked about the direct flights issue. Anyone who has been to Irbil knows what a struggle it is to have to change in Vienna, or whichever third country, but it is much more important than that. If they are going to develop tourism, as she said, there must be direct flights. The contrast with Chicago was a brilliant one, because I got that feeling too. I am sure every other right hon. and hon. Member who has been to Irbil, and had the pleasure of seeing school children in Slemani dancing the local dance and of listening to the music of the region, will know that it is a safer, more accommodating and more welcoming city than Chicago or many other American cities. They will have felt safer and not vulnerable, and that nobody was out to attack them. That is very important to the development of business and communities, and to economic development in general.</p>
+    <p pid="b453.0/10"><phrase class="honfriend" person_id="uk.org.publicwhip/person/14131" name="John Howell">The hon. Member for Henley (John Howell)</phrase> talked about the need for humanitarian assistance. We should never forget how important that is; that need may well still be growing, as he indicated. Gender inequality and the risk of gender-based violence is something we need always to be aware of and to combat.</p>
+    <p pid="b453.0/11">Between 1986 and 1989, about 180,000 people—the numbers are disputed—perished in the Anfal. The UK supported the creation of the Iraqi constitution after the invasion of Iraq in 2003. The Kurdistan Regional Government were formalised in the present constitution of Iraq in 2005. The UK has given military and financial assistance to the peshmerga, especially during the ISIS surge. I hate to quote him, but the former Foreign Secretary, <phrase class="honfriend" person_id="uk.org.publicwhip/person/10999" name="Boris Johnson">the right hon. Member for Uxbridge and South Ruislip (Boris Johnson)</phrase>, stated that</p>
+    <p pid="b453.0/12" class="indent" pwmotiontext="yes">“we owe a great debt to the Peshmerga for their bravery and sacrifice. What they are doing is on behalf of all of us.”</p>
+    <p pid="b453.0/13">That is perhaps one of the few things I have agreed with him about over the years.</p>
+    <p pid="b453.0/14">Governments of all colours have agreed that it is important to have a strong Kurdistan region of Iraq, within a strong, successful, unified Iraq. We know that would ensure stability in the country and the whole region, which is why we are so concerned about the destabilising effect of what happened a couple of years ago. The Select Committee on Foreign Affairs stated in a report on the subject in 2018 that</p>
+    <p pid="b453.0/15" class="indent" pwmotiontext="yes">“the FCO should support meaningful political participation and representation for Kurds, as well as cultural recognition, equal rights, and economic opportunities for them, underpinned by national constitutions and achieved through negotiation, as a means of fulfilling Kurdish aspirations. It is not in the UK’s interests for any state to deny Kurdish identity through law or force.”</p>
+    <p pid="b453.0/16">I am sure that the Minister will refer to that.</p>
+    <p pid="b453.0/17">The UK Government have played a diplomatic role in attempting to reduce tension between the Kurdish and the Iraqi federal Government. I pay tribute to the Foreign Office and to current Ministers for that. However, bafflingly, as my hon. Friend the Member for North Tyneside said, the Foreign Office still advises against all but essential travel to Iraqi Kurdistan, putting it in the same category as Baghdad and southern Iraq. That needs to change, and I hope we will hear more about that from the Minister.</p>
+    <p pid="b453.0/18">In February 2019, one of the people I shadow, the Minister for the Middle East, announced £30 million in funding to help rebuild Iraq and to aid the economy. He visited the region in January 2019, and he gave particular support to policies preventing sexual violence in conflict areas in Iraq. As we know, since 2014 the Department for International Development has provided more than £250 million towards humanitarian assistance in Iraq, the vast majority of it in and around the Iraqi Kurdistan region. I hope that I have not stolen the Minister’s thunder—she is also a DFID Minister.</p>
+    <p pid="b453.0/19">The United Kingdom gives indirect support through international bodies such as the United Nations Development Programme funding facility for stabilisation, which has focused on areas liberated from ISIS. The UK trained more than 9,000 peshmerga in infantry, counter-IED, engineering and medical skills, and provided—I believe it continues to provide them—arms and ammunition to the peshmerga.</p>
+    <p pid="b453.0/20">As we know, there are still no direct flights from the UK to Irbil in Iraqi Kurdistan. As Members have said, there have been rumours that British Airways will commence flights next year. Let us hope that happens and that the Government can encourage that. As  I mentioned, the authorities in Iraqi Kurdistan are particularly proud of the religious tolerance in the region. The Kurdish authorities launched a commission to investigate crimes by ISIS, particularly against the Yazidis, during the conflict. I think we all welcome that.</p>
+    <p pid="b453.0/21">I again congratulate the hon. Member for Filton and Bradley Stoke on bringing this important issue before us. Let us hope that we can continue to work together to ensure that the people of Iraqi Kurdistan have a truly autonomous future, that they can govern themselves,  and that we can look forward to Irbil, Slemani and the many other cities of Iraqi Kurdistan being tourist destinations for everybody from Europe.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.456.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.456.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-03-06b.459.0" newgid="uk.org.publicwhip/westminhall/2019-03-06c.459.0" matchtype="perfectmatch"/>
+</publicwhip>
+

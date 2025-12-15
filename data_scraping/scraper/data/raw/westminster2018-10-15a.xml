@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2018-10-15a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.195.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.195.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.195.2" newgid="uk.org.publicwhip/westminhall/2018-10-15b.195.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.196.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.196.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.196.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.196.2" newgid="uk.org.publicwhip/westminhall/2018-10-15b.196.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.196.3" newgid="uk.org.publicwhip/westminhall/2018-10-15b.196.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.196.4" newgid="uk.org.publicwhip/westminhall/2018-10-15b.196.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.198.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.198.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.198.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.200.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.200.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.201.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.201.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.201.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.203.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.205.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.205.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.205.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.205.2" newgid="uk.org.publicwhip/westminhall/2018-10-15b.205.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.206.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.207.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.207.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.207.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.207.2" newgid="uk.org.publicwhip/westminhall/2018-10-15b.207.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.207.3" newgid="uk.org.publicwhip/westminhall/2018-10-15b.207.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.208.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.209.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.209.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-10-15a.209.0" speakername="Conor McGinn" person_id="uk.org.publicwhip/person/25423" colnum="209" time="17:31:00" url="">
+    <p pid="a209.0/1">It is a pleasure to serve under your chairmanship, Mr Wilson. I welcome this very important debate and I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25619" name="Mike Hill">the Member for Hartlepool (Mike Hill)</phrase> on how he put forward the case on behalf of the petitioners. All hon. Members speaking today—whether we support or oppose the petition—have the welfare of racehorses at heart, before, during and after their careers. It is not just those advocating for the petition who support horse welfare. Indeed, in my experience there are no more passionate advocates for the welfare of thoroughbreds than those who work in the sport day in, day out.</p>
+    <p pid="a209.0/2">I draw members’ attention to my entry in the Register of Members’ Interests. If <phrase class="honfriend" person_id="uk.org.publicwhip/person/11816" name="Philip Davies">the hon. Member for Shipley (Philip Davies)</phrase> has a modest interest in a modest horse, I have a minuscule interest in a couple of very modest horses, although our gelding won a couple of bumpers at Sedgefield racecourse in your constituency, Mr Wilson. As someone who grew up with a great love of horse-racing, it was a thrill for me to see a horse that I have a minuscule interest in run at the champion bumper at Aintree on the Friday evening of the festival.</p>
+    <p pid="a209.0/3">I am always struck by the attention paid by all of the staff at the yard to every possible need of the racehorses in their care. They are just some of the more than 6,000 racing grooms across training yards throughout Great Britain who put the welfare of the horse at the centre of everything they do: racehorses receive a standard of care virtually unsurpassed by any other domesticated animal.</p>
+    <p pid="a209.0/4">It will not be surprising that I do not agree with the petition and fully support the responsible, proactive and, most importantly, already independent regulation of the British thoroughbred racing industry by the British Horseracing Authority. The current system has in fact been commended by the Environment, Food and Rural Affairs Committee in its greyhound welfare inquiry as being</p>
+    <p pid="a209.0/5" class="indent" pwmotiontext="yes">“recognised around the world as having implemented a high standard in equine care”.</p>
+    <p pid="a209.0/6">The Committee highlighted that the racing industry demonstrates</p>
+    <p pid="a209.0/7" class="indent" pwmotiontext="yes">“a very positive example of self-regulation supporting high welfare standards”.</p>
+    <p pid="a209.0/8">It is a great privilege to be the Member of Parliament for the Haydock Park racecourse. True Lancastrians have loved racing as far back as in 1752; there was a racecourse in Newton-le-Willows where I live. I apologise to colleagues, but I believe Haydock Park is the finest racecourse in the country, not just for the quality of the facilities and the racing it offers 32 days a year over jump and flat racing, but because of the huge economic benefits it provides to the St Helens economy, thanks to its 55,000 visitors a year. It sits right at the heart of the community and works with local organisations and schools.</p>
+    <p pid="a209.0/9">My hon. Friend the Member for Hartlepool mentioned that the petitioners were critical of the Weatherby family and the Jockey Club. I am very proud of our chairman Lord Daresbury, his wife Clare and our association with the Weatherby family. For years, they have given incredible service to horse-racing in this country, in good days and bad days. We are very lucky to have Pete as our chairman. He works with an incredible team at the Jockey Club in the north-west. I had the opportunity recently to join one of the superb educational days offered to a local school by the industry’s Racing to School charity programme. It was incredible to see the fascination of the schoolkids and how racing was used as an educational tool. They got to see some of the fantastic thoroughbreds looking fit, healthy and immaculate in the summer sunshine in St Helens over the summer.</p>
+    <p pid="a209.0/10">Although I may be a touch biased towards Haydock Park, as co-chair of the all-party parliamentary racing and bloodstock industries group, alongside <phrase class="honfriend" person_id="uk.org.publicwhip/person/10505" name="Laurence Robertson">the hon. Member for Tewkesbury (Mr Robertson)</phrase>, I am a strong supporter of the wider horse-racing industry, as are many parliamentary colleagues. The industry is worth £3.5 billion to the British economy; it supports tens of thousands of jobs the length and breadth of the country, and it is enjoyed by six million racegoers annually and millions more watching at home on TV screens. British bloodstock is at the forefront of international horse-racing; that was demonstrated just last weekend by the phenomenal back-to-back victories of Enable in the prix de l’Arc de Triomphe. Our horsemen have an international reputation for excellence. It is an industry that I, this House and the country should be hugely proud of.</p>
+    <p pid="a209.0/11">I am afraid that some of the assertions we heard in the debate need to be tackled head-on, although I praise the thoughtful contribution made by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25433" name="Rachael Maskell">the Member for York Central (Rachael Maskell)</phrase>, based on her experience of her local racecourse. People often say that horses that are not good enough are simply disposed of or sent to the glue factory, but that is simply not the case. The industry has in place a dedicated charity, Retraining of Racehorses, which rehomes or  retrains thousands of horses each year for other equine disciplines. Further work is being undertaken to enhance the industry’s capabilities.</p>
+    <p pid="a209.0/12">People also say that racehorses are shot when they are injured because owners do not want to pay for their care. The only reason a horse will be euthanised on a racecourse when injured is that it is in the interest of their welfare. That process will be carried out by a fully qualified veterinarian, using medication to prevent any suffering. I know from working closely with the Racehorse Owners Association that an owner’s only interest is in their horse’s welfare, rather than financial gain, in those sad and rare circumstances, or in any circumstances. From the strong, independent and effective regulation by the British Horseracing Authority across racecourses, trainers, jockeys, owners, breeders and grooms, to fans of the sport, the British racing industry cares deeply about the welfare of these beautiful and wonderful animals. It is important that the industry does all it can to communicate that exceptional care to the wider public. I know that that is a priority of the industry.</p>
+    <p pid="a209.0/13">I pay tribute to the work being done, from the Racecourse Association, the Jockey Club, the Arena Racing Company and 30 independent courses, to the Horsemen’s Group, the Racehorse Owners Association, the Thoroughbred Breeders Association, the Professional Jockeys Association, the National Trainers Federation and the National Association of Racing Staff. People are working day in, day out, in the interests of the horse and to promote British horse-racing, as are the wider racing community, such as Racing Welfare, Racing Together and Great British Racing, because racing is one big family. Like all families, we occasionally fall out, but we are loyal to each of our component parts. Our love for our great sport and the welfare of the horse trumps all other concerns.</p>
+    <p pid="a209.0/14">I will deal with the petition’s substantive point, but the House should be clear that the ultimate aim of its organisers is the abolition of the British thoroughbred racing industry. The call from some who signed the petition for an independent regulator may be well-meaning, but the organisation behind it wants to get rid of British horse-racing. I cannot think of any step that would do more to jeopardise the welfare of more than 14,000 thoroughbreds in training or breeding right now—or indeed the breed’s very future—than to abolish the British racing industry.</p>
+    <p pid="a209.0/15">The RSPCA and World Horse Welfare have spoken of a horse crisis facing the country, with several thousand horses at risk. I emphasise that that does not include the thoroughbred breed; such a step would greatly exacerbate that. All that comes before the hugely damaging economic impact there would be on the British rural economy.</p>
+    <p pid="a209.0/16">To take the petition at face value, it calls for responsibility for regulation on equine welfare to be removed from the British Horseracing Authority and transferred to an independent body. I reject that on three separate grounds. First, the British Horseracing Authority’s track record in the eleven years since it was founded is one of clear improvement in equine welfare outcomes throughout the sport. Equine fatality and injury rates are down significantly, with fatalities down to 0.18% in 2017 from an already low 0.22% in 2013. A detailed review of the Grand National course at Aintree has resulted in six consecutive runnings of that race without an equine fatality. New rules governing the use of the air-cushioned  whip have reduced the threshold for offences by half and breaches are down by 40%. Equine welfare is at the heart of British racing.</p>
+    <p pid="a209.0/17">As the hon. Member for Shipley said, under the direction of the BHA’s first director of equine health and welfare, the association has already introduced measures on notification of foal births within 30 days to improve traceability. The BHA is also introducing innovations in hurdle and fence design, working collaboratively with the RSPCA to reduce faller rates, and it is undertaking a benchmarking project with the University of Bristol to understand better what is in the interests of a horse’s welfare.</p>
+    <p pid="a209.0/18">Secondly, the BHA already demonstrates its independence from commercial interests through its regulatory function. Its board significantly exceeds the Sport England sports governance code criteria for independence, and it has an ambition, which I fully endorse, to increase independence further. A fully independent judicial panel holds participants and racecourses to account for rule breaches relating to equine welfare. If commercial interests were paramount, why would that panel choose to ban the champion flat jockey—unfairly, in my humble opinion—for a significant period for minor whip offences in five races out of 837 mounts, which did not compromise horse welfare at all? Why would that ban run through the sport’s richest annual race day—British Champions Day, at Ascot this Saturday—where he is to be presented with his trophy but cannot ride? The regulation of horse welfare is paramount for the BHA—the regulator—and its panels.</p>
+    <p pid="a209.0/19">Thirdly, the very concept as proposed by the petitioner of somehow extricating regulation of equine welfare from all of the other rules and regulations in place is deeply flawed. Every rule and regulation in British racing, enforced by the BHA’s stewarding, course inspectorate, stable inspection and veterinary teams has the welfare of the thoroughbred racehorse at its heart. The proposal is therefore as impractical as it is unnecessary.</p>
+    <p pid="a209.0/20">I commend the BHA’s work in improving equine welfare outcomes in British racing. It has demonstrated a clear track record of upholding and enhancing the welfare of thoroughbred horses. The House should support British racing in its clear ambition to improve those standards further, with the BHA as a strong, already independent regulator of an industry that cares deeply for the welfare of its horses. I have every confidence in Nick Rust and his team to deliver on their ambition for British thoroughbred racehorses.</p>
+    <p pid="a209.0/21">I encourage hon. Members to go and see for themselves the standards in place and enjoy a fantastic day’s racing at any of the 1,500 fixtures run annually in this country. A new independent welfare regulator in horse-racing is unnecessary and unjustified, because it is already clear that in British racing the horse comes first.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.212.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.212.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.213.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.213.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.213.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.213.2" newgid="uk.org.publicwhip/westminhall/2018-10-15b.213.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.213.3" newgid="uk.org.publicwhip/westminhall/2018-10-15b.213.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.214.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.214.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.214.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.215.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.215.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.215.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.215.2" newgid="uk.org.publicwhip/westminhall/2018-10-15b.215.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.215.3" newgid="uk.org.publicwhip/westminhall/2018-10-15b.215.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.215.4" newgid="uk.org.publicwhip/westminhall/2018-10-15b.215.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.215.5" newgid="uk.org.publicwhip/westminhall/2018-10-15b.215.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.216.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.216.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.216.2" newgid="uk.org.publicwhip/westminhall/2018-10-15b.216.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.216.3" newgid="uk.org.publicwhip/westminhall/2018-10-15b.216.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.217.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.218.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.218.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.218.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.218.2" newgid="uk.org.publicwhip/westminhall/2018-10-15b.218.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.218.3" newgid="uk.org.publicwhip/westminhall/2018-10-15b.218.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.219.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.223.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.223.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.223.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.223.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.223.2" newgid="uk.org.publicwhip/westminhall/2018-10-15b.223.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.227.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.228.0" newgid="uk.org.publicwhip/westminhall/2018-10-15b.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-15a.228.1" newgid="uk.org.publicwhip/westminhall/2018-10-15b.228.1" matchtype="perfectmatch"/>
+</publicwhip>
+

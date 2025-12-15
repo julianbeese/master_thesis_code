@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-11-16a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.159.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.159.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.159.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.159.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.159.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.160.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.160.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.160.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.160.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.160.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.161.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.161.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.162.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.162.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.162.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.162.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.163.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.163.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.163.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.164.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.164.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.167.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.169.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.172.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.173.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.173.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.176.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.176.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.179.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.179.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.179.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.179.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.179.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.179.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.181.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.181.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.181.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.182.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.182.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.183.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.183.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.183.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.183.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.183.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.184.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.184.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.184.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.185.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.185.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.185.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.187.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.187.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.188.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.188.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.191.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.191.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.191.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.191.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.191.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.191.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.191.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.191.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.191.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.191.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.192.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.192.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.192.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.192.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.192.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.192.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.192.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.192.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.192.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.192.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.193.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.193.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.193.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.193.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.193.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.193.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.193.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.193.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.193.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.193.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.193.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.193.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.194.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.194.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.194.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.194.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.194.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.194.2" speakername="Margaret Ferrier" type="Start Intervention" person_id="uk.org.publicwhip/person/25287" colnum="194" time="14:31:00" url="">
+    <p pid="a194.2/1">Nuclear negotiations restart on <phrase class="date" code="2021-11-29">29 November</phrase> and there is a risk that both Nazanin’s case and Anousheh Ashouri’s case will be used as leverage. The negotiations are complex and we cannot risk these cases becoming entangled in them. Does the hon. Lady agree that the Government need to have a plan in place to ensure that these cases do not get caught up in the nuclear negotiations?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.194.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.194.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.194.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.194.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.194.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.194.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.195.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.195.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.195.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.195.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.195.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.195.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.195.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.195.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.195.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.195.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.195.5" speakername="Tulip Siddiq" type="Continuation Speech" person_id="uk.org.publicwhip/person/25344" colnum="195" time="14:31:00" url="">
+    <p pid="a195.5/1">I agree with the hon. Member and thank her for her help in this campaign. I repeat the point that several other Members have already made, which is that this issue is not just about Nazanin Zaghari-Ratcliffe; it is also about Anousheh Ashouri and Morad Tahbaz.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.195.6" newgid="uk.org.publicwhip/westminhall/2021-11-16b.195.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.195.6" speakername="Janet Daby" type="Start Intervention" person_id="uk.org.publicwhip/person/25727" colnum="195" time="14:31:00" url="">
+    <p pid="a195.6/1">I thank my hon. Friend for securing this essential debate. I also thank her for mentioning my constituent Anousheh Ashouri, a 67-year-old man who is a father and a husband, and a British citizen who is also locked up in the same prison as Nazanin. Does my hon. Friend agree that it is a grotesque crime for Iran to hold hostages but that it is also a crime for our country not to settle any debts that are possibly keeping the hostages there?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.195.7" newgid="uk.org.publicwhip/westminhall/2021-11-16b.195.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.196.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.196.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.196.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.196.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.196.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.196.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.196.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.196.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.196.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.196.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.196.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.196.6" newgid="uk.org.publicwhip/westminhall/2021-11-16b.196.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.196.7" newgid="uk.org.publicwhip/westminhall/2021-11-16b.196.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.196.8" newgid="uk.org.publicwhip/westminhall/2021-11-16b.196.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.197.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.197.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.197.0" speakername="Munira Wilson" type="Start Intervention" person_id="uk.org.publicwhip/person/25820" colnum="197" time="14:31:00" url="">
+    <p pid="a197.0/1">I congratulate the hon. Lady on her campaign. Given that Nazanin has been granted diplomatic protection, how does the hon. Lady feel that the Government are treating her case differently from other consular cases? Does she think that Anousheh Ashouri should also be granted diplomatic protection?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.197.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.197.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.197.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.197.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.197.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.197.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.197.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.197.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.197.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.197.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.197.6" newgid="uk.org.publicwhip/westminhall/2021-11-16b.197.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.197.7" newgid="uk.org.publicwhip/westminhall/2021-11-16b.197.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.197.8" newgid="uk.org.publicwhip/westminhall/2021-11-16b.197.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.197.9" newgid="uk.org.publicwhip/westminhall/2021-11-16b.197.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.198.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.198.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.198.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.198.1" speakername="Valerie Vaz" type="Start Intervention" person_id="uk.org.publicwhip/person/24852" colnum="198" time="14:31:00" url="">
+    <p pid="a198.1/1">Very briefly, I thank my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25344" name="Tulip Siddiq">the Member for Hampstead and Kilburn (Tulip Siddiq)</phrase> and wish her and my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25727" name="Janet Daby">the Member for Lewisham East (Janet Daby)</phrase> well. The Ratcliffe family, and Anousheh Ashouri, Morad Tahbaz, who was born in Hammersmith Hospital, and Mehran Raoof are all British citizens. The Hague convention applies to them; they can get diplomatic protection. If the Minister would only look at the Hague convention, he would find that it takes other factors into account. More importantly, why do we not harness the spirit of Lewis Hamilton at the Brazilian grand prix, and realise that there is not a single obstacle that is going to stop us bringing home our Nazanin, Anousheh, Morad and Mehran?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.198.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.198.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.198.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.198.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.198.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.198.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.198.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.198.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.198.6" newgid="uk.org.publicwhip/westminhall/2021-11-16b.198.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.199.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.199.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.199.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.199.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.199.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.199.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.200.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.200.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.200.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.200.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.201.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.202.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.202.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.202.0" speakername="Jeremy Hunt" type="Start Speech" person_id="uk.org.publicwhip/person/11859" colnum="202" time="15:04:00" url="">
+    <p pid="a202.0/1">I salute the quiet dignity of Richard Ratcliffe, who is one of the bravest people I have ever met. I thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/25344" name="Tulip Siddiq">the hon. Member for Hampstead and Kilburn (Tulip Siddiq)</phrase> for her campaigning. We are from different parties, but she makes me proud to be a Member of this House.</p>
+    <p pid="a202.0/2">How do we get Nazanin, Anousheh, Morad and Mehran home? If it were ransom money, heartbreaking though it is, we should not pay it, because it would only lead to more hostages being taken. But it is not ransom money; it is a historical debt that we owe Iran. The debt should not be linked to this case, but it is, and that is why we should pay it. It is not easy to do because of sanctions, but with political will it can be done. No country can have a veto over a sovereign Britain deciding to pay its debt, not least the United States, because it did exactly the same thing under President Obama.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.202.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.202.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.202.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.202.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.202.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.202.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.202.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.202.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.203.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.203.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.203.0" speakername="Anna McMorrin" type="Start Speech" person_id="uk.org.publicwhip/person/25647" colnum="203" time="15:07:00" url="">
+    <p pid="a203.0/1">I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25344" name="Tulip Siddiq">the Member for Hampstead and Kilburn (Tulip Siddiq)</phrase> on securing this important debate and on her hard work so far.</p>
+    <p pid="a203.0/2">Unjustly convicted, denied basic human rights and tortured—Richard Ratcliffe is rightly desperate as his wife has to undergo this cruel ordeal. It is heartbreaking that, once again, Richard has had to resort to the life-threatening action of a hunger strike. I visited Richard on day 16 of his strike. The pain in his eyes was harrowing. He just wants the Government to act. To go 21 days without food is testament to Richard’s love for his wife and his resolution to get the attention this issue rightly needs. The risks and symptoms of going on the strike are huge. After two weeks, people on hunger strike will have difficulty standing. They suffer severe dizziness, sluggishness and loss of co-ordination. After two or three weeks, it can result in severe neurological problems—vision loss and lack of motor skills. That is the love that Richard has shown for his wife.</p>
+    <p pid="a203.0/3">Nazanin’s reaction to her husband’s strike brought me to tears at the weekend. She was worried sick about her husband. My heart breaks that this family is caught up in this dispute between two states. I want to address Nazanin directly, if she is able to see this debate. Nazanin, you can see the love and support right across this Parliament. I want to assure you that we, as representatives up and down this country, will not stop until you are free, home and reunited with your family and daughter. I pay tribute to the whole family, who are always there to support Richard, Gabriella and Nazanin. Richard’s sister Rachel lives in Cardiff and is always there for them, always looking for the positive and determined to bring a positive outcome.</p>
+    <p pid="a203.0/4">Let us be clear: the blame lies firmly at the Prime Minister’s door. He could resolve this issue by paying the debt to Iran, yet he refuses to do so. On Monday, Zac Goldsmith told peers that paying the debt owed by the UK would be seen as payment for a hostage, and would not be in the Government’s interest. Well, Zac, tell that to this family.</p>
+    <p pid="a203.0/5">Paying a debt is not paying a ransom. It has been ordered by an international court. It is clear this case could have been resolved many months ago. As well as Nazanin, we must not forget Anousheh, Morad and Mehran—we must bring them home too. I hope this debate is a turning point, and that the Government will do everything in their power to bring them home.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.203.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.204.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.204.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.204.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.204.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.204.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.204.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.205.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.205.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.205.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.205.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.205.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.206.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.206.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.206.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.207.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.207.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.207.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.208.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.209.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.209.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.209.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.210.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.210.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.210.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.211.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.211.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.211.0" speakername="Jeremy Corbyn" type="Start Speech" person_id="uk.org.publicwhip/person/10133" colnum="211" time="15:34:00" url="">
+    <p pid="a211.0/1">I will be brief because I very much want to hear what the Minister has to say in response. The whole House owes a debt to <phrase class="honfriend" person_id="uk.org.publicwhip/person/25344" name="Tulip Siddiq">the hon. Member for Hampstead and Kilburn (Tulip Siddiq)</phrase> for the way she has pursued this case for so long—I remember having a conversation with her when Nazanin was first taken prisoner. We should all also admire Richard for the way he has campaigned so effectively despite his suffering. As a result of that, this is the largest Westminster Hall turnout I can remember.</p>
+    <p pid="a211.0/2">Obviously, the debt is owed and must be paid. If this country wants respect for behaving in the proper manner, the debt should be paid. It is not a negotiation; it is saying “This money is owed. Let’s pay it.” I believe that would help to unlock a lot of things, and help to open up a serious human rights dialogue with Iran in the future, which is necessary. While we are here today, concentrating on Nazanin’s release—which I completely support—I would put on record that we should also be calling for the release of Anousheh Ashouri, Mehran Raoof and Morad Tahbaz, who are in a similar situation. I hope that, in the context of a changed and renewed relationship with Iran, they would be released.</p>
+    <p pid="a211.0/3">I want to see decent human rights everywhere around the world, and that obviously includes Iran. The people of Iran deserve that. We should do everything we can to ensure that happens. I hope the Minister can unlock this—maybe not completely today but I hope it can be unlocked—and that he will have got the message of the strength of feeling, from everybody across our House, for her release.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.211.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.211.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.211.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.211.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.211.2" speakername="Patrick Grady" type="Start Speech" person_id="uk.org.publicwhip/person/25299" colnum="211" time="15:36:00" url="">
+    <p pid="a211.2/1">It is a pleasure to serve under your chairmanship, Sir Charles; congratulations on chairing the debate so effectively.  I also congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/25344" name="Tulip Siddiq">the hon. Member for Hampstead and Kilburn (Tulip Siddiq)</phrase> on giving so many people the opportunity to share her passion and frustration over the situation that Nazanin, Richard and Gabriella are all in. We all express our personal solidarity with them today, along with that of the thousands—probably tens or hundreds of thousands—of constituents represented by the voices here.</p>
+    <p pid="a211.2/2">I hope you will indulge me, Sir Charles, if I recognise the SNP and Plaid Members who are either here or have been to visit Richard, but have not been able to  speak. Those are my hon. Friends the Members for East Renfrewshire (Kirsten Oswald), for Glasgow South West (Chris Stephens), for Linlithgow and East Falkirk (Martyn Day), for Paisley and Renfrewshire North (Gavin Newlands), for North Ayrshire and Arran (Patricia Gibson), for Inverclyde (Ronnie Cowan), for Aberdeen South (Stephen Flynn), for Glasgow Central (Alison Thewliss), for Glasgow South (Stewart Malcolm McDonald), for Gordon (Richard Thomson), for Glasgow North West (Carol Monaghan), for Ochil and South Perthshire (John Nicolson), for Edinburgh East (Tommy Sheppard), and for Edinburgh North and Leith (Deidre Brock). I also pay tribute to the hon. Members for Kirkcaldy and Cowdenbeath (Neale Hanvey), for North East Fife (Wendy Chamberlain), for Ceredigion (Ben Lake), and for North Down (Stephen Farry). We all believe that enough is enough; it is time for action.</p>
+    <p pid="a211.2/3">I first met Richard outside the Iranian embassy in 2019, and had the privilege of meeting him again outside the Foreign, Commonwealth and Development Office. He said it was one thing to keep vigil outside the embassy of the country that is holding his wife hostage—let us make no mistake; that is what Nazanin is, and that is the first thing the Minister ought to put on record today—but it is another to have to protest, and to go on hunger strike, outside his own Government’s buildings because of their inaction and unwillingness or inability to carry out their basic duty of care for one of their own citizens.</p>
+    <p pid="a211.2/4">The Government repeatedly say they are doing everything they can but, as we have heard in this debate, that is patently not the case, as <phrase class="honfriend" person_id="uk.org.publicwhip/person/25302" name="Liz Saville-Roberts">the right hon. Member for Dwyfor Meirionnydd (Liz Saville Roberts)</phrase> and many others have said. It is clear that the repayment of debt is a major issue, and one that, if resolved, would bring about a major shift in Iranian policy. <phrase class="honfriend" person_id="uk.org.publicwhip/person/11859" name="Jeremy Hunt">The right hon. Member for South West Surrey (Jeremy Hunt)</phrase> has said as much, and others have said how that could be done.</p>
+    <p pid="a211.2/5">Sadly, the feedback that we have had—the result of the hunger strike—was a series of increasingly frustrating meetings that made the family and all campaigners feel that no progress is being made. That is despite, as <phrase class="honfriend" person_id="uk.org.publicwhip/person/10180" name="Iain Duncan Smith">the right hon. Member for Chingford and Woodford Green (Sir Iain Duncan Smith)</phrase> says, other countries in recent years, including the United States, Australia, France and Germany, all successfully negotiating the release of their citizens who have been arbitrarily detained in Iran—but Britain has not secured any releases.</p>
+    <p pid="a211.2/6">We have also heard the cases of Anousheh Ashouri, Mehran Raoof and Morad Tahbaz, all of whom, interestingly—my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25318" name="Philippa Whitford">the Member for Central Ayrshire (Dr Whitford)</phrase> said this to me in conversation—are dual nationals. I wonder if that makes the UK Government feel they have some sort of diminished responsibility for them, but a constituent of my hon. Friend the Member  for West Dunbartonshire (Martin Docherty-Hughes), Jagtar Singh Johal, remains incarcerated in India, so there has to be more; more can be done and must be done.</p>
+    <p pid="a211.2/7">Saying that diplomatic protection exists is one thing, but acting on it is another. I pay tribute to the point made by <phrase class="honfriend" person_id="uk.org.publicwhip/person/24852" name="Valerie Vaz">the right hon. Member for Walsall South (Valerie Vaz)</phrase>, and to the fact that, week after week, she raised this at business questions. She did that on behalf of all of us in the House who take an interest in that case, and I do not think the Government would be as responsive if not for her continuing to do that. That should be recognised.</p>
+    <p pid="a211.2/8">Having the right to diplomatic protection means there should be a right to private consular meetings and immediate access to medical examination by an independent doctor. The Government could issue a formal protest to the Iranian authorities; they could summon the Iranian Ambassador—they summoned the French Ambassador after all. They could propose to the Iranian authorities the immediate commencement of formal negotiations to resolve the dispute; they could send a detailed legal memorandum to the Iranian authorities outlining the breaches of international law arising from their detention of these British nationals; and they should assert under international law their right to provide assistance. Consular assistance is important to all of us, including my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25409" name="Hannah Bardell">the Member for Livingston (Hannah Bardell)</phrase>. I hope there will be a further debate on that in the Chamber very soon.</p>
+    <p pid="a211.2/9">Throughout the Brexit campaign and, indeed, the independence referendum campaign, we were always told how proud we should be of our British passports. Well, the British passport says:</p>
+    <p pid="a211.2/10" class="indent" pwmotiontext="yes">“Her Britannic Majesty’s Secretary of State Requests and requires in the Name of Her Majesty all those whom it may concern to allow the bearer to pass freely without let or hindrance, and to afford the bearer such assistance and protection as may be necessary”.</p>
+    <p pid="a211.2/11">That is what it says on Nazanin Zaghari-Ratcliffe’s passport. The question for the Government today is: what are they doing to make it a reality?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.213.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.213.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.213.0" speakername="Wayne David" type="Start Speech" person_id="uk.org.publicwhip/person/10842" colnum="213" time="15:41:00" url="">
+    <p pid="a213.0/1">It is a pleasure to serve under your chairmanship, Sir Charles. Like other Members, I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25344" name="Tulip Siddiq">the Member for Hampstead and Kilburn (Tulip Siddiq)</phrase> on securing this debate and on all her incredible work on behalf of her constituents. Nazanin Zaghari-Ratcliffe has been held in Iran for five and a half years. Like many here, I visited Richard, her husband, on two occasions outside the Foreign, Commonwealth and Development Office and I want to pay tribute to him for his determination and incredible resolve.</p>
+    <p pid="a213.0/2">Many MPs and members of the public visited Richard during his hunger strike. In his final speech outside the FCDO, looking back at his time on hunger strike, he said that it had always been important to him that everyone who visited him had been united against injustice. We all pay tribute to Richard and, as others have said, the fight will go on.</p>
+    <p pid="a213.0/3">Last week, there were talks between the Government and the Iranian deputy Foreign Minister. Unfortunately, yet again, there was no progress. Nor has there been progress on the cases of other dual nationals, including Anousheh Ashouri and Morad Tahbaz. Both men are not in good health and, like Nazanin, are being arbitrarily detained on spurious fabricated charges. Anousheh Ashouri has not been granted diplomatic protection by the UK Government and has not been allowed out of prison. Morad Tahbaz was one of eight conservationists held by the Iranian authorities. Amnesty International has said that there was evidence that those eight had been tortured to obtain false confessions.</p>
+    <p pid="a213.0/4">Everyone here is united in believing that those detentions are wrong and totally unjust. Surely, all this has gone on long enough. For more than five years, British Governments have tried and failed to secure the release of Nazanin and the other dual nationals. If there has been a Government strategy during this time, it has clearly failed.</p>
+    <p pid="a213.0/5">A number of Members have mentioned the debt of £400 million which Britain owes Iran. The money was paid to the United Kingdom by Iran over 40 years ago for 1,500 Chieftain tanks which were never delivered. The Government have said that bank transfer transactions are not possible because of restrictions but, as we all know, if the Government had the will to settle the debt, one way or another the payment would be made.</p>
+    <p pid="a213.0/6">I am not suggesting that any sort of ransom is paid by our Government, but if the money is owed and there is no question but that that is the case, the debt should be settled. In fact, when the Prime Minister was Foreign Secretary, he made a promise to Richard Ratcliffe that the debt would be paid. Significantly, in 2014, the current Defence Secretary described the unpaid debt as “a sorry story”. He said the whole issue had been,</p>
+    <p pid="a213.0/7" class="indent" pwmotiontext="yes">“marred by double dealing and obfuscation”.—[Official Report, Westminster Hall, <phrase class="date" code="2021-03-11">11 March</phrase> 2014; Vol. 577, c. 103WH.]</p>
+    <p pid="a213.0/8" class="indent">More recently, a number of distinguished former Foreign Secretaries, Conservative and Labour, have said that the debt should be paid. That is also the view of many international and legal commentators, and it is our view as well. As <phrase class="honfriend" person_id="uk.org.publicwhip/person/11859" name="Jeremy Hunt">the right hon. Member for South West Surrey (Jeremy Hunt)</phrase>, who is a former Foreign Secretary, has said, this is not about paying a ransom. It is about the UK’s credibility and doing what is right.</p>
+    <p pid="a213.0/9">On numerous occasions, we have been told by the Government that they are doing their best and that it would be unwise to rock the boat, but it has to be said that the Government’s approach has failed abysmally. Now is surely the time to take off the kid gloves and to be vigorous and determined. Nazanin, Anousheh Ashouri, Morad Tahbaz and all the dual nationals need to be brought back home. The time for discreet pressure and cautious words is long past. I look forward to hearing from the Minister what plan of action the Government now have for bringing our people home.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.214.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.214.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.214.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.214.1" speakername="James Cleverly" type="Start Speech" person_id="uk.org.publicwhip/person/25376" colnum="214" time="15:45:00" url="">
+    <p pid="a214.1/1">It is a pleasure to serve under your chairmanship, Sir Charles. I am grateful to <phrase class="honfriend" person_id="uk.org.publicwhip/person/25344" name="Tulip Siddiq">the hon.  Member for Hampstead and Kilburn (Tulip Siddiq)</phrase> for securing the debate and for her tireless work in supporting Nazanin and Richard and in championing this issue. Although there have been times when we have disagreed, it is absolutely right that I put on the record our respect for the hon. Lady’s passion.</p>
+    <p pid="a214.1/2"><phrase class="honfriend" person_id="uk.org.publicwhip/person/25727" name="Janet Daby">The hon. Member for Lewisham East (Janet Daby)</phrase> mentioned her support for the family of her constituent, and right hon. and hon. Members have spoken about the work that they have done to support family members of those in Iran. Other Members were unable to attend the debate because of ministerial duties—I think particularly of my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25419" name="Ranil Jayawardena">the Member for North East Hampshire (Mr Jayawardena)</phrase>, who speaks to me regularly about the situation and who is the constituency MP for some of the members of Richard and Nazanin’s family.</p>
+    <p pid="a214.1/3">Like all Members of the House and everyone in the country, I have huge sympathy for the families of those who are incarcerated in Iran. The Government will continue to do everything we can to resolve the situation in which they find themselves through no fault of their own. The ongoing suffering that Iran is inflicting on British dual nationals such as Anousheh Ashouri and Morad Tahbaz is deeply distressing and rightly elicits very strong feelings from hon. Members of different parties. I cannot overstate the fact that the Government share that frustration and are unwavering in our commitment to resolve this issue. We have made it clear to the Iranian Government at every stage that we expect Iran to release all British dual nationals and allow them to return home to their families.</p>
+    <p pid="a214.1/4">In today’s debate, we are focusing primarily on Nazanin, Richard and Gabriella. The UK Government continue to work tirelessly to secure Nazanin’s full, permanent release and ability to return home to her family. As right hon. and hon. Members are aware, Nazanin was released on furlough into the care of her parents in Tehran in 2020, but the Iranian system has refused to let her return home and has not left her alone during the period of furlough. The Government have kept up our campaign of pressure on the Iranian authorities throughout this time, and we will not relent until she is fully and permanently released.</p>
+    <p pid="a214.1/5">The completion of Nazanin’s first sentence and the removal of her ankle tag in March 2021 should have been a time for happiness and enabled Nazanin to be reunited with Richard and Gabriella. Instead, Iran doubled down on its baseless charges against her. We have raised our objections at every stage, and when those charges were formalised at a court hearing in April, we summoned the Iranians and demanded that she be released. When her appeal was rejected in October and her sentence confirmed, we again objected in the strongest terms and demanded her release. The Foreign Secretary and this Government continue to be clear in our discussions with Iran that under no circumstances should Nazanin be returned to prison, that we would react strongly if she were and that she should instead be allowed to return home to her family immediately. The Foreign Secretary raised this point again with Foreign Minister Amir-Abdollahian, most recently on <phrase class="date" code="2021-11-08">8 November</phrase>. I raised this issue again with the Iranian Deputy Foreign Minister Bagheri Kani on <phrase class="date" code="2021-11-11">11 November</phrase>.</p>
+    <p pid="a214.1/6">At every stage since Nazanin was detained, the UK Government have carefully considered and assiduously pursued the courses of action that we have assessed  offer the best opportunity for resolving this case. We have not pursued any course of action that we believe would be counterproductive to the release and return home of those in incarceration.</p>
+    <p pid="a214.1/7">In March 2019, my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11859" name="Jeremy Hunt">the Member for South West Surrey (Jeremy Hunt)</phrase> afforded diplomatic protection to Mrs Zaghari-Ratcliffe. This formally raised it to a state-to-state issue. At that time, he also recognised that that was unlikely to yield immediate results, in part because Iran does not recognise dual national status. Unfortunately, his prediction at the time seems to have been proven right.</p>
+    <p pid="a214.1/8">Since then, this Government have continued to take further action where we judge it will help to secure full and permanent release. We constantly review what other steps are possible, and we weigh up all the diplomatic and legal tools available to secure her release.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.216.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.216.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.217.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.217.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.217.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.217.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.217.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.217.2" speakername="Janet Daby" type="Start Intervention" person_id="uk.org.publicwhip/person/25727" colnum="217" time="15:45:00" url="">
+    <p pid="a217.2/1">The Minister mentioned Anousheh Ashouri, my constituent. I am grateful for that. However, the family are still waiting to hear whether they have received diplomatic protection from the Government. Is the Minister able to respond to that?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.217.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.217.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-16a.217.3" speakername="James Cleverly" type="Continuation Speech" person_id="uk.org.publicwhip/person/25376" colnum="217" time="15:45:00" url="">
+    <p pid="a217.3/1">We of course consider this issue carefully. However, I have made the point already that—I suspect in large part because Iran does not recognise dual nationality and therefore does not recognise our authority to speak on this issue—that has proven to be of limited success in the instance of Nazanin. We will  continue to hold the Iranian Government to account for their treatment of the British dual nationals in incarceration, including Anousheh Ashouri and Morad Tahbaz. I assure the House that the Government remain committed to doing whatever we can to secure their release and will continue to work and make representations at every opportunity on their behalf.</p>
+    <p pid="a217.3/2">I remind all Members that it was the Iranian Government who arrested these British dual nationals. It was the Iranian Government who applied these bogus charges against them. It was the Iranian Government who hold these people in incarceration and prevent them from coming home. It is the Iranian Government who are wholly and solely responsible for the appalling circumstances that these people find themselves in. The British Government will continue to work tirelessly to secure their release and return home. I assure everyone in the House that that will remain our priority until they are released and are able to return home.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.218.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.219.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.219.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.219.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.219.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.219.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.219.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.219.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.221.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.225.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.225.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.225.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.226.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.226.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.226.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.226.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.226.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.226.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.226.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.226.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.226.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.226.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.226.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.226.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.227.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.227.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.227.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.227.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.227.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.228.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.228.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.228.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.230.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.230.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.230.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.230.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.230.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.230.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.230.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.230.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.230.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.230.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.230.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.230.6" newgid="uk.org.publicwhip/westminhall/2021-11-16b.230.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.231.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.231.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.231.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.231.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.231.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.231.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.231.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.231.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.232.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.233.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.233.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.234.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.234.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.234.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.234.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.234.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.234.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.235.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.235.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.235.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.235.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.235.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.235.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.235.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.235.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.236.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.236.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.236.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.236.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.237.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.237.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.237.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.238.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.238.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.238.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.239.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.239.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.239.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.239.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.239.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.239.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.240.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.240.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.240.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.240.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.240.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.240.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.240.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.240.4" newgid="uk.org.publicwhip/westminhall/2021-11-16b.240.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.240.5" newgid="uk.org.publicwhip/westminhall/2021-11-16b.240.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.241.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.241.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.241.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.241.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.241.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.241.3" newgid="uk.org.publicwhip/westminhall/2021-11-16b.241.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.242.0" newgid="uk.org.publicwhip/westminhall/2021-11-16b.242.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.242.1" newgid="uk.org.publicwhip/westminhall/2021-11-16b.242.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-16a.242.2" newgid="uk.org.publicwhip/westminhall/2021-11-16b.242.2" matchtype="perfectmatch"/>
+</publicwhip>
+

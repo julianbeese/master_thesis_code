@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-01-29a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.283.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.283.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.283.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.283.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.283.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.283.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.283.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.283.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.284.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.284.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.284.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.284.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.284.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.284.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.284.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.284.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.284.4" newgid="uk.org.publicwhip/westminhall/2020-01-29b.284.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.285.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.285.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.285.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.285.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.286.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.286.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.286.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.286.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.286.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.286.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.286.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.286.4" newgid="uk.org.publicwhip/westminhall/2020-01-29b.286.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.287.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.287.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.287.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.287.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.287.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.287.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.287.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.288.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.288.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.288.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.288.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.288.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.288.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.289.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.289.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.289.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.289.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.289.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.290.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.290.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.290.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.291.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.292.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.292.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.294.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.294.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.294.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.294.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.294.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.296.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.296.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.297.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.297.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.297.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.297.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.297.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.297.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.299.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.299.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.299.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.299.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.301.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.301.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.301.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.301.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.301.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.302.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.302.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.302.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.302.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.303.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.303.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.303.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.304.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.304.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.304.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.304.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.305.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.305.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.305.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.305.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.305.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.305.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.305.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.305.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.306.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.306.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.306.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.307.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.307.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.308.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.308.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.308.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.308.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.309.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.309.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.309.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.309.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.310.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.310.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.312.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.312.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.312.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.312.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.313.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.313.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.313.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.313.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.313.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.313.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.313.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.313.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.314.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.314.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.314.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.314.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.314.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.314.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.316.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.316.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.316.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.316.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.316.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.316.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.317.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.317.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.318.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.318.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.318.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.318.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.318.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.318.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.318.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.318.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.318.4" newgid="uk.org.publicwhip/westminhall/2020-01-29b.318.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.319.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.319.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.319.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.319.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.320.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.320.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.320.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.320.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.321.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.321.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.321.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.321.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.322.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.322.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.322.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.322.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.323.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.323.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.325.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.325.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.325.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.325.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.326.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.326.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.326.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.326.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.326.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.326.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.327.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.327.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.327.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.327.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.328.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.328.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.329.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.329.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.330.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.330.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.331.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.331.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.331.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.331.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.333.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.333.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.334.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.334.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.334.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.334.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.335.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.335.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.336.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.336.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.336.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.336.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.336.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.336.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.336.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.336.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.337.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.337.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.337.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.337.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.337.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.337.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.337.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.337.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.338.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.338.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.338.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.338.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.338.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.338.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.338.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.338.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.340.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.340.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.340.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.340.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.340.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.340.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.341.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.341.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.341.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.341.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.341.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.341.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-01-29a.341.2" speakername="Fiona Bruce" person_id="uk.org.publicwhip/person/24857" colnum="341" time="16:19:00" url="">
+    <p pid="a341.2/1">My hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Brecon and Radnorshire (Fay Jones)</phrase> is right. In my constituency, the assessment for compensation can be wholly inadequate. For example, the economic losses to dairy farms, in the case of lost milk yield, can be further impacted by financial penalties imposed by dairies through breaches of contract when farmers are not able to meet forecasted milk yields because herds have had to be put down.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.341.3" newgid="uk.org.publicwhip/westminhall/2020-01-29b.341.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-01-29a.341.3" speakername="Derek Thomas" person_id="uk.org.publicwhip/person/25440" colnum="341" time="16:19:00" url="">
+    <p pid="a341.3/1">I welcome that intervention. Both interventions are important. The previous Secretary of State requested a review of the compensation scheme and the eradication strategy. As far as I understand the situation, it has reported back, and we are waiting to hear from the current Secretary of State about what the implications might be.</p>
+    <p pid="a341.3/2">The National Farmers Union and other representative groups have argued for clarity, for the process to be accelerated, for better communication and for fairness. I am just arguing for fairness. As my hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Brecon and Radnorshire (Fay Jones)</phrase> said, there is a commitment to deliver wildlife and a farming community free of bovine TB. That is absolutely the prize to reach. Today, we are discussing the compensation scheme, which is relevant to all my farmers, including those with dairy herds.</p>
+    <p pid="a341.3/3">This is where it gets a bit tricky. I recognise that the change to a bovine TB compensation scheme requires legislative change. I understand why the Government might have other things on their plate than revisiting that piece of legislation. I also know that in 2018 the Secretary of State ordered a review of the strategy for eradicating bovine TB in England. I understand that the compensation scheme is included in the review report, and I would like the Minister to indicate when the Secretary of State expects to issue her response to the review.</p>
+    <p pid="a341.3/4">On the wider issue of the compensation scheme for bovine TB, which my hon. Friends raised in their welcome interventions, it would be remiss of me not to take the opportunity to ask the Minister whether, as part of his deliberations, he will consider what they said and look at improving the communication between Government bodies and the farming business. There is definitely a breakdown between DEFRA and the farming community, whether it is about surveillance testing, a TB breakdown or the details regarding when compensation will or will not be paid. Providing timely guidance gives clarity to farming businesses and instils confidence at a local level, within a complete bovine TB eradication strategy, helping to build a stronger partnership approach between the farmer and the Government or Government agency.</p>
+    <p pid="a341.3/5">I know the Minister well: he knows how important it is that we continue to work closely with the farming community and landowners to ensure we can continue to drive down the incidence of bovine TB. One way would be to issue more details about the methodology involved in calculating the compensation values. We have heard about the loss of a prize herd. The compensation values would be beneficial in how they were calculated and would allow transparency in the current processes.</p>
+    <p pid="a341.3/6">I mention again in closing my friendly butcher in Saint Just. It is my profound belief that compensation should also be paid to farmers when a TB reactor is identified by a vet at the abattoir. The whole process of a steer going to an abattoir to be slaughtered and then the entire carcase being lost because of Government legislation, which we support and agree with, must challenge the Government and the Minister to consider what compensation there should be, so that the difficulty that my local abattoir faced is avoided.</p>
+    <p pid="a341.3/7">I hope that DEFRA does not oppose a change to the legislation. Unless a change in the compensation scheme is secured, it remains possible that Mr Olds and abattoirs large and small—especially, as we have heard, in badly affected bovine TB areas—could be affected by similar cases in the future. I know the Minister has been listening and is keen to get this right; it is a difficult and challenging issue that requires a change in legislation.</p>
+    <p pid="a341.3/8">I really hope that, after more than a year of battling to resolve this particular abattoir’s issue, which is not isolated—6% of carcases are removed after slaughter because of an indication of bovine TB—there is an  opportunity now to look at the matter again and simply change the compensation scheme so that farmers are compensated, at the request of the Secretary of State, when they lose animals. That is perfectly fair and reasonable, and I am delighted that the Minister is here to give us his response.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.343.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.343.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.343.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.343.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.343.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.343.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.344.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.344.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.344.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.344.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.347.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.347.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.347.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.347.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.348.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.348.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.348.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.348.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.351.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.351.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.351.1" newgid="uk.org.publicwhip/westminhall/2020-01-29b.351.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.351.2" newgid="uk.org.publicwhip/westminhall/2020-01-29b.351.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-01-29a.351.2" speakername="Marcus Fysh" person_id="uk.org.publicwhip/person/25384" colnum="351" time="17:05:00" url="">
+    <p pid="a351.2/1">It is a great pleasure to serve under your chairmanship, Ms McDonagh. I thank my hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Witney (Robert  Courts)</phrase> for securing the debate. He gave a thoughtful outline of some of the high-level strategic issues we need to consider. I welcome the Minister to his place. It is a great honour to have a Somerset colleague performing such an important role for the country at this time.</p>
+    <p pid="a351.2/2">I absolutely agree that we need a helicopter strategy, or a rotary-wing strategy. I have been championing the issue with the Department for some time. My hon. Friend the Member for Witney made some of the arguments for that very eloquently. In my constituency, we have probably the biggest centre of helicopter manufacturing operations in the UK. It is the only end-to-end design and manufacturing aerospace capability left in the UK. It is really important for the community and, I think, the country that we preserve those design skills, for some of the reasons that my hon. Friend mentioned.</p>
+    <p pid="a351.2/3">It is massively important that we have the capability to make the most of the advances that are coming with autonomous vehicles in the aerial space. Unless we preserve some of those skills and invest in them for the future, it is difficult to see how we will play a full part in the development of new technologies. As my hon. Friend also said, if we want to be global Britain, have more of an industrial footprint in the world and have more influence with our NATO allies and others, it is massively important that we have a contribution to make in the technology sphere. I welcome the Government’s focus on more spending on R&amp;D, skills and infrastructure, and their focus on investing in regional areas such as Somerset in order to level up and take advantage of some of the installed base we have.</p>
+    <p pid="a351.2/4">I thank the Ministry of Defence for its support for the helicopter industry in the UK. It does a lot of work on export promotion and on helping to demonstrate the current capabilities that we build in Yeovil. My hon. Friend mentioned some of the platforms produced there, including the Merlin, which is a heavy-lift helicopter, and the Wildcat, which is a much smaller helicopter but is very well regarded around the world. I know how much the company appreciates the MOD’s help in demonstrating what a great aircraft that is to some of its export opportunities around the world. The company currently estimates that there is potential for £11 billion of export sales. This is a real opportunity to utilise what we do well in Yeovil to advance the nation’s export interests.</p>
+    <p pid="a351.2/5">It is fair to say that the Wildcat is integrated in the Navy’s defence systems. The Navy has been more inventive and creative in thinking about how that platform can be integrated in its systems, and there are opportunities for the Army to use the Wildcat creatively. If it can get a missile, it would be brilliant to have it working in tandem with the Apaches to increase frontline capability. It is worth looking at that properly.</p>
+    <p pid="a351.2/6">My hon. Friend also mentioned the potential for thinking about what replaces the Puma. Leonardo has a civil helicopter platform in Italy, the AW189, which it would like to militarise, and it has suggested that it might use Yeovil for its global centre for military excellence should sufficient orders come through for the AW149—the AW189’s militarised variant. It would be worth the MOD conducting a capability review to see whether that helicopter might form part of the solution.</p>
+    <p pid="a351.2/7">I completely agree with my hon. Friend that we need to look at all these things in the round, and a formal helicopter strategy would be an ideal way of conducting that. The defence industrial policy was welcome, but we  must focus on rotary wing. We have heard about some of the possibilities with using autonomous vehicles on our aircraft carriers. We welcome the MOD’s collaboration with Leonardo on unmanned aerial vehicles to investigate capabilities and potential solutions to needs in that area. That, however, is a long-term programme, and unless we invest now, we cannot expect the UK’s industries to be leaders. I therefore welcome that collaboration.</p>
+    <p pid="a351.2/8">We should look more at how we procure, because, as my hon. Friend said, when procurement is done reactively, there is a need to look only at headline price, which does not necessarily take into account the gross value added to an economy by long-term programme development. Leonardo, for example, has nearly 3,000 employees at its Yeovil site, but there are about 10,000 people in the supply chain, and for every £1 of headline direct value added, 2.4 times that is added through consequential impacts on the rest of the economy.</p>
+    <p pid="a351.2/9">This is a really important industry. The capability it provides for our forces is important, and we really need that sovereign capability. We also need to get better at innovation. It is therefore worth looking at how we certify, because some of the certification processes take so long. In other industries in the modern world we see shortening product development cycles, so we need to ensure that certification burdens and bureaucracy do not interfere with the swift development of our military capabilities. The ability to commercialise products depends on that. Often, a defence industry skunkworks—that is the technical term for a little company trying to do something unusual—will not know whether a product may be regarded as a dual-use product until five or six years into the development cycle, by which time it may have had to spend up to £10 million getting a working prototype up and running. That is a huge risk to take before knowing what its marketability will be. There are ways in which we could change the procurement process to make the system more innovative and easy to commercialise.</p>
+    <p pid="a351.2/10">On foreign military sales, we should think about whether the UK should have its own sales programme. We hear a lot about what the US does in that regard, and it is quite attractive, but the US should not be the only country able to deal Government to Government. It might be worth thinking about whether the UK should offer similar deals to friendly allies, whether France or others, and how such a scheme could work.</p>
+    <p pid="a351.2/11">I absolutely agree that we must make the most of our opportunities. I support the call for a formal helicopter strategy to complement the combat air strategy, as it would help enormously our long-term decision-making processes and justifications. On that basis, I absolutely welcome the debate and thank my hon. Friend for bringing it about.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.353.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.353.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-01-29a.353.0" speakername="Carol Monaghan" person_id="uk.org.publicwhip/person/25406" colnum="353" time="17:17:00" url="">
+    <p pid="a353.0/1">It is a pleasure to speak in the debate. I congratulate <phrase class="honfriend" person_id="unknown" name="None">the hon. Member for Witney (Robert Courts)</phrase> on raising these issues, particularly how we plan—or do not properly plan—our defence strategy. It is interesting to see today many of the same faces we saw pre-election for a defence debate.</p>
+    <p pid="a353.0/2">I have a particular interest in this issue, having been rescued by a Sea King helicopter on the Cobbler, on the hills of Argyll, when I was a teenager. I was hill walking with two friends, and unfortunately one of my friends dislocated her knee; the other one ran to alert mountain rescue. We were airlifted off the Cobbler by a Royal Navy Sea King helicopter. While my poor friend spent the journey in the back of the helicopter, I was taken into the cockpit and got a wonderful ride down Loch Lomond to the hospital in Alexandria. For me, what started off as a not terribly great experience ended up as a particularly memorable one. The Sea King was retired in 2018, of course, and it is right to discuss how we will replace different types of aircraft that are important to our armed forces.</p>
+    <p pid="a353.0/3">In July 2016 the MOD signed a 10-year partnering agreement with Leonardo, which envisages the MOD spending about £3 billion with the company in the next decade on the upgrade and support of its helicopter fleets. Although the arrangement commits both sides to working together to achieve improvements in cost-effectiveness and innovation, the agreement is not a legally binding contract with a definite financial value attached, but an indication of support. We have hit this issue before in defence debates, because defence procurement requires long-term assurance. The UK Government should commit to long-term funding to ensure a steady drumbeat of orders, not just for rotary-wing aircraft but for different areas of our defence landscape.</p>
+    <p pid="a353.0/4"><phrase class="honfriend" person_id="unknown" name="None">The hon. Member for Witney (Robert Courts)</phrase> mentioned that we should bring in new technology while old technology is still in use, and the importance of working in parallel. That has not always worked in the past. With the Nimrod, we know there was a gap when capability was reduced while we were waiting for P8 to come online. That is now starting, but there has been a vulnerability for several years, particularly in the north Atlantic. That should not happen. We should see where the threats and potential issues are before they strike us.</p>
+    <p pid="a353.0/5">Our defence policy must also remain in step with our European allies and closest neighbours, even after we leave the European Union. The combat air strategy states:</p>
+    <p pid="a353.0/6" class="indent" pwmotiontext="yes">“The UK has a unique network of capability collaborations and will work quickly and openly with allies to build on or establish new partnerships to deliver future requirements.”</p>
+    <p pid="a353.0/7">There is a strong overlap between the defence interests of the UK and those of the EU. UK Government policy must take that into account despite the fact that we will leave the EU in just a few days’ time.</p>
+    <p pid="a353.0/8"><phrase class="honfriend" person_id="uk.org.publicwhip/person/25384" name="Marcus Fysh">The hon. Member for Yeovil (Mr Fysh)</phrase> mentioned skills and the skills gap, which is an issue that is close to my heart. I believe that we are starting to see some progress on that. We see companies taking active positions in order to attract a more diverse workforce into different areas, but it is not enough; more has to be done. I have spoken many times about the lack of female representation across the STEM subjects—science, technology, maths and, in particular, engineering. We still do not see enough female role models or companies doing enough to go out and attract them. The importance of that is that if we are missing out on 50% of the population, we are missing out on 50% of the skills. The hon. Gentleman also talked about the importance of research and development, and spin-out products that could  come as a result. As a scientist, I am never going to complain about more money being spent on R&amp;D, so I was pleased to hear that.</p>
+    <p pid="a353.0/9">The strength of our armed forces’ defences depends as much on the strength of personnel as it does on equipment. We must ensure that any steps take into account the needs and requirements of the men and women who serve in the armed forces. We have mentioned before in this place the need for some sort of representative body that can consult current and former personnel to ensure that issues pertinent to them are at the forefront of defence planning.</p>
+    <p pid="a353.0/10">The hon. Member for Witney talked about strategy, which is the nub of this debate. What do we actually need? He talked about unmanned aerial vehicles and cyber aircraft. We have to be careful that we do not think that what is required in 2020 is the same as what will be required in 2025 or 2030. We must always be planning our defence capability by looking to the future. It would be naive to think that we will still need the same sort of defence in 50 or 100 years’ time as we do today, so it is important that any decision about defence planning or procurement is taken with an eye to the future.</p>
+    <p pid="a353.0/11">The hon. Member for Witney talked about the possibility of a NATO helicopter force, which was an interesting idea. We do not always need to have everything here in the UK. Where can we provide specialisms? Where are our areas of pure expertise? What can we contribute to a NATO taskforce? As we look at defence procurement in the future and as budgets become increasing tight, can we look at where capability is needed and how we can contribute to that force without trying to do everything? In trying to do everything, we spread ourselves thin and inevitably some things are not done as well as others. Where is our expertise and our excellence, and what do we need in terms of rotary capability?</p>
+    <p pid="a353.0/12">Finally, I again thank the hon. Member for Witney. He has a knack of securing Westminster Hall debates—I may have a word with him after this to find out the secret of his success. Hopefully he can get similar success with his rotary strategy.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.355.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.355.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-01-29a.355.0" speakername="Stephen Morgan" person_id="uk.org.publicwhip/person/25658" colnum="355" time="17:25:00" url="">
+    <p pid="a355.0/1">It is a pleasure to serve under your chairship, Ms McDonagh. I thank <phrase class="honfriend" person_id="unknown" name="None">the hon. Member for Witney (Robert Courts)</phrase> for securing this important debate. I have observed his commitment to our armed forces through the armed forces parliamentary scheme—I think we have both been fortunate to have had the opportunity to travel in a Merlin, a Chinook and a Wildcat, seeing at first hand what our armed forces do.</p>
+    <p pid="a355.0/2">I also thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/25384" name="Marcus Fysh">the hon. Member for Yeovil (Mr Fysh)</phrase>, who made an important point about the value of industry and the need for skills to meet the challenges that our nation faces, and the Scottish National party spokeswoman, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25406" name="Carol Monaghan">the hon. Member for Glasgow North West (Carol Monaghan)</phrase>. I certainly value the contribution that she made about continued collaboration as Britain leaves the EU.</p>
+    <p pid="a355.0/3">From troop and equipment transportation to search and observation work and submarine protection, the 332 rotary-wing aircrafts in the UK armed forces play a crucial role in defending national security. I have always been clear that the Government have no higher duty  than the protection of our citizens, and the maintenance of national security. Alongside that responsibility, the Government must strive for operational advantage. Key to that is maintaining sovereign capability. A national strategy for naval shipbuilding and combat aircraft has paved the way for an ambitious vision for the future in those sectors. As the hon. Member for Witney said, it is now time to talk about helicopters as part of a wider defence industrial strategy.</p>
+    <p pid="a355.0/4">If the Government fail to provide a clear strategy for the protection of our sovereign capability to design and manufacture helicopters, it could jeopardise investment, jobs and the security of our nation. We have heard the case for a comprehensive, joined-up and integrated wider approach. It will allow a conversation to take place about defining a clear way ahead to preserve our national advantage. It will ensure that our highly skilled workforce continue to deliver innovation, and are at the heart of discussion, and it will bring to the forefront arguments for building British, securing us as world leaders.</p>
+    <p pid="a355.0/5">For that reason, I reiterate the calls on the Government to look urgently at a wider defence industrial strategy, with rotary-wing aircrafts playing a key role. That must be part of a strategic defence and security review, and it must encompass expenditure, policy and operations across the full spectrum of defence, security and foreign affairs. Therefore, when does the Minister expect the formal process for the SDSR to get underway? In that review, when can he confirm that rotary-wing aircrafts will receive consideration tantamount to the contribution they make to the UK armed forces?</p>
+    <p pid="a355.0/6">We know that future air warfare will be increasingly complex, with significant technological advancements over the lifetime of a single rotary-wing aircraft. As threats evolve, we must evolve with them. Without a comprehensive strategic defence and security review, that will be deeply challenging. I vow to continue applying scrutiny and pressure to the Government on this issue, and will continue to work alongside all Members present to ensure that rotary-wing aircrafts are given the priority that they deserve.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.356.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.356.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-01-29a.356.0" speakername="James Heappey" person_id="uk.org.publicwhip/person/25438" colnum="356" time="17:28:00" url="">
+    <p pid="a356.0/1">It is a pleasure to serve under your chairmanship, Ms McDonagh, on my maiden voyage as a Minister. I am slightly nervous of inadvertently spending loads of money and getting told off when I get back to the Department, but it gives me great pleasure to respond to the debate. I congratulate my hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Witney (Robert Courts)</phrase> on securing it. Last Thursday, he and I had the opportunity of visiting RAF Brize Norton in his constituency. He is an eloquent and passionate supporter of the Royal Air Force and of its importance to the community that surrounds the base. It is fantastic to see today that his interest extends beyond the parochial to a wider interest in defence matters.</p>
+    <p pid="a356.0/2">I should add that in my previous career I had some first-hand experience of the fantastic work of those who serve in our joint helicopter command. They have flown me in Northern Ireland, Iraq and Afghanistan, on occasion with things travelling very fast to try to hit us. The courage that our helicopter pilots show while flying in combat zones and the amazing ingenuity of the engineers who keep them flying, often in challenging  environments, is not to be underestimated. So, at the start of my first opportunity to speak as a Minister, I put on record my admiration for those who fly and support our helicopters on operations.</p>
+    <p pid="a356.0/3">Defence already supports 115,000 jobs across the UK—one in every 220—through £18 billion of annual spending with industry. There is an opportunity for that to translate positively into the Government’s levelling-up agenda. This year, as we go through the integrated defence, security and foreign policy review, we will seek to understand the opportunity to participate in that levelling-up agenda, and to see how we can spend that defence budget to have effect in the regions of the UK where there is opportunity to invest in defence.</p>
+    <p pid="a356.0/4">I am pleased to say that I have personal experience of that, having seen it with the rotary sector in Somerset. This year will see the opening of the iAero Centre in Yeovil, for which my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25384" name="Marcus Fysh">the Member for Yeovil (Mr Fysh)</phrase> campaigned vigorously. That facility will drive innovation in local aerospace and promote its ongoing competitiveness in the UK and the world. It has been made possible by Defence’s long-term investment in Leonardo helicopters and the financial commitment of Somerset County Council and the local enterprise partnership.</p>
+    <p pid="a356.0/5">The centre will deliver a real opportunity for our region, but also for industry and academia to collaborate on innovation. It will be an accelerator for our region’s goals of looking at how clean tech can be employed in manufacturing and focusing on future developments in autonomy, artificial intelligence, hybrid and electric power, as well as other sustainable technology in advanced manufacturing and engineering.</p>
+    <p pid="a356.0/6">Our investment in rotary will act as a catalyst for wider innovation, which is hugely exciting. Having seen how that opportunity might work in Somerset, and having recently visited other defence companies that are investing in skills and innovation in the communities in which they operate, I am clear that there is a real opportunity to exploit that further. It is a very exciting proposition and one that I am looking to make an important part of my work in this brief over the years ahead.</p>
+    <p pid="a356.0/7"><phrase class="honfriend" person_id="uk.org.publicwhip/person/25406" name="Carol Monaghan">The hon. Member for Glasgow North West (Carol Monaghan)</phrase> made an excellent point about people in the defence industry. She is right to note that, too often, when we walk into a boardroom in a defence company, it is very male indeed, and that quite a large part of the senior workforce in those places is very male indeed.</p>
+    <p pid="a356.0/8">I have noticed an interesting discrepancy between the graduate entry into defence companies, which is still very male, and the apprenticeship-level entry coming directly in at 16, which is much more balanced. That is a very interesting issue for us to explore. Why is it that male and female students look at an apprenticeship in the defence industry with equal enthusiasm, yet when we come to recruiting people out of universities into engineering roles in defence, we have less success?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.357.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.357.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.358.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.358.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-29a.361.0" newgid="uk.org.publicwhip/westminhall/2020-01-29b.361.0" matchtype="perfectmatch"/>
+</publicwhip>
+

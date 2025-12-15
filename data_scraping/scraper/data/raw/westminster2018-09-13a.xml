@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2018-09-13a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.385.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.385.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.385.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.385.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.385.2" newgid="uk.org.publicwhip/westminhall/2018-09-13b.385.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.385.3" newgid="uk.org.publicwhip/westminhall/2018-09-13b.385.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.389.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.389.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.389.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.389.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.389.2" newgid="uk.org.publicwhip/westminhall/2018-09-13b.389.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.390.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.390.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.390.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.390.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.391.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.391.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.391.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.391.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.391.2" newgid="uk.org.publicwhip/westminhall/2018-09-13b.391.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.391.3" newgid="uk.org.publicwhip/westminhall/2018-09-13b.391.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.392.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.392.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.394.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.394.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.395.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.395.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.397.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.397.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.398.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.398.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.399.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.399.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.400.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.400.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.401.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.401.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.402.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.402.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.403.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.403.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.403.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.403.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.405.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.405.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.405.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.405.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.407.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.407.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.407.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.407.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.409.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.409.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.409.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.409.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.410.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.410.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.410.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.410.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.414.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.414.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.416.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.416.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-09-13a.416.0" speakername="Jim Fitzpatrick" person_id="uk.org.publicwhip/person/10199" colnum="416" time="15:29:00" url="">
+    <p pid="a416.0/1">It is a pleasure to see you presiding this afternoon, Mr Evans. I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10611" name="Stephen Twigg">the Member for Liverpool, West Derby (Stephen Twigg)</phrase> on securing this important debate. As he said, every road casualty is a tragedy, and the death of Bobby Colleran is no different. I join my hon. Friend in commending the campaign to remember Bobby, and I love the idea of Bobby zones. It is very personal and it makes the point.</p>
+    <p pid="a416.0/2">When I was a Minister with responsibility for road safety, I had the privilege of meeting several families who were affected by a family member being killed and who channelled their grief and bereavement into campaigning for the safety of others and for road safety in general. Bobby’s is a powerful story, and we want to ensure that it is transmitted across the political spectrum. I look forward to hearing the Minister’s response to the suggestion about Bobby zones and the progress that might be made.</p>
+    <p pid="a416.0/3">I hope the Minister will also respond to the points of <phrase class="honfriend" person_id="uk.org.publicwhip/person/25426" name="Huw Merriman">the hon. Member for Bexhill and Battle (Huw Merriman)</phrase> about school crossings, parking near schools, school travel plans and 20 mph zones. I know the hon. Gentleman talked about 30 mph zones, but, certainly in London, the big campaign is for schools to have 20 mph zones. Most of them are there, but enforcement is key.</p>
+    <p pid="a416.0/4">I raised the issue of deaths of schoolchildren in an international context earlier this year, on <phrase class="date" code="2018-03-29">29 March</phrase> and <phrase class="date" code="2018-04-24">24 April</phrase>. The United Nations and the World Health Organisation estimate that about 500 children leave for  school every day and do not return home. That is one reason why the sustainable development goals contain targets to cut the numbers killed and seriously injured on the world’s roads. At the moment, more than 1 million people die on the world’s roads every year, and 20 million are seriously injured.</p>
+    <p pid="a416.0/5">In the UK, we are lucky, because we have one of the best road safety records in the world. In a variety of ways, we also help many countries that are more challenged. The charity Fire Aid, which I chair, delivers equipment and training from fire brigades and the fire sector across the country. It also trains fire brigades in developing countries, in particular, in post-crash response. In many countries across the world, apart from delivering that equipment and those techniques, it delivers the THINK! campaign’s road safety education programmes to get the message out in schools, as the Minister knows.</p>
+    <p pid="a416.0/6">As has been mentioned, however, the domestic statistics do not make comfortable reading. A paper from the Department for Transport shows that, on average in 2013, which is when the last available data in the World Health Organisation’s global status report comes from, one child aged nought to 15 was killed and 37 were seriously injured every week in the UK. It also shows that most were killed or injured on their way home from school.</p>
+    <p pid="a416.0/7">This year, the Department for Transport published a capacity review for the UK. It says:</p>
+    <p pid="a416.0/8" class="indent" pwmotiontext="yes">“The removal of the ring-fenced Road Safety Grant and the substantial reductions in local highway investments and in traffic policing levels, experienced since 2010, have had visible impact on the level and quality of activity. Most local authorities are struggling to carry out and prioritise effective road safety activity in a time of budget cuts and growing demand in other areas, such as social care, without the impetus provided in the past from national measurable objectives”—</p>
+    <p pid="a416.0/9">I will come back to that later. It goes on to say:</p>
+    <p pid="a416.0/10" class="indent" pwmotiontext="yes">“Britain’s safety record for pedestrians and cyclists does not compare well to the leading road safety performers internationally.”</p>
+    <p pid="a416.0/11">The latest Department for Transport figures for 2016 on child deaths and injuries show a jump compared with other figures, as has been mentioned. The number of child deaths in reported road traffic accidents in 2016 was 69, which is 15 more than the 54 child deaths that occurred in 2015. The 2016 figures are the highest since 2009. The Department for Transport’s factsheet on child casualties says:</p>
+    <p pid="a416.0/12" class="indent" pwmotiontext="yes">“Children under the age of 16 are one of the most vulnerable road users”,</p>
+    <p pid="a416.0/13">which I think we can all understand, adding that</p>
+    <p pid="a416.0/14" class="indent" pwmotiontext="yes">“child pedestrians are not experienced and well educated about using the road…8%...involved in accidents failed to look properly”,</p>
+    <p pid="a416.0/15">and</p>
+    <p pid="a416.0/16" class="indent" pwmotiontext="yes">“38%...were careless, reckless or in a hurry.”</p>
+    <p pid="a416.0/17">This is very much about education. Some 72% of the accidents that kill or seriously injure children on a school day happen between 8 o’clock and 9 o’clock or between 3 o’clock and 7 o’clock—clearly during the school run. That is despite the fact that the proportion of trips where children walk to school has fallen from 47% in 1997 to 42% in 2013.</p>
+    <p pid="a416.0/18">To come back to my original point about measurability, in 2010, the coalition Government decided to break with the 30-year consensus on having targets to reduce the number of people killed and seriously injured on our roads. That decision was badly received by the whole road safety industry. The targets had been introduced  by the Administration of Mrs Thatcher—later Baroness Thatcher—in 1986, when I think <phrase class="honfriend" person_id="uk.org.publicwhip/person/10057" name="Peter Bottomley">the hon. Member for Worthing West (Sir Peter Bottomley)</phrase> was the Minister with responsibility for road safety.</p>
+    <p pid="a416.0/19">The coalition Government decided that they did not want to risk being accused of failure if the targets were not met, but the targets were never about providing an opportunity for party political point scoring. They were about creating an atmosphere for all involved and demonstrating the ambition that we wanted to do better and to have safer roads.</p>
+    <p pid="a416.0/20">Perversely, the coalition Government, and now this one, have happily signed up to European Union targets and to the UN’s sustainable development goals, which also have targets. We are joining in on international targets, but we will not set a target in the United Kingdom. If the Government want to demonstrate some determination in this area, they need to announce that they will go back to killed or seriously injured—KSI—targets, which were started by a Conservative Government more than 30 years ago and which should be in position today.</p>
+    <p pid="a416.0/21">All hon. Members hold the Minister in high regard, have great respect for him and do not doubt the integrity he brings to his position. We all wish him well, but we need a Department for Transport policy that reflects his personal commit. I look forward to his response to the request of my hon. Friend the Member for Liverpool, West Derby about Bobby zones, and to other hon. Members’ exhortations about doing better for schools kids. I also look forward to the response of my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24767" name="Karl Turner">the Member for Kingston upon Hull East (Karl Turner)</phrase>.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.418.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.418.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.421.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.421.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.422.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.422.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.425.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.425.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.425.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.425.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.425.2" newgid="uk.org.publicwhip/westminhall/2018-09-13b.425.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.426.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.426.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.426.1" newgid="uk.org.publicwhip/westminhall/2018-09-13b.426.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.427.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.427.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.428.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.428.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-09-13a.430.0" newgid="uk.org.publicwhip/westminhall/2018-09-13b.430.0" matchtype="perfectmatch"/>
+</publicwhip>
+

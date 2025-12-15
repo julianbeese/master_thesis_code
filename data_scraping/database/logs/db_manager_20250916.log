@@ -1,0 +1,103 @@
+2025-09-16 20:49:54,481 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS scraping_metadata (
+            id INTEGER PRIMARY KEY,
+        ...
+2025-09-16 20:49:54,481 - scraper.database_integration - INFO - Scraping-Metadaten-Tabelle erstellt
+2025-09-16 20:49:54,481 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS scraping_metadata (
+            id INTEGER PRIMARY KEY,
+        ...
+2025-09-16 20:49:54,482 - scraper.database_integration - INFO - Scraping-Metadaten-Tabelle erstellt
+2025-09-16 20:49:54,483 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: NOT NULL constraint failed: scraping_metadata.id
+2025-09-16 20:49:54,485 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-16 20:50:06,803 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Parser Error: syntax error at or near "AUTOINCREMENT"
+
+LINE 3:             id INTEGER PRIMARY KEY AUTOINCREMENT,
+                                           ^
+2025-09-16 20:50:06,804 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-16 20:50:35,686 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS scraping_metadata (
+            id INTEGER PRIMARY KEY,
+        ...
+2025-09-16 20:50:35,687 - scraper.database_integration - INFO - Scraping-Metadaten-Tabelle erstellt
+2025-09-16 20:50:35,687 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS scraping_metadata (
+            id INTEGER PRIMARY KEY,
+        ...
+2025-09-16 20:50:35,687 - scraper.database_integration - INFO - Scraping-Metadaten-Tabelle erstellt
+2025-09-16 20:50:35,691 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        INSERT INTO scraping_metadata 
+        (id, filename, url, year, download_date, file_size_b...
+2025-09-16 20:50:35,691 - scraper.database_integration - INFO - 1 Metadaten-Einträge gespeichert
+2025-09-16 20:50:35,691 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) as total FROM scraping_metadata...
+2025-09-16 20:50:35,696 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            SELECT year, COUNT(*) as count, 
+                   SUM(CASE WHEN is_valid_xml = 1 THEN...
+2025-09-16 20:50:35,697 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            SELECT processing_status, COUNT(*) as count
+            FROM scraping_metadata 
+       ...
+2025-09-16 20:50:35,697 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            SELECT 
+                COUNT(*) as total,
+                SUM(CASE WHEN is_valid_xml =...
+2025-09-16 20:50:35,704 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-16 20:51:01,001 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS scraping_metadata (
+            id INTEGER PRIMARY KEY,
+        ...
+2025-09-16 20:51:01,001 - scraper.database_integration - INFO - Scraping-Metadaten-Tabelle erstellt
+2025-09-16 20:51:01,002 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS scraping_metadata (
+            id INTEGER PRIMARY KEY,
+        ...
+2025-09-16 20:51:01,002 - scraper.database_integration - INFO - Scraping-Metadaten-Tabelle erstellt
+2025-09-16 20:51:01,005 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COALESCE(MAX(id), 0) FROM scraping_metadata...
+2025-09-16 20:51:01,010 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        INSERT INTO scraping_metadata 
+        (id, filename, url, year, download_date, file_size_b...
+2025-09-16 20:51:01,010 - scraper.database_integration - INFO - 1 Metadaten-Einträge gespeichert
+2025-09-16 20:51:01,011 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) as total FROM scraping_metadata...
+2025-09-16 20:51:01,017 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            SELECT year, COUNT(*) as count, 
+                   SUM(CASE WHEN is_valid_xml = 1 THEN...
+2025-09-16 20:51:01,018 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            SELECT processing_status, COUNT(*) as count
+            FROM scraping_metadata 
+       ...
+2025-09-16 20:51:01,019 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            SELECT 
+                COUNT(*) as total,
+                SUM(CASE WHEN is_valid_xml =...
+2025-09-16 20:51:01,023 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-16 21:05:55,212 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM parliament_speeches...
+2025-09-16 21:05:55,218 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            SELECT speaker_name, COUNT(*) as speeches, SUM(word_count) as total_words
+            F...
+2025-09-16 21:05:55,220 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-16 21:06:19,115 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM parliament_speeches...
+2025-09-16 21:06:19,117 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            SELECT speaker_name, COUNT(*) as speeches, SUM(word_count) as total_words
+            F...
+2025-09-16 21:06:19,122 - database.managers.database_manager - INFO - Query als DataFrame ausgeführt: 
+            SELECT speaker_name, word_count, text
+            FROM parliament_speeches 
+           ...
+2025-09-16 21:06:19,124 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-16 21:06:19,148 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM parliament_sessions...
+2025-09-16 21:06:19,148 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM parliament_debates...
+2025-09-16 21:06:19,148 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM parliament_speeches...
+2025-09-16 21:06:19,149 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM parliament_speakers...
+2025-09-16 21:06:19,149 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM parliament_paragraphs...
+2025-09-16 21:06:19,149 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT SUM(word_count) FROM parliament_speeches...
+2025-09-16 21:06:19,150 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT MIN(date), MAX(date) FROM parliament_sessions...
+2025-09-16 21:06:19,151 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+                SELECT speaker_name, COUNT(*) as speech_count, SUM(word_count) as total_words
+     ...
+2025-09-16 21:06:19,154 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            SELECT 
+                s.session_id,
+                s.date,
+                s.session...
+2025-09-16 21:06:19,173 - parser.database_integration - INFO - ML-Daten exportiert: parser/data/exported/parliament_ml_data_20250916_210619.parquet (134 Zeilen)
+2025-09-16 21:06:19,174 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

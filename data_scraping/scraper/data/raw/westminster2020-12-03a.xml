@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-12-03a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.209.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.209.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.209.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.209.2" newgid="uk.org.publicwhip/westminhall/2020-12-03b.209.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.212.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.212.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.212.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.212.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.214.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.216.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.216.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.218.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.219.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.219.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.219.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.220.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.220.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.222.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.222.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.225.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.228.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.230.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.230.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.230.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.230.2" newgid="uk.org.publicwhip/westminhall/2020-12-03b.230.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.231.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.231.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.231.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.231.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.231.2" newgid="uk.org.publicwhip/westminhall/2020-12-03b.231.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.231.3" newgid="uk.org.publicwhip/westminhall/2020-12-03b.231.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.233.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.233.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.233.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.233.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.233.2" newgid="uk.org.publicwhip/westminhall/2020-12-03b.233.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.233.3" newgid="uk.org.publicwhip/westminhall/2020-12-03b.233.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.236.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.236.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.236.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.236.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.237.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.239.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.239.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.240.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.241.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.242.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.242.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.244.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.244.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.245.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.246.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.246.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.246.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.246.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.247.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.247.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.249.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.249.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.250.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.250.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.251.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.253.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.253.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.253.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.253.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.254.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.254.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.254.1" newgid="uk.org.publicwhip/westminhall/2020-12-03b.254.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.255.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.255.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-12-03a.255.0" speakername="Vicky Ford" type="Start Speech" person_id="uk.org.publicwhip/person/25614" colnum="255" time="16:16:00" url="">
+    <p pid="a255.0/1">It is a pleasure to serve under your chairmanship, Mr Hollobone. I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24901" name="Steve Brine">the Member for Winchester (Steve Brine)</phrase> on securing this really important debate, and I thank all colleagues for taking part; it shows how much we care about the early years.</p>
+    <p pid="a255.0/2">I love the early years. When my children were little, I gave my time as a volunteer to help run our local pre-school. The days were always busy. I admit that they were sometimes quite tiring, but they were always deeply fulfilling and packed with joy. I have huge admiration for people who work in the early years sector and dedicate their time, skills and love to helping to provide high-quality early years education and childcare. They do an excellent job in helping our youngest children to learn and grow, and families across the country rely on them. I thank them all.</p>
+    <p pid="a255.0/3">We should be so proud of our early years providers. Some 96% of early education settings are now rated good or outstanding by Ofsted—an increase from 74% back in 2012. A child’s early years are absolutely crucial for their development, and we are doing more than any previous Government have done to ensure that as many families as possible can access high-quality, affordable childcare. That has made a difference for children. The latest early years foundation stage profile results show that the proportion of all children reaching a good level of development is really improving. Back in 2013, only 52% of five-year-olds, or about one in two, had a good level of development. The figure is now 72%—nearly three out of four children. Since 2013, the attainment gap at age five has also narrowed, so disadvantaged children are catching up with those from better-off backgrounds.</p>
+    <p pid="a255.0/4">That is partly due to the increased and unprecedented investment that the Government have put into early years childcare. This year, we are planning an unprecedented investment of £3.6 billion in free childcare places. That includes the universal 15 hours of childcare for all three and four-year-olds, regardless of whether their parents are working. Take-up is high: 91% of three-year-olds and 94% of four-year-olds back in January of this year.  That investment also includes the 15 hours of free childcare for the most disadvantaged two-year-olds. That gives them a great start in life and helps to close the attainment gap. More than 1 million disadvantaged two-year-olds have benefited from it since the programme began in 2013.</p>
+    <p pid="a255.0/5">More recently, an extra 15 hours for working parents with three and four-year-olds was introduced in 2017 by the Conservative Government. An estimated 345,700 children took up those 30 hours places in 2020. Funding for those places provided an average of 56% of income for group or school-based early years settings last year.</p>
+    <p pid="a255.0/6">During the pandemic, the Government have acted to support nurseries and provide security to them and childcare. At the peak of the pandemic, early years settings did an amazing job by remaining open for the children of critical workers and for vulnerable children. Many hon. Members mentioned how that made a difference to their own personal lives, as well as to their constituents. I thank those early years settings.</p>
+    <p pid="a255.0/7">We prioritised childcare settings for reopening on <phrase class="date" code="2020-06-01">1 June</phrase>, and we have supported early years providers by continuing to pay local authorities for the free childcare places at pre-covid levels since March, even if providers had to close due to the pandemic. Providers were eligible for the coronavirus job retention scheme for the proportion of the business that comes from private income. Childminders could also use the self-employment income support scheme, and many settings have benefited from business rate holidays and business loans. We froze Ofsted fees for 2020-21, and early years staff have been prioritised for coronavirus tests throughout this period when they have booked them through the online portal. In addition, since <phrase class="date" code="2020-09-17">17 September</phrase>, if a staff member or a child has tested positive for coronavirus, the settings have been able to access the dedicated advice service provided by the DFE.</p>
+    <p pid="a255.0/8">We know that at the beginning of the summer term, attendance levels were much lower than they were before covid, and providers were of course concerned about sustainability going into the autumn term. On <phrase class="date" code="2020-07-20">20 July</phrase>, we announced that we would continue to fund childcare at the pre-coronavirus level through to the end of the term. That has given nurseries and childminders an extra term of secure income, regardless of whether or not children are attending. Currently, at least 80% of early years settings are open, and attendance has been consistently increasing during the autumn term. We estimate that, last week, 826,000 children attended an early years setting.</p>
+    <p pid="a255.0/9">The arrangements for the spring term funding are really important, and I am very sorry that we have not been able to set out this position sooner. I know that we must finalise it quickly because, after all, it is just for next term. I assure the House that I am pressing everyone very hard to do so. Understandably, my colleagues at Her Majesty’s Treasury have been very focused on the spending review, but I am pleased that during it they also gave great focus to early years, and the position was announced by my right hon. Friend the Chancellor.</p>
+    <p pid="a255.0/10">As I said earlier, early years settings will continue to benefit from a planned £3.6 billion of funding for this financial year, but for the next financial year colleagues should understand that there will be a demographic change, and as a result of falling birth rates there will be fewer children in the early years age group. Therefore,  the total early years entitlement spend in 2021-22 may be less than in 2020-21. However, for 2021-22 the Chancellor has announced a further £44 million, which means that local authorities will be able to increase hourly rates paid to childcare providers for the Government’s free childcare offers. That will pay for a rate increase that is higher than the cost that nurseries may face from the uplift to the national living wage in April. I wanted to put that important fact on the record. Further details and information on how the money will be distributed will be made available as soon as possible.</p>
+    <p pid="a255.0/11">We understand that increased levels of attendance in early years settings does not necessarily mean that parental demand for childcare has yet returned to the levels seen before the pandemic. Providers have told us that they have seen a reduction in the number of additional hours that parents pay for. This month we will support providers and local authorities to help improve sustainability in their own local markets. Two national webinars will be delivered to the sector by our partner, Hempsall’s, which will promote strategies for improving provider sustainability, sharing good market practice across early years providers and building confidence in local authorities to have business support conversations with providers in their local markets. We are also considering making reactive expert support available to local authorities to address any immediate sufficiency issues.</p>
+    <p pid="a255.0/12">Many right hon. and hon. Members have spoken about maintained nursery schools. I know that my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11500" name="Theresa Villiers">the Member for Chipping Barnet (Theresa Villiers)</phrase> is keen to understand the plans for future funding for maintained nursery schools. There are 389 such schools across the country—I have two in my constituency. They do an excellent job, but they have extra costs, such as carrying a headteacher and more qualified teachers in the governing body. That is why the Government have provided £60 million in supplementary funding this year, and the Chancellor announced in the spending review that that money is secured for the coming financial year. The Government’s commitment to the long-term funding of maintained nursery schools is unchanged. We continue to consider what is required to ensure a clear long-term picture of funding for all maintained nursery schools. We will say more about that soon</p>
+    <p pid="a255.0/13">I note the request from <phrase class="honfriend" person_id="uk.org.publicwhip/person/25809" name="Rachel Hopkins">the hon. Member for Luton South (Rachel Hopkins)</phrase> for a meeting about children’s services. She need only write to me to get a meeting. I have written to <phrase class="honfriend" person_id="uk.org.publicwhip/person/25823" name="Sarah Owen">the hon. Member for Luton North (Sarah Owen)</phrase> about maintained nursery schools; I am sure that she was pleased about the extra money. DFE is supporting Luton with a specialist adviser at this time, and I will happily facilitate a meeting to update them.</p>
+    <p pid="a255.0/14">We are in frequent contact with local authorities and early years sector organisations, through regular meetings and working groups. I would like to say a big thank you to the organisations that represent the views of the  sector, including NDNA, PACEY and the Early Years Alliance. They work continually with us, hand in hand, on these matters.</p>
+    <p pid="a255.0/15">My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24786" name="Steven Baker">the Member for Wycombe (Mr Baker)</phrase> spoke wisely about the need for strong support and strong supportive voices for the early years sector. He is spot on. I thank him for agreeing that he will be with me all the way.</p>
+    <p pid="a255.0/16">Supporting families and children is at the heart of all that the Government do, especially at this challenging time. Ensuring access to childcare to educate children and enable parents and carers to work is crucial to providing support for children. I am deeply honoured to be responsible for this extremely important part of the Government’s agenda, and I will always champion early years.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-03a.258.0" newgid="uk.org.publicwhip/westminhall/2020-12-03b.258.0" matchtype="perfectmatch"/>
+</publicwhip>
+

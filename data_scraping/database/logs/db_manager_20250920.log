@@ -1,0 +1,14 @@
+2025-09-20 19:59:14,754 - debates_parser - INFO - Erstelle ML-Features aus Rede-Daten
+2025-09-20 19:59:14,763 - debates_parser - INFO - ML-Features erstellt: (649076, 12)
+2025-09-20 19:59:15,294 - database_manager - INFO - Tabelle 'ml_features' aus Polars DataFrame erstellt
+2025-09-20 19:59:27,004 - database_manager - INFO - Tabelle 'paragraphs' aus Polars DataFrame erstellt
+2025-09-20 19:59:27,143 - database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-20 20:01:47,709 - database_manager - INFO - Tabelle 'paragraphs' aus Polars DataFrame erstellt
+2025-09-20 20:01:47,734 - database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-20 20:02:44,113 - database_manager - INFO - Tabelle 'paragraphs' aus Polars DataFrame erstellt
+2025-09-20 20:02:44,248 - database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-20 20:10:52,175 - database_manager - INFO - Tabelle 'sessions' aus Polars DataFrame erstellt
+2025-09-20 20:10:52,180 - database_manager - INFO - Tabelle 'speakers' aus Polars DataFrame erstellt
+2025-09-20 20:10:52,212 - database_manager - INFO - Tabelle 'debates' aus Polars DataFrame erstellt
+2025-09-20 20:10:54,188 - database_manager - INFO - Tabelle 'speeches' aus Polars DataFrame erstellt
+2025-09-20 20:10:54,364 - database_manager - INFO - Datenbankverbindung geschlossen

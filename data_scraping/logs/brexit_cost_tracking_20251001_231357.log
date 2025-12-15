@@ -1,0 +1,19 @@
+2025-10-01 23:13:57,679 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-10-01 23:13:57,679 - __main__ - INFO - Max Debatten: 2
+2025-10-01 23:13:57,679 - __main__ - INFO - Quell-Datenbank: database/data/parliament_data.db
+2025-10-01 23:13:57,680 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data.db
+2025-10-01 23:13:57,680 - __main__ - INFO - Gemini-Modell: gemini-2.0-flash
+2025-10-01 23:13:57,680 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-10-01 23:13:57,680 - __main__ - INFO - max_debates: 2
+2025-10-01 23:13:57,680 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-10-01 23:13:57,680 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-10-01 23:13:57,680 - __main__ - INFO - estimated_total_tokens: 2750
+2025-10-01 23:13:57,680 - __main__ - INFO - estimated_input_cost: 0.0002
+2025-10-01 23:13:57,680 - __main__ - INFO - estimated_output_cost: 0.0001
+2025-10-01 23:13:57,680 - __main__ - INFO - estimated_total_cost: 0.0003
+2025-10-01 23:13:57,680 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-10-01 23:13:57,680 - __main__ - INFO - Initialisiere Komponenten...
+2025-10-01 23:13:57,685 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-2.0-flash' erfolgreich initialisiert
+2025-10-01 23:13:57,685 - __main__ - INFO - ✅ Gemini API verfügbar
+2025-10-01 23:13:57,687 - __main__ - ERROR - Kritischer Fehler: IO Error: Could not set lock on file "/Users/julianbeese/Developer/Master/Data/database/data/brexit_data.db": Conflicting lock is held in /Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Plugin).app/Contents/MacOS/Cursor Helper (Plugin) (PID 54422) by user julianbeese. See also https://duckdb.org/docs/stable/connect/concurrency
+2025-10-01 23:13:57,688 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

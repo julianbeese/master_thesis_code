@@ -1,0 +1,125 @@
+2025-10-01 22:10:17,593 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-10-01 22:10:17,594 - __main__ - INFO - Max Debatten: 200
+2025-10-01 22:10:17,594 - __main__ - INFO - Quell-Datenbank: database/data/parliament_data.db
+2025-10-01 22:10:17,594 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data_filtered.db
+2025-10-01 22:10:17,594 - __main__ - INFO - Gemini-Modell: gemini-2.0-flash
+2025-10-01 22:10:17,594 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-10-01 22:10:17,594 - __main__ - INFO - max_debates: 200
+2025-10-01 22:10:17,594 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-10-01 22:10:17,594 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-10-01 22:10:17,594 - __main__ - INFO - estimated_total_tokens: 275000
+2025-10-01 22:10:17,594 - __main__ - INFO - estimated_input_cost: 0.0187
+2025-10-01 22:10:17,594 - __main__ - INFO - estimated_output_cost: 0.0075
+2025-10-01 22:10:17,594 - __main__ - INFO - estimated_total_cost: 0.0262
+2025-10-01 22:10:17,594 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-10-01 22:10:17,594 - __main__ - INFO - Initialisiere Komponenten...
+2025-10-01 22:10:17,601 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-2.0-flash' erfolgreich initialisiert
+2025-10-01 22:10:17,601 - __main__ - INFO - ✅ Gemini API verfügbar
+2025-10-01 22:10:17,613 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_sessions (
+            session_id TEXT PRIMARY KEY,
+     ...
+2025-10-01 22:10:17,613 - classifier.brexit_database - INFO - Tabelle 'brexit_sessions' erstellt/überprüft
+2025-10-01 22:10:17,615 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_debates (
+            debate_id INTEGER PRIMARY KEY,
+    ...
+2025-10-01 22:10:17,615 - classifier.brexit_database - INFO - Tabelle 'brexit_debates' erstellt/überprüft
+2025-10-01 22:10:17,615 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_speeches (
+            speech_id TEXT PRIMARY KEY,
+      ...
+2025-10-01 22:10:17,615 - classifier.brexit_database - INFO - Tabelle 'brexit_speeches' erstellt/überprüft
+2025-10-01 22:10:17,616 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_keywords (
+            keyword_id INTEGER PRIMARY KEY,
+  ...
+2025-10-01 22:10:17,616 - classifier.brexit_database - INFO - Tabelle 'brexit_keywords' erstellt/überprüft
+2025-10-01 22:10:17,616 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS classification_log (
+            log_id INTEGER PRIMARY KEY,
+   ...
+2025-10-01 22:10:17,616 - classifier.brexit_database - INFO - Tabelle 'classification_log' erstellt/überprüft
+2025-10-01 22:10:17,616 - classifier.brexit_database - INFO - Brexit-Datenbank initialisiert: database/data/brexit_data_filtered.db
+2025-10-01 22:10:17,616 - __main__ - INFO - Kopiere ursprüngliche Parliament-Daten...
+2025-10-01 22:10:17,616 - classifier.brexit_database - INFO - Kopiere ursprüngliche Parliament-Daten...
+2025-10-01 22:10:17,616 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+                CREATE TABLE IF NOT EXISTS parliament_sessions (
+                    session_id TEX...
+2025-10-01 22:10:17,630 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name parliament_sessions does not exist!
+Did you mean "pg_class"?
+
+LINE 1: SELECT * FROM parliament_sessions
+                      ^
+2025-10-01 22:10:17,631 - classifier.brexit_database - ERROR - Fehler beim Kopieren der Sessions: Catalog Error: Table with name parliament_sessions does not exist!
+Did you mean "pg_class"?
+
+LINE 1: SELECT * FROM parliament_sessions
+                      ^
+2025-10-01 22:10:17,632 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+                CREATE TABLE IF NOT EXISTS parliament_debates (
+                    debate_id INTEG...
+2025-10-01 22:10:17,632 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name parliament_debates does not exist!
+Did you mean "pg_database"?
+
+LINE 1: SELECT * FROM parliament_debates
+                      ^
+2025-10-01 22:10:17,633 - classifier.brexit_database - ERROR - Fehler beim Kopieren der Debatten: Catalog Error: Table with name parliament_debates does not exist!
+Did you mean "pg_database"?
+
+LINE 1: SELECT * FROM parliament_debates
+                      ^
+2025-10-01 22:10:17,633 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+                CREATE TABLE IF NOT EXISTS parliament_speeches (
+                    speech_id TEXT...
+2025-10-01 22:10:17,634 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name parliament_speeches does not exist!
+Did you mean "pg_tablespace or sqlite_schema"?
+
+LINE 1: SELECT * FROM parliament_speeches
+                      ^
+2025-10-01 22:10:17,634 - classifier.brexit_database - ERROR - Fehler beim Kopieren der Reden: Catalog Error: Table with name parliament_speeches does not exist!
+Did you mean "pg_tablespace or sqlite_schema"?
+
+LINE 1: SELECT * FROM parliament_speeches
+                      ^
+2025-10-01 22:10:17,634 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+                CREATE TABLE IF NOT EXISTS parliament_speakers (
+                    speaker_id TEX...
+2025-10-01 22:10:17,634 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name parliament_speakers does not exist!
+Did you mean "pg_tablespace or sqlite_master"?
+
+LINE 1: SELECT * FROM parliament_speakers
+                      ^
+2025-10-01 22:10:17,634 - classifier.brexit_database - ERROR - Fehler beim Kopieren der Sprecher: Catalog Error: Table with name parliament_speakers does not exist!
+Did you mean "pg_tablespace or sqlite_master"?
+
+LINE 1: SELECT * FROM parliament_speakers
+                      ^
+2025-10-01 22:10:17,635 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+                CREATE TABLE IF NOT EXISTS parliament_paragraphs (
+                    paragraph_id...
+2025-10-01 22:10:17,635 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name parliament_paragraphs does not exist!
+Did you mean "pragma_database_list"?
+
+LINE 1: SELECT * FROM parliament_paragraphs
+                      ^
+2025-10-01 22:10:17,635 - classifier.brexit_database - ERROR - Fehler beim Kopieren der Absätze: Catalog Error: Table with name parliament_paragraphs does not exist!
+Did you mean "pragma_database_list"?
+
+LINE 1: SELECT * FROM parliament_paragraphs
+                      ^
+2025-10-01 22:10:17,635 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-10-01 22:10:17,635 - classifier.brexit_database - INFO - Alle ursprünglichen Daten erfolgreich kopiert
+2025-10-01 22:10:17,635 - __main__ - INFO - Lade Debatten aus der Datenbank...
+2025-10-01 22:10:17,635 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name parliament_debates does not exist!
+Did you mean "pg_database"?
+
+LINE 3:         FROM parliament_debates d
+                     ^
+2025-10-01 22:10:17,635 - __main__ - ERROR - Kritischer Fehler: Catalog Error: Table with name parliament_debates does not exist!
+Did you mean "pg_database"?
+
+LINE 3:         FROM parliament_debates d
+                     ^
+2025-10-01 22:10:17,638 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-10-01 22:10:17,641 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

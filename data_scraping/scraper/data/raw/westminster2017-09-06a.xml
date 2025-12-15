@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2017-09-06a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.83.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.83.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.83.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.83.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.83.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.83.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.83.3" newgid="uk.org.publicwhip/westminhall/2017-09-06b.83.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.85.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.85.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.85.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.85.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.85.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.85.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.86.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.86.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.86.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.86.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.86.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.86.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.86.3" newgid="uk.org.publicwhip/westminhall/2017-09-06b.86.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.86.4" newgid="uk.org.publicwhip/westminhall/2017-09-06b.86.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.86.5" newgid="uk.org.publicwhip/westminhall/2017-09-06b.86.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.86.6" newgid="uk.org.publicwhip/westminhall/2017-09-06b.86.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.86.7" newgid="uk.org.publicwhip/westminhall/2017-09-06b.86.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.87.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.87.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.87.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.87.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.87.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.87.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.87.3" newgid="uk.org.publicwhip/westminhall/2017-09-06b.87.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.88.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.88.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.90.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.90.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.90.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.90.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.90.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.90.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.90.3" newgid="uk.org.publicwhip/westminhall/2017-09-06b.90.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.90.4" newgid="uk.org.publicwhip/westminhall/2017-09-06b.90.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.91.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.91.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.91.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.91.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.91.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.91.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.91.3" newgid="uk.org.publicwhip/westminhall/2017-09-06b.91.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.92.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.92.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.92.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.92.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.94.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.94.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.94.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.94.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.95.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.95.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.95.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.95.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.96.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.96.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.97.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.97.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.97.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.97.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.98.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.98.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.99.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.99.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.100.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.102.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.102.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.102.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.102.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.105.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.105.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.105.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.106.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.106.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.106.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.106.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.107.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.107.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.108.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.108.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.108.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.108.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.108.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.108.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.109.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.109.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.110.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.110.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.110.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.110.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.110.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.110.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.112.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.112.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.112.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.112.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.112.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.112.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.115.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.115.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.115.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.116.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.117.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.117.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.117.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.117.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.117.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.120.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.122.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.122.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.122.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.122.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.122.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.122.3" newgid="uk.org.publicwhip/westminhall/2017-09-06b.122.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.123.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.123.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.123.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.123.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.123.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.123.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.123.3" newgid="uk.org.publicwhip/westminhall/2017-09-06b.123.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.123.4" newgid="uk.org.publicwhip/westminhall/2017-09-06b.123.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.127.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.132.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.132.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.132.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.132.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.133.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.133.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.133.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.135.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.136.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.136.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.136.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.136.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.136.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.136.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.136.3" newgid="uk.org.publicwhip/westminhall/2017-09-06b.136.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-09-06a.136.3" speakername="Rory Stewart" person_id="uk.org.publicwhip/person/24964" colnum="136" time="16:13:00" url="">
+    <p pid="a136.3/1">It is a pleasure to serve under your chairmanship, Mr McCabe.</p>
+    <p pid="a136.3/2">Consular support is fundamental to British foreign policy. It is probably the very oldest element of British foreign policy. Before we had a Foreign Office, protecting British citizens abroad was in our DNA, and it remains for us a very fundamental responsibility. That is why we have hundreds of consular staff working across the world in very difficult circumstances. That obligation is going into a new world—a world that is changing.</p>
+    <p pid="a136.3/3">When our consular in Aleppo set up in 1570, he saw 12 British citizens in a year. Today, 70 million trips are made by British citizens in a single year. Nearly 43 million British citizens currently possess passports. This is one of the most travelled countries on earth, and we wish it to remain so. It is an adventurous trading nation. It is a nation where a lot of our citizens are dual nationals, and many are living in other people’s countries. There are 100,000 British nationals living in South Africa alone, and more than 600,000 British nationals living in the United States. It is not simply that we have more people travelling than ever before; it is that the world is changing. The world is becoming more dangerous.</p>
+    <p pid="a136.3/4">There are people in this room who will have contemporaries who would have been able to take a bus from Victoria station to Delhi in the 1970s. They would have been able to drive across Syria, Iraq and Iran. They could have gone across Afghanistan, from Herat to Kabul. They would have been able to travel to the north-west frontier province of Pakistan. None of that is possible today for a British citizen. In fact, nearly 50 countries in the world are in a fragile or conflict-affected state. It has never been so dangerous.</p>
+    <p pid="a136.3/5">At the same time, our relationship with other people’s countries is changing. In the 1850s, Lord Palmerston stood up in this House and established the principle that any British citizen getting in trouble would involve the deployment of a British gunboat. When a British dual national in Athens in the late 1830s was not paid for some damage to his property, an entire squadron of the Royal Navy deployed to Athens to try to deal with it. Today, we have a situation where even the United States of America—a country that is able to deploy 105,000 troops on the ground and spend more than $100 billion a year—frequently struggles to get even quite small countries to provide the respect to its citizens that it wishes. That is not just a problem for the United States, for Britain or for Europe; it is a problem for every country in the world.</p>
+    <p pid="a136.3/6">Given the 70 million-odd trips that British citizens make around the world every year, the challenge for our consular staff is dealing with a huge variety of problems. For example, I have been to see the consular activities run out of Marbella, where we have to deal with hundreds of British citizens who end up in Spanish jails, frequently because they have had too good a night out. Consular assistance needs to extend from that to British citizens who are captured by Islamist terrorist groups and end up in a boiler suit in the desert, about to have their heads chopped off, in some of the most difficult and inaccessible countries on earth. In between, they have to deal with the fallout of Hurricane Irma, with earthquakes and with military coups. The cases that have been brought up by hon. and right hon. Members show exactly how difficult it is. Members of Parliament have advocated for these cases very powerfully. They are difficult cases. They show exactly where Britain is having to respond. Let me take them in turn.</p>
+    <p pid="a136.3/7">The first case raised was that of a British national who, as we heard, travelled to southern Iraq. I served in southern Iraq. It is not a safe place. We advise against travelling there on our websites. British embassy staff basically cannot travel to those areas of southern Iraq; it is too dangerous. He went there with an American  construction company. We absolutely support the commercial drive and adventurous spirit that leads a British citizen from the constituency of <phrase class="honfriend" person_id="uk.org.publicwhip/person/25378" name="Justin Madders">the hon. Member for Ellesmere Port and Neston (Justin Madders)</phrase> to wish to travel to southern Iraq. He found himself in a situation in which his company had not paid the hotel, and the hotel had taken his passport.</p>
+    <p pid="a136.3/8">The hon. Gentleman then championed his constituent’s case very powerfully with our Department, but our consular staff acted. They acted by calling the hotel repeatedly and pushing for the passport to be returned. They acted by calling the US embassy repeatedly, and they acted also by trying to provide support for his constituent to access legal advice. We feel absolutely the frustration of the hon. Gentleman’s constituent. If I were stuck in a hotel in southern Basra in a difficult situation, with my passport held, I too would feel extremely frustrated and angry with the company, with the hotel and with my Government.</p>
+    <p pid="a136.3/9">We are very fortunate that the situation was resolved. I would like to pay tribute to the hon. Gentleman for all his pressure and the telephone calls he made. I have no doubt that one of the reasons it was resolved was his very active work, but I also pay tribute to the consular staff in the embassy, because I believe that their telephone calls and the pressure they brought also contributed to it being resolved.</p>
+    <p pid="a136.3/10">The second case raised is an even more difficult one, because it brings us into the Indian legal system. In this particular case, Gary McCann was in a rickshaw when it was struck by a bus in 2004. The consular staff at that moment—we are now going back 13 years through Government records, and it was not this Government but a previous Government who were then responding—identified a lawyer, tried to advise Paul McCann—Gary McCann’s brother—to contact that lawyer when he visited, and were able to identify a witness who had seen the rickshaw struck and introduce him to the witness. Mr McCann understandably feels real frustration and fury at the slowness of extracting promises from the Indian High Commission, getting hold of a death certificate, getting the prosecution done and making sure the lawyer from the Supreme Court brings the case fully forward.</p>
+    <p pid="a136.3/11">The British Government must balance what we feel we ought to do with what we can do. The balancing act is difficult. We must respect the fact that India is not a British colony, but an independent, proud state with a rapidly growing economy and its own legal system. It does not want to be told what to do by a former colonial power and we must balance that with our belief in the rights and justice that are due to our citizens and the sort of support we can provide for them to work within that legal system.</p>
+    <p pid="a136.3/12">That brings me to the Chennai Six. Six British nationals were on a ship that had arms on it—the intention was to provide support for actions against piracy in the horn of Africa—docked in an Indian port. The Indian Government, particularly the Q branch, argued and successfully won a prosecution in court that bringing arms into India in that way was illegal and the men were detained. At the very most, these man were guilty of being on a ship that docked in Indian waters. They have been cleared once. The case was then brought a second time and they were prosecuted a second time. They have appealed and it has taken nine months for that appeal to be heard. Meanwhile, they have spent nearly four years of their  lives in jail. Some of them are very young. I went to see John Armstrong in Chennai and I met the deputy Chief Minister’s family, consular staff and all the men. These men are in a really tough and unfamiliar situation. An Indian jail is a challenging place to be.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.139.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.139.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.139.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-09-06a.139.1" speakername="Rory Stewart" person_id="uk.org.publicwhip/person/24964" colnum="139" time="16:13:00" url="">
+    <p pid="a139.1/1">The honest answer is that we can always do more for British citizens, but the consular staff have done a great deal and they have done a great deal recently. They have provided a lot of support for families to have access to the jail and in respect of conditions in the jail. The High Commissioner has visited, the previous Minister has visited and the consular staff are putting an enormous amount of time and energy into the case. I have met the lawyers representing the men and, without being a lawyer, I have tried to give as much advice and support as I can to the families and men to make sure they get the right legal advice.</p>
+    <p pid="a139.1/2">The problem is fundamentally within the Indian legal system and I believe the Government and Members of Parliament have a legal obligation to be honest with people about their expectations. One of the most tragic things that can happen in such situations is to raise expectations and to pretend that the Indian legal system will move faster. I believe that again and again the men have been promised a swift resolution, but it has not come and I am not sure that that has been the most honest or kind thing we can do.</p>
+    <p pid="a139.1/3">I am very aware of the number of meetings that have been held. Our own Prime Minister raised the matter again with Prime Minister Modi at their latest meeting and it was raised by the Chancellor of the Exchequer when he was Foreign Secretary and by the current Foreign Secretary, but the fundamental problem remains with the Indian legal system and we must keep pressing.</p>
+    <p pid="a139.1/4">Unfortunately, the case is similar to that of Nazanin Zaghari-Ratcliffe, who is an Iranian-British dual national who unfortunately has been detained, like many American-Iranian dual nationals and many other dual nationals in Iran, by the Iranian Government on very unclear grounds, and consular access has been refused. My right hon. Friend the Foreign Secretary has just paid a visit to Iran and raised the case directly with the Iranian Government.</p>
+    <p pid="a139.1/5">Again, we are facing a struggle with how we exercise British power and influence in these very different contexts. We have heard about southern Iraq, Iran and India, but in fact our consular work takes place in nearly 200 consulates around the world, every one of them with different, specific local conditions.</p>
+    <p pid="a139.1/6">I will end by being constructive. What must we do to improve the situation? How can we do better for British citizens going forward? How do we face this new world where 70 million people are travelling? How do we face a new world with these dangers? I have three ideas.</p>
+    <p pid="a139.1/7">First, we need to focus much more on how we assess vulnerability. We will never be able to deal with every one of the 70 million trips that British nationals make worldwide, even with 700 consular staff, so we need to get much better at mixing compassion, intelligence and some difficult prioritisation to make sure the people in the toughest situations receive support. That means understanding the context, their family and financial situation and, above all, what we can actually do to help.</p>
+    <p pid="a139.1/8">Secondly, we must try to work with British citizens to make sure they take responsibility and precautions, such as getting adequate travel insurance, following British embassy advice and not engaging in activities that are inherently risky. That means not just personal responsibility, but industry responsibility. How do we make sure travel agencies, employers and others fulfil their obligations to citizens?</p>
+    <p pid="a139.1/9">The hon. Member for Ellesmere Port and Neston asked about a company’s obligation. Again, with the Chennai Six, what on earth is the obligation of the company that employed these men? It has stopped paying their salaries, has not paid their legal fees and has made no attempt whatever to represent its employees. It has left six British citizens—as well as 10 Estonians and a dozen Indians—in jail because it has not represented them.</p>
+    <p pid="a139.1/10">Finally, we must be clear about prevention. What can we do in advance to stop these situations happening? If there are problems with the prison systems of other countries, how can we work in advance with those countries to begin improving their prison systems? If there are problems with the legal systems of other countries, can we do things now to start working respectfully, diligently, persistently and courageously to drive change in those legal systems so that British citizens are not caught up in these problems in future?</p>
+    <p pid="a139.1/11">The issue is important because we want British citizens to travel and to keep travelling as they never did before. We want to acknowledge the fact that the 70 million trips we make abroad are just the beginning. We want British citizens to be educated abroad, to trade abroad and to enjoy themselves abroad. The entire existence of my Department is predicated fundamentally on trying to enable that spirit of adventurous trading in an outward-facing nation whose citizens feel confident that wherever they go the strong arm and watchful eye of Great Britain is with them with realism, pragmatism and humility. The connection between the citizen and the state in some of the most difficult and dangerous situations on earth is one of the most challenging foreign policy challenges of our era.</p>
+    <p pid="a139.1/12">That is why I pay tribute to Parliament and the way it has today—and for nearly 200 years—championed the interests of British citizens abroad. I also pay tribute to the Foreign and Commonwealth Office and our consular staff who, for all the frustrations and bewilderment of so many constituents who feel let down, isolated and afraid abroad, continue in difficult circumstances to provide what support they can.</p>
+    <p pid="a139.1/13">Question put and agreed to.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.140.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.140.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.141.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.141.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.141.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.141.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.141.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.142.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.142.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.142.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.142.2" newgid="uk.org.publicwhip/westminhall/2017-09-06b.142.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.142.3" newgid="uk.org.publicwhip/westminhall/2017-09-06b.142.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.144.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.144.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.144.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.144.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.145.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.147.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.147.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.148.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.149.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.150.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.150.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.151.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.153.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.153.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.154.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.154.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.154.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.155.0" newgid="uk.org.publicwhip/westminhall/2017-09-06b.155.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-09-06a.155.1" newgid="uk.org.publicwhip/westminhall/2017-09-06b.155.1" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2018-11-06b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.459.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.459.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.459.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.459.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.459.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.459.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.459.3" newgid="uk.org.publicwhip/westminhall/2018-11-06c.459.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.460.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.460.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.460.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.460.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.460.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.460.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.460.3" newgid="uk.org.publicwhip/westminhall/2018-11-06c.460.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.460.4" newgid="uk.org.publicwhip/westminhall/2018-11-06c.460.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.460.5" newgid="uk.org.publicwhip/westminhall/2018-11-06c.460.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.462.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.462.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.462.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.462.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.463.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.463.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.463.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.463.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.464.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.464.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.465.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.465.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.467.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.467.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.469.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.469.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.470.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.470.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.472.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.472.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.473.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.473.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.474.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.474.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.475.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.475.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.475.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.475.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.478.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.478.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.479.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.479.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.479.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.479.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.479.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.479.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.480.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.480.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.480.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.480.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.480.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.480.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.480.3" newgid="uk.org.publicwhip/westminhall/2018-11-06c.480.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.481.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.481.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.482.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.482.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.482.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.482.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.483.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.483.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.484.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.484.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.489.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.489.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-11-06b.489.0" speakername="Nick Gibb" person_id="uk.org.publicwhip/person/10225" colnum="489" time="11:14:00" url="">
+    <p pid="b489.0/1">It  is a pleasure to serve under your chairmanship again, Mr Howarth. I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/25690" name="Luke Pollard">the hon. Member for Plymouth, Sutton and Devonport (Luke Pollard)</phrase> on securing the debate and on the way in which he introduced it. We share a vision for Plymouth of ensuring that every child in the city, regardless of their background or where they live, receives a world-class education that enables them to reach their full potential. That vision is shared by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10575" name="Gary Streeter">the Member for South West Devon (Mr Streeter)</phrase>, whom the hon. Gentleman mentioned, and by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25367" name="Johnny Mercer">the Member for Plymouth, Moor View (Johnny Mercer)</phrase>. They continually raise education issues with me in the Chamber and the voting Lobbies.</p>
+    <p pid="b489.0/2">Let me say up front that I support the Plymouth Challenge, which is a school-led initiative supported by Plymouth City Council and the regional schools commissioner, who is appointed by the Secretary of State. The challenge was set up to tackle historical underperformance in a number of secondary schools in the city. It seeks to harness the many strands of school improvement initiatives currently being undertaken in the city and to add to those initiatives capacity, resources and experience from other schools in the area and from outside the area. It was developed by the headteacher strategy group, which is made up of secondary headteachers.</p>
+    <p pid="b489.0/3">As the hon. Member for Plymouth, Sutton and Devonport knows, the Plymouth Challenge is organised around three strands: strengthening leadership, raising standards and raising aspirations. On the second of those, systematic instruction in phonics during the early years of schooling is an essential foundation for teaching children to read. It is hugely important to secure the basics to equip young people with the life skills to decode, read and understand the world around them. The proportion of pupils in Plymouth who meet the required standard in the phonics check rose from 58% in 2012 to 82% in 2018, in line with the national average.</p>
+    <p pid="b489.0/4">At key stage 2, Plymouth schools and pupils have risen to the challenge of the more rigorous primary school national curriculum that we introduced in 2014.  In 2018, 62% of primary school students in Plymouth reached the expected standard in reading, writing and maths. That represents an eight percentage point improvement on the 54% of pupils in Plymouth who achieved the same result in 2016. Despite that gain, Plymouth’s figure is still two percentage points below the national average. It is therefore important that the primary sector continues to deliver improvements and builds on that upward trajectory in reading, writing and maths to get it above the national average.</p>
+    <p pid="b489.0/5">As the hon. Gentleman will know, outcomes at secondary level are mixed. In 2018, 40.4% of students in Plymouth entered the English baccalaureate, which is a core group of academic GCSEs—English, maths, at least two sciences, a language and a humanity. That figure outstrips the national average of 35.1% and is 1.5 percentage points higher than the figure for Plymouth in 2014. That means more young people in the city are studying and achieving through a core academic curriculum, which I firmly believe provides them with the knowledge and skills for a variety of careers beyond school life. However, we need the proportion of pupils studying the EBacc combination to rise significantly in every secondary school in the city.</p>
+    <p pid="b489.0/6">On other key stage 4 measures, Plymouth lags behind the rest of the country. Its 2018 Progress 8 score is minus 0.32, which is below the national average. One way of improving standards, particularly at secondary level, is harnessing expertise both within and outside a city. A strong Exeter-based multi-academy trust is already having an impact by driving up expectations. Standards at two Plymouth secondary schools are benefiting from that expertise, and Reach Feltham, the top-performing London academy, provides that partnership with leadership support and challenge. That model is proving very effective.</p>
+    <p pid="b489.0/7">We need to look outwards and build on great examples across the country, be that Michaela Community School’s marriage of high standards, exemplary behaviour and manageable teacher workload, which the hon. Gentleman referred to, Tom Bennett’s approach to improving behaviour in schools, or the myriad trusts finding success in the face of challenging circumstances.</p>
+    <p pid="b489.0/8">There is also a benefit to be realised from more formal structural partnerships in the city. We welcome the increased engagement in Plymouth of high-quality multi-academy trusts outside the immediate region. Reach South Academy Trust is an example of a MAT that has done precisely that, bringing external expertise and experience into the city by creating a cross-phase hub and, as part of that, sponsoring UTC Plymouth.</p>
+    <p pid="b489.0/9">The hon. Gentleman raised the national funding formula, specifically the maximum gains cap. Nationally, approximately 75% of schools, including those that were historically underfunded, will be on the national funding formula allocation by 2019-20. I reassure him that schools are already benefiting from that. The formula has allocated an increase for every pupil in every school in 2018-19, with increases of up to 3% for underfunded schools and more for the very lowest funded.</p>
+    <p pid="b489.0/10">Changes to the formula have delivered significant gains in Plymouth, where schools have attracted an extra 3.3% per pupil on average this year. By 2019-20, that will be 5.9% more per pupil compared with 2017-18. That is equivalent to an extra £251 for every pupil, or a total increase of £10.2 million when factoring in rising  pupil numbers. Furthermore, 15 Plymouth schools benefit from the formula’s minimum per-pupil funding level. These schools will not have their gains capped, so they will attract their full allocation by 2019-20.</p>
+    <p pid="b489.0/11">The Department has also prioritised additional support for Plymouth through the strategic school improvement fund, with £681,000 approved to support 42 Plymouth schools, including funding projects focused on the teaching of phonics and maths. The high-quality training delivered through the secondary system leadership project has been welcomed. Although the project is in its infancy, I am confident that it will deliver increased capacity and capability in effective school self-review, peer review and school-to-school support and improvement.</p>
+    <p pid="b489.0/12">Two Plymouth secondary schools have further benefited from £299,000 in emergency school improvement funding to drive longer-term whole-school support. The impact of that funding has been significant. For example, a “Ready to Learn” behaviour approach at All Saints Academy has fostered a culture in which rules matter and is proving to be an enabler of excellent teaching.</p>
+    <p pid="b489.0/13">Furthermore, we have given strong trusts in Plymouth the opportunity to access additional funding to improve schools and increase social mobility through the MAT development and improvement fund. Four Plymouth trusts have been awarded grants and will access a minimum £298,000 of funding in this financial year. In total, that is more than £1 million in additional funding that the Government are injecting into the Plymouth education system. Funding for Plymouth schools is £149.6 million this year, rising to £153.3 million next year.</p>
+    <p pid="b489.0/14">I am grateful to the hon. Gentleman for raising the importance of the Plymouth Challenge initiative. I share his vision of a high standard of education for all pupils and a system that enables all—regardless of background —to reach their potential. I have spoken about the collaborative stewardship role that we have taken in working towards transforming education in Plymouth, the impact of the funding streams that we have harnessed and committed to the city’s schools and the importance of working with stakeholders and learning from excellence outside the city. I have also spoken of the formal and informal ways in which we are strengthening leadership, raising aspirations and improving standards for the benefit of Plymouth pupils now and in the future.</p>
+    <p pid="b489.0/15">I am keen to work with the hon. Gentleman and other Plymouth Members, and headteachers from his constituency, to explore how we can support the system, allowing schools to be at the forefront of improvement while continuing to challenge standards. I very much welcome his involvement in seeking to raise standards in Plymouth schools and very much want to be part of that process. Working with him, headteachers and other Plymouth MPs, I am sure that we can achieve a huge amount through the Plymouth Challenge to raise standards in all Plymouth schools.</p>
+    <p pid="b489.0/16">Question put and agreed to.</p>
+    <p pid="b489.0/17">Sitting suspended.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.491.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.491.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.492.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.492.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.492.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.492.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.493.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.493.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.493.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.493.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.494.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.494.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.494.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.494.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.495.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.495.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.495.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.495.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.495.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.495.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.495.3" newgid="uk.org.publicwhip/westminhall/2018-11-06c.495.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.497.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.497.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.498.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.498.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.498.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.498.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.498.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.498.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.498.3" newgid="uk.org.publicwhip/westminhall/2018-11-06c.498.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.498.4" newgid="uk.org.publicwhip/westminhall/2018-11-06c.498.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.498.5" newgid="uk.org.publicwhip/westminhall/2018-11-06c.498.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.499.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.499.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.500.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.500.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.500.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.500.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.501.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.501.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.502.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.502.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.502.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.502.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.503.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.503.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.504.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.504.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.504.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.504.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.504.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.504.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.505.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.505.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.505.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.505.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.505.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.505.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.505.3" newgid="uk.org.publicwhip/westminhall/2018-11-06c.505.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.510.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.510.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.510.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.510.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.511.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.511.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.511.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.511.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.511.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.511.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.511.3" newgid="uk.org.publicwhip/westminhall/2018-11-06c.511.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.512.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.512.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.512.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.512.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.513.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.513.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.513.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.513.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.514.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.514.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.515.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.515.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.515.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.515.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.515.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.515.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.515.3" newgid="uk.org.publicwhip/westminhall/2018-11-06c.515.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.516.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.516.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.516.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.516.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.517.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.517.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.518.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.518.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.518.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.518.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.518.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.518.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.520.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.520.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.522.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.522.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.524.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.524.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.524.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.524.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.524.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.524.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.524.3" newgid="uk.org.publicwhip/westminhall/2018-11-06c.524.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.524.4" newgid="uk.org.publicwhip/westminhall/2018-11-06c.524.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.525.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.525.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.525.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.525.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.526.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.526.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.526.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.526.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.527.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.527.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.527.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.527.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.528.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.528.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.528.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.528.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.529.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.529.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.529.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.529.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.529.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.529.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.530.0" newgid="uk.org.publicwhip/westminhall/2018-11-06c.530.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.530.1" newgid="uk.org.publicwhip/westminhall/2018-11-06c.530.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.530.2" newgid="uk.org.publicwhip/westminhall/2018-11-06c.530.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-06b.530.3" newgid="uk.org.publicwhip/westminhall/2018-11-06c.530.3" matchtype="perfectmatch"/>
+</publicwhip>
+

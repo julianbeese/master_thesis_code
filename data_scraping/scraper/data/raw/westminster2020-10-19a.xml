@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-10-19a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.253.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.253.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.253.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.253.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.253.2" newgid="uk.org.publicwhip/westminhall/2020-10-19b.253.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.253.3" newgid="uk.org.publicwhip/westminhall/2020-10-19b.253.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.256.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.256.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.256.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.256.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.257.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.257.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.258.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.258.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.260.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.260.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.260.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.260.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.262.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.262.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.262.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.262.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.263.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.263.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.264.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.264.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.265.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.265.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.266.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.266.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.266.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.268.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.268.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.268.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.268.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-10-19a.268.1" speakername="Lisa Cameron" type="Start Speech" person_id="uk.org.publicwhip/person/25276" colnum="268" time="17:22:00" url="">
+    <p pid="a268.1/1">It is a privilege and pleasure to serve under your chairmanship, Mr Robertson. I thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/25811" name="Tom Hunt">the hon. Member for Ipswich (Tom Hunt)</phrase> for setting the scene in such a detailed manner. At the start of the debate, he showed us all, across parties, what an important issue this is, as well as the consensus that exists not only in Parliament, but among members of the public. He also set out the impact that this crime has on victims, not only the silent victims—the stolen pets themselves, who often meet horrendous ends—but the families who suffer the emotional and psychological impact of pet theft, which I will return to in a moment.</p>
+    <p pid="a268.1/2">As chair of the all-party parliamentary dog advisory welfare group, it is an honour to speak in this debate. I know about this issue, not only from my constituency, but because I receive letters and emails from constituents across the United Kingdom to the APPG saying how important it is. I hope the Minister will know that this issue is a priority for people across the UK. When those who contact me ask, “Which topic do you get most emails about from your constituents?”, I say, “Animal welfare.” I do not think my constituency is any different from any other in that regard. This issue is a priority. There is a consensus among all parties and those who have spoken. I am sure we will take this forward in the most positive way. I beseech the Minister to look seriously at it, because we are here to serve the public. That is our job as MPs, and we must take the public’s priorities and its wishes forward.</p>
+    <p pid="a268.1/3">There has been a great deal of work already undertaken on these issues. I thank Dr Daniel Allen, Marc Abraham, Beverley Cuddy from Dogs Today, who covers this issue repeatedly and is such a dog welfare fan herself, the Kennel Club, Battersea and Cats Protection, who have also been in touch with me—I also thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/24875" name="Sheryll Murray">the hon. Member for South East Cornwall (Mrs Murray)</phrase> for mentioning cat theft, which is on the rise and is something that we should take very seriously—Dogs Trust, the Royal Society for the Prevention of Cruelty to Animals, the Scottish Society for the Prevention of Cruelty to Animals and Debbie Matthews from Vets Get Scanning. We know there are many people out there working hard on the frontline to support those who experience the tragedy of pet theft, but who also want to see that change in legislation that we have all spoken of today.</p>
+    <p pid="a268.1/4">I declare my own little interest as the owner of a rescue dog, Rossie, a French bulldog who we think was probably puppy farmed. He has his tail docked and had some problems settling into the family at the start, but he is absolutely part of the family now. If we were to lose Rossie, it would be devastating not just for me and my husband—although he does complain quite a bit about having to take him out on long walks, especially as the winter months are approaching—but for our children, who are very attached.</p>
+    <p pid="a268.1/5">It goes without saying that dogs should be treated as companions and family members, not just as property, and that that should be happening within the law. A survey found that 99% of pet owners consider their pets to be family members, and there are great benefits to owning a pet dog, including improved physical health by encouraging exercise, which I do every day for my husband, and reduced risk of depression and loneliness. Dog owners over 65 also make 30% fewer visits to the doctor, so it is actually helping our NHS too.</p>
+    <p pid="a268.1/6">The loss of a dog or any pet can be particularly hard for those who have few others to turn to for companionship, and we know that those who have been in lockdown and isolated, or perhaps have been shielding, have found great comfort in their pets. For anyone in that circumstance to have a pet stolen would be an absolute travesty. We, as the House of Commons, need to act quickly on these issues.</p>
+    <p pid="a268.1/7">A study involving in-depth interviews with dog owners who had experienced dog theft found that 30% reported feelings of loss, grief or mourning; 48% described themselves as “absolutely devastated” and 37% suffered severe psychological or physiological effects after the dog was stolen. That shows that there must be recognition within the law of the impact on people and their families. As hon. Members have mentioned today, it is not similar to losing a mobile phone, a computer or a bike; it is absolutely different and requires to be recognised as such.</p>
+    <p pid="a268.1/8">We have, in fact, seen an increase in pet theft in 2020 during the covid-19 pandemic, making it all the more crucial that we act now. Wayne May from DogLost stated:</p>
+    <p pid="a268.1/9" class="indent" pwmotiontext="yes">“I’ve been doing this for 30 years now and it’s the worst ever year I’ve known.”</p>
+    <p pid="a268.1/10">People who steal dogs and pets are doing so for malicious reasons. I do not believe for a minute they could possibly be doing it for the welfare of the pet or the family. Research often finds that the theft is orchestrated; it may be linked with criminal gangs and dog fighting, as has already been mentioned today, or with monetary value, breeding, puppy farming and making money from the dog or pet.</p>
+    <p pid="a268.1/11">In my own constituency, a little dog was stolen as part of a robbery from a home for no other reason but malice, taken and thrown in to a fountain in the middle of Glasgow, which is about 50 miles from my constituency. Luckily, a caring member of the public found the dog and he was returned to his owner. However, I understand from research that only one in five stolen dogs are found and restored to their owners. This is a crime that often goes unpunished and those who are culpable are not brought to justice. In fact, of the 44 police forces in England and Wales, 24 provided data on recorded dog theft crimes, comparing 2019 with the first seven months of 2020, and five out of the 24 police forces had more dog theft crimes in the seven months of January to July 2020 than in the whole of 2019. The number of dog theft crimes that led to charges was only 4.15% in 2015, 3.35% in 2016, 2.16% in 2017, 1.11% in 2018—the figure was actually reducing then, although it was a very small base to start off with—and 1.21% in 2019. Currently, therefore, very little deterrent exists.</p>
+    <p pid="a268.1/12">Steps must be taken to change the law, not only because of the impact that I have described, but because this is a crime that basically goes unpunished for those  who engage in it, so it has very little consequence. When there are crimes of this nature, that is part of the issue: people feel that they can engage in them without the force of the law being brought to bear on them and perhaps even without resources being put into seeking out the culprits.</p>
+    <p pid="a268.1/13">I thank everybody who has spoken today for a very consensual debate. I think that the Minister knows that there is the weight of public opinion and opinion across the House of Commons on her to take this matter forward. I am sure that she is as dedicated to these animal welfare issues as the rest of us, and I very much look forward to hearing her comments when she sums up the debate.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.270.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.273.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.274.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.274.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.274.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.275.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.275.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.277.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.277.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.277.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.277.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.277.2" newgid="uk.org.publicwhip/westminhall/2020-10-19b.277.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.277.3" newgid="uk.org.publicwhip/westminhall/2020-10-19b.277.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.280.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.281.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.284.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.284.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.286.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.287.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.288.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.288.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.288.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.288.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.289.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.289.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.289.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.289.2" newgid="uk.org.publicwhip/westminhall/2020-10-19b.289.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.289.3" newgid="uk.org.publicwhip/westminhall/2020-10-19b.289.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.290.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.290.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.290.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.290.2" newgid="uk.org.publicwhip/westminhall/2020-10-19b.290.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.290.3" newgid="uk.org.publicwhip/westminhall/2020-10-19b.290.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.291.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.293.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.293.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.293.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.295.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.295.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.298.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.298.1" newgid="uk.org.publicwhip/westminhall/2020-10-19b.298.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-19a.299.0" newgid="uk.org.publicwhip/westminhall/2020-10-19b.299.0" matchtype="perfectmatch"/>
+</publicwhip>
+

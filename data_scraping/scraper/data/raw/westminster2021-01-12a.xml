@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-01-12a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.53.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.53.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.53.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.53.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.53.2" newgid="uk.org.publicwhip/westminhall/2021-01-12b.53.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.55.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.55.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.55.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.55.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.58.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.58.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.61.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.61.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.61.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.61.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.62.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.62.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.62.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.62.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.63.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.63.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.64.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.64.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.64.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.64.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.65.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.65.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.66.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.66.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.68.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.68.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.68.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.68.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.68.2" newgid="uk.org.publicwhip/westminhall/2021-01-12b.68.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.70.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.70.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.72.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.72.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.73.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.73.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.73.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.73.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.75.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.75.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.75.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.75.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.75.2" newgid="uk.org.publicwhip/westminhall/2021-01-12b.75.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.76.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.76.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.76.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.76.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.76.2" newgid="uk.org.publicwhip/westminhall/2021-01-12b.76.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.76.3" newgid="uk.org.publicwhip/westminhall/2021-01-12b.76.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.77.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.77.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.77.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.77.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.78.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.78.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.78.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.78.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.80.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.80.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.81.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.81.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.82.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.82.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.84.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.84.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.84.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.84.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.84.2" newgid="uk.org.publicwhip/westminhall/2021-01-12b.84.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.87.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.87.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.89.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.89.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.92.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.92.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.94.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.94.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.95.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.95.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.97.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.97.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.98.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.98.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.101.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.101.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.101.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.101.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.103.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.103.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.103.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.103.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.103.2" newgid="uk.org.publicwhip/westminhall/2021-01-12b.103.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.103.3" newgid="uk.org.publicwhip/westminhall/2021-01-12b.103.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.103.4" newgid="uk.org.publicwhip/westminhall/2021-01-12b.103.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.103.5" newgid="uk.org.publicwhip/westminhall/2021-01-12b.103.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.105.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.107.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.107.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.107.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.107.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.107.2" newgid="uk.org.publicwhip/westminhall/2021-01-12b.107.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.111.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.111.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.114.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.114.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.114.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.114.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.117.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.117.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.117.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-01-12a.117.1" speakername="Alex Sobel" type="Start Speech" person_id="uk.org.publicwhip/person/25680" colnum="117" time="16:42:00" url="">
+    <p pid="a117.1/1">It is a pleasure to serve under your chairship, Ms McVey. I thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/25907" name="Elliot Colburn">the hon. Member for Carshalton and Wallington (Elliot Colburn)</phrase> for securing this debate. I do not think I have spoken in a debate with him before. It was interesting to hear about the local government politics of south-west London. I have to say, Lib Dem councillors in south-west London are no different from those in Leeds, so I have some sympathy for him. It is a shame no Lib Dem Members are here today to answer for themselves—I am sure the hon. Gentleman will agree with that, although he may not agree with everything I say.</p>
+    <p pid="a117.1/2">Sustainability is one of the biggest and most important challenges facing our country. On a finite planet, we cannot afford to run a throw-out society indefinitely. In the UK, we consistently miss household recycling targets. Figures showing that more than 70% of UK packaging waste was recycled or recovered in 2017 disguise the fact that recovery includes incineration. The real recycling rate is closer to 45%, compared with 54% in Wales, where Labour is in charge. In fact, Wales is a world leader when it comes to sustainability and recycling, with statutory recycling targets, national recycling campaigns and, most importantly, £1 billion to local authorities since 2000 to help them invest in recycling collection services. Wales essentially operates a circular economy, or very close to one, and has constitutionally enshrined rules that promote sustainable development, such as the Well-being of Future Generations (Wales) Act 2015.</p>
+    <p pid="a117.1/3">Unfortunately, the picture is quite different in my home city of Leeds. I frequently receive emails from constituents disappointed by Leeds’s lack of kerb-side glass and Tetra Pac recycling. I will tell you, Ms McVey, what I tell them and I am sure the Minister will want to respond. This is not the product of a lack of political or environmental will on the part of Leeds City Council, where I was in charge of this area when I was on the council. It is the result of a lack of funding from central Government and a broken system for recycling waste where the market lords it over the environment. Unfortunately, the amount of money needed to change collection vehicles and routes, to provide bins and boxes and for other associated costs is not available, and recycling facilities are not provided by the private sector as the market price for certain renewables is too low.</p>
+    <p pid="a117.1/4">Recycling has been one of the quiet casualties of the austerity programme and an ideology that refuses to fix our broken markets. Local authority cuts and a free market ideology are a huge part of why the national recycling rate has been at a virtual standstill over the last few years. The latest set of cuts to Leeds City Council with £4 million of covid cost pressures and another £60 million of just run-of-the-mill Government austerity means that closure proposals are being ramped up. Ellar Ghyll recycling centre in Otley in my constituency is being proposed for closure only due to covid cost pressures. I hope the Minister can help me in my campaign to save that centre.</p>
+    <p pid="a117.1/5">Recycling rates, however, have been soaring during the pandemic. The Local Government Association reports that eight in 10 councils have seen an increase in the amount of recycling collected since the start of lockdown. Some councils’ household recycling increased by 100%. That is positive news, but the Government must recognise that that has increased costs for councils and ensure that all the extra cost pressures on waste and recycling services as a result of the pandemic are met; currently, they are not.</p>
+    <p pid="a117.1/6">I turn specifically to food waste, which we know to be a catastrophic problem not just in the UK but worldwide. A third of food produced globally is wasted. In the UK, households waste 4.5 million tonnes of food every year. Supermarkets and other food-adjacent businesses are the main offenders, wasting 100,000 tonnes of readily available and edible food each year, which is equivalent to 250 million meals going uneaten. Surplus food should be used to feed people first before it is sent for animal feed, incinerated for energy or sent to anaerobic digesters. Many fantastic initiatives ensure just that.</p>
+    <p pid="a117.1/7">I pay particular tribute to The Real Junk Food Project, which started in Leeds and with which I have been working for nearly 10 years. It has been a pioneering force in the fight against food waste, with a core mission of feeding those in food poverty—another issue that has spiked during covid. We must ensure that large stores stop throwing away or destroying unsold food. Supermarkets should donate food waste to charities or food banks willing to take food. Again, we can look to Labour in Wales, where household food waste has reduced by 12% and is now 9% lower than in the rest of the UK.</p>
+    <p pid="a117.1/8">The incineration of waste with energy recovery is slightly preferable to waste being incinerated without any energy recovery or sent to landfill, but without carbon capture and storage technology I cannot in good conscience support it. I admit that the Government are investing in CCS, but we have no full-scale working models. Without trying to pre-empt what will be said by my neighbour, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25922" name="Robbie Moore">the hon. Member for Keighley (Robbie Moore)</phrase>, I am sure he will touch on the campaign started by his predecessor against the proposal for an incinerator there. He has my sympathy and support on that, and I think he knows that—we have discussed it previously on the train.</p>
+    <p pid="a117.1/9">Waste incineration is usually referred to as energy from waste, but the energy generated by energy-from-waste plants represents just 1.9% of overall UK electricity production. While electricity and reusable waste heat are clearly valuable by-products of incineration, they cannot legitimately be claimed to be the main purpose of incineration, nor can there be an economic or sustainability justification for using it as a disposal method. However, there is still no large-scale Government funding programme to support the development of anaerobic digestion, which is the solution for much organic waste that local authorities collect. Will the Minister comment on what funding she plans to bring forward for anaerobic digestion? I note that she is not wearing her leaf suit today, which is unfortunate for a debate of this nature, but I know how close these issues are to her heart and that she will want to support more anaerobic digestion.</p>
+    <p pid="a117.1/10">We should also consider the fact that the smelly, loud waste incinerators that regularly breach pollution guidelines are three times more likely to be built in poorer areas than in the UK’s wealthiest areas. Nearly half of the new incinerators on track to be built will be in the UK’s 25 most deprived neighbourhoods, and more than two thirds are planned for the northern half of the country. More than 40% of existing incinerators are sited in areas more diverse than the local authority average.</p>
+    <p pid="a117.1/11">At COP24, which I attended two years ago in Poland, Sir David Attenborough warned delegates that</p>
+    <p pid="a117.1/12" class="indent" pwmotiontext="yes">“we are facing a man-made disaster of global scale. Our greatest threat in thousands of years: climate change. If we don’t take action, the collapse of our civilisations and the extinction of much of the natural world is on the horizon.”</p>
+    <p pid="a117.1/13">I am fairly sure that the action he had in mind did not consist of building new incinerators up and down the country. We need to come up with more innovative measures, alternative solutions to reducing consumption, boosting recycling and increasing the proportion of   recycled material manufacturing. We need a green industrial revolution and a circular economy. That is the way forward, and I look forward to the Minister outlining how the Government will achieve that.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.120.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.121.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.121.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.122.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.124.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.124.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.127.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.127.1" newgid="uk.org.publicwhip/westminhall/2021-01-12b.127.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-01-12a.130.0" newgid="uk.org.publicwhip/westminhall/2021-01-12b.130.0" matchtype="perfectmatch"/>
+</publicwhip>
+

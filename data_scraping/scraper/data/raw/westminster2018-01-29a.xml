@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2018-01-29a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.227.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.227.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.227.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.228.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.228.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.228.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.228.2" newgid="uk.org.publicwhip/westminhall/2018-01-29b.228.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.228.3" newgid="uk.org.publicwhip/westminhall/2018-01-29b.228.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.228.4" newgid="uk.org.publicwhip/westminhall/2018-01-29b.228.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.228.5" newgid="uk.org.publicwhip/westminhall/2018-01-29b.228.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.229.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.229.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.229.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.229.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.229.2" newgid="uk.org.publicwhip/westminhall/2018-01-29b.229.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.229.3" newgid="uk.org.publicwhip/westminhall/2018-01-29b.229.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.230.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.230.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.230.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.231.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.231.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.231.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.231.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.232.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.232.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.232.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.233.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.233.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.233.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.233.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.233.2" newgid="uk.org.publicwhip/westminhall/2018-01-29b.233.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.233.3" newgid="uk.org.publicwhip/westminhall/2018-01-29b.233.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.233.4" newgid="uk.org.publicwhip/westminhall/2018-01-29b.233.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.234.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.234.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.234.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.234.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.235.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.235.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.237.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.238.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.238.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.238.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.240.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.240.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.240.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.242.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.242.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.242.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.242.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.242.2" newgid="uk.org.publicwhip/westminhall/2018-01-29b.242.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.244.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.244.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.245.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.246.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.246.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.246.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.246.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.246.2" newgid="uk.org.publicwhip/westminhall/2018-01-29b.246.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.248.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.249.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.249.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.251.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.254.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.254.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.256.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.256.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.258.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.258.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-01-29a.258.0" speakername="Andrew Griffiths" person_id="uk.org.publicwhip/person/24826" colnum="258" time="18:30:00" url="">
+    <p pid="a258.0/1">It is a pleasure to serve under your chairmanship, Mr Hanson. This is my first opportunity to respond to a Westminster Hall debate, so I trust that you will be gentle with me.</p>
+    <p pid="a258.0/2">I pay warm tribute to <phrase class="honfriend" person_id="uk.org.publicwhip/person/24720" name="Susan Elan Jones">the hon. Member for Clwyd South (Susan Elan Jones)</phrase>, not only for introducing the debate on behalf of the Petitions Committee, but for her interesting and well-rounded perspective. I commend her for her thoughtful and at times humorous speech. I also pay tribute to all right hon. and hon. Members who have contributed to the debate—I think I counted 25 in the Chamber. We have heard a huge number of interesting and well-informed speeches. That is not a rarity, but it shows the great level of interest in the issues, and the work that hon. Members have put into understanding them on behalf of their constituents. As Minister responsible for consumer protection, I understand the effort that has gone in, and I put great weight on the speeches that have been made.</p>
+    <p pid="a258.0/3">We have heard today not only from <phrase class="honfriend" person_id="uk.org.publicwhip/person/10199" name="Jim Fitzpatrick">the hon. Member for Poplar and Limehouse (Jim Fitzpatrick)</phrase>—a former firefighter who has been decorated with the Fire Brigade Long Service and Good Conduct Medal and who now serves as secretary of the all-party fire safety rescue group—but from my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25643" name="Bill Grant">the Member for Ayr, Carrick and Cumnock (Bill Grant)</phrase>, a firefighter with some 31 years’ service who ended his career as deputy commander of Strathclyde fire and rescue service. As my dad would have said, you can’t teach your granny to suck eggs. It is not the first time that I have sat in a debate thinking, “There are people here who know a lot more about this than I do,” but that is guaranteed to be true today.</p>
+    <p pid="a258.0/4">I thank the huge number of people who have signed the petition and made the debate possible, particularly the Firework Abatement campaign. A lot of people get  petitions together and try to raise issues, but it is clear that Firework Abatement has done a lot of groundwork to understand the issue. It speaks not only for the more than 111,000 signatories of the petition, but for many of our constituents. With my three weeks’ experience as a Minister, I can tell the House that a huge number of my letters have been about fireworks, so it is clearly an issue that concerns constituents. This is our second petitions debate on it in recent years; the first, in June 2016, focused more specifically on the impact on pets and animals, which I shall address later.</p>
+    <p pid="a258.0/5">Hon. Members have made some compelling speeches. No one could fail to be moved by the tragic stories we have heard. <phrase class="honfriend" person_id="uk.org.publicwhip/person/24830" name="Chris Williamson">The hon. Member for Derby North (Chris Williamson)</phrase> described somebody seeing their house destroyed as a result of fireworks. We have heard some really distressing and disturbing anecdotes about animals, including pets, horses, cows and other livestock, suffering not just distress but death from the misuse of fireworks. Of course, we also heard about Flo from my right hon. Friend—sorry, my hon. Friend, but it is just a matter of time—<phrase class="honfriend" person_id="uk.org.publicwhip/person/25699" name="Eddie Hughes">the Member for Walsall North (Eddie Hughes)</phrase>. He made the case for pets in his constituency with his usual passion and aplomb, and I am sure that many pet lovers will be pleased that he is raising their concerns in this place.</p>
+    <p pid="a258.0/6">I recognise the effects that fireworks can have—the pleasure that they give to many of our constituents, but also their negative impact on many people, including those who are vulnerable or have pets or livestock. <phrase class="honfriend" person_id="uk.org.publicwhip/person/25489" name="Gill Furniss">The hon. Member for Sheffield, Brightside and Hillsborough (Gill Furniss)</phrase> said a number of times that many fireworks are used responsibly. That is true: there are many examples of law-abiding people who use their fireworks safely, responsibly and in a caring and considerate manner towards their neighbours. However, as we have heard, there are others who do not use them in that way, and they are the people with whom we are concerned.</p>
+    <p pid="a258.0/7">It is for the Government to ensure that we have a system that allows for the enjoyment of fireworks but protects those who might be harmed or inconvenienced, including the young, the elderly and those with mental health issues. As a former trustee of a service charity for veterans in the criminal justice system, I understand the impact that post-traumatic stress can have on veterans. Fireworks also have an effect on wildlife and livestock, as we have heard.</p>
+    <p pid="a258.0/8">The Government’s aim is to ensure that people who enjoy fireworks can do so safely, but that we minimise the risks, noise and distress that can be an unwelcome by-product of their use. Even in this debate, in which the same concerns have been raised consistently in almost every speech, there has been a difference of opinion about how we should tackle the issue. Some advocate an outright ban, some want a consultation and some want tighter legislation. It is for the Government to consider all those arguments in the round, form an opinion and ensure that the legislation meets those challenges.</p>
+    <p pid="a258.0/9">I will not go into great detail on the laws that govern the sale and regulation of fireworks, because other hon. Members have already outlined them. The controls on supply, sale and use reflect the level of risk posed by the four different categories of firework. Those controls include a curfew on their use; restrictions on when they can go on general sale; restrictions on their sale to  minors; and noise limits and penalties for their misuse. The controls restrict the general availability of fireworks for public sale to certain times of the year, such as bonfire night, new year’s eve, Diwali and Chinese new year. Outside those traditional periods, retailers who wish to sell fireworks must obtain a licence from their local licensing authority. It is worth noting that local authorities have the power to restrict such licences if they so wish. A local authority can refuse to issue a licence for the sale of fireworks outside seasonal celebrations, so hon. Members who have concerns about such sales may wish to raise them with their local authority.</p>
+    <p pid="a258.0/10">Another way in which the current system seeks to lessen the distressing impact on vulnerable groups is by controlling the times at which fireworks can be used. As we have heard, there is a strict curfew of 11 pm, with exceptions for bonfire night, new year and Diwali.</p>
+    <p pid="a258.0/11">My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25693" name="Kemi Badenoch">the Member for Saffron Walden (Mrs Badenoch)</phrase> raised Collecchio, the Italian town that has banned noisy fireworks. In the UK, there is already a limit on the noise levels of fireworks that can be bought for general sale. That is, as has been said, 120 dB. However, I think there is a disagreement in this House about whether 120 dB is a jumbo jet, a chainsaw, a rock band starting up or a number of other very noisy things. Also, quieter fireworks are increasingly being developed by manufacturers, and they are increasingly available from retailers, so that consumers can have more choice and a better chance of acquiring lower-noise fireworks, to help them to avoid disturbing their neighbours.</p>
+    <p pid="a258.0/12">Earlier, we touched on the issue of education, which is important, both for fireworks users and for pet or livestock owners. They are not the outright solution but there are things that pet owners can do to reduce the very real distress their pets can experience. There is excellent advice provided by the Royal Society for the Prevention of Cruelty to Animals and the Kennel Club, intended to help owners to reduce their pets’ stress, and it can be found on those organisations’ websites.</p>
+    <p pid="a258.0/13">There are a number of controls on the use and misuse of fireworks. Antisocial behaviour, such as the throwing of fireworks, is covered by the Explosives Act 1875, which prohibits fireworks from being thrown in or on to public places. Some hon. Members asked whether the powers that I am drawing attention to actually work. Earlier this year, a man in Kirkwall was sentenced to six months in prison after admitting setting off fireworks in a culpable and reckless manner in the town centre. So these powers are available and they are used.</p>
+    <p pid="a258.0/14">There are a number of agencies that have responsibility for enforcing those rules, including the police, trading standards, and the Health and Safety Executive. Of course, any injury caused by fireworks can be a tragedy, but thankfully the number of people admitted to hospital because of fireworks is quite stable. I think that the hon. Member for Sheffield, Brightside and Hillsborough said that fireworks accidents are on the rise, but my statistics show that the number of people admitted to hospital with firework injuries remains at a stable and relatively low level. NHS statistics show that the total number of people admitted to hospital because of firework injuries remained below 200 a year from 2007-08 to 2016-17. Of course, that is still too many injuries, and we want to do more to bring that number down, but the figures are relatively stable. The number of accident and emergency admissions in England in 2016-17 due to  “firework injury” was 5,340. Again, that has remained pretty stable as a proportion of all A&amp;E attendances between 2013-14 and 2016-17.</p>
+    <p pid="a258.0/15">The safety of UK consumers is our highest priority, and we recognise the particular impact that fireworks can have. We believe that, at the moment, we have a balance between people’s concerns about fireworks, and the legitimate interests of those who wish to enjoy celebrating with fireworks and of those employed in the firework industry. However, we recognise that more can and must be done.</p>
+    <p pid="a258.0/16">I will share with hon. Members here today the news that one of the first things I did when I became the Minister with responsibility for consumer protection was to announce on <phrase class="date" code="2018-01-21">21 January</phrase> the creation of the Office for Product Safety and Standards. This is a new body that will receive some £12 million a year in central Government funding to ensure that we have access to information nationally and to support local authorities in their work. The new office will work with key stakeholders and enforcing authorities to review the guidance materials available on the safe and responsible use of fireworks. It will also provide an intelligence-handling function to improve the information we have. It will also examine the individual safety of particular fireworks and of other products on sale.</p>
+    <p pid="a258.0/17">There was some suggestion about cuts in relation to trading standards bodies. I will just draw the attention of the House to the fact that the Department for Business, Energy and Industrial Strategy gives some £15 million a year to local authorities to support the work they do through trading standards, but in addition we will have this new £12 million-a-year body to provide extra resource to local authorities.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.261.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.261.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.261.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.261.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.261.2" newgid="uk.org.publicwhip/westminhall/2018-01-29b.261.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.262.0" newgid="uk.org.publicwhip/westminhall/2018-01-29b.262.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-29a.262.1" newgid="uk.org.publicwhip/westminhall/2018-01-29b.262.1" matchtype="perfectmatch"/>
+</publicwhip>
+

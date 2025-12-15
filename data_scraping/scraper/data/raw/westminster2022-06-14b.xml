@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2022-06-14b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.41.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.41.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.41.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.46.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.46.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.46.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.46.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.46.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.46.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.48.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.48.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.48.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.48.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.49.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.49.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.50.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.50.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.52.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.52.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.53.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.53.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.53.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.53.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.54.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.54.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.56.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.56.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.57.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.57.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.59.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.59.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.59.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.59.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.61.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.61.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.61.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.61.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.62.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.62.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.62.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.62.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.63.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.63.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.63.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.63.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.63.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.63.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.63.3" newgid="uk.org.publicwhip/westminhall/2022-06-14c.63.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.63.4" newgid="uk.org.publicwhip/westminhall/2022-06-14c.63.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.63.5" newgid="uk.org.publicwhip/westminhall/2022-06-14c.63.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-06-14b.63.5" speakername="Victoria Prentis" type="Continuation Speech" person_id="uk.org.publicwhip/person/25420" colnum="63" time="10:40:00" url="">
+    <p pid="b63.5/1">As ever, the hon. Gentleman makes some very relevant points. I know that many, although not all, fishermen in Northern Ireland are receiving good prices, but many of those are being swallowed up by input costs. As far as I am aware, that fund applies to Northern Ireland—I do not see why it would not—but I will check that and come back to him.</p>
+    <p pid="b63.5/2">On the seafood fund, much of the inshore fleet can receive 80% grant funding if it does not use towed gear.[Official Report, <phrase class="date" code="2022-07-04">4 July</phrase> 2022, Vol. 717, c. 8MC.] Action has been taken to support the inshore fleet and some specific measures were set out in our 2018 White Paper. We have allocated an increased share of quota to vessels under 10 metres, providing them with over 5,000 tonnes of quota during 2021, which nearly doubled the tonnage. We have provided reserved quota to the fleet to support the landing obligation, and the economic link licence condition in England has been strengthened, bringing more quota to the non-sector pool.</p>
+    <p pid="b63.5/3">We plan to do more to ensure that the quota transfers can be better utilised by the inshore fleet. We have listened to industry about wanting to be more involved, although I take on board the comments about when and how to do that, the tone to use and even the time of day at which to have the meetings. Those are all valid concerns that I will take away.</p>
+    <p pid="b63.5/4">With the MMO, we have established five regional fisheries groups to provide a formal and regular forum for engagement between the inshore fleet and policy makers, scientists and regulators. Operating at a regional level enables the distinct issues and concerns that relate to local fisheries to be discussed in a way that is not possible nationally, which is a step forward. The groups have already put forward some good, scientifically based projects, including on small-eyed ray and area 4c sole. These projects will be taken forward immediately by the CEFAS.</p>
+    <p pid="b63.5/5">Fisheries management plans will help managers to design bespoke, flexible and transparent approaches for a number of key stocks. The inshore fleet is fully engaged with that process and I am always willing to listen to suggestions made to hon. Members by their local inshore fishermen about different ways in which they feel we could be consulting with them. We hope to start a consultation before the summer recess on how to protect non-quota species, and I encourage all hon. Members to get involved with that.</p>
+    <p pid="b63.5/6">We have heard concerns from across the Chamber about the manner in which MCA inspections are being carried out. I recognise that the inspections can be a source of stress. This is very difficult territory, as was widely acknowledged, because we also recognise the enormous importance of vessel safety. We are all concerned about the sadly increased number of deaths as lockdown came to an end. We heard again from my hon. Friend the Member for South East Cornwall, who speaks so passionately on such issues.</p>
+    <p pid="b63.5/7">I will continue to liaise closely with my colleague, the Under-Secretary of State for Transport, my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25593" name="Robert Courts">the Member for Witney (Robert Courts)</phrase>, on marine safety. I am pleased that the MCA has started to attend some of the regular regional groups that we have around the coast for members of the inshore fleet. Engagement is probably the answer here. My hon. Friend and I are having a marine safety roundtable in Maritime Safety Week which begins in the first week of July, and I am happy to look at other ways that those present at this debate can be involved in marking that important week.</p>
+    <p pid="b63.5/8">We heard concerns about IVMS and the catch app. The MMO—I visited one of its offices, in Newcastle, recently—is working intensively with fishermen to resolve the issues and concerns. I am glad to say that most have been resolved. Uptake of the catch app is now at about 90%. The MMO was keen to reassure me that the intention is not to penalise fishermen, but to collect landings information in a way that is sensible. IVMS is now installed on most under-10 vessels and we have got over many of the initial teething difficulties. Four models are available for fishermen to purchase.</p>
+    <p pid="b63.5/9">Many hon. Members mentioned the spatial difficulties, so let us not forget that IVMS and the catch app are important tools that will provide us with the data that we need to understand the impact and importance of the inshore fleet, for example, when making decisions about offshore wind or the location of other spatial  planning pressures. The data that we have lacked for so long is needed urgently, but it is important that we work with the industry to collect the data in a way that works for it. Nevertheless, the better the data we have, the better the decisions we can make.</p>
+    <p pid="b63.5/10">We also heard about eating more fish and about selling British fish. I am glad to say that fish is embedded in the food strategy, and that is real progress. Over the course of the pandemic, we saw some improvement in how British fish is marketed and sold directly, but there is much more to do. I look forward to working with Members in all parts of the House on promoting fish from their area to our eaters.</p>
+    <p pid="b63.5/11">The fleet faces significant challenges, which the debate brought to our notice and which Government, regulators, scientists and the industry itself must continue to address. The diversity of the fleet is one of its strengths, however, and there are some extraordinary examples of individuals and regions seizing the initiative to make the industry more sustainable and profitable. They can be assured that they have the support of the Government and indeed of everyone in the debate.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.65.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.65.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.65.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.65.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.66.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.66.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.67.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.67.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.67.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.67.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.67.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.67.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-06-14b.67.2" speakername="Siobhain McDonagh" type="Start Speech" person_id="uk.org.publicwhip/person/10381" colnum="67" time="10:57:00" url="">
+    <p pid="b67.2/1">I beg to move,</p>
+    <p pid="b67.2/2" class="indent" pwmotiontext="yes">That this House has considered driving licences and dangerous drivers.</p>
+    <p pid="b67.2/3">I am grateful to the Minister for her time today, given the sensitivity of the issues that we will be discussing. While the debate could have been called on behalf of any of the estimated 1,390 families who so very sadly lost a loved one to a road death in the last year, it is because of a grieving family in my constituency that I am here. Given their case is subject to an ongoing investigation, I recognise the rules of the House and the importance of ensuring that under the rule of law, judgment can be cast fairly.</p>
+    <p pid="b67.2/4">I am sorry that I cannot lay out my constituent’s case in full. My understanding is that someone has been charged and it is important that the case is not jeopardised, but I can assure the family and the Minister that I will return to this issue once I can speak more freely. What I can say is that in December last year, my young constituent was tragically killed in a car crash, leaving behind her devastated family. It is important to note that the circumstances of the case raise concerns about drivers being able to continue to drive unless and until they are found guilty of driving-related offences. Although I am here on behalf of my constituent and her family, I hope that the Minister will consider the wider principle that affects any family who loses a loved one to dangerous driving.</p>
+    <p pid="b67.2/5">As it stands, there is no law to stop any dangerous driver continuing to jump in their car after a tragic accident unless and until they not only are charged but are found guilty. I make it clear to the Minister that, of course, I recognise and wholeheartedly support the justice system upon which our rule of law is built: crimes must be investigated in full and presented before a jury to cast an impartial verdict. My call is not for guilt to be presumed before innocence—it is right that the tragic death of my constituent be investigated in full and all the evidence presented—but we must recognise that waiting for a trial in such a case can take years. It is wrong to allow somebody to continue to take to the road while they face an accusation of and investigation for death by dangerous driving. For the protection of others, for their own safety and for the peace of mind of the bereaved family, the person accused of killing their loved one by dangerous driving should not be back behind the wheel.</p>
+    <p pid="b67.2/6">I cannot begin to imagine the anguish, grief and despair that a family has to face when they receive that dreaded knock on the door. It is a message that no family should ever have to hear. The pain is unimaginable, but it must be made even worse by the knowledge that nothing prevents the accused dangerous driver from driving while an investigation is still under way. We cannot bring loved ones back, but we can change the law to ensure that, while under bail conditions, nobody accused of death by dangerous driving is back on the road until the investigation is complete. It is really  that simple.</p>
+    <p pid="b67.2/7">Although I am unable to go into the details of my constituent’s case, I will tell the Minister about an investigation that has been completed. I understand from my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24709" name="Bridget Phillipson">the Member for Houghton and Sunderland South (Bridget Phillipson)</phrase> that her constituent, Carol King, tragically lost her partner, Richard Jordan, in a dangerous driving accident on <phrase class="date" code="2022-08-04">4 August</phrase> 2019. Carol and Richard’s daughter was 19 months old when he died. Eleven days after burying her partner, Carol found out that she was pregnant, and she went on to have their second daughter in March 2020. The defendant was sentenced to six years and eight months’ imprisonment, and was also banned from driving for three years following his release. That person, who had previous convictions for driving offences and is responsible for the pain of a mourning family, will be back on our roads in a matter of years.</p>
+    <p pid="b67.2/8">As it stands, the current laws and framework do not allow for the immediate removal of a driving licence from a person who is arrested or charged in connection with an offence of being over the legal limit for drink or drug-driving. Why can the police revoke a driving licence from members of the public when they fail an eye test or—as in my sister’s case—when they have an epileptic fit, but they do not have the power to remove a driving licence from someone who is driving when over the alcohol limit or under the influence of drugs?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.68.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.68.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.68.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.68.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-06-14b.68.1" speakername="Siobhain McDonagh" type="Continuation Speech" person_id="uk.org.publicwhip/person/10381" colnum="68" time="10:57:00" url="">
+    <p pid="b68.1/1">I completely agree with the hon. Gentleman. The change should apply across the countries of the United Kingdom.</p>
+    <p pid="b68.1/2">Carol and her grieving family will be listening carefully to the Minister’s answer. In preparing for the debate, I was interested to see that similar calls were made in this very Chamber in January, in a debate about police powers to suspend driving licences. It was heartbreaking to read that debate, and I truly commend those families who have had their lives turned upside down but who have channelled their grief into the fight for justice and into achieving change for others. It is clear from that debate in January that that includes the McConnachie family.</p>
+    <p pid="b68.1/3">On <phrase class="date" code="2022-02-24">24 February</phrase> 2019, Tom McConnachie was killed in a hit and run by a drink-driver, who left Tom fatally injured on the road. He then drove to Okehampton and set fire to the vehicle. The offender was able to continue driving for 11 months before being disqualified, as only a court can disqualify a driver. Tom’s family are calling for police officers to be able to provide a suspension notice from the moment the offender is caught drink, drug or dangerous driving until they appear in court. It would then be for the judge to determine whether a ban continues or whether the offender can drive again.</p>
+    <p pid="b68.1/4">As it stands, the police can impose bail conditions for particular purposes, one of which is to ensure that no further offence is committed while on bail. I understand that a driving ban as a condition of police bail may be  deemed appropriate for some cases. However, the remarks made by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25912" name="Sam Tarry">the Member for Ilford South (Sam Tarry)</phrase> in January’s debate made clear that we simply do not know in how many instances a licence has been suspended while someone is awaiting trial, and whether police forces are making use of those powers or even regularly considering them.</p>
+    <p pid="b68.1/5">Looking further back to November and yet another debate, the Minister of State, Department for Transport, <phrase class="honfriend" person_id="uk.org.publicwhip/person/24759" name="Andrew Stephenson">the hon. Member for Pendle (Andrew Stephenson)</phrase> promised that the Government were considering a review of road traffic offences and penalties, yet six months later we are still waiting for the review to get under way. A review could clarify or amend the definition of dangerous and careless driving. It could close the exceptional hardship loophole whereby drivers routinely avoid driving bans by pleading that it would cause them exceptional hardship—a plea that Cycling UK argues happens so frequently that it makes a mockery of the term “exceptional”. A review could also provide a chance to strengthen the penalties for hit-and-run offences where the driver leaves a victim for dead. Will we be back in this Chamber speaking on behalf of another grieving family in a few months’ time?</p>
+    <p pid="b68.1/6">I wish to briefly raise the concerns of another of my constituents, a class 3 mobility scooter user who fears that he could fall victim to dangerous or even non-dangerous driving on our roads. According to the highway code, he is allowed to use his mobility scooter only on the main road and not in cycle lanes. Understandably, he finds this unsafe and daunting, and the drivers of the vehicles that pull up behind him are equally frustrated as to why he is leaving the adjacent cycle lane empty while riding at his maximum speed of 8 mph. Does the Minister agree that that is an incredibly easy thing for us to resolve?</p>
+    <p pid="b68.1/7">I conclude by turning our attention back to the grieving family in my constituency, who are watching today’s debate at home. They did not want to be here today. The pain is still too raw for them. That may never change. Their ask is simple: that the anguish they are facing is not burdened on any other family, and that their dreaded knock on the door can be a chance for change, for the law to be amended so that anybody accused of death by dangerous driving is immediately taken off our roads. I hope the Minister will agree that that does not sound like too much to ask.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.69.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.69.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-06-14b.69.0" speakername="Trudy Harrison" type="Start Speech" person_id="uk.org.publicwhip/person/25600" colnum="69" time="11:08:00" url="">
+    <p pid="b69.0/1">It is a pleasure to serve under your chairmanship, Sir Charles, in what is a very difficult debate—we need to be honest about that—but one that does need to be had. While <phrase class="honfriend" person_id="uk.org.publicwhip/person/10381" name="Siobhain McDonagh">the hon. Member for Mitcham and Morden (Siobhain McDonagh)</phrase> has set out the reasons why she is unable to discuss the specifics of this ongoing and utterly tragic case, she can be assured that I have taken the time to study the details and circumstances of Lillie Clack’s death. I have also studied the hon. Member’s parliamentary interventions and I commend her for the diligence and determination that she has shown for her constituents—Lillie’s family—and I offer my most sincere condolences as well.</p>
+    <p pid="b69.0/2">I am grateful to the hon. Member for opening the debate about immediately suspending the driving licences of anyone who causes death while driving. Let me  reassure hon. Members that the Government take road safety extremely seriously. It is at the heart of the Department for Transport’s agenda. Any death or serious injury is unacceptable. The Roads Minister, Baroness Vere of Norbiton, has met many families of victims of similar incidents, and she and I are aware of the devastating effects that such incidents cause to the families and friends involved.</p>
+    <p pid="b69.0/3">I understand the tragic circumstances surrounding the death of Lillie Clack and I extend my sympathies to her family and friends. I also recognise the concerns that, in some cases, the police should be able to suspend the driving licence of an offender who is charged with causing death by dangerous driving. However, while we must do all we can to improve the safety of our roads, we must not make rash decisions that could ultimately make things worse or create other unforeseen effects in any kind of rush to resolve perceived problems with the law and how it operates.</p>
+    <p pid="b69.0/4">Turning to the call for the suspension of driving licences and the current law, as set out in the Police and Criminal Evidence Act 1984, the police can already impose bail conditions to ensure that no further offence is committed while on bail, and a driving ban as a condition of police bail may be appropriate in some cases. Decisions on when to use those powers are operational matters for the police, who have to balance the rights of defendants not yet convicted and the potential benefits to public safety from reducing the risk of further offences. It is worth noting that the criminal courts also have the power to impose an interim disqualification in certain cases.</p>
+    <p pid="b69.0/5">The Government are committed to tackling drivers under the influence of alcohol and drugs and ensuring that all such drivers are caught and punished. We have a combined approach of tough penalties and rigorous enforcement, along with the highly respected and effective Think! campaigns, which reinforce the social unacceptability of drink and drug driving and remind people of the serious consequences.</p>
+    <p pid="b69.0/6">The hon. Member for Mitcham and Morden asked me to comment on recent Government measures. The Police, Crime, Sentencing and Courts Act 2022 includes provisions to increase the maximum penalties for causing death by dangerous driving and for causing death by careless driving when under the influence of drink or drugs to life imprisonment. The Act also introduces a new offence of causing serious injury by careless driving. The Act received Royal Assent on <phrase class="date" code="2022-04-28">28 April</phrase> and the provisions will come into force on <phrase class="date" code="2022-06-28">28 June</phrase>.</p>
+    <p pid="b69.0/7">On minimum disqualification periods, we have changed the law to increase the maximum period of imprisonment and the minimum driver disqualification period for those who commit the most serious road traffic offences, which will ensure that those who commit the most serious road traffic offences are kept off our roads for longer. The increases will come into force at the end of June 2022, and will apply to the offences of causing death by dangerous driving and causing death by careless driving while under the influence of drink or drugs.</p>
+    <p pid="b69.0/8">I want to be clear that the Government are not dismissing the concerns that have been raised today and, indeed, by other Members in previous debates. We are aware of the traumatic effects of such incidents, however rare, and we are prepared to act if we are satisfied that we should, in the light of responses to the  forthcoming call for evidence on road traffic offences. We remain open-minded that more can be done in this area, but, without further work, we cannot assume that the solution proposed by the hon. Member for Mitcham and Morden is the only one, let alone the right one.</p>
+    <p pid="b69.0/9">I am sure that hon. Members appreciate that this is a complex area, and that any change to the law should fit within the current driving offence framework. Officials from my Department have been exploring options that could be pursued in this area and will consider the points raised in this debate, as well as the information that comes as a response to the call for evidence.</p>
+    <p pid="b69.0/10">With regard to any potential law changes for road traffic offences, we will need to consider the interests of victims and wider society and balance those against the rights of suspects. To explore those issues in full, the Department will conduct a call for evidence on parts of the Road Traffic Act 1988. While details of the exact scope are still being worked up, I can reassure hon. Members and the general public that the points raised in this debate on the suspension of driving licences will be considered.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.71.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.71.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.71.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.71.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.72.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.72.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.72.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.72.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.72.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.72.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.72.3" newgid="uk.org.publicwhip/westminhall/2022-06-14c.72.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.72.4" newgid="uk.org.publicwhip/westminhall/2022-06-14c.72.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.72.5" newgid="uk.org.publicwhip/westminhall/2022-06-14c.72.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.73.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.73.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.73.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.73.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.73.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.73.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.74.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.74.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.74.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.74.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.74.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.74.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.74.3" newgid="uk.org.publicwhip/westminhall/2022-06-14c.74.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.74.4" newgid="uk.org.publicwhip/westminhall/2022-06-14c.74.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.75.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.75.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.76.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.76.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.76.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.76.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.76.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.76.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.78.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.78.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.78.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.78.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.79.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.80.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.80.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.80.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.80.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.80.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.80.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.80.3" newgid="uk.org.publicwhip/westminhall/2022-06-14c.80.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.81.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.81.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.81.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.81.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.82.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.82.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.82.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.82.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.84.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.84.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.84.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.84.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.85.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.85.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.86.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.86.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.87.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.87.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.90.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.90.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.91.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.91.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.92.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.92.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.93.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.93.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.93.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.93.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.93.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.93.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.93.3" newgid="uk.org.publicwhip/westminhall/2022-06-14c.93.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.94.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.94.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.94.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.94.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.95.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.95.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.95.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.95.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.95.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.95.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.95.3" newgid="uk.org.publicwhip/westminhall/2022-06-14c.95.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.95.4" newgid="uk.org.publicwhip/westminhall/2022-06-14c.95.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.95.5" newgid="uk.org.publicwhip/westminhall/2022-06-14c.95.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.95.6" newgid="uk.org.publicwhip/westminhall/2022-06-14c.95.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.95.7" newgid="uk.org.publicwhip/westminhall/2022-06-14c.95.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.96.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.96.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.96.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.96.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.96.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.96.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.97.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.97.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.97.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.97.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.97.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.97.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.98.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.98.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.98.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.98.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.98.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.98.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.99.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.99.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.99.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.99.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.99.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.99.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.99.3" newgid="uk.org.publicwhip/westminhall/2022-06-14c.99.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.99.4" newgid="uk.org.publicwhip/westminhall/2022-06-14c.99.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.100.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.100.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.100.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.101.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.101.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.102.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.102.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.102.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.102.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.102.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.102.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.102.3" newgid="uk.org.publicwhip/westminhall/2022-06-14c.102.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.102.4" newgid="uk.org.publicwhip/westminhall/2022-06-14c.102.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.102.5" newgid="uk.org.publicwhip/westminhall/2022-06-14c.102.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.104.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.104.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.104.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.106.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.106.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.107.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.107.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.108.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.108.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.108.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.108.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.108.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.108.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.108.3" newgid="uk.org.publicwhip/westminhall/2022-06-14c.108.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.109.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.109.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.110.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.110.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.111.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.111.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.111.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.111.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.111.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.111.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-06-14b.111.2" speakername="Jim Shannon" type="Continuation Speech" person_id="uk.org.publicwhip/person/13864" colnum="111" time="17:09:00" url="">
+    <p pid="b111.2/1">It is always a pleasure to speak in Westminster Hall, no matter what. I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/25806" name="Jacob Young">the hon. Member for Redcar (Jacob Young)</phrase> on setting the scene so very well and giving us all the opportunity to participate by doing that. The thrust of my contribution will be to insist—in a gentle, nice way—that Northern Ireland should be very much a part of the planned future hydrogen strategy. I am ever mindful of the Government’s legally binding targets under the Climate Change Act 2008, and the fact that the Climate Change Committee’s 2018 report, “Hydrogen in a low-carbon economy”, found hydrogen to be a credible option. The Government have committed themselves very much to the net zero target and to ensuring that hydrogen is an energy opportunity that we can all take advantage of.</p>
+    <p pid="b111.2/2">A hydrogen economy has the potential to create or safeguard a massive 167,000 jobs—we cannot ignore that, and we look forward to some of those jobs coming to Northern Ireland—to provide £10 billion in gross value added to the UK economy, as mentioned by <phrase class="honfriend" person_id="uk.org.publicwhip/person/25871" name="Darren Henry">the hon. Member for Broxtowe (Darren Henry)</phrase>, and to  reduce CO2 emissions in the region by 29%. These are helpful targets, and they show that the Government are totally committed to this project. I look forward to the Minister’s response; he always speaks with knowledge in responding to our questions.</p>
+    <p pid="b111.2/3">Recent work to drive the hydrogen agenda has seen progress move beyond the midlands, with plans to link key transport hubs: Immingham, the UK’s largest port by tonnage and the biggest deep-water port on the Humber; East Midlands airport, the UK’s busiest pure cargo airport; and the Tees valley, where plans are already in motion to develop a multi-modal hydrogen transport hub. Northern Ireland has also launched an ambitious new energy strategy, which includes plans for hydrogen as a key energy source for the future. I am keen to reiterate that and to push for that to happen.</p>
+    <p pid="b111.2/4">The hydrogen strategy set out a number of things that should happen to expand domestic hydrogen production. They include setting aside £240 million for the net zero hydrogen fund, the significant development and scale-up of hydrogen network and storage infra-structure, with a £68 million commitment, and scaling up the use of low-carbon hydrogen, with heating buildings and transport trials and pilot projects planned—<phrase class="honfriend" person_id="uk.org.publicwhip/person/25806" name="Jacob Young">the hon. Member for Redcar (Jacob Young)</phrase> referred to that. The strategy also talks about a market framework for hydrogen and a “supportive regulatory framework”. Northern Ireland wants to be part of that hydrogen plan, Minister. I know from the answers that he has given to me in the past, and also to my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/13852" name="Ian Paisley Jnr">the Member for North Antrim (Ian Paisley)</phrase>, that he is committed to that, but it would be nice to have it in Hansard.</p>
+    <p pid="b111.2/5">The hon. Member for Redcar referred to the village-scale trial that his constituency hopes to be part of. I do not care where it is, as long as it happens, although I would love to know the time scale for whenever the Minister thinks it would be completed and, then, how the plan would be developed for the rest of the United Kingdom.</p>
+    <p pid="b111.2/6">My hon. Friend the Member for North Antrim has previously referred in questions to building hydrogen products that the public will ultimately use, such as buses, trains and heavy goods vehicles. The Minister replied to that in a very positive fashion—I think he referred to Glasgow City Council’s commitment—but I would like to see what is actually meant by</p>
+    <p pid="b111.2/7" class="indent" pwmotiontext="yes">“further engagement with the Northern Ireland Executive”.—[Official Report, <phrase class="date" code="2022-02-22">22 February</phrase> 2022; Vol. 709, c. 160.]</p>
+    <p pid="b111.2/8">My hon. Friend also previously referred in a question to the “golden thread”, which I thought was quite a good saying—the golden thread that keeps together all this great United Kingdom of Great Britain and Northern Ireland, where all of us, in all the regions, can benefit. The Minister without Portfolio, <phrase class="honfriend" person_id="uk.org.publicwhip/person/24878" name="Nigel Adams">the right hon. Member for Selby and Ainsty (Nigel Adams)</phrase>, referred to</p>
+    <p pid="b111.2/9" class="indent" pwmotiontext="yes">“£100 million of new funding for the net zero innovation portfolio”.—[Official Report, <phrase class="date" code="2022-01-13">13 January</phrase> 2022; Vol. 706, c. 630.]</p>
+    <p pid="b111.2/10">I very much want Northern Ireland to be a part of that.</p>
+    <p pid="b111.2/11">To conclude, “The Path to Net Zero Energy”, published in December, has set long-term sustainability targets for the region’s energy sector, including plans to fully decarbonise by 2050. Cost is also a key focus in the plan, in order to increase the affordability of low-carbon forms of energy. Other targets include the delivery of   energy savings of 25% from buildings and industry by 2030, as well as doubling the size of Northern Ireland’s low-carbon and renewable energy economy.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.113.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.113.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.113.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.113.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.113.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.113.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.114.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.114.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.114.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.114.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.115.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.117.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.118.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.118.1" newgid="uk.org.publicwhip/westminhall/2022-06-14c.118.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.118.2" newgid="uk.org.publicwhip/westminhall/2022-06-14c.118.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.118.3" newgid="uk.org.publicwhip/westminhall/2022-06-14c.118.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-06-14b.120.0" newgid="uk.org.publicwhip/westminhall/2022-06-14c.120.0" matchtype="perfectmatch"/>
+</publicwhip>
+

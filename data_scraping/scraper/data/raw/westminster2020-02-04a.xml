@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-02-04a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.1.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.1.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.1.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.2.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.2.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.2.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.2.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.2.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.2.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.3.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.3.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.3.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.3.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.4.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.4.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.4.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.4.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.4.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.4.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.5.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.5.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.5.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.5.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.5.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.5.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.5.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.6.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.6.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.6.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.6.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.6.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.6.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.6.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.7.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.7.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.7.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.7.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.7.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.7.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.7.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.7.4" newgid="uk.org.publicwhip/westminhall/2020-02-04b.7.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.9.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.9.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.9.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.10.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.10.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.10.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.10.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.11.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.12.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.12.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.12.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.12.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.12.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.13.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.13.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.13.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.13.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.14.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.14.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.15.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.15.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.15.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.15.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.17.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.17.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.17.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.17.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.17.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.17.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.17.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.17.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.19.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.19.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.20.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.20.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.20.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.21.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.21.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.21.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.21.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.22.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.22.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.24.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.24.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.24.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.24.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.26.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.26.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.26.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.26.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.26.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.26.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.26.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.26.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.28.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.31.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.31.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.31.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.31.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.33.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.33.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.33.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.33.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.33.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.33.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.33.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.33.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.33.4" newgid="uk.org.publicwhip/westminhall/2020-02-04b.33.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.33.5" newgid="uk.org.publicwhip/westminhall/2020-02-04b.33.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.34.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.34.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.34.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.34.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.34.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.34.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.34.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.34.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.34.4" newgid="uk.org.publicwhip/westminhall/2020-02-04b.34.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.36.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.36.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.36.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.36.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.37.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.37.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.37.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.38.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.38.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.38.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.38.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.39.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.39.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.39.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.39.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.40.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.40.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.40.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.41.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.42.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.42.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.42.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.42.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.42.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.42.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.44.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.44.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.46.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.46.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.46.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.46.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.49.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.49.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-02-04a.49.0" speakername="Alex Norris" person_id="uk.org.publicwhip/person/25687" colnum="49" time="15:29:00" url="">
+    <p pid="a49.0/1">It is a pleasure to serve under your chairship, Sir Charles. When I saw this debate on the list of upcoming Westminster Hall debates, I was keen to participate not only because it is such an important topic, but because it is being led by my constituency neighbour and hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25845" name="Nadia Whittome">the Member for Nottingham East (Nadia Whittome)</phrase>. It is a real privilege to respond for the Opposition.</p>
+    <p pid="a49.0/2">My hon. Friend is quickly making her mark on the House, and I know she will be a strong voice for our community in Nottingham and for communities around the world who need people to stand up for them. I have known her for a number of years, and she has shared her voice, her power and her platform—be it for a popular or an unpopular cause—with people who are in need and who are without a voice or power. I know she will bring great credit to herself and our city in her time as an MP. We in Nottingham are proud that we will be the first city in this country to be carbon neutral, which was born out of community activism and campaigning. People took to the streets of Nottingham and pestered their elected leadership by being clear about what they wanted on this issue. Local leaders then reflected that by making it into policy, which is exactly how things should be.</p>
+    <p pid="a49.0/3">Members of different parties have made a number of excellent contributions to the debate. I took double pleasure in the contribution from <phrase class="honfriend" person_id="uk.org.publicwhip/person/25900" name="Theo Clarke">the hon. Member for Stafford (Theo Clarke)</phrase>, who has such a strong record from her professional experience. I know she will be a strong advocate for an independent, well-resourced DFID. My previous winding-up speech for the Opposition was in the dying embers of the last Parliament, and sitting about three chairs down from where she is sitting was her predecessor, Jeremy Lefroy, who is remembered fondly in this place for his contributions on a variety of issues, but especially on international development—there is clearly something in the water in Stafford. I take her point on the importance of the congruence of ODA policy and the Paris goals, and Britain’s climate obligations. I will return to that later, because we are at a point where they are starting to diverge.</p>
+    <p pid="a49.0/4">I turn to the contribution from <phrase class="honfriend" person_id="uk.org.publicwhip/person/25648" name="Wera Hobhouse">the hon. Member for Bath (Wera Hobhouse)</phrase>, who made an important point about our neighbours. Everyone is our neighbour. We talk about constituency neighbours, but our fates are so intrinsically linked these days. We are on the same planet currently hurtling headlong towards the same dreadful fate, so we have a real job of solidarity and responsibility to each other. I was very pleased to hear her talk about the importance of citizens’ assemblies, as other Members did. I will make a shameless plug as the chair of the all-party parliamentary group for deliberative democracy—all allies are welcome. For the climate emergency and many more issues, our democracies would be strengthened by bringing people in and having proper, evidence-based conversations on thorny topics.</p>
+    <p pid="a49.0/5"><phrase class="honfriend" person_id="uk.org.publicwhip/person/24785" name="Harriett Baldwin">The hon. Member for West Worcestershire (Harriett Baldwin)</phrase> mentioned an extraordinary fact about the impact of gender and of all girls around the world getting 12 good years of education. My heart leapt when she brought gender into the discussion, as we ought to be feeding it into every debate in this place. Meeting only a basic decent standard would help us tackle climate inequalities and all sorts of inequalities  around the world. She talked about enormous scales of improvements and carbon reductions, but they do not even factor in that, if we had a basic level of education for women and girls around the world and the freedoms that go with it, we would also have better leadership. The scope for making much greater inroads into other knotty climate challenges—in fact, into all our global challenges—would be enormous, too.</p>
+    <p pid="a49.0/6">My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25909" name="Zarah Sultana">the Member for Coventry South (Zarah Sultana)</phrase> made a critical point that came up in the election when we talked to people on the doorstep, and to which we have to keep returning at all times: climate change is not a theoretical exercise, but is happening now. That not only behoves us to take immediate action, but reminds us that our actions are late. As such, they need to come with the scale and ambition that mean we are catching up. In that vein, <phrase class="honfriend" person_id="uk.org.publicwhip/person/24910" name="Caroline Lucas">the hon. Member for Brighton, Pavilion (Caroline Lucas)</phrase> reminds us of our historic obligations—the duality of having both a historical legacy but also the greatest capacity for change.</p>
+    <p pid="a49.0/7">We in Britain have a real responsibility to take global leadership. I suspect the Minister will start with that, because most, if not all, Government Ministers do so. We are in danger of believing our own hype that we are doing enough with our current emissions reductions. It is great to see the reductions, but they are not enough. We must take a real global lead by using our assets. As my hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Sheffield, Hallam (Olivia Blake)</phrase> said, that is inconsistent with the decisions being taken on drilling, oil deals and fossil fuels, to which I will return shortly.</p>
+    <p pid="a49.0/8">I will make a couple more points. We had the COP26 announcements today, but I want to talk about an announcement from two weeks ago, not least because I raised this issue at departmental questions last Wednesday and the Minister accused me of not having read the announcement. I thought it slightly unkind, not least because I was quoting verbatim from a written answer from the Minister for the Middle East and North Africa, <phrase class="honfriend" person_id="uk.org.publicwhip/person/11132" name="Andrew Murrison">the right hon. Member for South West Wiltshire (Dr Murrison)</phrase>.</p>
+    <p pid="a49.0/9">Two weeks ago, the Prime Minister stood at a podium—he was probably waving his hands around—at the UK-Africa investment summit and made his flagship announcement on the climate emergency. He told 16 heads of state and the world’s media that the UK would stop investment and development assistance for coal mining and coal-fired power stations overseas. Garlands flowed from virtually all our newspapers, and there was a real sense that it was a seismic and totemic moment for such a promise to come from the Prime Minister. Looking at the announcement and what it really means, the reality is that UK aid funds have not been used to support coal since 2012, nor had UK Export Finance supported coal overseas since 2002. It was a re-announcement of something that had happened many years ago.</p>
+    <p pid="a49.0/10">There is nothing new in spin—I confess that I have used a bit in the past—but this is too important an issue on which to equivocate. Although the Government were briefing one thing on climate and saying what wonderful progress was being made, they were actually very busy doing quite the opposite at the summit. The Government helped strike £2 billion-worth of energy deals, 90% of which were for fossil fuels, primarily oil and gas. The five fossil fuel deals include an investment   of £26 million in gas assets in Tunisia by Anglo Tunisian Oil and Gas, and an investment of £1.2 billion in oil production in Kenya by Tullow.</p>
+    <p pid="a49.0/11">The Government might well make a case for why they should support and broker investment in fossil fuels, and they ought to, clearly and honestly. The Minister has a platform, and I call on him to make it clear what was done at the summit and why it is important. It should be debated publicly—that is how it should work. The public ought to be able to make their own assessment of whether their leaders understand the greatest challenge of our time, and whether our actions match up with the rhetoric. When we stand at a podium and say we are doing one thing, and then quietly do another in the backrooms, it serves nobody. It certainly does not serve debate and will not tackle the existential challenge that we collectively face. As we go into COP26, I hope we can use the announcements, including today’s, to have proper and honest conversations about climate justice and the climate emergency.</p>
+    <p pid="a49.0/12">I will make a point on climate justice and ask the Minister a few questions. I am grateful to my hon. Friend the Member for Nottingham East for raising this issue—we talk a lot about the climate emergency, and we ought to do so. It is the question of our time and leads to a technical question: what can we do to tackle the issue? What should we do to reduce carbon, and how can we save our planet for future generations? In answering that, we miss the challenge of fairness and justice, because it is seen as a lesser emergency. However, there is no true solution to the climate emergency unless it is just.</p>
+    <p pid="a49.0/13">I will put on record five ways that the UK could adopt a full climate justice approach at COP26, and I would be interested in the Minister’s reflections on them. First, we need to provide climate finance for adaptation, resilience and mitigation, which should be targeted at the people who are worst affected. Will the Minister consider embedding the principles and standards of the ODA in climate finance spending, to ensure that it explicitly reaches those who are most marginalised?</p>
+    <p pid="a49.0/14">Secondly, it is long overdue that the UK ends its investment, finance and aid funding for oil, gas and fossil fuels overseas. Will the Government immediately switch their support for energy overseas to renewable energies? In the light of what outgoing COP chair Claire O’Neill said, did the Prime Minister understand the other elements of his announcement on coal? Will the Minister make it clear how the announcement of divestment from coal, which has previously happened, is compatible with the deals that were struck?</p>
+    <p pid="a49.0/15">Thirdly, as the demand for renewable energy expands, we cannot simply replicate previous injustices by allowing large corporations to extract raw materials for products such as solar panels on the back of cheap labour and conflict. Can the Minister assure us that people in the global south will not be exploited anew in the quest for new resources? What will we do differently to ensure that outcomes are more just in the future?</p>
+    <p pid="a49.0/16">Fourthly, those affected will not get justice until the international community and the UK start to find ways to make amends for our role in historical emissions—that relates to the point made by the hon. Member for Brighton, Pavilion. The UK can start by recognising  the need for financing for loss and damage, so will the Government consider doing so ahead of COP? Will the Minister ensure that the tab is picked up by the world’s worst polluters, and that it is not subsidised solely by British taxpayers, the vast majority of whom have not benefited and, indeed, are living with the impacts themselves—another hidden local injustice?</p>
+    <p pid="a49.0/17">Fifthly, we urge the Government to take immediate action to cut the UK’s carbon emissions in the coming months before the conference so that we set an example for other wealthy nations. We should be pleased with the progress that has been made—I know what the Minister will say about our record in recent years—but we should have an honest conversation with people, because this is about not just our raw top-line emissions figures but our consumption figures, as the hon. Member for Brighton, Pavilion said. Let us have an honest, in-the-round conversation, and be really clear about what we are doing and the improvements we are making so that we can be global leaders.</p>
+    <p pid="a49.0/18">It is time for us to step up as global leaders, not just on tackling the climate emergency so that future generations have a planet, but on ensuring that the outcomes are just and that we do not make the same unequal errors that we made in the past. I look forward to hearing the Minister’s views. I once again express my gratitude to my hon. Friend the Member for Nottingham East for securing and leading this important debate.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.52.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.52.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.52.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.52.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.53.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.53.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.53.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.53.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.53.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.53.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.53.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.53.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.53.4" newgid="uk.org.publicwhip/westminhall/2020-02-04b.53.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.54.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.54.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.56.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.56.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.56.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.56.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.57.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.57.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.58.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.58.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.58.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.58.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.58.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.58.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.61.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.61.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.62.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.62.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.62.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.62.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.63.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.63.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.63.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.63.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.65.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.65.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.65.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.65.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.65.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.65.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.66.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.66.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.67.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.67.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.67.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.67.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.67.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.67.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.67.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.67.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.69.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.69.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.69.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.69.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.70.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.70.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.70.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.70.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.71.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.71.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.71.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.71.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.72.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.72.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.72.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.72.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.77.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.77.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.78.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.78.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.79.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.80.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.80.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.80.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.80.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.81.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.81.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.81.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.81.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.82.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.82.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.82.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.82.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.82.2" newgid="uk.org.publicwhip/westminhall/2020-02-04b.82.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.82.3" newgid="uk.org.publicwhip/westminhall/2020-02-04b.82.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.83.0" newgid="uk.org.publicwhip/westminhall/2020-02-04b.83.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-02-04a.83.1" newgid="uk.org.publicwhip/westminhall/2020-02-04b.83.1" matchtype="perfectmatch"/>
+</publicwhip>
+

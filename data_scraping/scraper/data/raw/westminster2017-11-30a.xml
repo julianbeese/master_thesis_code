@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2017-11-30a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.197.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.197.1" newgid="uk.org.publicwhip/westminhall/2017-11-30b.197.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.197.2" newgid="uk.org.publicwhip/westminhall/2017-11-30b.197.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.197.3" newgid="uk.org.publicwhip/westminhall/2017-11-30b.197.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.201.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.203.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.205.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.205.1" newgid="uk.org.publicwhip/westminhall/2017-11-30b.205.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.205.2" newgid="uk.org.publicwhip/westminhall/2017-11-30b.205.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.205.3" newgid="uk.org.publicwhip/westminhall/2017-11-30b.205.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.207.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.209.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.209.1" newgid="uk.org.publicwhip/westminhall/2017-11-30b.209.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.209.2" newgid="uk.org.publicwhip/westminhall/2017-11-30b.209.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.209.3" newgid="uk.org.publicwhip/westminhall/2017-11-30b.209.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.209.4" newgid="uk.org.publicwhip/westminhall/2017-11-30b.209.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.210.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.211.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.211.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.213.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.214.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.216.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.216.1" newgid="uk.org.publicwhip/westminhall/2017-11-30b.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.216.2" newgid="uk.org.publicwhip/westminhall/2017-11-30b.216.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.216.3" newgid="uk.org.publicwhip/westminhall/2017-11-30b.216.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.217.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.218.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.218.1" newgid="uk.org.publicwhip/westminhall/2017-11-30b.218.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.221.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.221.1" newgid="uk.org.publicwhip/westminhall/2017-11-30b.221.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.221.2" newgid="uk.org.publicwhip/westminhall/2017-11-30b.221.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.224.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.225.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.225.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-11-30a.225.0" speakername="Rosie Cooper" person_id="uk.org.publicwhip/person/11667" colnum="225" time="15:22:00" url="">
+    <p pid="a225.0/1">It is a pleasure to serve under your chairmanship today, Ms Buck. I thank my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10199" name="Jim Fitzpatrick">the Member for Poplar and Limehouse (Jim Fitzpatrick)</phrase> for securing this debate. This is one of those occasions when the only suitable ministerial and departmental response to the words spoken in the debate is urgent action to review, reconsider and change course. That means helping deaf people, working across Government instead of in silos, and putting deaf people at the centre of the decision-making process. I include an important area that people have talked about quite a lot today: the Department for Work and Pensions, where Access to Work needs to be promoted, not capped. Unfortunately, that cap will affect so many of our deaf and hard of hearing constituents when we come to the end of the grace period in April 2018.</p>
+    <p pid="a225.0/2">I am the eldest child of deaf parents, and I was their voice and ears from a very young age. That was invaluable to them, enabling them to be easily heard and understood in a deaf world. My dad was born deaf and my mum became deaf at four years of age. I say that I was kidnapped by the deaf community at birth, because my culture, language and community are theirs. That poses me some difficulties on occasion, because I can be very straightforward in the way I deal with matters. My first language is BSL, not Sign Supported English—most people think that is BSL, but it is not.</p>
+    <p pid="a225.0/3">I was tempted to sign my whole speech. I was going to do that and have the interpreters voice over my comments for my colleagues, to give everybody a feel for how it is not to be able to communicate directly—not for a minute, not for a sentence, but for five minutes or however long it takes me to finish this speech. Not to be able to communicate directly with the person we are talking to is really, really strange and difficult. Deaf people feel and experience that every single minute of their lives.</p>
+    <p pid="a225.0/4">My experiences and the communication difficulties I saw led me, when I was Lord Mayor, to provide every deaf person in Liverpool with a minicom. We paid for them by getting children in schools to learn the deaf alphabet. They saw it as a secret language and really enjoyed it, and I got minicoms for everybody who was deaf in Liverpool. Some might ask why that was so important. We talk about isolation, but even though I thought, as a product of that environment, that I  understood it, I came home with a minicom for my dad and gave it to him. He looked at it and was so happy, and then he took it and pressed “Nine… nine…” I said, “Whoa!” and he said, “Who else can I call? Nobody else has got one, only the emergency services and the doctor.” I thought, “Right, I get the message: every deaf person in Liverpool.” That made me realise that I needed to get on with it and get everybody a minicom.</p>
+    <p pid="a225.0/5">Mobile phones have improved the situation, but as <phrase class="honfriend" person_id="uk.org.publicwhip/person/24947" name="Iain Stewart">the hon. Member for Milton Keynes South (Iain Stewart)</phrase> has outlined, we are not progressing with transmission services as we should. I have known Chris Jones for many years, and it is a really important thing, but the agenda is so large that we need Ministers across Government to start tackling it quickly. Being able to communicate is fundamental to someone doing their job and doing a good job. The evidence is clear that Access to Work is a system that enables deaf people, particularly those who use BSL, to use their own voices in the workplace, with the communication support they need.</p>
+    <p pid="a225.0/6">When I think about it, I am probably one of the first examples. My dad was a plasterer and he was so good—I genuinely mean that—that directors of building companies, since they could not phone him, used to come to my house and sit down around the table. As a child, from the age of eight or nine onwards, I used to sit on a Friday night and instead of all the millions of bits of paper going, I was drafted in to be the person from Access to Work. My dad did really well. He kept getting more and more money. They wanted him, the prices went up, and I did that every few months.</p>
+    <p pid="a225.0/7">To me, the evidence is clear: the cap does not simply hinder deaf people’s ability to do their jobs, but will cause them to turn down employment offers and promotions. It might have meant that my dad did not get such a good deal on his next contract. It leaves self-employed people in a precarious position, where the small profits they have worked hard to earn go toward expensive interpretation costs. That is absolutely not a cost-effective way to work. The UK Council on Deafness found that nearly half of those whose income will be capped in April said that they would not even apply for promotion in future because they worried that they would not receive enough communication support. That presents barriers to those aspiring to careers in professional, managerial and senior roles. I have a friend who was the headteacher of a deaf school. Without support, how will that happen in the future?</p>
+    <p pid="a225.0/8">We need to allow deaf people to progress as far as their talent allows. I have spoken to many other deaf people in lower roles but who aspire to do better. They have stopped looking forward and now live every day in fear that they may lose the job they have. Every day is a challenge, especially if they lose that support for two days a week. We must all be clear that deafness is not a limiting learning disability. There is no reason why deaf people cannot secure employment in senior roles, so long as Government decisions do not dampen down the support that they require.</p>
+    <p pid="a225.0/9">Central Government just cannot sit back in the hope that employers and the self-employed will simply make up that two-day deficit in support costs that the cap is estimated to impose, especially when employers are already saying that they are not confident about their businesses employing a person with a hearing loss. We simply cannot waste huge swathes of talent. I know  that, because my dad, who was born deaf, was probably one of the greatest men I have ever known. He was fantastically clever, and he was deaf, but that did not prevent him from doing anything—and we should not allow it to.</p>
+    <p pid="a225.0/10">Does the Minister accept that the cap reimposes limits on the ambitions and financial security of deaf people, and leaves the next generation without the belief or ability to succeed in a 21st century workplace? They can. My dad has died now—he was 91—but he did it before; he was a trailblazer. Do not stop the new trailblazers. Help them to forge ahead.</p>
+    <p pid="a225.0/11">It is also vital that the Minister recognises that, outside this place, the majority of British citizens and employers lack awareness of Access to Work. That really helps to explain why a recent labour force survey found that 30% of working-age people who identify themselves as having a hearing loss are not employed; I actually believe the proportion is higher than that. Does he recognise the need for a single gateway that would provide assistance and advice for employers seeking Access to Work support for their employees who are deaf or have a hearing loss?</p>
+    <p pid="a225.0/12">I have listened to people refer to deafness as an invisible handicap, and it absolutely is; it is an invisible disability. However, that also means it is an easy target for cuts, especially in the NHS, Education and the DWP. We must guard against taking that easy, quick solution in the hope that deaf people and the hard of hearing will not be able to articulate the anger they feel at their treatment. I have two hearing aids, and I ask the Minister: if my hearing deteriorated to such an extent that I needed communication support to do my job as an MP, would these rules enable me to do the job effectively? If not, how is everybody else supposed to do their jobs under these rules? Do the rules not jeopardise employment, rather than helping to increase it within the deaf and hard of hearing community?</p>
+    <p pid="a225.0/13">On a slightly different subject, as I said before, my first language was sign language, and I was delighted that the Labour party general election manifesto earlier this year committed to giving BSL full legal recognition. That would improve the structures and the expectation of full language access, through fully qualified interpreters, in all aspects of public life. However, that leads to a question: if the Government do not value interpreters, how will that encourage people to take up those roles?</p>
+    <p pid="a225.0/14">What will we do if people do not learn BSL and are not there as interpreters? We already have cases of unqualified people interpreting in courts. That is wrong. They have no idea about deaf culture or the nuances and what people really mean. There is a difference between somebody who is just learning sign language and somebody who is really fluent or speaks it as a first language and understands what a deaf person is really saying. We need to value those interpreters.</p>
+    <p pid="a225.0/15">My final question to the Minister is: does he agree that legal recognition will provide another means of improving awareness of deafness and of the barriers that deaf people and those with hearing loss deal with in the workplace? We need to ensure that Access to Work is extended to many more employers than the current miniscule few who actually use it. I look forward to hearing the Minister’s reply. Ultimately, he will be  judged on the ability of the deaf community and those with hearing loss to succeed and to realise their potentials. That means in every part of their lives—particularly in the workplace, education and health, because without those things, what are we to do? Please give them the same chances that we get.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.228.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.230.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.232.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.241.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-30a.242.0" newgid="uk.org.publicwhip/westminhall/2017-11-30b.242.0" matchtype="perfectmatch"/>
+</publicwhip>
+

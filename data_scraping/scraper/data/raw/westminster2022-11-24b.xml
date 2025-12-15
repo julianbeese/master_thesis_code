@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2022-11-24b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.169.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.169.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.169.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.169.2" newgid="uk.org.publicwhip/westminhall/2022-11-24c.169.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.170.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.170.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.170.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.171.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.171.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.171.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.172.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.172.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.172.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.172.2" newgid="uk.org.publicwhip/westminhall/2022-11-24c.172.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.172.3" newgid="uk.org.publicwhip/westminhall/2022-11-24c.172.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.172.4" newgid="uk.org.publicwhip/westminhall/2022-11-24c.172.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.173.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.173.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.173.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.173.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.173.2" newgid="uk.org.publicwhip/westminhall/2022-11-24c.173.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.173.3" newgid="uk.org.publicwhip/westminhall/2022-11-24c.173.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.173.4" newgid="uk.org.publicwhip/westminhall/2022-11-24c.173.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.174.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.174.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.174.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.175.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.175.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.176.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.176.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-11-24b.176.0" speakername="Margaret Greenwood" type="Start Speech" person_id="uk.org.publicwhip/person/25349" colnum="176" time="13:56:00" url="">
+    <p pid="b176.0/1">It is a pleasure to serve under your chairmanship this afternoon, Dame Angela. I congratulate my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11647" name="Diana R. Johnson">the Member for Kingston upon Hull North (Dame Diana Johnson)</phrase> and <phrase class="honfriend" person_id="uk.org.publicwhip/person/10057" name="Peter Bottomley">the hon. Member for Worthing West (Sir Peter Bottomley)</phrase> on securing the debate and thank them for all their work on this important issue. I pay tribute to everyone campaigning on this too.</p>
+    <p pid="b176.0/2">As we know, during the 1970s and 1980s, thousands of UK patients contracted HIV, the hepatitis virus, or both from contaminated blood or blood products. I want to raise the case of one of my constituents, who was one of those patients. She has now been recognised officially as a victim of the contaminated blood scandal, but getting there has been, in her words, “a long, upsetting and depressing process”, both in an administrative sense and in terms of her health. For many years, she was denied any recognition or support due to lost medical records. She said there were times when she decided it was best for her to just admit she was beaten and move on. Thankfully, she persisted and is now rightly recognised as a victim. Despite being cured of hepatitis C several years ago, she has been left with a number of other extremely serious health issues. She still suffers today, not only medically but emotionally, due in part to the stigma attached to hepatitis C and blood-borne viruses. There can be no place for stigma in relation to health in a supportive and understanding society.</p>
+    <p pid="b176.0/3">Over the years, the strain on my constituent and her family, including her children, has been enormous and their lives have been profoundly affected. She told me she often wonders how different her life would have been if she had not required a blood transfusion at birth. I am sure that she, like everyone else affected by this, just wants conclusion and closure. The Government’s written response of <phrase class="date" code="2022-09-05">5 September</phrase> notes Sir Robert Francis KC’s independent study, with options for a workable and fair framework of compensation for those infected and affected by the tragedy. It also notes the recommendations by Sir Robert and Sir Brian Langstaff, chair of the infected blood inquiry, of making interim payments of no less than £100,000 to all those infected and all bereaved partners currently registered on UK infected blood support schemes, as well as those who register between now and the inception of any future scheme.</p>
+    <p pid="b176.0/4">The Government have confirmed that infected individuals and bereaved partners who are registered with any of the four UK infected blood support schemes received their payments by <phrase class="date" code="2022-10-28">28 October</phrase>. However, as the Hepatitis C Trust has pointed out, those are only interim payments, and this is just the start of the process of setting up the full compensation scheme.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.177.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.177.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.177.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.177.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.177.2" newgid="uk.org.publicwhip/westminhall/2022-11-24c.177.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.178.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.178.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.178.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.178.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.179.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.179.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.179.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.179.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.180.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.181.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.181.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.181.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.182.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.182.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-11-24b.182.0" speakername="Chris Stephens" type="Start Speech" person_id="uk.org.publicwhip/person/25306" colnum="182" time="14:17:00" url="">
+    <p pid="b182.0/1">It is a pleasure to see you in the Chair and to serve under your chairpersonship, Dame Angela.</p>
+    <p pid="b182.0/2">As others have, I pay tribute to the chair of the all-party parliamentary group on haemophilia and contaminated blood. It is a privilege to be the vice-chair, but <phrase class="honfriend" person_id="uk.org.publicwhip/person/11647" name="Diana R. Johnson">the right hon. Member for Kingston upon Hull North (Dame Diana Johnson)</phrase> has led the group superbly, as has the Father of the House, <phrase class="honfriend" person_id="uk.org.publicwhip/person/10057" name="Peter Bottomley">the hon. Member for Worthing West (Sir Peter Bottomley)</phrase>. The Minister should be under no illusion: they have been relentless, and there are Members of this House who will join them in relentlessly campaigning on behalf of the victims of this scandal until justice is delivered. This tragedy continues to devastate lives, and we will continue to work cross-party to press the UK Government to pay fair and timely compensation to the bereaved families of the victims.</p>
+    <p pid="b182.0/3">As others have said, it was campaigning, political pressure, legal pressure and media pressure that secured the infected blood inquiry in the first place. It was not handed to us; it had to be campaigned for relentlessly—I will continue to use that word—before the inquiry was given. The evidence from it is completely and utterly shocking. Andy Burnham, the former Health Secretary, called the scandal “a colossal failure”, saying in his evidence that there</p>
+    <p pid="b182.0/4" class="indent" pwmotiontext="yes">“may even be a case for asking the Crown Prosecution Service (CPS) to consider charges of corporate manslaughter”,</p>
+    <p pid="b182.0/5">and before then, in his last speech in Parliament—<phrase class="honfriend" person_id="uk.org.publicwhip/person/24963" name="Ian Lavery">the hon. Member for Wansbeck (Ian Lavery)</phrase> referred to this—Andy Burnham called the scandal a</p>
+    <p pid="b182.0/6" class="indent" pwmotiontext="yes">“criminal cover-up on an industrial scale.”—[Official Report, <phrase class="date" code="2022-04-25">25 April</phrase> 2017; Vol. 624, c. 1072.]</p>
+    <p pid="b182.0/7">I was there; it was a Backbench Business debate called by the APPG on haemophilia and contaminated blood.</p>
+    <p pid="b182.0/8">I pay tribute to all those affected by the infected blood scandal, and all the campaigners who have done a tremendous amount over the years to bring the issue forward. Two constituents came to my surgery on Saturday: Cathy Young, who lost her husband Davie, and Cathy’s daughter, Nicola Stewart. Nicola has asked me to read the following words, which sum up the situation when she was growing up:</p>
+    <p pid="b182.0/9" class="indent" pwmotiontext="yes">“So growing up with a dad with haemophilia who contracted through no fault of his own was a massive secret. My sister and I were not made aware of dad’s infection as dad and mum didn’t want anyone knowing. I now know this was down to the stigma of the infection. I just knew something wasn’t right with dad’s blood so his toothbrushes and razors were all kept away.</p>
+    <p pid="b182.0/10" class="indent" pwmotiontext="yes">Then I hit my teens and things became a lot clearer as dad was going through treatments. After two rounds of attempts to clear it, it failed. My dad didn’t fail; he gave it his all. He was so ill through it and mentally struggled through his treatments. After the second time it failed, this is when I believe we lost dad. He was never the same man again. He went into total self- destruct. It was so painful, as we just couldn’t help him. He didn’t want the help. It isn’t until now that I understand why he hit the self-destruct button. It was horrendous. At a time when I was going through my exams, it was terribly hard to concentrate on my future at school when so much was going on at home.</p>
+    <p pid="b182.0/11" class="indent" pwmotiontext="yes">Mum and dad’s relationship fell apart. Dad moved out and Mum tried her best to continue to pay the mortgage. I was working part-time at this point as I was still at school. I worked as much as I could and gave Mum every penny I earned to help pay the mortgage, as did my older sister. It was a lot for only being 17. We couldn’t keep up, so we lost our home.</p>
+    <p pid="b182.0/12" class="indent" pwmotiontext="yes">Dad died when I was only 23. Far too early to be losing a parent. He has been gone 13 years now and I still cannot speak about him or what happened without crying—as you witnessed yourself on Saturday. I always explain it like I’m stuck in the grief process...I can’t get past the acceptance stage as he died through no fault of his own and no one has been held accountable for it. It is a cruel form of grieving when the answers are out there but no one has been interested in looking or even listening.</p>
+    <p pid="b182.0/13" class="indent" pwmotiontext="yes">My dad has missed out on so much. Myself and my sister both walked down the aisle without my dad by our side. I have two children who never met their grandad but know of him as the grandad that lives in heaven. My dad didn’t see me graduate when I finally went back to education in my 30s. All the big things that your dad is supposed to be there for. He didn’t get to do it through no fault of his own.”</p>
+    <p pid="b182.0/14">That is one family’s situation, and the daughter of a victim explaining what they went through. That is why we will continue to be relentless until justice is delivered. I pay tribute to Nicola for sharing those words with me. It takes a lot for a constituent to write to a Member of Parliament. I know we are not all scary—I certainly do not believe that I am scary—but people are sometimes scared to write such words.</p>
+    <p pid="b182.0/15">We urge the Government to allow all those affected by contaminated blood to register with the support schemes, and to ensure that payments are available to bereaved partners, parents, children and carers. I hope the Minister will confirm today that the issue of carers will be looked at and respected, because so many people have cared for years for people going through this.</p>
+    <p pid="b182.0/16">The UK Government must publish a response to Sir Robert’s study immediately, and must ensure that the arm’s length body can begin accepting compensation claims as soon as any inquiry reports. I hope the Minister will confirm today that the Government intend to respond to the study; it is important that they do. It is frustrating; a response to the study was promised, but we are still waiting for it.</p>
+    <p pid="b182.0/17">As the former Minister for the Cabinet Office and Paymaster General, <phrase class="honfriend" person_id="uk.org.publicwhip/person/24866" name="Michael Ellis">the right hon. and learned Member for Northampton North (Michael Ellis)</phrase>, said in a written statement,</p>
+    <p pid="b182.0/18" class="indent" pwmotiontext="yes">“This analysis cannot be completed hurriedly but officials across government are focussing on this so that the government can be ready to respond quickly to the Inquiry’s recommendations”.</p>
+    <p pid="b182.0/19">As far as I am concerned, we have waited far too long, and I think many hon. Members agree. The other recommendation was that an arm’s length body should be set up to administer the compensation scheme. Will the Minister give us an update on that? Again, that is important.</p>
+    <p pid="b182.0/20">I am conscious that I must leave time for other Front- Bench spokespeople, and for the Minister to answer the questions. However, I want to make it clear to my constituents, and to all Members of this House, that I will join the right hon. Member for Kingston upon Hull North and the Father of the House in relentlessly pursuing this issue until justice is delivered.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.184.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.185.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.185.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.185.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-11-24b.185.1" speakername="Florence Eshalomi" type="Continuation Speech" person_id="uk.org.publicwhip/person/25759" colnum="185" time="14:25:00" url="">
+    <p pid="b185.1/1">I totally agree with the Father of the House; that is so important. As I say, every so often, we get the ping from NHS Blood. At that NHS blood donation event, we called for a bus in Parliament, so that we could get more people here, including parliamentarians, to give blood.</p>
+    <p pid="b185.1/2">Thorough screening of blood has come alongside the emergence of synthetic clotting factors for haemophilia sufferers, which eliminates the risk of contaminants from important treatments. Together, these treatments have significantly improved the safety of blood treatments in the UK, and patients now have a low risk of contracting serious diseases such as hepatitis or HIV from blood. Sadly, treatments in the ’70s and ’80s put patients at unacceptable risk of contracting serious and life-threatening diseases. In the ’70s, people with bleeding disorders had transfusion treatment replaced with the new product factor concentrate, which was then produced by pooling and concentrating tens of thousands of donors’ blood. As the hon. Member for Central Ayrshire highlighted, just one sample was enough to contaminate the entire batch, and could risk infecting thousands of people; that caused significant concern.</p>
+    <p pid="b185.1/3">The tragic result was that thousands with blood and bleeding disorders were infected with deadly diseases, which had and continue to have a significant impact on their lives. Without modern, effective treatment, diseases such as HIV were acutely fatal and came with horrific consequences. Heartbreakingly, many of those infected have not lived to see today’s debate and the prospect of proper justice at the end of this inquiry. My right hon. Friend the Member for Kingston upon Hull North highlighted that more than 3,000 people have died, and statistics from the Terrence Higgins Trust show that between the start of the inquiry in July 2017 and  February 2022, some 419 infected people have died. While we await the conclusion of this report and inquiry, one person dies every four days. This is about the human element of the inquiry; every day that we delay this compensation is justice denied to those people.</p>
+    <p pid="b185.1/4">The impact of the scandal goes beyond the immediate medical concerns. My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25885" name="Charlotte Nichols">the Member for Warrington North (Charlotte Nichols)</phrase> highlighted the stigma. We must remember the stigma that those with HIV and AIDS suffered during the ’80s and ’90s. Disgraceful racist and homophobic stereotypes were widely perpetuated, and victims were persecuted and shunned for suffering from this horrific disease.</p>
+    <p pid="b185.1/5">Diseases associated with contaminated blood often impact not just the immediate victim, but their families and friends. As the primary carer for my late mother, I remember some of the challenges in the late ’90s in making sure my mum got the right treatment when she was suffering. Many of the loved ones of the victims will have gone through similar challenges in trying to get the right treatment, and victims are often misunderstood and continue to be stigmatised for having a disease.</p>
+    <p pid="b185.1/6">The inquiry is finally coming to a close, and interim payments have begun to be made. It would be remiss of me to pre-empt the recommendations of the inquiry. However, I hope that the Minister has heard loudly the concerns raised by a number of Members this afternoon, and those concerns raised in other debates. I hope that he can fully address some of those clear asks when he responds. As Dame Elizabeth Anionwu—the first ever sickle cell nurse—pointed out, it can be very hard for people suffering with infectious disease, including blood contamination, to come forward because of the stigma.</p>
+    <p pid="b185.1/7">Sir Robert’s report was published on <phrase class="date" code="2022-06-07">7 June</phrase> 2022 and made 19 clear recommendations. It is frankly disgraceful that only one of those recommendations has been followed up. Sir Brian acknowledged that there is a moral case for the interim payments to be made. I ask the Minister to respond to a number of those claims and ensure that the victims get the payments they deserve. We cannot ignore the impact on the families and friends of victims, who fought alongside them for this justice. Can the Minister provide assurances that those groups will not be ignored when the Government finally respond to the inquiry?</p>
+    <p pid="b185.1/8">The contaminated blood scandal had a life-changing impact on tens of thousands of victims who were promised the hope of effective treatment. It can only be right that they see the justice they deserve as soon as possible.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.186.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.186.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-11-24b.186.0" speakername="Alex Burghart" type="Start Speech" person_id="uk.org.publicwhip/person/25659" colnum="186" time="14:34:00" url="">
+    <p pid="b186.0/1">It is a pleasure to be able to speak in this extremely important debate, Dame Angela. I say to <phrase class="honfriend" person_id="uk.org.publicwhip/person/25759" name="Florence Eshalomi">the hon. Member for Vauxhall (Florence Eshalomi)</phrase>, who speaks from the Labour Front Bench, that the Government absolutely hear loud and clear what has been said today. Although I am just a few weeks into the job, I have been enormously struck by the sheer weight of grief and experience that has led us to this point today and will lead us to our final destination, hopefully next year.</p>
+    <p pid="b186.0/2">As so many others have, I pay tribute to the family members, the sufferers, the carers and friends of the people who were involved in this awful incident so many years ago. I also congratulate the APPG. I have listened  to the debate, and this is Parliament at its best. A tragedy that affected all parts of our United Kingdom has seen very personal stories reflected by Members of Parliament, and has brought parties from different sides of the political divide together to represent their constituents and seek justice. I pay tribute to right hon. and hon. Members who have spoken up for their constituents today.</p>
+    <p pid="b186.0/3">I am confident that Sir Brian Langstaff’s infected blood inquiry, whose report we expect in the middle of next year, will deliver the answers that the victims of infected blood have waited so long for, and will make recommendations for compensation and wider recommendations to ensure that such a disaster can never happen again in our country.</p>
+    <p pid="b186.0/4">The infected blood inquiry has heard first hand of the terrible suffering experienced by the victims of infected blood over many years, and the terrible financial hardship faced by many as a result of their infections and the burden of caring for stricken loved ones. This Government commissioned Sir Robert Francis KC to produce an independent study with options for a workable and fair framework of compensation for those infected and affected by the tragedy. As everyone knows, Sir Robert’s study was published in June of this year.</p>
+    <p pid="b186.0/5">Following Sir Robert’s detailed evidence given to the inquiry in July, the chair of the infected blood inquiry, Sir Brian Langstaff, delivered an interim report to the Government. In his report, Sir Brian made the following recommendations:</p>
+    <p pid="b186.0/6" class="indent" pwmotiontext="yes">“(1) An interim payment should be paid, without delay, to all those infected and all bereaved partners currently registered on UK infected blood support schemes, and those who register between now and the inception of any future scheme;</p>
+    <p pid="b186.0/7" class="indent" pwmotiontext="yes">(2) The amount should be no less than £100,000, as recommended by Sir Robert Francis QC.”</p>
+    <p pid="b186.0/8">On <phrase class="date" code="2022-08-16">16 August</phrase>, my right hon. and learned Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24866" name="Michael Ellis">the Member for Northampton North (Michael Ellis)</phrase>, then Minister for the Cabinet Office, wrote to Sir Brian to confirm that the Government had accepted his recommendations in full and that interim payments of £100,000 would be made by the end of October to all infected beneficiaries and bereaved partners registered with the four national support schemes. I am happy to confirm that those payments were made across the whole of the UK by <phrase class="date" code="2022-10-28">28 October</phrase>. The payments are tax-free and will not affect any financial benefits or support an individual is receiving.</p>
+    <p pid="b186.0/9">As my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25346" name="Kit Malthouse">the Member for North West Hampshire (Kit Malthouse)</phrase>, then the Chancellor of the Duchy of Lancaster, said when announcing those interim payments, they are the start and not the end of a process to respond positively and rapidly to the inquiry’s likely recommendations about compensation. On the comments made by <phrase class="honfriend" person_id="uk.org.publicwhip/person/25318" name="Philippa Whitford">the hon. Member for Central Ayrshire (Dr Whitford)</phrase>, we understand that this is limited justice, but we hope to fulfil that limited justice as quickly as possible. I also pay tribute to her for her work as a surgeon.</p>
+    <p pid="b186.0/10">Although it would be wrong for me to try to second guess the likely recommendations of the independent inquiry, I fully expect Sir Brian to make recommendations about broader final compensation for the many victims of infected blood. In his interim report, Sir Brian referred  specifically to bereaved parents and children and said that the moral case for their compensation was “beyond doubt”. He recognised what he called the</p>
+    <p pid="b186.0/11" class="indent" pwmotiontext="yes">“greater degree of personal individualisation”</p>
+    <p pid="b186.0/12">necessary in determining compensation for that group of victims, the complex nature of which made it difficult to include the group of bereaved victims in an interim scheme intended to be introduced as rapidly as possible. There can be little doubt that once he has considered the arguments in closing submissions, Sir Brian’s final report will make recommendations about compensation for a wider group of people.</p>
+    <p pid="b186.0/13">Sir Robert’s study was commissioned so that the Government would be ready to address quickly any recommendations on compensation made by the inquiry. Officials are now working together across Government to produce options for compensation that can be quickly matched to the inquiry’s recommendations. On the point made by <phrase class="honfriend" person_id="uk.org.publicwhip/person/11647" name="Diana R. Johnson">the right hon. Member for Kingston upon Hull North (Dame Diana Johnson)</phrase> at the start of the debate, we have the resource in place across Government to do that work. We are doing it with the intention of being able to respond very swiftly to the inquiry’s findings when they come.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.188.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.188.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.188.2" newgid="uk.org.publicwhip/westminhall/2022-11-24c.188.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.188.3" newgid="uk.org.publicwhip/westminhall/2022-11-24c.188.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-11-24b.188.3" speakername="Alex Burghart" type="Continuation Speech" person_id="uk.org.publicwhip/person/25659" colnum="188" time="14:34:00" url="">
+    <p pid="b188.3/1">My hon. Friend the Father of the House is absolutely right that it was the Cabinet Office that asked Sir Robert to conduct the work. The findings have now been fed into the inquiry and are being considered. I draw his attention to the remarks that Sir Robert made on the BBC’s “Today” programme on <phrase class="date" code="2022-08-17">17 August</phrase>. He said that the Government were considering the matter and that it was very complex. He said that they had to wait for Sir Brian’s recommendations because his own work was feeding into that inquiry, and he had given options for them to consider.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.188.4" newgid="uk.org.publicwhip/westminhall/2022-11-24c.188.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.189.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.189.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.189.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.189.2" newgid="uk.org.publicwhip/westminhall/2022-11-24c.189.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.189.3" newgid="uk.org.publicwhip/westminhall/2022-11-24c.189.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.189.4" newgid="uk.org.publicwhip/westminhall/2022-11-24c.189.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.189.5" newgid="uk.org.publicwhip/westminhall/2022-11-24c.189.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.190.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.190.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.190.2" newgid="uk.org.publicwhip/westminhall/2022-11-24c.190.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.190.3" newgid="uk.org.publicwhip/westminhall/2022-11-24c.190.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.190.4" newgid="uk.org.publicwhip/westminhall/2022-11-24c.190.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.190.5" newgid="uk.org.publicwhip/westminhall/2022-11-24c.190.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.191.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.191.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.191.2" newgid="uk.org.publicwhip/westminhall/2022-11-24c.191.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.191.3" newgid="uk.org.publicwhip/westminhall/2022-11-24c.191.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.191.4" newgid="uk.org.publicwhip/westminhall/2022-11-24c.191.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.191.5" newgid="uk.org.publicwhip/westminhall/2022-11-24c.191.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.191.6" newgid="uk.org.publicwhip/westminhall/2022-11-24c.191.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.191.7" newgid="uk.org.publicwhip/westminhall/2022-11-24c.191.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.191.8" newgid="uk.org.publicwhip/westminhall/2022-11-24c.191.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.192.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.192.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.192.2" newgid="uk.org.publicwhip/westminhall/2022-11-24c.192.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.192.3" newgid="uk.org.publicwhip/westminhall/2022-11-24c.192.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.194.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.194.1" newgid="uk.org.publicwhip/westminhall/2022-11-24c.194.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.194.2" newgid="uk.org.publicwhip/westminhall/2022-11-24c.194.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.197.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.200.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.200.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24b.203.0" newgid="uk.org.publicwhip/westminhall/2022-11-24c.203.0" matchtype="perfectmatch"/>
+</publicwhip>
+

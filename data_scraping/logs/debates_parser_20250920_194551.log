@@ -1,0 +1,53 @@
+2025-09-20 19:45:51,825 - __main__ - INFO - === Debates XML-Parser und Datenbank-Import ===
+2025-09-20 19:45:51,825 - __main__ - INFO - Input-Verzeichnis: scraper/data/debates
+2025-09-20 19:45:51,825 - __main__ - INFO - Datenbank-Pfad: database/data/debates_data.db
+2025-09-20 19:45:51,825 - __main__ - INFO - Max-Dateien: alle
+2025-09-20 19:45:51,825 - __main__ - INFO - Batch-Größe: 100
+2025-09-20 19:45:51,825 - __main__ - INFO - Test-Modus: True
+2025-09-20 19:45:51,825 - __main__ - INFO - Test-Modus aktiviert: Max-Dateien auf 5 gesetzt
+2025-09-20 19:45:51,825 - __main__ - INFO - Initialisiere Database Manager...
+2025-09-20 19:45:51,840 - database_manager - INFO - Indizes erfolgreich erstellt
+2025-09-20 19:45:51,840 - database_manager - INFO - Debates-Tabellen erfolgreich erstellt
+2025-09-20 19:45:51,843 - __main__ - INFO - Gefunden: 2945 XML-Dateien
+2025-09-20 19:45:51,843 - __main__ - INFO - Starte XML-Parsing und Datenbank-Import...
+2025-09-20 19:45:51,843 - database_manager - INFO - Starte Import aus scraper/data/debates
+2025-09-20 19:45:51,846 - database_manager - INFO - Verarbeite 5 XML-Dateien aus scraper/data/debates
+2025-09-20 19:45:51,846 - database_manager - INFO - Verarbeite Datei 1/5: debates2012-01-10a.xml
+2025-09-20 19:45:51,846 - database_manager - INFO - Parse debates XML-Datei: debates2012-01-10a.xml
+2025-09-20 19:45:51,847 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:45:51,847 - database_manager - INFO - Verarbeite Datei 2/5: debates2021-11-18c.xml
+2025-09-20 19:45:51,847 - database_manager - INFO - Parse debates XML-Datei: debates2021-11-18c.xml
+2025-09-20 19:45:51,847 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:45:51,847 - database_manager - INFO - Verarbeite Datei 3/5: debates2017-03-16a.xml
+2025-09-20 19:45:51,847 - database_manager - INFO - Parse debates XML-Datei: debates2017-03-16a.xml
+2025-09-20 19:45:51,859 - database_manager - INFO - Debates XML erfolgreich geparst: 24 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:45:51,859 - database_manager - INFO - Verarbeite Datei 4/5: debates2012-10-31b.xml
+2025-09-20 19:45:51,859 - database_manager - INFO - Parse debates XML-Datei: debates2012-10-31b.xml
+2025-09-20 19:45:51,861 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:45:51,861 - database_manager - INFO - Verarbeite Datei 5/5: debates2021-06-30b.xml
+2025-09-20 19:45:51,861 - database_manager - INFO - Parse debates XML-Datei: debates2021-06-30b.xml
+2025-09-20 19:45:51,874 - database_manager - INFO - Debates XML erfolgreich geparst: 17 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:45:51,874 - database_manager - INFO - Verarbeitung abgeschlossen: 5 Sitzungen erfolgreich geparst
+2025-09-20 19:45:51,874 - database_manager - INFO - Konvertiere 5 Sitzungen zu DataFrames
+2025-09-20 19:45:51,881 - __main__ - ERROR - Fehler bei der Verarbeitung: could not append value: "Dr" of type: str to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity
+Traceback (most recent call last):
+  File "/Users/julianbeese/Developer/Master/Data/run_debates_parser.py", line 134, in main
+    import_stats = db_manager.import_xml_directory(
+  File "/Users/julianbeese/Developer/Master/Data/database/managers/debates_database_manager.py", line 221, in import_xml_directory
+    dataframes = self.processor.sessions_to_dataframes(sessions)
+  File "/Users/julianbeese/Developer/Master/Data/parser/debates_parser.py", line 422, in sessions_to_dataframes
+    dataframes['speeches'] = pl.DataFrame(speeches_data)
+  File "/Users/julianbeese/Developer/Master/Data/venv/lib/python3.10/site-packages/polars/dataframe/frame.py", line 385, in __init__
+    self._df = sequence_to_pydf(
+  File "/Users/julianbeese/Developer/Master/Data/venv/lib/python3.10/site-packages/polars/_utils/construction/dataframe.py", line 461, in sequence_to_pydf
+    return _sequence_to_pydf_dispatcher(
+  File "/Users/julianbeese/miniconda3/lib/python3.10/functools.py", line 889, in wrapper
+    return dispatch(args[0].__class__)(*args, **kw)
+  File "/Users/julianbeese/Developer/Master/Data/venv/lib/python3.10/site-packages/polars/_utils/construction/dataframe.py", line 717, in _sequence_of_dict_to_pydf
+    pydf = PyDataFrame.from_dicts(
+polars.exceptions.ComputeError: could not append value: "Dr" of type: str to the builder; make sure that all rows have the same schema or consider increasing `infer_schema_length`
+
+it might also be that a value overflows the data-type's capacity
+2025-09-20 19:45:51,888 - database_manager - INFO - Datenbankverbindung geschlossen

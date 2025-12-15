@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2022-03-15a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.233.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.233.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.233.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.233.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.234.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.234.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.234.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.234.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.236.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.236.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.236.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.236.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.238.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.240.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.243.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.243.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.243.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.243.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.245.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.245.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.245.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.248.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.249.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.249.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.249.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.249.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.249.2" newgid="uk.org.publicwhip/westminhall/2022-03-15b.249.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.250.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.250.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.250.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.250.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.252.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.252.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.252.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.252.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.255.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.255.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.255.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.255.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.256.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.256.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.257.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.257.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.257.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.257.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.257.2" newgid="uk.org.publicwhip/westminhall/2022-03-15b.257.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.257.3" newgid="uk.org.publicwhip/westminhall/2022-03-15b.257.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.258.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.258.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.258.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.258.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.258.2" newgid="uk.org.publicwhip/westminhall/2022-03-15b.258.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.261.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.261.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.262.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.262.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.262.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.262.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.266.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.266.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.266.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.266.2" newgid="uk.org.publicwhip/westminhall/2022-03-15b.266.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.268.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.268.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.268.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.268.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.269.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.269.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.269.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.269.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.269.2" newgid="uk.org.publicwhip/westminhall/2022-03-15b.269.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.269.3" newgid="uk.org.publicwhip/westminhall/2022-03-15b.269.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.270.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.270.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.270.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.271.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.271.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.273.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.274.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.276.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.276.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.278.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.280.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.281.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.281.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.281.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.282.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.282.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-03-15a.282.0" speakername="Matthew Pennycook" type="Start Speech" person_id="uk.org.publicwhip/person/25379" colnum="282" time="15:32:00" url="">
+    <p pid="a282.0/1">As always, it is a pleasure to serve with you in the Chair, Sir Gary. The debate is incredibly important. The issue does not get enough attention in this place but, as all Members will know, it is of huge and growing importance to many of our constituents, not least given the size of the private rented sector and its ongoing—and, indeed, accelerating—expansion.</p>
+    <p pid="a282.0/2">I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25816" name="Ian Byrne">the Member for Liverpool, West Derby (Ian Byrne)</phrase> on securing the debate and on the way he opened it. As always, he spoke with great force and sincerity on behalf of his constituents, and brought alive the reality of the appalling conditions faced by far too many of those renting privately.</p>
+    <p pid="a282.0/3">Following his impassioned remarks, we heard a series of incredibly powerful contributions from my hon. Friends the Members for Westminster North (Ms Buck), for Ellesmere Port and Neston (Justin Madders), for Vauxhall (Florence Eshalomi), for Lewisham West and Penge (Ellie Reeves), for Easington (Grahame Morris) and for Liverpool, Walton (Dan Carden), as well as <phrase class="honfriend" person_id="uk.org.publicwhip/person/13864" name="Jim Shannon">the hon. Member for Strangford (Jim Shannon)</phrase>. Their contributions were all directly informed by their respective constituency experiences and the obviously huge housing caseloads each of them deals with on a weekly basis.</p>
+    <p pid="a282.0/4">It is not in dispute that some of the worst standards in housing are in the private rented sector. It goes without saying that that statement should not be taken to imply that every privately rented property is in bad condition, or that all private landlords fail their tenants. I also fully accept—no doubt it will be referenced in the remarks the Minister’s officials have prepared for him—that, measured by either the decent homes standard or the housing health and safety rating system category 1 hazards, the absolute number and proportion of poor  quality private rented homes continues to fall, albeit steadily rather than drastically, as part of a half century if not longer of improvement in housing standards.</p>
+    <p pid="a282.0/5">There is still clearly an acute problem for those private sector tenants who are the most vulnerable, have little or no purchasing power, are increasingly concentrated at the lower end of the private rental market and—as anecdotal evidence would suggest—are also increasingly concentrated geographically. However, we still need the Department to provide accurate data on precisely how private rented homes are distributed across the country.</p>
+    <p pid="a282.0/6">As we have heard from all speakers today, for tenants forced to live in homes that do not meet the decent homes standard and that often have a category 1 hazard what should be a place of refuge and comfort is instead a source of daily anxiety and, in many cases, torment and misery. Whether they wake up every day to mould, vermin or dangerous hazards, today’s debate has provided yet more evidence that substandard private rented housing takes a huge toll on the physical and mental health of those in it and prevents families and children—it is this I find the most saddening—from flourishing as they should be able to.</p>
+    <p pid="a282.0/7">I know the Under-Secretary cares deeply about improving housing standards and life chances, but it should be a real source of shame to him and his colleagues that after 12 years of Conservative-led Government, one in five homes in the private rented sector still does not meet the decent homes standard and one in 10 has a category 1 hazard posing a risk of serious harm. The Minister and his colleagues should be agitating week in, week out for the changes necessary to bear down decisively on this problem, and for those changes to be enacted as a matter of urgency. What makes the situation all the more frustrating is that it is patently obvious what the required changes are and, indeed, there is broad consensus across the House on most of them.</p>
+    <p pid="a282.0/8">I leave aside the more fundamental issue of a striking lack of decent, secure and genuinely affordable social homes to rent, which is in many ways at the heart of the problem, and will instead use the time left to explore in a little more detail the three most important areas where change in the private rented sector is required: standards, enforcement and rights. Each has already featured in the debate.</p>
+    <p pid="a282.0/9">First, on standards, a technical but crucial issue is that the Government need to review and strengthen national standards for rented homes, and to do so at pace. The decent homes standard, which provides for general benchmarking, has not been updated since 2006. It is welcome that it is being reviewed, but the process needs to be expedited. Will the Minister tell us when the Government expect the decent homes standard review to complete? The HHSRS is also under review and we need the conclusions of that exercise to be published as soon as possible. Will the Minister give us an update on when he expects that review to complete?</p>
+    <p pid="a282.0/10">My final point on standards is that, in the levelling-up White Paper, the Government committed to exploring</p>
+    <p pid="a282.0/11" class="indent" pwmotiontext="yes">“proposals for new minimum standards for rented homes”.</p>
+    <p pid="a282.0/12">Obviously, we have no issue with that in principle, but will the Minister give us some sense of how such minimum standards would interact with the updated decent homes  standard and the HHSRS? The last thing we need is to make the current regime even more complex and challenging to administer.</p>
+    <p pid="a282.0/13">Secondly, the Government must start taking enforcement more seriously. A number of contributors have talked about the importance of enforcement. The Minister could emerge from Marsham Street in a month’s time with proposals for the most robust set of national standards possible, but it would count for little if those standards could not then be enforced in practice. As my hon. Friend the Member for Westminster North mentioned, two changes need to be made if the Government are to facilitate the proper enforcement of standards across the country.</p>
+    <p pid="a282.0/14">The first is to give local authorities the means to enforce standards properly themselves. At present, enforcement of standards across the country is incredibly patchy and tenants face a postcode lottery as a result. Those councils that could do more with the resources they have but are not need to be encouraged to do so, but the problem in large part is the product of central Government funding cuts over many years. Does the Minister accept as much? If so, what plans do the Government have to provide local authorities with the funding and support they need to enforce regulations, as well as enabling, rather than frustrating, those authorities that wish to adopt landlord licensing schemes?</p>
+    <p pid="a282.0/15">The second change is to enable tenants themselves to enforce standards. I appreciate that the issue lies outside of the Minister’s departmental responsibilities, but does he accept that unless legal aid is reintroduced for disrepair claims so that lower income tenants can seek to enforce existing standards—let alone future standards—progress on his objectives is likely to be held back?</p>
+    <p pid="a282.0/16">Thirdly, the Government must act now to give renters more rights and better protection, so that they can seek redress for poor quality conditions and disrepair without fear of retribution. There is clear consensus across the House that we need to overhaul the outdated legislation that applies to the private rented sector. However, it is now three years since the Conservative Administration of <phrase class="honfriend" person_id="uk.org.publicwhip/person/10426" name="Theresa May">the right hon. Member for Maidenhead (Mrs May)</phrase> promised to abolish section 21 no-fault evictions. There has been a lot of talk about the White Paper today but, perhaps most disappointingly, we were promised a renter’s reform Bill in the Queen’s Speech last year yet as we approach the end of the Session, not only is there no sign of that Bill but we are now told to expect a White Paper in its place in the spring.</p>
+    <p pid="a282.0/17">Of course, we need to ensure that any proposals for reform are considered and properly scrutinised, but tenants need protection now. They cannot afford to wait 12, 16, 18, 24 months or longer for the White Paper to be published and consulted on and for legislation to be brought forward. Given the implications for tenants suffering now, I would like to hear from the Minister why, having committed to a Bill in this Session, the Government have now determined that a White Paper will do instead.</p>
+    <p pid="a282.0/18">To conclude, the House must act to improve conditions for the millions of private renters trapped in substandard housing, and must act quickly. Tenants living in squalid conditions cannot wait years while the Government slowly analyse yet more reviews and engage in more consultations and delay. We know what needs to happen; it is now a question of delivering it. I look forward to   hearing from the Minister that the Government are not only seized by the urgency of the problem but, as a result, will look again at how the changes that need to be made can be enacted quickly.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.285.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.285.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.286.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.287.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.287.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.287.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.287.2" newgid="uk.org.publicwhip/westminhall/2022-03-15b.287.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.288.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.288.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.288.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.288.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.288.2" newgid="uk.org.publicwhip/westminhall/2022-03-15b.288.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.288.3" newgid="uk.org.publicwhip/westminhall/2022-03-15b.288.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.288.4" newgid="uk.org.publicwhip/westminhall/2022-03-15b.288.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.289.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.289.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.289.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.289.2" newgid="uk.org.publicwhip/westminhall/2022-03-15b.289.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.289.3" newgid="uk.org.publicwhip/westminhall/2022-03-15b.289.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.290.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.291.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.291.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.291.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.292.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.292.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.292.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.292.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.292.2" newgid="uk.org.publicwhip/westminhall/2022-03-15b.292.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.294.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.294.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.294.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.296.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.296.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.296.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.296.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.300.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.300.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.300.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.300.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.301.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.301.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.301.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.302.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.302.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.303.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.305.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.305.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.306.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.308.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.308.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.311.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.311.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.311.1" newgid="uk.org.publicwhip/westminhall/2022-03-15b.311.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.311.2" newgid="uk.org.publicwhip/westminhall/2022-03-15b.311.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.311.3" newgid="uk.org.publicwhip/westminhall/2022-03-15b.311.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-15a.312.0" newgid="uk.org.publicwhip/westminhall/2022-03-15b.312.0" matchtype="perfectmatch"/>
+</publicwhip>
+

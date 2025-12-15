@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.1.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.1.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.1.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.2.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.2.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.2.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.2.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.4.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.4.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.5.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.5.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.5.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.5.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.5.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.5.3" newgid="uk.org.publicwhip/westminhall/2013-10-08b.5.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.5.4" newgid="uk.org.publicwhip/westminhall/2013-10-08b.5.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.5.5" newgid="uk.org.publicwhip/westminhall/2013-10-08b.5.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.5.6" newgid="uk.org.publicwhip/westminhall/2013-10-08b.5.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.6.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.6.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.6.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.6.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.6.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.6.3" newgid="uk.org.publicwhip/westminhall/2013-10-08b.6.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.8.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.8.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.8.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.8.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.8.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.8.3" newgid="uk.org.publicwhip/westminhall/2013-10-08b.8.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.9.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.10.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.10.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.10.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.10.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.11.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.11.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.11.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.12.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.12.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.12.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.13.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.13.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.13.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.13.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.13.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.13.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.13.3" newgid="uk.org.publicwhip/westminhall/2013-10-08b.13.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.14.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.14.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.14.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.14.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.15.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.15.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.15.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.15.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.16.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.16.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.16.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.16.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.16.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.16.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.16.3" newgid="uk.org.publicwhip/westminhall/2013-10-08b.16.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.16.4" newgid="uk.org.publicwhip/westminhall/2013-10-08b.16.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.20.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.20.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.20.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.20.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.20.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.20.3" newgid="uk.org.publicwhip/westminhall/2013-10-08b.20.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.22.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.22.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.22.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.22.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.22.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.22.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.25.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.25.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.27.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.27.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2013-10-08a.27.0" speakerid="uk.org.publicwhip/member/40345" speakername="Diana Johnson" colnum="27"  time="011:24:00" url="http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm131008/halltext/131008h0001.htm#131008h0001.htm_spnew44">
+	<p pid="a.27.0/1">It is a pleasure to serve under you today, Mr Dobbin. I congratulate my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40650" name="Lyn Brown">the Member for West Ham (Lyn Brown)</phrase> on securing the debate and on setting out with great passion the facts about the match women&#8217;s strike. She also set the record straight on a number of issues. Furthermore, I congratulate my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40636" name="Sharon Hodgson">the Member for Washington and Sunderland West (Mrs Hodgson)</phrase> on her personal account of how important the match women&#8217;s strike was for the trade union movement, not only in this country, but because of its wider ramifications abroad.</p>
+	<p pid="a.27.0/2">Most of my time is spent grappling with present-day issues in my constituency, and focusing on the future for that area. Occasionally, however, we are reminded of how key moments in our history can shine a bright light on the present and on the future. Pausing to think about the past does not mean that we are living in it; it helps us to understand where we come from, as well as the road ahead.</p>
+	<p pid="a.27.0/3">How did I become interested in a strike that happened in east London 125 years ago, involving mostly women, many of whom were from the Irish immigrant community? Unlike my hon. Friend the Member for West Ham, I am not a native of the east end of London. Originally, I am from the north-west, and I represent a constituency in east Yorkshire&#8212;all up north&#8212;but in 1985 I came to east London to study at Queen Mary and Westfield college in Mile End, at the other end of Bow road from</p>
+	<p pid="a.27.0/4">the Bryant &amp; May factory site. In addition, I served as a Poplar councillor, for Lansbury ward, its name another echo of the proud Labour history of the east end of London.</p>
+	<p pid="a.27.0/5">Earlier this year, I had the great pleasure of reading historian Louise Raw&#8217;s book on the match women, which my hon. Friend the Member for West Ham has already mentioned. Louise spent 15 years studying the events of the 1880s and their historical significance. Her book, &#8220;Striking a Light&#8221;, sets the record straight on what really happened, what it led to and why the strike is so relevant today. I was also honoured to attend the first match women&#8217;s festival, on <phrase class="date" code="2013-07-06">6 July</phrase> this year.</p>
+	<p pid="a.27.0/6">The match women&#8217;s strike has never been given the prominence that it deserves. Their self-organisation has been overlooked and their bravery has never been properly recognised, but if it had not been for them winning their strike in 1888, it is possible that many of us here today, especially the Labour women MPs, would not be Members of Parliament and speaking in the House of Commons.</p>
+	<p pid="a.27.0/7">In 1888, the match women had few rights at work and even weaker rights as citizens&#8212;the right to vote was still 30 years away for the first women, and parliamentary democracy as a means of improving the lot of working people was at a far less advanced stage. As women, the match women were frowned on for working at all, even though doing so was a matter of survival. I understand that there was even a sense of shame about working for Bryant &amp; May, which is ironic and poignant, considering how proud of those workers many of us are today. The material poverty and exploitation experienced in everyday life by the match women was truly shocking. Bryant &amp; May in the late 19th century was a prime example of what today would be called a flexible labour market, taken to its ultimate extreme. Today, I am sure that Bryant &amp; May would be issuing zero-hours contracts to the hilt, and the concept of a living wage would be utterly alien to it.</p>
+	<p pid="a.27.0/8">As my hon. Friend the Member for West Ham said, Fabian journalist Annie Besant, whom I like to describe as the Polly Toynbee of her day, supported a consumer boycott of Bryant &amp; May, not a strike. As has been asked in this debate, how therefore can she be said to have led the strike? Annie Besant, however, did write in <i>The Link</i> on <phrase class="date" code="1888-06-23">23 June 1888</phrase> some of the most moving words about the match women&#8212;words that led to the strike, if only by accident:</p>
+	<p pid="a.27.0/9">&#8220;But who cares for the fate of these white wage slaves? Born in slums, driven to work while still children, undersized because under-fed, oppressed because helpless, flung aside as soon as worked out, who cares if they die or go on to the streets provided only that Bryant &amp; May shareholders get their 23 per cent and Mr. Theodore Bryant can erect statutes and buy parks?&#8221;</p>
+	<p pid="a.27.0/10">The words written by one of the match women in response to management bullying, which my hon. Friend mentioned, received by Annie Besant on <phrase class="date" code="1888-07-04">4 July 1888</phrase>, were similarly moving:</p>
+	<p pid="a.27.0/11">&#8220;Dear Lady they have been trying to get the poor girls to say that it is all lies that has been printed and trying to make us sign papers that it is all lies; dear Lady nobody knows what it is we have put up with and we will not sign them. We thank you very much for the kindness you have shown to us. My dear Lady we hope you will not get into any trouble on our behalf as what you have spoken is quite true.&#8221;</p>
+	<p pid="a.27.0/12">A number of Lib Dem MPs signed my recent early-day motion 337 about the match women. I wondered at the time whether any of them had studied their own party&#8217;s</p>
+	<p pid="a.27.0/13">history, considering how badly the match women were treated in the years leading up to the 1888 strike at the hands of a company owned and run by prominent supporters of the Liberal party. Those Liberals imposed low and falling pay, dangerous working conditions, covered up the horrendous phossy jaw disease, and had a draconian system of fines. Their bullying led to the 1888 strike, after they tried to force workers to denounce Annie Besant&#8217;s article. Those were the employers who docked 1 shilling from the pay of the match women to fund the statue of Liberal Prime Minister William Gladstone that still stands today in Bow road.</p>
+	<p pid="a.27.0/14">This episode is heavy with irony. The director running Bryant &amp; May when the statue was commissioned by Theodore Bryant was one Wilberforce Bryant, who took over from his Quaker father. As a Hull MP, I am proud of Hull&#8217;s William Wilberforce and his anti-slavery campaign. The irony of this worst of employers carrying the name Wilberforce is not lost on me.</p>
+	<p pid="a.27.0/15">It is even more ironic that the poverty pay of the match women was docked to put up a statute in tribute to William Gladstone. After all, the Gladstones could easily have financed the statue from the &#163;93,526 compensation that they received for losing their 2,039 slaves when slavery was abolished. Annie Besant&#8217;s famous &#8220;White slavery in London&#8221; article in <i>The Link</i> reported that the match women, given half a day&#8217;s unpaid holiday to attend the unveiling, threw blood on the statue, protesting, &#8220;We paid for it!&#8221; If people go down Bow road this morning, they will see that the hands of that statute are still red&#8212;a great tradition that has been kept up.</p>
+	<p pid="a.27.0/16">These events go some way to explaining the political climate in which the Labour party was created a little more than a decade later, and why the Liberal party could not and would not stand up for ordinary people, especially women. During the suffragette campaign of 100 years ago, the Liberal Government introduced the &#8220;cat and mouse&#8221; Act to force-feed suffragette political prisoners, including Emily Wilding Davison. I cannot help but notice that the Liberal Democrats still seem to have a problem with women. There are still no women Lib Dems in the coalition Cabinet, and there are more male Lib Dem MPs with knighthoods and similar titles than Lib Dem women MPs.</p>
+	<p pid="a.27.0/17">The victory of the match women inspired the growth of trade union recruitment among the lowest paid unskilled workers, many of them women, who had been ignored by trade union leaders throughout the 19th century. Until then, unions were largely only interested in organising skilled male workers, who were regarded as more respectable. At the recent match women&#8217;s festival, I was delighted that Frances O&#8217;Grady, the first woman general secretary of the Trades Union Congress, spoke&#8212;someone who represents a positive image of trade unions now, just as the match women did in 1888.</p>
+	<p pid="a.27.0/18">As my hon. Friend the Member for West Ham mentioned, by inspiring the 1889 dock strike by male dock workers from the same east end households, streets and communities, the match women changed trade union history. Of course, this was acknowledged by dockers&#8217; leaders at the time, such as John Burns, but then faded from history textbooks until Louise Raw&#8217;s recent research. This new unionism led to historic political developments, too, as growing working class alienation from the Liberal establishment set the scene for the creation of the Labour party in 1900. Anyone who understands</p>
+	<p pid="a.27.0/19">Labour&#8217;s origins is better equipped to answer the current slur about our being the welfare party, because we are the party of work.</p>
+	<p pid="a.27.0/20">Many men and women who have had such an influence on our history have great monuments to them. Winston Churchill stands outside the Palace of Westminster; Emmeline Pankhurst stands next to the House of Lords; and William Wilberforce looks down from a column 90 feet high in Hull. The match women are marked only by an inaccurate blue plaque outside the Bow Quarter in Fairfield road, at the Bryant &amp; May site. Worse still, round the corner on Bow road stands that statue to the Liberal politician admired by their employer and paid for by docking the match women&#8217;s pay. Perhaps the Minister for blue plaques, who is here today, will consider what else he can do to ensure that there is an appropriate plaque and appropriate recognition of the role played by these women.</p>
+	<p pid="a.27.0/21">Anyone studying the achievements of the Labour party, such as our National Health Service, rightly thinks of Nye Bevan and Clement Attlee, but they should also remember those 1,400 brave match women in Bow, especially those at the forefront of organising that strike campaign: Alice Francis, Kate Slater, Mary Driscoll, Jane Wakeling and Eliza Martin. For the Labour party, this is where it all began: with the founding mothers of the party.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.30.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.30.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.30.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.30.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.31.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.31.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.31.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.31.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.32.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.32.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.33.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.33.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.33.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.33.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.33.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.33.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.35.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.35.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2013-10-08a.35.0" speakerid="uk.org.publicwhip/member/40089" speakername="Helen Goodman" colnum="35"  time="011:58:00" url="http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm131008/halltext/131008h0001.htm#131008h0001.htm_spnew53">
+	<p pid="a.35.0/1">It is a great pleasure, Mr Dobbin, to serve under your chairmanship this morning. I congratulate my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40650" name="Lyn Brown">the Member for West Ham (Lyn Brown)</phrase>, who gave us the opportunity to hold what has been an excellent debate. The contributions from my hon. Friends the Members for Washington and Sunderland West (Mrs Hodgson), for Kingston upon Hull North (Diana Johnson), for Scunthorpe (Nic Dakin), and for Bolton South East (Yasmin Qureshi), and the passionate and beautiful speech from my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40329" name="Mike Gapes">the Member for Ilford South (Mike Gapes)</phrase> were fantastic. They have shown why oral history matters and how looking back illuminates the past and the present.</p>
+	<p pid="a.35.0/2">[Mrs Anne Main <i>in the Chair</i>]</p>
+	<p pid="a.35.0/3">My hon. Friend the Member for West Ham began with a thorough exposition of the history, and was absolutely right to say that this was an extremely important episode in the history of women and the trade union movement in this country. It is easy to think that 125 years ago is a long time, but it is not so long ago. My father took some nice film of me when I was a little baby with my great grandmother, who was an exact contemporary of the women who worked in the Bryant &amp; May factory. She was sent to school at the age of nine, and she worked in a Nottingham lace factory. It really is not so long ago that people were working in those horrendous conditions in this country.</p>
+	<p pid="a.35.0/4">My hon. Friend the Member for Ilford South is right that the subject was written about very clearly by Engels, and in fact, the Nottingham lace factories are described very well in volume I of &#8220;Das Kapital&#8221;. I was absolutely delighted when I came across that, because I knew the truth from my family history. My tutor was also delighted that he had set a text that resonated so strongly with his student&#8212;the irony was that he was Andrew Glyn from the Glyn banking family.</p>
+	<p pid="a.35.0/5">What could the Government do to recognise the strike? We have heard that we could have a revision of the blue plaque in the east end, and perhaps the Minister will say something about that. Perhaps we could have something in the curriculum. Another cultural artefact that many of us would like to be covered in the curriculum and that recognises women&#8217;s contributions to the trade union movement is the excellent film, &#8220;Made in Dagenham&#8221;. All these feisty women come from the east end&#8212;it is absolutely clear that the heart of radical feminism is down in the east end.</p>
+	<p pid="a.35.0/6">In the north-east, as everybody knows, we have a big Durham miners&#8217; gala, and this year, one of the primary schools in Spennymoor made a banner to go alongside the banners carried by the former miners. The banner referred to all the progress in the Factory Acts and in children&#8217;s legislation. Enabling children to understand those important episodes in British history really makes a significant difference. I hope that the Minister will say something about the conversations he will have with his colleagues in the Department for Education about the curriculum, because that would be another way in which the Government could recognise the match workers&#8217; strike of 125 years ago.</p>
+	<p pid="a.35.0/7">A further thing that the Minister could do in recognition is take a different stance on the conditions of workers in the south. As several of my hon. Friends have mentioned,</p>
+	<p pid="a.35.0/8">the horrific collapse of the garment factory in Dhaka, in Bangladesh, is not something about which we can say, &#8220;We are not connected. We are not responsible.&#8221; We are completely connected and bound up with what is going on in other parts of the world. As a matter of fact, one thing that the European Union has done is put conditions on Bangladesh that it has to meet if it is to maintain its duty-free access to our clothing markets. One of the conditions is that there should be better trade union recognition rights. The International Labour Organisation is currently working on that to raise standards in Bangladesh, so that is another thing that the Minister could take on. He may say, &#8220;Well, that is a matter for the Department for Business, Innovation and Skills; it is not my responsibility&#8221;, but let me bring him to his Department and to another area where labour conditions are on the agenda.</p>
+	<p pid="a.35.0/9">The World cup will be held in Qatar, and as the Minister knows, there is a huge scandal about the workers who will die in the construction of the football stadia there. It would be great if we could hear today what his Department will do about that. What representations has it made to FIFA on labour conditions in Qatar? This is another episode in which we can address the issue squarely. We can ask whether it is acceptable for the World cup to be in Qatar and, if it is to be there, what standards have to be maintained, or we can pretend that it has nothing to do with us. We can turn and walk away.</p>
+	<p pid="a.35.0/10">The Minister is not only the Minister for blue plaques, but the Minister for mobile phones. I do not know whether he has seen the documentary, &#8220;Blood in the Mobile&#8221;, but we all have these little mobile phones. We all tweet, text and have them in our hands all the time, but many minerals that are used in mobile phones come from the Democratic Republic of the Congo. The mining of those minerals is fuelling the conflict in the Congo, and, of course, the labour conditions are terrible. What transparency is the Minister demanding from mobile phone companies? What will he do to raise standards in the new technology sector? Of course, it is great that we have new technology&#8212;</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.36.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.36.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.36.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.36.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.37.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.37.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.37.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.37.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.37.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.39.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.39.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.39.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.39.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.40.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.41.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.41.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.41.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.41.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.41.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.42.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.42.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.42.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.42.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.43.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.43.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.43.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.44.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.44.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.44.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.44.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.45.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.45.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.45.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.45.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.46.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.46.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.46.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.46.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.46.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.46.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.46.3" newgid="uk.org.publicwhip/westminhall/2013-10-08b.46.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.46.4" newgid="uk.org.publicwhip/westminhall/2013-10-08b.46.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.46.5" newgid="uk.org.publicwhip/westminhall/2013-10-08b.46.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.47.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.47.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.47.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.47.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.47.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.47.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.51.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.51.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.51.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.51.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.51.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.51.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.51.3" newgid="uk.org.publicwhip/westminhall/2013-10-08b.51.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.54.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.54.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.56.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.56.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.56.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.56.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.57.0" newgid="uk.org.publicwhip/westminhall/2013-10-08b.57.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.57.1" newgid="uk.org.publicwhip/westminhall/2013-10-08b.57.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.57.2" newgid="uk.org.publicwhip/westminhall/2013-10-08b.57.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.57.3" newgid="uk.org.publicwhip/westminhall/2013-10-08b.57.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.57.4" newgid="uk.org.publicwhip/westminhall/2013-10-08b.57.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-08a.57.5" newgid="uk.org.publicwhip/westminhall/2013-10-08b.57.5" matchtype="perfectmatch"/>
+</publicwhip>
+

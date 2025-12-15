@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-12-15a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.331.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.331.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.331.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.331.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.331.2" newgid="uk.org.publicwhip/westminhall/2021-12-15b.331.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.334.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.334.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.334.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.334.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.336.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.336.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.336.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.336.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.338.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.338.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.340.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.340.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.340.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.340.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.342.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.342.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.342.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.342.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.342.2" newgid="uk.org.publicwhip/westminhall/2021-12-15b.342.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.343.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.343.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.343.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.343.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.345.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.345.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.347.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.347.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.348.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.348.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.348.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.348.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.349.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.349.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.349.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.349.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.352.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.352.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.353.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.353.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.353.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.353.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.355.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.355.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.355.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.355.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.355.2" newgid="uk.org.publicwhip/westminhall/2021-12-15b.355.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.356.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.356.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.356.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.356.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.356.2" newgid="uk.org.publicwhip/westminhall/2021-12-15b.356.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.360.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.360.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.360.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.360.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.364.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.364.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.364.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.364.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.364.2" newgid="uk.org.publicwhip/westminhall/2021-12-15b.364.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.364.3" newgid="uk.org.publicwhip/westminhall/2021-12-15b.364.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.366.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.366.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.366.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.366.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.368.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.368.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-12-15a.368.0" speakername="Jim Shannon" type="Start Speech" person_id="uk.org.publicwhip/person/13864" colnum="368" time="14:47:00" url="">
+    <p pid="a368.0/1">It is a pleasure to make a contribution, Ms Rees.</p>
+    <p pid="a368.0/2">I thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/10367" name="Tony Lloyd">the hon. Member for Rochdale (Tony Lloyd)</phrase> for giving us a chance to participate in this debate. To be fair to him, I think that he and I know these issues. On the Northern Ireland protocol we have very different points of view, but this debate is about the difficulties that the Northern Ireland protocol has brought in through the veterinary agreement. So I will speak about that, because that is perhaps where we will find the unified approach—which I think is what we are trying to do—to overcome the problems.</p>
+    <p pid="a368.0/3">I am so pleased once again to see the shadow Minister, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25386" name="Daniel Zeichner">the hon. Member for Cambridge (Daniel Zeichner)</phrase>, and the Minister; it is always a pleasure to engage with the Minister in debates in this Chamber.</p>
+    <p pid="a368.0/4">I will also pay a special tribute to the spokesperson for the Scottish National party, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25278" name="Owen Thompson">the hon. Member for Midlothian (Owen Thompson)</phrase>. I had the opportunity to invite him to my constituency and I must say that it was a wonderful chance to engage with him. He himself had asked for such an invitation and I was very pleased to make it happen. He could find out what the Unionist people were saying and thinking, which gave him, as he told me himself, the chance to understand better the psyche of those of us in Unionism and what the key issues for us are. By the way, he is a very engaging person—I say that very honestly—and I know that all the people from my constituency who met him were certainly impressed by him. I will just put that on the record. I have said it to him before, but now it will be in Hansard for the future.</p>
+    <p pid="a368.0/5">This issue is a very evocative one for me, for my party and indeed for a huge majority of the people I represent. I will give just one example of the Northern Ireland protocol working. To be fair, it is not a veterinary issue, but in just the last week parents and children have been inconvenienced at Christmas—not my grandchildren, by the way, but other grandchildren. To get their Barbie Dream House on Amazon, people have to pay an extra £35 to buy it in Northern Ireland. It is not just the inconvenience but, as the hon. Member for Rochdale said, the cost. It is almost as though £35 or £40 was just added on.</p>
+    <p pid="a368.0/6">Here is another example. A lady who wanted to buy a rug for her horse made inquiries, as she did every year, about buying it on the UK mainland, and was shocked to find that its price had suddenly jumped from £40 to £65. She was quite annoyed at having to spend the extra money; and when she agreed to pay the extra £25, she was then informed that they would not send the rug anyway—the paperwork and the bureaucracy was so great. That was a veterinary issue for a person who has horses and understands those issues—great difficulties.</p>
+    <p pid="a368.0/7">To be fair, the Minister understands the issues; we will not be telling the hon. Lady anything that she does not already know, but these are our frustrations about the protocol. These issues are not just inconvenient for business people; they are challenging the viability of their very businesses, from those who cannot supply motor parts, parts for lawnmowers or parts for mobility scooters, to the businessman whose supplies have been cut by over a third because of paperwork.</p>
+    <p pid="a368.0/8">The hon. Member for Rochdale referred to tractors and machinery, and I will provide some examples from my constituency. Tractors must be scrupulously cleaned. If they have any mud or muck on them they cannot come across, even though, on <phrase class="date" code="2021-12-31">31 December</phrase> 2020, that was perfectly acceptable. Did the world change on <phrase class="date" code="2021-01-01">1 January</phrase> 2021? This makes me think that it did. Although we obviously cannot see the change, the EU certainly found a reason to change. The central theme of my speech will be the EU’s attitude and the obstructions that it is putting in place in relation to this issue.</p>
+    <p pid="a368.0/9">The Northern Ireland protocol is affecting every aspect of life, and as we have said before—and I must put it on record because it is our party’s position—it has to go. It is not fit for purpose; it is massively affecting the quality of life, the cost of living and the rights of people in my constituency of Strangford and across the whole of Northern Ireland. I could, although I will not, speak for days on this issue. Everyone would say, “Look: it’s getting dark, Jim.” I will not do that, but there are so many examples that I could cite to reinforce the points that the hon. Member for Rochdale has made. I am sure that all of my comments on this topic in the House could well amount to a day’s worth—I, at least, definitely sometimes felt as though I was going on for days and days. The reason that I did so, and will continue to do so, is simple: the protocol is unfair, discriminatory and constitutionally unacceptable.</p>
+    <p pid="a368.0/10">I turn to the specifics of today’s debate, to which the hon. Member for Rochdale referred and about which I want to speak. I contacted the Ulster Farmers Union—I declare an interest as a member of the union—and they have said that we must have a veterinary agreement immediately to survive this impasse. So that is the Ulster Farmers Union, which represents the majority of farmers in Northern Ireland—not all, because, I believe, the Irish Farmers’ Association has a lot of members in the west of the Province. The Ulster Farmers Union said:</p>
+    <p pid="a368.0/11" class="indent" pwmotiontext="yes">“A veterinary agreement could remove up to 80% of checks and documentation that would otherwise be needed. It will support the agri-food and retail industries as well as farming and will keep prices low and choice high for NI families…even a time-limited agreement would assist us in the short and medium term and provide some relief to the current pressures—both trade and social.”</p>
+    <p pid="a368.0/12">The Ulster Farmers Union has a very large membership. All of my neighbours in the Ards peninsula—I live on a farm as well—are members. That is not just because the insurance premiums are fairly keen but because, in all honesty, it represents us very well.</p>
+    <p pid="a368.0/13">Farmers cannot wait for further machinations as the Government attempt to reason with the unreasonable. It has been made abundantly clear by the treatment of the European Commission and the manner in which Unionist people are spoken of in those circles that this protocol is not a matter of practicality for the EU; for them it is a matter of pride. They are out to beat us and are using the Northern Ireland protocol as a method to do that. Their pride was hurt, and the saying that hurt people hurt other people is true here.</p>
+    <p pid="a368.0/14">I have to put on record my disquiet and anger at the tone and the methodology of the EU and how they have treated us. They are determined to inflict as much pain on the Brits as they look upon it. I would just say this: I am a Brit. I am very proud to carry a British passport. I am very proud to be a member of this United Kingdom of Great Britain and Northern Ireland. When they attack the Brits, they are attacking us as well, so I feel quite angered at how the EU have gone at this. We are not to be the conduit to inflict that pain.</p>
+    <p pid="a368.0/15">I have two more examples—no more, because they all illustrate the same issue over and over. In his introduction, the hon. Member for Rochdale referred to the movement of cattle. I have been incredulous to hear some of these things. My farmers on the Ards peninsula have cows of a very high pedigree. They sell their bulls and cows all over the United Kingdom. This year, some of them phoned me as they were taking their bulls to market. These bulls are worth about £20,000 or £25,000 on the market when they take them across to the mainland and to Scotland. They informed me that if they went to the market sale on the mainland and they did not perchance happen to sell that bull or cow, they would have to then apply for a licence to keep there the bull or cow that they were hoping to sell. It would have to stay in quarantine for five to six weeks. Fortunately, they did sell them, but the possibility of not selling them meant that the cost factor arose, and that is something that I have great concerns over. The situation is affecting agriculture. It is affecting cattle. I am very concerned.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.370.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.370.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.370.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.370.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.372.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.372.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.372.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.372.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.373.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.373.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.373.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.373.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.373.2" newgid="uk.org.publicwhip/westminhall/2021-12-15b.373.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.373.3" newgid="uk.org.publicwhip/westminhall/2021-12-15b.373.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.373.4" newgid="uk.org.publicwhip/westminhall/2021-12-15b.373.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.374.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.374.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.375.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.375.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.375.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.375.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.376.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.376.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.377.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.377.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.377.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.377.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.379.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.379.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.382.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.382.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.383.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.383.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.383.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.383.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.383.2" newgid="uk.org.publicwhip/westminhall/2021-12-15b.383.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.383.3" newgid="uk.org.publicwhip/westminhall/2021-12-15b.383.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.383.4" newgid="uk.org.publicwhip/westminhall/2021-12-15b.383.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.383.5" newgid="uk.org.publicwhip/westminhall/2021-12-15b.383.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.383.6" newgid="uk.org.publicwhip/westminhall/2021-12-15b.383.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.384.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.384.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.386.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.386.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.388.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.388.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.388.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.388.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.388.2" newgid="uk.org.publicwhip/westminhall/2021-12-15b.388.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.388.3" newgid="uk.org.publicwhip/westminhall/2021-12-15b.388.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.388.4" newgid="uk.org.publicwhip/westminhall/2021-12-15b.388.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.389.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.389.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.389.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.389.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.390.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.390.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.390.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.390.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.392.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.392.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.393.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.393.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.393.1" newgid="uk.org.publicwhip/westminhall/2021-12-15b.393.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.394.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.394.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.395.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.395.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-15a.396.0" newgid="uk.org.publicwhip/westminhall/2021-12-15b.396.0" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2017-04-18b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.227.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.227.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.227.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.227.2" newgid="uk.org.publicwhip/westminhall/2017-04-18c.227.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.227.3" newgid="uk.org.publicwhip/westminhall/2017-04-18c.227.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.227.4" newgid="uk.org.publicwhip/westminhall/2017-04-18c.227.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.228.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.228.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.228.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.229.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.229.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.230.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.230.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.230.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.230.2" newgid="uk.org.publicwhip/westminhall/2017-04-18c.230.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.230.3" newgid="uk.org.publicwhip/westminhall/2017-04-18c.230.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.230.4" newgid="uk.org.publicwhip/westminhall/2017-04-18c.230.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.235.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.235.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.235.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.235.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.237.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.238.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.238.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.238.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.240.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.240.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.240.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.243.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.243.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.246.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.246.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.248.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.248.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.248.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.248.2" newgid="uk.org.publicwhip/westminhall/2017-04-18c.248.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-04-18b.248.2" speakername="Caroline Nokes" person_id="uk.org.publicwhip/person/24809" colnum="248" time="12:50:00" url="">
+    <p pid="b248.2/1">And from my friends in Northern Ireland. My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11573" name="David Burrowes">the Member for Enfield, Southgate (Mr Burrowes)</phrase> raised the question of whether I felt the heat of this issue. I can assure him on this beautiful spring day that I certainly do feel the heat. Members have made me feel it this morning, but, much more importantly, I feel the heat of this issue every single time I open an email from a parent with care who is not receiving the correct amount of maintenance. I also feel it when I receive emails from non-resident parents who raise concerns about the amount they have to contribute and whether arrears that have built up are indeed the correct figure. So yes, I feel the heat. I also concur with what I think every single Member has said this morning: our first thought should be for the children. It is not a question of non-resident parents and parents with care. Their battles, to be frank, are not of interest to me compared with what we feel for the children who need support and maintenance from both parents.</p>
+    <p pid="b248.2/2">I commented at a Select Committee last year when I was a new Minister—it seems a long time ago—that  I wanted to hear about cases, because that helps me to point out to CMS officials where there have been failings and where we could do better. That matters to me, because it matters that maintenance flows to children in as many cases as possible. I said it at that Select Committee and I will repeat it today: I welcome receiving emails from parents with care and from non-resident parents because I need to know—although given this morning’s news, I do not know for how much longer I need to know.</p>
+    <p pid="b248.2/3">I want to be clear that the responsibility for ensuring that child maintenance is paid on time and in full lies with paying parents. Parents who think they have got away with not paying their maintenance as their children grow up are not cheating the system; they are cheating their own children. The hon. Member for Motherwell and Wishaw spoke of having to think about what she left out when she composed her contribution this morning. I wake up thinking of the children who are not receiving the correct amount of maintenance. The words of my hon. Friend the Member for Enfield, Southgate about a truck being more important than paying maintenance to children will ring in my ears.</p>
+    <p pid="b248.2/4">The DWP is currently delivering a comprehensive package of reforms to the system, which are intended to encourage and support parents to take responsibility  for paying for their children’s upbringing. Where parents do not meet their responsibilities, the statutory scheme is there to enforce payments.</p>
+    <p pid="b248.2/5">Hon. Members have rightly mentioned this morning that under the old system the Child Support Agency did not provide the right support to parents and was expensive to run. We know—Members have acknowledged this—that the bulk of arrears referred to accrued under the former CSA. The new system run by the Child Maintenance Service is designed to specifically address some of the shortcomings of the CSA. We have learnt from mistakes of the past. Where the previous system often drove a wedge between parents, the new system is designed to encourage collaboration at every stage. Evidence shows that parental collaboration has a direct positive impact on children’s outcomes such as health, emotional wellbeing and academic attainment. We know that a constructive inter-parental relationship, whether parents are together or separated, will improve outcomes for children.</p>
+    <p pid="b248.2/6">The new child maintenance options service acts as a gateway to the scheme, ensuring that parents are given the information and support they need to make an arrangement that is right for them, whether that is a family-based arrangement or a statutory one. Our agents receive specialist training to help them to deal sensitively with clients, and tailored support is delivered via phone, live webchat and email. Child maintenance options has helped a quarter of the clients who contacted them to set up family-based arrangements, which we know are better for children in the long term. The number of parents who have made an effective arrangement following contact with the service increased in the first two quarters of 2016, from 82% to 87%.</p>
+    <p pid="b248.2/7">We know that maintenance arrangements, while important, are one of the many issues that parents face when they separate, so our agents can also signpost parents to a wide range of organisations that can provide specialist support and advice on the issues they may need help with in their relationships.</p>
+    <p pid="b248.2/8">The charges, which we have heard about this morning, were introduced in 2014 to provide a further incentive for parents to collaborate, and we know that collaboration works in the best interests of the children. Although the service is primarily funded by the taxpayer, the charges contribute a small amount, helping to offset some of the costs associated with providing the service—it is a small amount, in the region of 10%. All the measures are designed to encourage the parents who can to make their own family-based arrangements. It is perhaps inevitable that the families who end up in the statutory scheme will be the ones for whom that is most difficult.</p>
+    <p pid="b248.2/9">It is important to reflect on that point. Parents who can collaborate do. Those who are committed to working together seldom come within the orbit of the CMS. It therefore follows that the parents with whom we do have contact are the ones who are most likely to have  conflict and difficulties. It is true that, as <phrase class="honfriend" person_id="uk.org.publicwhip/person/13864" name="Jim Shannon">the hon. Member for Strangford (Jim Shannon)</phrase> said, family-based arrangements are the ideal solution and provide the best outcomes. We do not want parents to have to come within a statutory scheme. However, we acknowledge that that is not always possible.</p>
+    <p pid="b248.2/10">We continue to use all the tools at our disposal to maintain compliance and recover arrears, but it is inevitable that some arrears will accrue as some parents go to great lengths to avoid their responsibilities. At the end of last year, I visited our CMS centre in Hastings and spoke to both the enforcement team and the financial investigation unit. I was very impressed by their professionalism and dedication, but I was also struck by how difficult their job is. Perhaps it is inevitable in a buoyant employment market that non-resident parents find it easier to change job than when the economy is not so good.</p>
+    <p pid="b248.2/11">We have heard from various hon. Members that one of the significant problems lies with the self-employed and company directors. It is there that we have the biggest challenges. Both the financial investigation unit and the enforcement teams are determined to do what they can, using the powers already available to them. We can at present make deductions from single-held bank accounts, but not from joint accounts. We are looking at how we can best use our powers to include joint bank accounts. I am very conscious that some non-resident parents hide assets and income within the bank accounts of other family members. We desperately need to address such abuses, which will form part of our arrears strategy, which we will publish later in the spring, notwithstanding my earlier comment about this morning’s announcement.</p>
+    <p pid="b248.2/12">I promised the hon. Member for Motherwell and Wishaw that I would leave her some time to conclude. I am conscious that I have been short of time, but I have a mass of information that I would like the opportunity to share. My parting shot is this: if we are to have an arrears strategy and an enforcement strategy that really works, we need to be creative and determined to do it. My door is always open to Members who wish to come forward with new and innovative ideas as to how we can best make parents accept responsibility for their children.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.250.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.250.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.250.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.250.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.250.2" newgid="uk.org.publicwhip/westminhall/2017-04-18c.250.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.251.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.255.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.255.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.258.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.258.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.259.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.259.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.259.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.259.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.263.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.263.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.266.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.268.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.268.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.271.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.271.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.273.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.276.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.276.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.278.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.279.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.279.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.282.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.282.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.282.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.282.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.283.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.283.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.283.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.283.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.284.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.284.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.284.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.284.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.284.2" newgid="uk.org.publicwhip/westminhall/2017-04-18c.284.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.285.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.285.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.285.2" newgid="uk.org.publicwhip/westminhall/2017-04-18c.285.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.285.3" newgid="uk.org.publicwhip/westminhall/2017-04-18c.285.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.288.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.288.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.289.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.290.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.290.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.290.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.292.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.292.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.293.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.294.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.294.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.294.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.298.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.298.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.298.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.299.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.299.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.299.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.299.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.299.2" newgid="uk.org.publicwhip/westminhall/2017-04-18c.299.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.300.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.300.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.301.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.302.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.302.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.302.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.302.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.303.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.304.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.304.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.304.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.304.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.306.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.306.1" newgid="uk.org.publicwhip/westminhall/2017-04-18c.306.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.306.2" newgid="uk.org.publicwhip/westminhall/2017-04-18c.306.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.306.3" newgid="uk.org.publicwhip/westminhall/2017-04-18c.306.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18b.308.0" newgid="uk.org.publicwhip/westminhall/2017-04-18c.308.0" matchtype="perfectmatch"/>
+</publicwhip>
+

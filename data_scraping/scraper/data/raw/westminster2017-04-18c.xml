@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2017-04-18c.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.227.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.227.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.227.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.227.2" newgid="uk.org.publicwhip/westminhall/2017-04-18d.227.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.227.3" newgid="uk.org.publicwhip/westminhall/2017-04-18d.227.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.227.4" newgid="uk.org.publicwhip/westminhall/2017-04-18d.227.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.228.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.228.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.228.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.229.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.229.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.230.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.230.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.230.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.230.2" newgid="uk.org.publicwhip/westminhall/2017-04-18d.230.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.230.3" newgid="uk.org.publicwhip/westminhall/2017-04-18d.230.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.230.4" newgid="uk.org.publicwhip/westminhall/2017-04-18d.230.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.235.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.235.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.235.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.235.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.237.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.238.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.238.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.238.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.240.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.240.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.240.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.243.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.243.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.246.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.246.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.248.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.248.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.248.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.248.2" newgid="uk.org.publicwhip/westminhall/2017-04-18d.248.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.250.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.250.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.250.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.250.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.250.2" newgid="uk.org.publicwhip/westminhall/2017-04-18d.250.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.251.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.255.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.255.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.258.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.258.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.259.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.259.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.259.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.259.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.263.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.263.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-04-18c.263.0" speakername="Julian Brazier" person_id="uk.org.publicwhip/person/10065" colnum="263" time="16:44:00" url="">
+    <p pid="c263.0/1">May I say what an honour it is to serve under your chairmanship for the first time, Mr Walker? I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/25366" name="Jeff Smith">the hon. Member for Manchester, Withington (Jeff Smith)</phrase> on securing the debate and on his thoughtful and interesting speech.</p>
+    <p pid="c263.0/2">The House, and indeed the Minister, have heard me speak several times before on this subject, so I will be fairly brief. However, it is worth saying at the outset that we face some quite serious manning shortages in two of our three services. The Army is now 4.9% under strength on paper and, looking at the large rise in the number of people who are still serving but who have been medically downgraded over the past five years, the underlying trend is worse. The Air Force, on paper, actually has a slightly higher deficit than the Army, but the Navy has managed to stay within 2% or so of its target. Retention is a very big factor, but so are justice for, and the welfare of, our armed forces.</p>
+    <p pid="c263.0/3">I have been a passionate believer in opportunities for home ownership for the armed forces for my whole political career. The only time I went to see Margaret Thatcher when she was Prime Minister—which shows how old I am—specifically regarded a scheme for home ownership opportunities for members of the armed forces; I did ten-minute rule Bills and the rest of it. I will try to set out now why I think the vision for home ownership in the future accommodation model is not quite right. We are essentially talking about a move towards two models—not a complete move, but a move away from service family accommodation as the main model and towards a system of alliances and owner-occupation.</p>
+    <p pid="c263.0/4">The hon. Member for Manchester, Withington has already mentioned some of the complexities involved. We are not proposing to do as the Australians do, which is a very expensive scheme whereby its Department of Defence takes on houses in a community and all of the legal risks; it does the tenancy, maintenance and all the rest of it, and people move in and out as if they were in service family accommodation. The proposal that has been put forward, as originally announced, would leave people in a position whereby, at most, the Ministry of Defence might find a property, but after that the tenant would be responsible for the tenure, the length of which might not correspond with the length of their tour. If it is a rolling tenure, they can be thrown out with two months’ notice, and if it is an annual tenure, they will clearly have problems with renewals because their postings will not always tidily fit the years.</p>
+    <p pid="c263.0/5">Above all, on maintenance, whatever the issues now— I pay tribute to my hon. Friend the Minister for his progress in driving up the quality of what we are getting out of the maintenance contracts from CarillionAmey—the reality is that, with the private sector, people would be on their own. Like the hon. Member for Manchester, Withington, I have had some very bad constituency cases. For soldiers on operations, such as airmen flying  in Iraq, if their family’s boiler breaks down or roof leaks and the landlord does not want to know, they cannot go to their commanding officer because Defence would not have a say in it.</p>
+    <p pid="c263.0/6">The hon. Gentleman mentioned the importance of morale when troops are away, not only on operations but also often on extended exercises abroad and so on. When we still had Howe Barracks in Canterbury, I remember canvassing there and meeting a little boy kicking a football with his friends. His father had just been shot the previous night by a sniper in Iraq. The fact that he was there with all his mates, whose fathers were all subject to the same risk, was an important part of the supportiveness that the military estates provide.</p>
+    <p pid="c263.0/7">I am also puzzled—I hope my hon. Friend the Minister will say something about this—as to whether we really are serious about moving people out into the community. The places we seem to be moving out of, such as Canterbury, Ripon, Chester and Maidstone, have affordable accommodation in the community and good employment prospects for wives, but we are expanding places like Catterick, and keeping open places like Lossiemouth—for at least 15 years or so—where there is very little of either.</p>
+    <p pid="c263.0/8">This knocks on to the armed forces covenant. I pay tribute to the work that my hon. Friend the Minister has done on the covenant. One thing to come out of that is that we have persuaded councils to remove the local requirement in the case of service families for housing, so that if a serviceman or servicewoman is serving in an area and does not have a local connection beyond the fact that they have been posted there, they will still be eligible to get on the housing list when they come out. However, as we increasingly focus on super-garrisons, I cannot see how that can continue. Are we really going to say that the council in North Yorkshire, which covers Catterick, will have to take on soldiers from that very large—and further to be increased—base, and that that is suddenly a problem just for the ratepayers in that one small area?</p>
+    <p pid="c263.0/9">I do not think that a move towards an allowance is a good idea. I do not have an ideological objection to having allowances for some fringe cases, so that we can manage the housing stock more efficiently, and some people would occasionally have to wait for a short time in a hiring on the way in. However, we have debated this before, and I cannot see how a needs-based allowance will deliver this for the officer corps.</p>
+    <p pid="c263.0/10">We are critically short of young majors, and captains becoming young majors. They are roughly the same group as pilots coming up to the first breakpoint. These are the most expensive people in the armed forces in many cases and the people we most need to run the system. They are the people who, in many cases, have not yet started their family; they are perhaps married but do not have children yet. They will end up with a very small allowance, rather than good-quality married quarters that are compensation for the penalties of service life, including the lack of spousal employment in many cases.</p>
+    <p pid="c263.0/11">As I said at the beginning, I am a passionate believer in home ownership. I certainly do not believe it is fair at the moment to have a situation where the Army, and to some extent the Air Force, are so gravely disadvantaged. I urge my hon. Friend the Minister to consider that promoting owner-occupation is not the solution for the  Army and the Air Force. It means that if someone is posted in an area where there is no affordable local housing or housing on a scale where large numbers of people could buy it without driving the house prices up, they are then outside it.</p>
+    <p pid="c263.0/12">If we start to reduce the subsidy for married quarters—as we increasingly did in the last review, when 81% of rents went up—but provide extra allowances for people who are owner-occupiers, the people in service life who suffer least from it are the very ones who will then get the most benefit out of it; one could mention a couple of examples. For example, if someone is living in RAF Waddington, which is one of a very small number of airbases on the edge of a big city—in that case, Lincoln—where there is plenty of spousal employment and plenty of affordable housing, they will be able to do very well out of it. If someone is living in Colchester, they will be able to do very well out of it; that is one of the few Army bases where that applies.</p>
+    <p pid="c263.0/13">However, the people who are paying the extra rents and losing are those who are living in the Cattericks of the world or in Aldershot, where there is lots of housing but it is too expensive for them. It is the people living in remote places such as Lossiemouth or the instructors at RAF Valley and the infantry training school at Brecon. Those are crucial people who do not have affordable housing there, and who in many cases have very little opportunity for spousal employment. They cannot go down an owner-occupier route.</p>
+    <p pid="c263.0/14">If we want to provide a fair route to getting a foot on the housing ladder, it must not be tied to owner-occupation. It has to be available for a mixture of different tenures, so that if someone happens to be living near a house and at one point in their career lives in it, they can let it the rest of the time. Unfortunately, if someone does that at present, they will be hit by the Chancellor’s new landlord tax when they let it.</p>
+    <p pid="c263.0/15">I know that the Minister is starting to free it up a little, but the rules are still pretty dour at the moment. If someone has taken out a forces help to buy loan, they have to apply for permission to let the house to anybody. Looking at the small print, that is not a commercial risk I would want to take on. So yes to home ownership for getting a foot on the property ladder, but no to tying it to owner-occupation.</p>
+    <p pid="c263.0/16">I want to reinforce what the hon. Member for Manchester, Withington said and what my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25439" name="Anne-Marie Trevelyan">the Member for Berwick-upon-Tweed (Mrs Trevelyan)</phrase>—I am glad that she will be speaking shortly—has been saying for a very long time about the survey carried out on the future accommodation model. For my sins, I am a graduate mathematician, and I worked as a professional statistician. It cannot be said too often that a self-selected sample is not a sample. The problem is not that one fifth is not enough. It is easily big enough if it is a sample, but this is not a sample; it is a self-selected sample, which is very different. If only one fifth choose to fill in a survey, they are not representative. Any polling organisation —I know that one was involved in this survey—should advise that.</p>
+    <p pid="c263.0/17">I have a print-out here of the first page of the survey website. After the note on privacy at the beginning, the very first words read:</p>
+    <p pid="c263.0/18" class="indent" pwmotiontext="yes">“Service personnel are dissatisfied with the current accommodation system and it is becoming unaffordable, so the MOD is thinking about accommodation options for the future—the Future Accommodation Model.”</p>
+    <p pid="c263.0/19">From the word go, the scene has been set to encourage people to support change. The current option is not actually given as an option anywhere. There may be more, but on flicking through quickly I found no less than 10 references to opportunity for home ownership. However, nobody says that the number of postings that are near affordable housing will be reduced; that is not mentioned. Nor does it tell people that there will be an extra tax if they buy a property and let it.</p>
+    <p pid="c263.0/20">Group after group have hints that they will get extra allowances out of this. We are told that it will be extended to the unmarried. There is a very strong case for that, but will it include partners from a previous relationship? It will become very expensive if it does. That is not made clear, but that is one group of people to whom it could apply. There is a hint that people might get more help with their mortgages. As we go through, it is suggested that more money may be available for area after area. It does not actually spell out that if the thing is to remain affordable, we will end up potentially with higher rents and other issues for those who are still in married quarters, unless money can be found elsewhere. There is just one comment at the very beginning about this being within a fixed budget. As we go on, we can see why more and more people thought this was nirvana coming.</p>
+    <p pid="c263.0/21">I will end by saying that I have the highest respect and regard for my hon. and gallant Friend the Minister. We worked together, which I very much enjoyed. I know he is deeply committed to the armed forces. Indeed, he has served for nearly 30 years in what was the Territorial Army. I share his vision that we need to find routes to home ownership for people in all three services; there is a perfectly good one for the Navy at the moment. However, I urge him to think again about whether owner-occupation is the right way for the Army and Air Force and to ask himself whether moving towards a needs-based allowance and away, in many areas, from SFA will maintain a happy and effective Army and Air Force.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.266.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.268.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.268.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.271.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.271.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.273.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.276.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.276.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.278.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.279.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.279.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.282.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.282.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.282.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.282.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.283.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.283.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.283.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.283.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.284.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.284.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.284.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.284.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.284.2" newgid="uk.org.publicwhip/westminhall/2017-04-18d.284.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.285.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.285.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.285.2" newgid="uk.org.publicwhip/westminhall/2017-04-18d.285.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.285.3" newgid="uk.org.publicwhip/westminhall/2017-04-18d.285.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.288.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.288.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.289.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.290.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.290.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.290.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.292.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.292.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.293.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.294.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.294.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.294.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.298.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.298.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.298.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.299.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.299.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.299.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.299.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.299.2" newgid="uk.org.publicwhip/westminhall/2017-04-18d.299.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.300.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.300.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.301.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.302.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.302.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.302.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.302.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.303.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.304.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.304.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.304.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.304.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.306.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.306.1" newgid="uk.org.publicwhip/westminhall/2017-04-18d.306.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.306.2" newgid="uk.org.publicwhip/westminhall/2017-04-18d.306.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.306.3" newgid="uk.org.publicwhip/westminhall/2017-04-18d.306.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-18c.308.0" newgid="uk.org.publicwhip/westminhall/2017-04-18d.308.0" matchtype="perfectmatch"/>
+</publicwhip>
+

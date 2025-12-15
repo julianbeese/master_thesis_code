@@ -1,0 +1,71 @@
+# Training Configuration for Supervised Fine-Tuning
+# Using CSV training data from /data folder
+
+model:
+  name: "mistral-7b-sft"
+  base_model: "mistralai/Mistral-7B-v0.1"
+  trust_remote_code: false
+  
+data:
+  # CSV Daten-Konfiguration für Supervised Fine-Tuning
+  data_dir: "../data"  # Relative path from supervised_finetuning directory
+  train_csv: "training_data_lang_70pct.csv"
+  validation_csv: "training_data_lang_15pct_1.csv"
+  test_csv: "training_data_lang_15pct_2.csv"
+  text_column: "chunk_text"
+  label_column: "openai_frame_classification"
+  max_length: 128  # Drastically reduced for memory efficiency
+  
+  # Label mapping (same as classification)
+  label2id:
+    "Conflict": 0
+    "Moral Value": 1
+    "Economic": 2
+    "Powerlessness": 3
+    "None": 4
+    "Human Impact": 5
+  num_labels: 6
+  
+training:
+  # LoRA Configuration für effizientes Training
+  use_lora: true
+  lora_r: 4  # Drastically reduced for memory efficiency
+  lora_alpha: 8  # Drastically reduced
+  lora_dropout: 0.05
+  lora_target_modules: ["q_proj", "v_proj"]  # Minimal target modules
+  
+  # Training Hyperparameters (optimized for SFT)
+  num_epochs: 5
+  batch_size: 1  # Reduced for memory efficiency
+  gradient_accumulation_steps: 2  # Effective batch size: 2
+  learning_rate: 5e-5  # Lower learning rate for fine-tuning
+  weight_decay: 0.01
+  warmup_steps: 200
+  max_grad_norm: 1.0
+  
+  # Mixed Precision Training
+  fp16: false
+  bf16: true
+  
+  # Optimizer
+  optimizer: "adamw_torch"
+  lr_scheduler: "cosine"
+  
+  # Logging
+  logging_steps: 10
+  eval_steps: 200
+  save_steps: 400
+  save_total_limit: 3
+  
+  # Output
+  output_dir: "./outputs"
+  checkpoint_dir: "./checkpoints"
+  
+hardware:
+  gpu: "H100"  # RunPod H100
+  num_gpus: 1
+  device_map: "auto"
+  
+evaluation:
+  metric: "f1_macro"
+  batch_size: 1  # Reduced for memory efficiency

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2018-11-15a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.177.0" newgid="uk.org.publicwhip/westminhall/2018-11-15b.177.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.177.1" newgid="uk.org.publicwhip/westminhall/2018-11-15b.177.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.177.2" newgid="uk.org.publicwhip/westminhall/2018-11-15b.177.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.177.3" newgid="uk.org.publicwhip/westminhall/2018-11-15b.177.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.177.4" newgid="uk.org.publicwhip/westminhall/2018-11-15b.177.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.177.5" newgid="uk.org.publicwhip/westminhall/2018-11-15b.177.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.180.0" newgid="uk.org.publicwhip/westminhall/2018-11-15b.180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.180.1" newgid="uk.org.publicwhip/westminhall/2018-11-15b.180.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.180.2" newgid="uk.org.publicwhip/westminhall/2018-11-15b.180.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.180.3" newgid="uk.org.publicwhip/westminhall/2018-11-15b.180.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.181.0" newgid="uk.org.publicwhip/westminhall/2018-11-15b.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.185.0" newgid="uk.org.publicwhip/westminhall/2018-11-15b.185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.187.0" newgid="uk.org.publicwhip/westminhall/2018-11-15b.187.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.189.0" newgid="uk.org.publicwhip/westminhall/2018-11-15b.189.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-11-15a.189.0" speakername="Nick Gibb" person_id="uk.org.publicwhip/person/10225" colnum="189" time="14:18:00" url="">
+    <p pid="a189.0/1">It is a pleasure to serve under your chairmanship, Mr Bailey. I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/25386" name="Daniel Zeichner">the hon. Member for Cambridge (Daniel Zeichner)</phrase> on securing this debate. As he and all hon. Members present know, and as we have heard today, particularly from <phrase class="honfriend" person_id="uk.org.publicwhip/person/25295" name="Angela Crawley">the hon. Member for Lanark and Hamilton East (Angela Crawley)</phrase>, bullying can have a devastating effect on children and their families.</p>
+    <p pid="a189.0/2">I offer my sincere condolences to the family and friends of Rachel Steven. Every death of a child is a tragedy. I cannot comment on Scottish procedure, but in England all child deaths, including suicides, will be  reviewed by the local authority and the clinical commissioning group, which will analyse what has happened and ensure that any necessary recommendations or changes are made as a consequence of the tragedy.</p>
+    <p pid="a189.0/3">We must not let up on our efforts to eradicate bullying. Anti-bullying Week gives us an opportunity to maintain focus on this important issue and highlight the positive things that we can all do to help stamp out bullying. Every child’s experience at school should be a happy one. We want schools to be safe, calm places in which teachers can teach uninterrupted and pupils can succeed.</p>
+    <p pid="a189.0/4">The Government have sent a clear message to schools that bullying—for whatever reason—is unacceptable, and that they need the right tools to tackle it. As the hon. Member for Cambridge said in his opening remarks, all schools are legally required to have a behaviour policy with measures to prevent all forms of bullying. We have ensured that schools have a range of powers and support to help them respond effectively when bullying takes place.</p>
+    <p pid="a189.0/5">We know that bullying still happens, and that it can have serious and long-lasting effects on children’s education and mental health. Tackling bullying means creating a culture where difference is respected and bullying behaviour is not tolerated by staff, pupils and parents. That is why the theme of this Anti-bullying Week—“Choose Respect”—is so important. There are pupils who are more likely to be targeted because of some young people’s attitudes towards those who are different from themselves, which is not the way it should be. That is why, earlier this year, the Department for Education announced an additional £1 million investment to extend projects led by several anti-bullying organisations until March 2020—the end of the spending review period. That work will support schools to stamp out prejudice and discrimination.</p>
+    <p pid="a189.0/6">That investment will enable the Anti-Bullying Alliance, which does a phenomenal job, to extend its All Together programme, which focuses on reducing bullying of children with special educational needs and disabilities. It will support a further 300 schools to gain All Together status and provide certified online training for 10,000 professionals. The Anne Frank Trust will further develop its Free to Be debate programme, which encourages young people to think about the importance of tackling prejudice, discrimination and bullying. Over the 18-month extension, it will reach an additional 825 ambassadors and more than 8,000 workshop participants. The Diana Award will extend its peer-to-peer anti-bullying ambassadors programme, training an additional 2,750 young people from a further 270 schools in England over 18 months. As ambassadors, these young people will lead campaigns to empower their student body to have mutual respect for each other and to engage in good, anti-bullying practice.</p>
+    <p pid="a189.0/7">Earlier this year we also extended the Internet Matters project, which will now run its Make a Noise programme until January 2019. That project supports the reporting of bullying to schools via the tootoot online platform. All four of our grant-funded projects include cyber-bullying as an integral element, and last week the Minister for Women and Equalities announced a further £1 million to extend the anti-homophobic, biphobic and transphobic bullying programme, which has reached 1,200 schools since 2016.</p>
+    <p pid="a189.0/8">I had the pleasure of attending the Anti-Bullying Alliance’s parliamentary reception in Speaker’s House yesterday, which I think the hon. Member for Cambridge  also attended. That event celebrated Anti-bullying Week and inspired an audience—including fellow Members of Parliament, policy makers, teachers and young people —to take action and unite against bullying. I was proud to present the Anti-Bullying Alliance school staff awards to two remarkable individuals who have gone above and beyond in their school to tackle and stop bullying: Mrs Watkiss from Blue Coat Church of England Academy, and Miss Durrant, a learning mentor from Emerson Valley School.</p>
+    <p pid="a189.0/9">We know that schools that excel at tackling bullying have created an ethos of good behaviour, where pupils treat each other and staff with respect because they know that it is the right way to behave. This week, the Department for Education published a tool to support schools to develop whole-school approaches that promote respect and discipline. By providing practical advice, guidance and good practice examples of how schools can develop and implement an approach that is shared by the whole school community, the tool builds on the recommendations in Tom Bennett’s independent review of behaviour in schools, “Creating a culture: how school leaders can optimise behaviour”.</p>
+    <p pid="a189.0/10">A good school culture that sets a clear structure and clear expectations for pupils can go hand in hand with acknowledging differences. A school where good behaviour and respect is the norm can help teachers to identify and support pupils who might have underlying problems, so alongside the tool we have published an update to our advice on mental health and behaviour in schools. This will help schools to identify pupils whose behaviour might result from an underlying mental health difficulty, and to direct schools towards information about how they can adapt their approaches to support those pupils’ individual needs within the context of an approach that is based on clear expectations of behaviour.</p>
+    <p pid="a189.0/11">It is important also that a respectful school culture permeates every aspect of school life, including what is taught in the classroom. The new mandatory subjects of relationships education, relationships and sex education, and health education will enable schools to deliver high-quality teaching, including on acceptable ways to behave, both online and off, as part of their whole-school approach. The consultation on the draft guidance and regulations closed last week, and we are currently considering the responses; we plan to lay the regulations next year. Under the content for respectful relationships, the draft guidance sets out that pupils should know about the different types of bullying, the impact that it has, the responsibility of bystanders, and how to get help.</p>
+    <p pid="a189.0/12">As the hon. Member for Cambridge said, today is the first time that Anti-bullying Week has featured a dedicated anti-cyber-bullying day, which is supported by the Royal Foundation’s taskforce on the prevention of cyber-bullying. The aim of Stop Speak Support Day is to highlight the issue of cyber-bullying, which we know affects so many children in our schools, as <phrase class="honfriend" person_id="uk.org.publicwhip/person/25220" name="Mike Kane">the hon. Member for Wythenshawe and Sale East (Mike Kane)</phrase> said. Cyber-bullying is not just a way to bully others anonymously; it can be a means by which face-to-face bullying between pupils at the same school is extended beyond the school day.</p>
+    <p pid="a189.0/13">Bullying can also start online and follow a child into school. In these circumstances, the effects of cyber-bullying can be felt within the school. Just like face-to-face  bullying, it can have repercussions on behaviour during lessons and throughout the school day. For that reason, the Department for Education has already put in place a number of powers and a range of support to enable schools to prevent and tackle cyber-bullying. Teachers have the power to discipline pupils for poor behaviour that takes place outside the school gates, and we have extended teachers’ searching powers so that they can search for and, in certain circumstances, delete inappropriate images or files on electronic devices.</p>
+    <p pid="a189.0/14">Through the new mandatory subjects of relationships education and relationships and sex education, pupils will be taught about internet safety and harm, including the effects of their online actions on others and knowing how to recognise and display respectful behaviour online. This will complement the computing curriculum, which covers the principles of e-safety at all key stages. The content progresses to reflect the different and escalating risks that young people face, including how to use technology safely, responsibly, respectfully and securely, and where to go for help and support when students have concerns about content or contact on the internet or other online technologies.</p>
+    <p pid="a189.0/15">We are committed to strengthening the teaching of computing and computer science in schools, so we have launched a new, comprehensive programme to improve the teaching of computing and to drive up participation in computer science, particularly amongst girls. This includes a new national centre for computing and a network of at least 40 hubs throughout the country to support schools to provide resources and training—including elements of e-safety—to primary and secondary schools. The centre will start working with schools this year, and it is backed by £84 million of new funding, which was announced in November 2017.</p>
+    <p pid="a189.0/16">Children’s online life goes beyond what schools can control and influence. Their efforts need to be backed up by a responsible approach from those who provide social media, taking responsibility for what happens when children use their services. There is a range of other work taking place across Government to help tackle cyber-bullying, including the forthcoming joint White Paper from the Department for Digital, Culture, Media and Sport and the Home Office, which sits at the heart of the Government’s response to tackling online harm. The White Paper will be published in the winter and sets out a range of legislative and non-legislative measures that detail how we will tackle online harms.</p>
+    <p pid="a189.0/17">The hon. Member for Cambridge raised the issue  of social media companies and the social media code of practice. As he knows, we published the draft code  of practice in May and are continuing to engage with social media providers and others to refine the statutory practice with clear, overarching principles and separate best-practice guidance. Another key message of this year’s Anti-bullying Week is that bullying is a behaviour choice, as the hon. Member for Cambridge also mentioned. We want to ensure that all teachers are equipped with the skills to tackle the serious behaviour issues that compromise the safety and wellbeing of pupils, as well as the low-level disruption that too often gets in the way of effective teaching. We are reforming training so that all teachers will be shown in their first two years in the profession how to manage behaviour effectively. Last   month, we announced a £10 million programme to support schools to share best practice and knowledge on behaviour management and classroom management.</p>
+    <p pid="a189.0/18">We know that bullying can have a serious effect on mental health. Children who suffer bullying can face higher rates of anxiety, depression and self-harm in adulthood. The Department has committed to supporting schools and colleges to promote good mental wellbeing in children, providing a supportive environment for those experiencing problems and securing access to more specialist help for those who need it. The Government’s response to the consultation on our green paper, “Transforming children and young people’s mental health provision”, confirmed our commitment to provide significant further support linked to schools. We will incentivise and support all schools and colleges to identify and train a designated senior lead for mental health, to deliver whole-school approaches to promoting better mental health. The Government will also fund new mental health support units, which will improve collaboration between schools and specialist services, providing a wider range of support and interventions in or near schools and colleges. These teams will be linked to groups of schools and colleges, and will work closely with other mental health professionals to assess and refer children for other specialist treatments if necessary.</p>
+    <p pid="a189.0/19">I am grateful for the support that the hon. Member for Cambridge has given to this issue this year. The Government are committed to preventing and tackling bullying, but we know we cannot do that alone. We continue to work with schools and partner organisations to ensure that schools are a safe place for all. I am proud to be a supporter of Anti-bullying Week. I pledge to always choose respect, and I encourage other hon. Members to do the same.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-11-15a.194.0" newgid="uk.org.publicwhip/westminhall/2018-11-15b.194.0" matchtype="perfectmatch"/>
+</publicwhip>
+

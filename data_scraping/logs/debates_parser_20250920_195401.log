@@ -1,0 +1,66 @@
+2025-09-20 19:54:01,785 - __main__ - INFO - === Debates XML-Parser und Datenbank-Import ===
+2025-09-20 19:54:01,785 - __main__ - INFO - Input-Verzeichnis: scraper/data/debates
+2025-09-20 19:54:01,785 - __main__ - INFO - Datenbank-Pfad: database/data/debates_data.db
+2025-09-20 19:54:01,785 - __main__ - INFO - Max-Dateien: alle
+2025-09-20 19:54:01,785 - __main__ - INFO - Batch-Größe: 100
+2025-09-20 19:54:01,785 - __main__ - INFO - Test-Modus: True
+2025-09-20 19:54:01,785 - __main__ - INFO - Test-Modus aktiviert: Max-Dateien auf 5 gesetzt
+2025-09-20 19:54:01,785 - __main__ - INFO - Initialisiere Database Manager...
+2025-09-20 19:54:01,793 - __main__ - INFO - Gefunden: 2945 XML-Dateien
+2025-09-20 19:54:01,793 - __main__ - INFO - Starte XML-Parsing und Datenbank-Import...
+2025-09-20 19:54:01,793 - database_manager - INFO - Starte Import aus scraper/data/debates
+2025-09-20 19:54:01,796 - database_manager - INFO - Verarbeite 5 XML-Dateien aus scraper/data/debates
+2025-09-20 19:54:01,796 - database_manager - INFO - Verarbeite Datei 1/5: debates2012-01-10a.xml
+2025-09-20 19:54:01,796 - database_manager - INFO - Parse debates XML-Datei: debates2012-01-10a.xml
+2025-09-20 19:54:01,797 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:54:01,797 - database_manager - INFO - Verarbeite Datei 2/5: debates2021-11-18c.xml
+2025-09-20 19:54:01,797 - database_manager - INFO - Parse debates XML-Datei: debates2021-11-18c.xml
+2025-09-20 19:54:01,797 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:54:01,797 - database_manager - INFO - Verarbeite Datei 3/5: debates2017-03-16a.xml
+2025-09-20 19:54:01,797 - database_manager - INFO - Parse debates XML-Datei: debates2017-03-16a.xml
+2025-09-20 19:54:01,810 - database_manager - INFO - Debates XML erfolgreich geparst: 24 Debatten, 416 Reden, 47284 Wörter
+2025-09-20 19:54:01,810 - database_manager - INFO - Verarbeite Datei 4/5: debates2012-10-31b.xml
+2025-09-20 19:54:01,810 - database_manager - INFO - Parse debates XML-Datei: debates2012-10-31b.xml
+2025-09-20 19:54:01,811 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:54:01,812 - database_manager - INFO - Verarbeite Datei 5/5: debates2021-06-30b.xml
+2025-09-20 19:54:01,812 - database_manager - INFO - Parse debates XML-Datei: debates2021-06-30b.xml
+2025-09-20 19:54:01,829 - database_manager - INFO - Debates XML erfolgreich geparst: 17 Debatten, 387 Reden, 65182 Wörter
+2025-09-20 19:54:01,830 - database_manager - INFO - Verarbeitung abgeschlossen: 5 Sitzungen erfolgreich geparst
+2025-09-20 19:54:01,830 - database_manager - INFO - Konvertiere 5 Sitzungen zu DataFrames
+2025-09-20 19:54:01,835 - database_manager - INFO - DataFrames erstellt: ['sessions', 'debates', 'speeches', 'speakers', 'paragraphs']
+2025-09-20 19:54:01,839 - database_manager - INFO - Indizes erfolgreich erstellt
+2025-09-20 19:54:01,839 - database_manager - INFO - Debates-Tabellen erfolgreich erstellt
+2025-09-20 19:54:01,843 - database_manager - INFO - Tabelle 'sessions' importiert: 5 Zeilen
+2025-09-20 19:54:01,845 - database_manager - INFO - Tabelle 'speakers' importiert: 222 Zeilen
+2025-09-20 19:54:01,848 - database_manager - INFO - Tabelle 'debates' importiert: 41 Zeilen
+2025-09-20 19:54:01,858 - database_manager - INFO - Tabelle 'speeches' importiert: 803 Zeilen
+2025-09-20 19:54:01,868 - database_manager - INFO - Tabelle 'paragraphs' importiert: 1672 Zeilen
+2025-09-20 19:54:01,868 - database_manager - INFO - Erstelle ML-Features aus Rede-Daten
+2025-09-20 19:54:01,869 - database_manager - INFO - ML-Features erstellt: (803, 12)
+2025-09-20 19:54:01,873 - database_manager - INFO - Tabelle 'ml_features' aus Polars DataFrame erstellt
+2025-09-20 19:54:01,877 - database_manager - INFO - Sprecher-Statistiken aktualisiert
+2025-09-20 19:54:01,878 - database_manager - INFO - Import abgeschlossen: {'sessions': 5, 'speakers': 222, 'debates': 41, 'speeches': 803, 'paragraphs': 1672, 'ml_features': 803}
+2025-09-20 19:54:01,878 - __main__ - INFO - === Import-Ergebnisse ===
+2025-09-20 19:54:01,878 - __main__ - INFO - Verarbeitungsdauer: 0.09 Sekunden
+2025-09-20 19:54:01,878 - __main__ - INFO - Import-Statistiken: {'sessions': 5, 'speakers': 222, 'debates': 41, 'speeches': 803, 'paragraphs': 1672, 'ml_features': 803}
+2025-09-20 19:54:01,880 - __main__ - INFO - === Datenbank-Statistiken ===
+2025-09-20 19:54:01,880 - __main__ - INFO - sessions_count: 5
+2025-09-20 19:54:01,880 - __main__ - INFO - debates_count: 41
+2025-09-20 19:54:01,880 - __main__ - INFO - speakers_count: 222
+2025-09-20 19:54:01,880 - __main__ - INFO - speeches_count: 803
+2025-09-20 19:54:01,880 - __main__ - INFO - paragraphs_count: 1672
+2025-09-20 19:54:01,880 - __main__ - INFO - ml_features_count: 803
+2025-09-20 19:54:01,880 - __main__ - INFO - date_range: (datetime.date(2012, 1, 10), datetime.date(2021, 11, 18))
+2025-09-20 19:54:01,880 - __main__ - INFO - top_speakers: [('David Lidington', 44), ('Karen Bradley', 43), ('Gavin Williamson', 42), ('Boris Johnson', 26), ('John Bercow', 22), ('Matthew Hancock', 20), ('Anthony Mangnall', 19), ('Simon Hart', 19), ('Jeremy Wright', 16), ('Robert Buckland', 15)]
+2025-09-20 19:54:01,883 - __main__ - INFO - ML-Dataset: 747 Reden mit Features
+2025-09-20 19:54:01,883 - __main__ - INFO - === Beispiel-Queries ===
+2025-09-20 19:54:01,884 - __main__ - WARNING - Top-Sprecher-Query fehlgeschlagen: Binder Error: column "first_appearance" must appear in the GROUP BY clause or must be part of an aggregate function.
+Either add it to the GROUP BY list, or use "ANY_VALUE(first_appearance)" if the exact value of "first_appearance" is not important.
+2025-09-20 19:54:01,885 - __main__ - INFO - Top 5 Debatten-Themen:
+2025-09-20 19:54:01,885 - __main__ - INFO -   1. Great Repeal Bill... (1 Debatten)
+2025-09-20 19:54:01,885 - __main__ - INFO -   2. Broadcasting: Diversity... (1 Debatten)
+2025-09-20 19:54:01,885 - __main__ - INFO -   3. Engagements - Covid-19: Impact on Attendance in Ed... (1 Debatten)
+2025-09-20 19:54:01,885 - __main__ - INFO -   4. Access to the Arts... (1 Debatten)
+2025-09-20 19:54:01,885 - __main__ - INFO -   5. Covid-19: Co-ordination of UK-wide Response... (1 Debatten)
+2025-09-20 19:54:01,885 - __main__ - INFO - === Verarbeitung erfolgreich abgeschlossen ===
+2025-09-20 19:54:01,909 - database_manager - INFO - Datenbankverbindung geschlossen

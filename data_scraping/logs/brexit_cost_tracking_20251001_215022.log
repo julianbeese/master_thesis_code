@@ -1,0 +1,163 @@
+2025-10-01 21:50:22,330 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-10-01 21:50:22,330 - __main__ - INFO - Max Debatten: 100
+2025-10-01 21:50:22,330 - __main__ - INFO - Quell-Datenbank: database/data/parliament_data.db
+2025-10-01 21:50:22,330 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data_test_new.db
+2025-10-01 21:50:22,330 - __main__ - INFO - Gemini-Modell: gemini-2.0-flash
+2025-10-01 21:50:22,330 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-10-01 21:50:22,330 - __main__ - INFO - max_debates: 100
+2025-10-01 21:50:22,330 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-10-01 21:50:22,330 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-10-01 21:50:22,330 - __main__ - INFO - estimated_total_tokens: 137500
+2025-10-01 21:50:22,330 - __main__ - INFO - estimated_input_cost: 0.0094
+2025-10-01 21:50:22,330 - __main__ - INFO - estimated_output_cost: 0.0037
+2025-10-01 21:50:22,330 - __main__ - INFO - estimated_total_cost: 0.0131
+2025-10-01 21:50:22,330 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-10-01 21:50:22,330 - __main__ - INFO - Initialisiere Komponenten...
+2025-10-01 21:50:22,339 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-2.0-flash' erfolgreich initialisiert
+2025-10-01 21:50:22,339 - __main__ - INFO - ✅ Gemini API verfügbar
+2025-10-01 21:50:22,351 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_sessions (
+            session_id TEXT PRIMARY KEY,
+     ...
+2025-10-01 21:50:22,351 - classifier.brexit_database - INFO - Tabelle 'brexit_sessions' erstellt/überprüft
+2025-10-01 21:50:22,351 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_debates (
+            debate_id INTEGER PRIMARY KEY,
+    ...
+2025-10-01 21:50:22,351 - classifier.brexit_database - INFO - Tabelle 'brexit_debates' erstellt/überprüft
+2025-10-01 21:50:22,352 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_speeches (
+            speech_id TEXT PRIMARY KEY,
+      ...
+2025-10-01 21:50:22,352 - classifier.brexit_database - INFO - Tabelle 'brexit_speeches' erstellt/überprüft
+2025-10-01 21:50:22,352 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_keywords (
+            keyword_id INTEGER PRIMARY KEY,
+  ...
+2025-10-01 21:50:22,352 - classifier.brexit_database - INFO - Tabelle 'brexit_keywords' erstellt/überprüft
+2025-10-01 21:50:22,352 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS classification_log (
+            log_id INTEGER PRIMARY KEY,
+   ...
+2025-10-01 21:50:22,352 - classifier.brexit_database - INFO - Tabelle 'classification_log' erstellt/überprüft
+2025-10-01 21:50:22,352 - classifier.brexit_database - INFO - Brexit-Datenbank initialisiert: database/data/brexit_data_test_new.db
+2025-10-01 21:50:22,352 - __main__ - INFO - Lade Debatten aus der Datenbank...
+2025-10-01 21:50:22,356 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, s.date
+        FROM parliament_debates d
+       ...
+2025-10-01 21:50:22,356 - __main__ - INFO - Gefunden: 8 Debatten
+2025-10-01 21:50:22,356 - __main__ - INFO - Starte Klassifikation...
+2025-10-01 21:50:22,357 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:50:22,357 - __main__ - INFO - Verarbeite Debatte 1/8: Growth Strategy — [Mr Philip Hollobone in the Chai...
+2025-10-01 21:50:22,358 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:50:22,360 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:50:24,036 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:24,036 - classifier.brexit_database - ERROR - Fehler beim Speichern der Klassifikation für Debatte 1: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:24,036 - __main__ - INFO -   ❌ Keine Brexit-Debatte (Confidence: 0.49)
+2025-10-01 21:50:24,037 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:50:24,037 - __main__ - INFO - Verarbeite Debatte 2/8: Economy and Society: Contribution of Music...
+2025-10-01 21:50:24,038 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:50:24,040 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:50:24,989 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:24,989 - classifier.brexit_database - ERROR - Fehler beim Speichern der Klassifikation für Debatte 2: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:24,989 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.56)
+2025-10-01 21:50:24,989 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:50:24,990 - __main__ - INFO - Verarbeite Debatte 3/8: Motorhomes and Vehicle Excise Duty — [Sir David Am...
+2025-10-01 21:50:24,990 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:50:24,991 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:50:25,715 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:25,715 - classifier.brexit_database - ERROR - Fehler beim Speichern der Klassifikation für Debatte 3: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:25,715 - __main__ - INFO -   ❌ Keine Brexit-Debatte (Confidence: 0.07)
+2025-10-01 21:50:25,716 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:50:25,716 - __main__ - INFO - Verarbeite Debatte 4/8: Surrogacy: Government Policy...
+2025-10-01 21:50:25,717 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:50:25,718 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:50:27,213 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:27,213 - classifier.brexit_database - ERROR - Fehler beim Speichern der Klassifikation für Debatte 4: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:27,213 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.56)
+2025-10-01 21:50:27,214 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:50:27,214 - __main__ - INFO - Verarbeite Debatte 5/8: Growth Strategy — [Mr Philip Hollobone in the Chai...
+2025-10-01 21:50:27,214 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:50:27,216 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:50:28,205 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:28,205 - classifier.brexit_database - ERROR - Fehler beim Speichern der Klassifikation für Debatte 5: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:28,206 - __main__ - INFO -   ❌ Keine Brexit-Debatte (Confidence: 0.42)
+2025-10-01 21:50:28,206 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:50:28,206 - __main__ - INFO - Verarbeite Debatte 6/8: Economy and Society: Contribution of Music...
+2025-10-01 21:50:28,207 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:50:28,208 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:50:29,373 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:29,373 - classifier.brexit_database - ERROR - Fehler beim Speichern der Klassifikation für Debatte 6: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:29,373 - __main__ - INFO -   ❌ Keine Brexit-Debatte (Confidence: 0.49)
+2025-10-01 21:50:29,374 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:50:29,374 - __main__ - INFO - Verarbeite Debatte 7/8: Motorhomes and Vehicle Excise Duty — [Sir David Am...
+2025-10-01 21:50:29,375 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:50:29,375 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:50:30,907 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:30,907 - classifier.brexit_database - ERROR - Fehler beim Speichern der Klassifikation für Debatte 7: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:30,907 - __main__ - INFO -   ❌ Keine Brexit-Debatte (Confidence: 0.07)
+2025-10-01 21:50:30,908 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-10-01 21:50:30,908 - __main__ - INFO - Verarbeite Debatte 8/8: Surrogacy: Government Policy...
+2025-10-01 21:50:30,909 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-10-01 21:50:30,910 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 21:50:32,422 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:32,422 - classifier.brexit_database - ERROR - Fehler beim Speichern der Klassifikation für Debatte 8: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-10-01 21:50:32,422 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.56)
+2025-10-01 21:50:32,423 - __main__ - INFO - === KLASSIFIKATION ABGESCHLOSSEN ===
+2025-10-01 21:50:32,423 - __main__ - INFO - Verarbeitete Debatten: 8
+2025-10-01 21:50:32,423 - __main__ - INFO - Brexit-Debatten gefunden: 3
+2025-10-01 21:50:32,423 - __main__ - INFO - Brexit-Anteil: 37.5%
+2025-10-01 21:50:32,423 - __main__ - INFO - Dauer: 10.1 Sekunden
+2025-10-01 21:50:32,423 - __main__ - INFO - Fehler: 0
+2025-10-01 21:50:32,423 - __main__ - INFO - === KOSTEN-ANALYSE ===
+2025-10-01 21:50:32,423 - __main__ - INFO - Gesamtkosten: $0.0004
+2025-10-01 21:50:32,423 - __main__ - INFO - Kosten pro Debatte: $0.000051
+2025-10-01 21:50:32,423 - __main__ - INFO - Geschätzte Kosten für 1000 Debatten: $0.05
+2025-10-01 21:50:32,424 - __main__ - INFO - API-Anfragen: 8
+2025-10-01 21:50:32,424 - __main__ - INFO - Geschwindigkeit: 47.6 Anfragen/Minute
+2025-10-01 21:50:32,424 - __main__ - INFO - === REPORTS ===
+2025-10-01 21:50:32,424 - __main__ - INFO - Kosten-Report: results/cost_report_20251001_215022.csv
+2025-10-01 21:50:32,424 - __main__ - INFO - JSON-Report: results/classification_report_20251001_215022.json
+2025-10-01 21:50:32,427 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-10-01 21:50:32,430 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

@@ -1,0 +1,23 @@
+2025-10-23 22:38:06,468 INFO    MainThread:42496 [wandb_setup.py:_flush():81] Current SDK version is 0.22.2
+2025-10-23 22:38:06,469 INFO    MainThread:42496 [wandb_setup.py:_flush():81] Configure stats pid to 42496
+2025-10-23 22:38:06,469 INFO    MainThread:42496 [wandb_setup.py:_flush():81] Loading settings from /Users/julianbeese/.config/wandb/settings
+2025-10-23 22:38:06,469 INFO    MainThread:42496 [wandb_setup.py:_flush():81] Loading settings from /Users/julianbeese/Developer/master-thesis-ml-training/supervised_finetuning/src/wandb/settings
+2025-10-23 22:38:06,469 INFO    MainThread:42496 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-10-23 22:38:06,469 INFO    MainThread:42496 [wandb_init.py:setup_run_log_directory():705] Logging user logs to /Users/julianbeese/Developer/master-thesis-ml-training/supervised_finetuning/src/wandb/offline-run-20251023_223806-y4n86obh/logs/debug.log
+2025-10-23 22:38:06,469 INFO    MainThread:42496 [wandb_init.py:setup_run_log_directory():706] Logging internal logs to /Users/julianbeese/Developer/master-thesis-ml-training/supervised_finetuning/src/wandb/offline-run-20251023_223806-y4n86obh/logs/debug-internal.log
+2025-10-23 22:38:06,469 INFO    MainThread:42496 [wandb_init.py:init():832] calling init triggers
+2025-10-23 22:38:06,469 INFO    MainThread:42496 [wandb_init.py:init():837] wandb.init called with sweep_config: {}
+config: {'model': {'name': 'mistral-7b-sft', 'base_model': 'mistralai/Mistral-7B-v0.1', 'trust_remote_code': False}, 'data': {'data_dir': '../../data', 'train_csv': 'training_data_export.csv', 'test_csv': 'test_data_export.csv', 'text_column': 'chunk_text', 'label_column': 'frame_name', 'max_length': 512, 'label2id': {'Conflict': 0, 'Moral Value': 1, 'Economic': 2, 'Powerlessness': 3, 'None': 4, 'Human Impact': 5}, 'num_labels': 6}, 'training': {'use_lora': True, 'lora_r': 16, 'lora_alpha': 32, 'lora_dropout': 0.05, 'lora_target_modules': ['q_proj', 'k_proj', 'v_proj', 'o_proj', 'gate_proj', 'up_proj', 'down_proj'], 'num_epochs': 5, 'batch_size': 4, 'gradient_accumulation_steps': 8, 'learning_rate': '5e-5', 'weight_decay': 0.01, 'warmup_steps': 200, 'max_grad_norm': 1.0, 'fp16': False, 'bf16': True, 'optimizer': 'adamw_torch', 'lr_scheduler': 'cosine', 'logging_steps': 10, 'eval_steps': 200, 'save_steps': 400, 'save_total_limit': 3, 'output_dir': './outputs', 'checkpoint_dir': './checkpoints'}, 'hardware': {'gpu': 'RTX_5090', 'num_gpus': 1, 'device_map': 'auto'}, 'evaluation': {'metric': 'f1_macro', 'batch_size': 4}, '_wandb': {}}
+2025-10-23 22:38:06,469 INFO    MainThread:42496 [wandb_init.py:init():880] starting backend
+2025-10-23 22:38:06,701 INFO    MainThread:42496 [wandb_init.py:init():883] sending inform_init request
+2025-10-23 22:38:06,742 INFO    MainThread:42496 [wandb_init.py:init():891] backend started and connected
+2025-10-23 22:38:06,745 INFO    MainThread:42496 [wandb_init.py:init():961] updated telemetry
+2025-10-23 22:38:06,759 INFO    MainThread:42496 [wandb_init.py:init():985] communicating run to backend with 90.0 second timeout
+2025-10-23 22:38:06,863 INFO    MainThread:42496 [wandb_init.py:init():1036] starting run threads in backend
+2025-10-23 22:38:06,900 INFO    MainThread:42496 [wandb_run.py:_console_start():2509] atexit reg
+2025-10-23 22:38:06,900 INFO    MainThread:42496 [wandb_run.py:_redirect():2357] redirect: wrap_raw
+2025-10-23 22:38:06,901 INFO    MainThread:42496 [wandb_run.py:_redirect():2426] Wrapping output streams.
+2025-10-23 22:38:06,901 INFO    MainThread:42496 [wandb_run.py:_redirect():2449] Redirects installed.
+2025-10-23 22:38:06,902 INFO    MainThread:42496 [wandb_init.py:init():1076] run started, returning control to user process
+2025-10-23 22:38:18,106 INFO    wandb-AsyncioManager-main:42496 [service_client.py:_forward_responses():80] Reached EOF.
+2025-10-23 22:38:18,106 INFO    wandb-AsyncioManager-main:42496 [mailbox.py:close():137] Closing mailbox, abandoning 0 handles.

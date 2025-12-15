@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-03-23a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.293.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.293.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.293.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.293.2" newgid="uk.org.publicwhip/westminhall/2021-03-23b.293.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.293.3" newgid="uk.org.publicwhip/westminhall/2021-03-23b.293.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.294.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.297.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.297.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.298.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.298.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.298.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.299.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.299.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.301.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.302.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.302.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.306.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.307.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.307.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.308.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.308.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.308.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.308.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.309.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.309.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.309.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.309.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.309.2" newgid="uk.org.publicwhip/westminhall/2021-03-23b.309.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.309.3" newgid="uk.org.publicwhip/westminhall/2021-03-23b.309.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.310.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.310.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.310.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.310.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.312.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.312.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.313.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.313.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.313.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.313.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.313.2" newgid="uk.org.publicwhip/westminhall/2021-03-23b.313.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.316.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.316.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.317.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.317.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.317.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.317.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.317.2" newgid="uk.org.publicwhip/westminhall/2021-03-23b.317.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.318.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.318.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.318.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.318.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.321.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.321.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.321.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.321.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.321.2" newgid="uk.org.publicwhip/westminhall/2021-03-23b.321.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.321.3" newgid="uk.org.publicwhip/westminhall/2021-03-23b.321.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.323.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.323.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.323.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.323.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.324.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.324.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.324.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.324.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.326.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.326.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.327.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.327.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.329.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.329.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.329.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.329.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.331.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.331.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.332.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.332.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.335.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.335.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.335.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.335.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.335.2" newgid="uk.org.publicwhip/westminhall/2021-03-23b.335.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.336.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.336.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.336.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.336.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.336.2" newgid="uk.org.publicwhip/westminhall/2021-03-23b.336.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.337.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.337.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.338.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.338.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.340.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.340.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.342.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.342.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.342.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.342.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-03-23a.342.1" speakername="Theresa Villiers" type="Start Speech" person_id="uk.org.publicwhip/person/11500" colnum="342" time="16:05:00" url="">
+    <p pid="a342.1/1">I beg to move,</p>
+    <p pid="a342.1/2" class="indent" pwmotiontext="yes">That this House has considered the 550th anniversary of the Battle of Barnet 1471.</p>
+    <p pid="a342.1/3">Before turning to the subject of the debate, I want to acknowledge that this is a very difficult and sad day for our country. My support and sympathy go to everyone who has lost loved ones, suffered illness or had their livelihood damaged by this yearlong health emergency. Let us hope that the vaccination programme means that better days lie ahead.</p>
+    <p pid="a342.1/4">At around 5 am on <phrase class="date" code="2021-04-14">14 April</phrase> 1471, battle was joined between the forces of York and Lancaster just north of the village of Barnet, in one of the most decisive battles of the 30-year conflict that later became known as the wars of the roses. At the head of the Yorkist army was King Edward IV—over six feet tall, handsome, athletic and astute. Edward had assumed the leadership of the Yorkist cause at just 18 years old when his father was killed in a skirmish outside Wakefield. The teenage warrior emerged victorious at Towton in one of the bloodiest battles ever fought on English soil, and he successfully established a new dynasty. Leading for Lancaster was Edward’s former friend and mentor, Richard Neville, Earl of Warwick—a man so powerful in the dynastic struggles of the time that he earned the name kingmaker. Warwick had displaced Edward from his throne the previous year.</p>
+    <p pid="a342.1/5">Three kings were on the field that day, the last of a 300-year line of Plantagenet monarchs: first, Edward IV; secondly, his prisoner, the deposed Henry VI; and thirdly, Edward’s brother, Richard, Duke of Gloucester, who would one day seize power and provoke 500 years of debate on his character and alleged crimes. The stakes could not have been higher for the men peering through the mist at one another that Easter Sunday morning  550 years ago. George R. R. Martin’s character, Cersei Lannister, once said, “If you play the game of thrones and lose, you die.” Well, as the banner created by Barnet Museum aptly put it, the battle of Barnet was part of “the real game of thrones”.</p>
+    <p pid="a342.1/6">Defeat almost certainly meant death for those leading the armies facing off against one another that day back in 1471. The two sides were relatively evenly matched in numbers. Initially, neither seemed to have the upper hand. Because of the thick fog, however, the two sides were not directly aligned in front of one another at the start of the battle, as would normally be the case. Lancastrian forces under the Earl of Oxford stretched further to the east than the Yorkist troops at Edward’s left, led by Lord Hastings. That enabled Oxford’s forces to attack from the side, partly encircling the Yorkist left flank and forcing them back down the road to Barnet.</p>
+    <p pid="a342.1/7">When Oxford and his troops returned to the battle, the two sides had shifted around from a north-south to an east-west axis. Unknowingly, he therefore arrived behind the rest of the Lancastrian army rather than alongside them. Mistaking their allies for the enemy, possibly because the fog made it hard to distinguish Oxford’s star banner from Edward’s sun in splendour, or perhaps because they assumed Oxford had switched sides, as so many did in that conflict, the Lancastrian  archers fired on Oxford’s men. Believing they had been betrayed, they fled the field. By 8 am, Warwick was dead and the victory belonged to York.</p>
+    <p pid="a342.1/8">There are many reasons why it is worth remembering these events as we approach the 550th anniversary of the battle on <phrase class="date" code="2021-04-14">14 April</phrase>; not only because as many as 4,000 might have lost their lives that day, but because this was a significant turning point. It was probably the first battle in Britain to see extensive use of handguns. More importantly, it is worth considering what might have happened if the result had gone the other way. Defeat in Barnet and the consequent early demise of the house of York could have seen progress stopped or reversed on Edward IV’s efforts to build a modern state and curb the power of magnates. Although the reforms are generally credited to the Tudors, the transition began under Edward of York. If the difference between the middle ages and the modern era is reining in the power of the nobility and banning their private armies, there could be few more important turning points for achieving that than defeating Warwick—the most overmighty subject of them all—on the battlefield.</p>
+    <p pid="a342.1/9">However, I am pleased to say that the most important reason to mark the anniversary is to promote my constituency of Chipping Barnet and encourage people to visit our local town centre. This is the only registered battlefield that people can get to by tube; the only one within the Greater London area. Between 2015 and 2017, Glenn Foard and Sam Wilson ran a project for the University of Huddersfield to try to identify the exact location of the battle. Dr Foard found the real site of Bosworth and the burial place of the King under the car park. His theory is that the battle may have taken place slightly further north, towards the Wrotham Park estate, rather than in the Hadley Green, Old Fold and Hadley Highstone area, which is the registered site.</p>
+    <p pid="a342.1/10">The Huddersfield University work was made possible by the Hadley Trust, a local charity, for which I am very grateful. It included metal detecting, test pitting, geophysical surveys and landscape archaeology. Many local volunteers got involved and gave a hand. The results of the project were inconclusive, but I have to acknowledge that there is some anxiety that the eventual outcome might be that London loses its only registered battlefield. However, even if the main centre of the fighting turns out to have been not in my constituency but in that of the Secretary of State for Digital, Culture, Media and Sport, my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25323" name="Oliver Dowden">the Member for Hertsmere (Oliver Dowden)</phrase>, further up the road to Potters Bar, contemporary accounts confirm that fighting extended back towards Barnet, so my constituency is likely to remain the site of at least part of the battlefield, even if these latest theories on location ultimately prove to be correct.</p>
+    <p pid="a342.1/11">Once life returns to normal, I warmly encourage people to walk around what is traditionally recognised as the battle site. I am less sure of the extent of public access to the Wrotham Park alternative. Hopefully, in doing so, visitors will take the time to stop off at some of Barnet’s excellent hospitality businesses, as indeed some of the victorious Yorkist troops apparently did after the battle. I very much hope that Barnet’s pubs, restaurants and cafés will soon be allowed to open once again, as planned in the road map. Even before covid, our local town centres across the country had had a  tough time, as competition from online retail giants intensified. But high streets, as all of us in the House know, are a crucial part of our communities and we must find ways to ensure that they survive. That is one reason why I have campaigned for many years for a reduction in and reform of business rates. I welcome the continuation of the business rates holiday confirmed in the Budget.</p>
+    <p pid="a342.1/12">Heritage-related tourism can also play an important part in helping our high streets thrive. I am delighted that the Heritage Lottery Fund gave a grant of £98,600 to the Battle of Barnet project in 2015. This was run by the Barnet Museum, the Barnet Society and the Battlefields Trust. The Chipping Barnet Town Team was also very supportive and got involved. I thank all those groups for their excellent work. The project included a range of activities that have generated local interest in history and heritage.</p>
+    <p pid="a342.1/13" class="indent">There was extensive engagement with local schools. For example, Barnet Museum created a loan box full of medieval replicas, maps, pictures and a teacher’s pack telling the story of the battle and suggesting activities and events to inspire an interest in our town’s medieval past. Museum volunteers also painted copies of the family banners of the people who fought at Barnet. Following the lead set by Tewkesbury, the site of the battle to which Edward IV hastened after winning at Barnet, these banners were hung on lamp posts in Barnet High Street and are due to be back up soon to mark the anniversary. Such efforts can make a real difference to bringing people to their local town centre and I thank all the volunteers at the Barnet Museum and local history society for creating them. Thanks must also go to Bouygues, which owns the street lights and put up the banners.</p>
+    <p pid="a342.1/14">However, the biggest and best event hosted by the Battle of Barnet project was the 2018 Barnet medieval festival. Around 6,500 attended the festival during the two days it ran, and over 100 took part in re-enactments of the second battle of St Albans and, of course, the battle of Barnet. There were tents and stalls that enabled people to understand more about how ordinary people lived in medieval England. The festival’s activities for children were especially popular, although I have to say that BBC London’s TV coverage did feature some rather alarmingly bloodthirsty comments from some of the younger participants in the mock battles that day. I was excited to be allowed to fire off a replica cannon as part of the opening ceremony—it was very, very loud. It was one of the best days out I have ever had in my constituency, and it was a brilliant way to bring people together.</p>
+    <p pid="a342.1/15">Sadly, last year’s festival was cancelled because of covid, but I hope that this year’s will go ahead on 11 and <phrase class="date" code="2021-09-12">12 September</phrase>. I strongly urge anyone who wants to make it happen to donate to the festival’s Spacehive appeal, at <a href="http://www.spacehive.com/battle-barnet-550">www.spacehive.com/battle-barnet-550</a>. If the Department for Digital, Culture, Media and Sport has any spare resources, it is a great cause to support. I make the same appeal to the National Lottery Heritage Fund. Its grant for the 2018 event was a massive success, and I am sure that it would be replicated if further funding were forthcoming for this year’s festival.</p>
+    <p pid="a342.1/16">I will also take this opportunity to reiterate my call for Government support for pandemic insurance for festivals and events, which I gather was discussed here this morning. Many of those trying to put on events and festivals are finding it difficult or impossible to get insured. We risk a further summer of cancellations if  the problem is not solved, so I urge the Minister—as I have done many times already—to offer the same kind of support to festivals and events as her Department has already given to the TV sector. For the sake of economic recovery, to signal that the UK is open for business again this summer, and to enable families to have some fun and memorable days out after the toughest 12 months any of us can remember, will the Government please say yes to a pandemic insurance scheme?</p>
+    <p pid="a342.1/17">In conclusion, I will return to the battle itself. As well as its historic importance, the 550th anniversary of the battle is an opportunity to reflect on its cultural significance. I have already referred to the influence of the wars of the roses on “Game of Thrones”, in which the struggle between Stark and Lannister bears a number of striking similarities to the 15th century contest between York and Lancaster. Philippa Gregory has also brought the story of the brief tenure of the charismatic Yorkist dynasty vividly to life in her remarkable historical novels, which have enjoyed such massive success. One of my personal favourites is “The White Queen”, which tells the story of Elizabeth Woodville, who waited anxiously back in London just a few miles away for news of whether her husband had triumphed or perished in Barnet.</p>
+    <p pid="a342.1/18">It is Shakespeare, of course, who gives the battle of Barnet its most enduring place in our literature and culture, so I will close my remarks today with words that our nation’s greatest poet placed in the mouth of a man dying in a field near Barnet 550 years ago; one who is memorialised in Hadley Highstone in my constituency and is forever known to history as the kingmaker:</p>
+    <p pid="a342.1/19" class="indent" pwmotiontext="yes">“These eyes, that now are dimmed with death’s black veil,</p>
+    <p pid="a342.1/20" class="indent" pwmotiontext="yes">Have been as piercing as the midday sun,</p>
+    <p pid="a342.1/21" class="indent" pwmotiontext="yes">To search the secret treasons of the world:</p>
+    <p pid="a342.1/22" class="indent" pwmotiontext="yes">The wrinkles in my brows, now fill’d with blood,</p>
+    <p pid="a342.1/23" class="indent" pwmotiontext="yes">Were likened oft to kingly sepulchres;</p>
+    <p pid="a342.1/24" class="indent" pwmotiontext="yes">For who liv’d king, but I could dig his grave?</p>
+    <p pid="a342.1/25" class="indent" pwmotiontext="yes">And who durst smile when Warwick bent his brow?</p>
+    <p pid="a342.1/26" class="indent" pwmotiontext="yes">Lo! Now my glory smear’d in dust and blood;</p>
+    <p pid="a342.1/27" class="indent" pwmotiontext="yes">My parks, my walks, my manors that I had,</p>
+    <p pid="a342.1/28" class="indent" pwmotiontext="yes">Even now forsake me; and, of all my lands</p>
+    <p pid="a342.1/29" class="indent" pwmotiontext="yes">Is nothing left me but my body’s length.</p>
+    <p pid="a342.1/30" class="indent" pwmotiontext="yes">Why, what is pomp, rule, reign, but earth and dust?</p>
+    <p pid="a342.1/31" class="indent" pwmotiontext="yes">And, live we how we can, yet die we must.”</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.345.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.345.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.348.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.348.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.348.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.348.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.348.2" newgid="uk.org.publicwhip/westminhall/2021-03-23b.348.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.351.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.351.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.351.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.351.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.352.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.352.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.353.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.353.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.354.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.354.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.355.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.355.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.356.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.356.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.357.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.357.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.358.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.358.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.358.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.358.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.360.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.360.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.362.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.362.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.362.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.362.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.363.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.363.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.363.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.363.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.363.2" newgid="uk.org.publicwhip/westminhall/2021-03-23b.363.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.363.3" newgid="uk.org.publicwhip/westminhall/2021-03-23b.363.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.364.0" newgid="uk.org.publicwhip/westminhall/2021-03-23b.364.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-23a.364.1" newgid="uk.org.publicwhip/westminhall/2021-03-23b.364.1" matchtype="perfectmatch"/>
+</publicwhip>
+

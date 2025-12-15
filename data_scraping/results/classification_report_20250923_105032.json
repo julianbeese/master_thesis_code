@@ -1,0 +1,31 @@
+{
+  "execution_summary": {
+    "total_debates_processed": 5,
+    "brexit_debates_found": 5,
+    "brexit_percentage": 100.0,
+    "duration_seconds": 6.19,
+    "errors": 0
+  },
+  "cost_analysis": {
+    "total_requests": 5,
+    "total_input_tokens": 2430,
+    "total_output_tokens": 569,
+    "total_characters": 12010,
+    "total_cost_usd": 0.0004,
+    "duration_seconds": 6.2,
+    "requests_per_minute": 48.4,
+    "avg_cost_per_request": 7.1e-05,
+    "estimated_cost_for_1000_debates": 0.07
+  },
+  "cost_estimate": {
+    "max_debates": 5,
+    "avg_debate_length_chars": 5000,
+    "estimated_tokens_per_debate": 1250,
+    "estimated_total_tokens": 6875,
+    "estimated_input_cost": 0.0005,
+    "estimated_output_cost": 0.0002,
+    "estimated_total_cost": 0.0007,
+    "estimated_cost_per_debate": 0.000131
+  },
+  "errors": []
+}

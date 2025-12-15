@@ -1,0 +1,91 @@
+2025-09-28 21:37:55,655 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-09-28 21:37:55,655 - __main__ - INFO - Max Debatten: 2
+2025-09-28 21:37:55,655 - __main__ - INFO - Quell-Datenbank: database/data/parliament_data.db
+2025-09-28 21:37:55,655 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data_test.db
+2025-09-28 21:37:55,655 - __main__ - INFO - Gemini-Modell: gemini-2.0-flash
+2025-09-28 21:37:55,655 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-09-28 21:37:55,655 - __main__ - INFO - max_debates: 2
+2025-09-28 21:37:55,655 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-09-28 21:37:55,655 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-09-28 21:37:55,655 - __main__ - INFO - estimated_total_tokens: 2750
+2025-09-28 21:37:55,655 - __main__ - INFO - estimated_input_cost: 0.0002
+2025-09-28 21:37:55,655 - __main__ - INFO - estimated_output_cost: 0.0001
+2025-09-28 21:37:55,655 - __main__ - INFO - estimated_total_cost: 0.0003
+2025-09-28 21:37:55,655 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-09-28 21:37:55,655 - __main__ - INFO - Initialisiere Komponenten...
+2025-09-28 21:37:55,662 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-2.0-flash' erfolgreich initialisiert
+2025-09-28 21:37:55,662 - __main__ - INFO - ✅ Gemini API verfügbar
+2025-09-28 21:37:55,668 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_sessions (
+            session_id TEXT PRIMARY KEY,
+     ...
+2025-09-28 21:37:55,668 - classifier.brexit_database - INFO - Tabelle 'brexit_sessions' erstellt/überprüft
+2025-09-28 21:37:55,668 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_debates (
+            debate_id INTEGER PRIMARY KEY,
+    ...
+2025-09-28 21:37:55,669 - classifier.brexit_database - INFO - Tabelle 'brexit_debates' erstellt/überprüft
+2025-09-28 21:37:55,669 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_speeches (
+            speech_id TEXT PRIMARY KEY,
+      ...
+2025-09-28 21:37:55,669 - classifier.brexit_database - INFO - Tabelle 'brexit_speeches' erstellt/überprüft
+2025-09-28 21:37:55,669 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_keywords (
+            keyword_id INTEGER PRIMARY KEY,
+  ...
+2025-09-28 21:37:55,669 - classifier.brexit_database - INFO - Tabelle 'brexit_keywords' erstellt/überprüft
+2025-09-28 21:37:55,669 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS classification_log (
+            log_id INTEGER PRIMARY KEY,
+   ...
+2025-09-28 21:37:55,669 - classifier.brexit_database - INFO - Tabelle 'classification_log' erstellt/überprüft
+2025-09-28 21:37:55,669 - classifier.brexit_database - INFO - Brexit-Datenbank initialisiert: database/data/brexit_data_test.db
+2025-09-28 21:37:55,669 - __main__ - INFO - Lade Debatten aus der Datenbank...
+2025-09-28 21:37:55,670 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, s.date
+        FROM parliament_debates d
+       ...
+2025-09-28 21:37:55,670 - __main__ - INFO - Gefunden: 2 Debatten
+2025-09-28 21:37:55,670 - __main__ - INFO - Starte Klassifikation...
+2025-09-28 21:37:55,671 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-09-28 21:37:55,671 - __main__ - INFO - Verarbeite Debatte 1/2: Growth Strategy — [Mr Philip Hollobone in the Chai...
+2025-09-28 21:37:55,671 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-09-28 21:37:55,673 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-09-28 21:37:56,810 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-09-28 21:37:56,810 - classifier.brexit_database - ERROR - Fehler beim Speichern der Klassifikation für Debatte 1: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-09-28 21:37:56,810 - __main__ - INFO -   ❌ Keine Brexit-Debatte (Confidence: 0.49)
+2025-09-28 21:37:56,810 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-09-28 21:37:56,810 - __main__ - INFO - Verarbeite Debatte 2/2: Economy and Society: Contribution of Music...
+2025-09-28 21:37:56,811 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-09-28 21:37:56,812 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-09-28 21:37:57,783 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-09-28 21:37:57,783 - classifier.brexit_database - ERROR - Fehler beim Speichern der Klassifikation für Debatte 2: Constraint Error: Violates foreign key constraint because key "session_id: unknown" does not exist in the referenced table
+2025-09-28 21:37:57,783 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.63)
+2025-09-28 21:37:57,784 - __main__ - INFO - === KLASSIFIKATION ABGESCHLOSSEN ===
+2025-09-28 21:37:57,784 - __main__ - INFO - Verarbeitete Debatten: 2
+2025-09-28 21:37:57,784 - __main__ - INFO - Brexit-Debatten gefunden: 1
+2025-09-28 21:37:57,784 - __main__ - INFO - Brexit-Anteil: 50.0%
+2025-09-28 21:37:57,784 - __main__ - INFO - Dauer: 2.1 Sekunden
+2025-09-28 21:37:57,784 - __main__ - INFO - Fehler: 0
+2025-09-28 21:37:57,784 - __main__ - INFO - === KOSTEN-ANALYSE ===
+2025-09-28 21:37:57,785 - __main__ - INFO - Gesamtkosten: $0.0001
+2025-09-28 21:37:57,785 - __main__ - INFO - Kosten pro Debatte: $0.000048
+2025-09-28 21:37:57,785 - __main__ - INFO - Geschätzte Kosten für 1000 Debatten: $0.05
+2025-09-28 21:37:57,785 - __main__ - INFO - API-Anfragen: 2
+2025-09-28 21:37:57,785 - __main__ - INFO - Geschwindigkeit: 56.6 Anfragen/Minute
+2025-09-28 21:37:57,785 - __main__ - INFO - === REPORTS ===
+2025-09-28 21:37:57,785 - __main__ - INFO - Kosten-Report: results/cost_report_20250928_213755.csv
+2025-09-28 21:37:57,785 - __main__ - INFO - JSON-Report: results/classification_report_20250928_213755.json
+2025-09-28 21:37:57,788 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-28 21:37:57,791 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

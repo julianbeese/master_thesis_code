@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-10-15a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.213.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.213.1" newgid="uk.org.publicwhip/westminhall/2020-10-15b.213.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.213.2" newgid="uk.org.publicwhip/westminhall/2020-10-15b.213.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.216.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.216.1" newgid="uk.org.publicwhip/westminhall/2020-10-15b.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.216.2" newgid="uk.org.publicwhip/westminhall/2020-10-15b.216.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.218.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.218.1" newgid="uk.org.publicwhip/westminhall/2020-10-15b.218.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.220.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.220.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.221.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.222.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.222.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.222.1" newgid="uk.org.publicwhip/westminhall/2020-10-15b.222.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.222.2" newgid="uk.org.publicwhip/westminhall/2020-10-15b.222.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.223.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.223.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.224.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.225.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.226.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.226.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.228.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.229.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.229.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.230.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.231.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.231.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.234.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.234.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-10-15a.234.0" speakername="Justin Tomlinson" type="Start Speech" person_id="uk.org.publicwhip/person/24870" colnum="234" time="14:48:00" url="">
+    <p pid="a234.0/1">It is a pleasure to serve under your chairmanship once again in Westminster Hall, Mr McCabe. I pay tribute to <phrase class="honfriend" person_id="uk.org.publicwhip/person/25276" name="Lisa Cameron">the hon. Member for East Kilbride, Strathaven and Lesmahagow (Dr Cameron)</phrase>, who has a long-standing reputation as a proactive, constructive chair of the all-party parliamentary group for disability. I have had the pleasure of attending many meetings, including one this week virtually, as we embrace new technology. She is held in high regard across Government and that was reflected in the nature of this debate. It has been good-natured, conducted with good spirit, and has highlighted the important concerns that we collectively have to address as we navigate the unprecedented challenges of covid.</p>
+    <p pid="a234.0/2">I also pay tribute to the former Minister, my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11389" name="Maria Miller">the Member for Basingstoke (Mrs Miller)</phrase> pan-disability, have benefited hugely from.</p>
+    <p pid="a234.0/3">I will try to respond to as many points as I can, in particular where MPs have raised specific points, but first, a sense check: I am the Minister for Disabled People, but the Department for Education leads on special educational needs, for example, and the Department of Health and Social Care leads on care easements.  However, I have attended a Women and Equalities Committee hearing that covered those things, so I have a reasonable understanding of them. As the Minister for Disabled People, Health and Work, I have two primary roles. I am responsible for all things related to disability in the Department for Work and Pensions—predominantly the provision of disability benefits—but I am also responsible for our Disability Unit, which was launched last year and which is based in the Cabinet Office.</p>
+    <p pid="a234.0/4">The unit is the eyes and ears of disability issues across Government, making sure that disability issues are embedded in policy development. It is personally supported by the Prime Minister, which makes my job much, much easier. Disability issues are brought up at Cabinet and in interministerial groups, where I get to instruct other Ministers about their importance. We are an asset across Government, because we spend—I in particular spend—a huge amount of time on stakeholder engagement. In the past seven days, just as part of my ongoing work, I have met representatives of all the national charities that have been mentioned in the speeches today. I enjoy talking to people with real lived experience, and we then flag up that experience with the relevant Department if it is not DWP, and it makes a tangible difference.</p>
+    <p pid="a234.0/5">Many people today have talked about the challenges of accessing food during covid. Actually, the Royal National Institute of Blind People was one of the many charities that we were able to link up with the Department for Environment, Food and Rural Affairs, which allowed its representatives to bring their real lived experience to bear, and that sped up the process of improving the situation. The DEFRA Minister was then able to share that exchange as best practice with other Ministers and tell them to look at Disability Unit as a helpful resource, because we can signpost people to experts, who speed up policy development and make sure that it is right first time.</p>
+    <p pid="a234.0/6">Looking at the broader points that were raised, one was accessible communications, and it is absolutely vital. Again, through interministerial groups and with the support of the Prime Minister, we have been reminding cross-Government Departments and public sector organisations outside Government that they have a duty under the Equality Act to ensure that communications are accessible. Using the RNIB again as an example, it has proactively helped us to look at communications and put them into Easyread and braille. In my own Department, we have launched our deaf-signed YouTube channel, which explains benefits through British Sign Language. There is a lot more best practice that we have to share, but again, through the Disability Unit, we are keeping a very close eye on what the Government and other connected organisations are doing.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.235.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.235.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.235.1" newgid="uk.org.publicwhip/westminhall/2020-10-15b.235.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.238.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.239.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.239.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.239.1" newgid="uk.org.publicwhip/westminhall/2020-10-15b.239.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.239.2" newgid="uk.org.publicwhip/westminhall/2020-10-15b.239.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.241.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.243.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.243.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.245.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.248.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.251.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.252.0" newgid="uk.org.publicwhip/westminhall/2020-10-15b.252.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.252.1" newgid="uk.org.publicwhip/westminhall/2020-10-15b.252.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-10-15a.252.2" newgid="uk.org.publicwhip/westminhall/2020-10-15b.252.2" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2017-12-13a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.137.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.137.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.137.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.137.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.139.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.139.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.139.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.140.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.140.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.141.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.141.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.141.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.142.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.142.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.142.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.143.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.143.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.145.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.145.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.145.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.145.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.145.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.147.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.147.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.147.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.147.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.148.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.148.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.148.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.151.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.154.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.154.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.154.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.154.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.154.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.156.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.156.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.156.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.157.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.157.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.157.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.157.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.158.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.158.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.159.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.162.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.162.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.163.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.163.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.163.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.163.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.163.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.164.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.164.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.164.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.164.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.164.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.164.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.164.3" newgid="uk.org.publicwhip/westminhall/2017-12-13b.164.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.165.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.165.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.165.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.165.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.165.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.165.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.166.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.166.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.166.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.166.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.166.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.166.3" newgid="uk.org.publicwhip/westminhall/2017-12-13b.166.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.167.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.167.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.167.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.167.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.167.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.168.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.168.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.168.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.168.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.168.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.168.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.168.3" newgid="uk.org.publicwhip/westminhall/2017-12-13b.168.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.170.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.170.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.170.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.170.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.170.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.171.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.172.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.172.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.172.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.172.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.172.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.173.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.173.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.173.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.173.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.173.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.173.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.174.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.175.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.175.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.175.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.175.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.175.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.175.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.176.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.176.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.176.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.176.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.177.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.177.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.177.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.177.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.177.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.177.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.178.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.178.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.178.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.178.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.178.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.178.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.178.3" newgid="uk.org.publicwhip/westminhall/2017-12-13b.178.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.179.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.179.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.179.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.179.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.180.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.181.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.183.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.183.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.183.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.183.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.183.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.183.3" newgid="uk.org.publicwhip/westminhall/2017-12-13b.183.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.185.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.186.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.186.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.186.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.188.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.188.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.188.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.188.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.189.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.189.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.189.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-12-13a.189.1" speakername="Gerard Killen" person_id="uk.org.publicwhip/person/25612" colnum="189" time="16:00:00" url="">
+    <p pid="a189.1/1">I beg to move,</p>
+    <p pid="a189.1/2" class="indent" pwmotiontext="yes">That this House has considered the matter of male suicide.</p>
+    <p pid="a189.1/3">This is my first Westminster Hall debate and it is a pleasure to serve under you as Chair, Ms Ryan. I hope that this is the first of many opportunities to do so.</p>
+    <p pid="a189.1/4">We are gathered in this Chamber to debate the single biggest killer of men aged 40 to 49, a bigger killer than cancer, heart disease or road accidents: I am talking about suicide. Suicide is of course a highly complex issue. It is not only men who are at risk of suicide, but women, lesbian, gay, bisexual and transgender people, people who have suffered family breakdown, black and ethnic minority people who live in deprived areas, and others who have suffered loss or structural disadvantage. They are all at increased risk. The focus of today’s debate is on men, but that should not come at the expense of the consideration of risk of suicide in other groups.</p>
+    <p pid="a189.1/5">Since 1981 the Office for National Statistics has collected the figures for suicide in the UK. In almost every year from 1981 to 2016, men have been at least three times more likely to kill themselves than women. That is not a problem that has gone away over time and it is evident from the figures that both historically and contemporarily suicide is a problem that disproportionately affects men.</p>
+    <p pid="a189.1/6">For me, and I am sure many other men in this place, suicide is not only an issue of public health but something personal. From 2012 to 2016, 198 people have taken their own lives in South Lanarkshire, of whom 147, or 74%, were men. People I care about have been directly affected by male suicide in recent times. The wider community of each death by suicide is substantial. The Local Government Association estimates that, for every person who dies, between six and 60 people are directly affected.</p>
+    <p pid="a189.1/7">Suicide among men is complex. It is not helpful to speculate why an individual might have taken their own life. However, there has been research into factors that increase the risk of suicide in men. Research by the Samaritans and data from the ONS highlight some of those factors: loneliness from family breakdown or the death of a spouse; the decline of traditionally male-dominated industries; inequality; and social expectations about masculinity.</p>
+    <p pid="a189.1/8">Today I will focus on how views of masculinity can increase the risk of suicide in men and on the idea that suicide among men is not just a health issue but one that is often linked with social deprivation and inequality. Many in this House and wider society have made great strides to challenge how we conceive masculinity, but for many men the key tenets of masculinity remain important to their identities and conceptions of how they believe they are meant to behave. It is not just the men themselves—society at large can be guilty of holding men to those unrealistic standards.</p>
+    <p pid="a189.1/9">Having grown up in the west of Scotland, I know that that masculine ideal requires that men should never be depressed, anxious or unable to cope and, if they are, they should never admit it—they should be strong.  That can often mean that when men are most in pain, they are also at their most determined to hide that pain and to shrink away from help due to a fear that their vulnerabilities will be exposed. That can lead men to respond to distress with denial, to angst with avoidance and to insecurity with isolation.</p>
+    <p pid="a189.1/10">Rather than seeking out the help and support they need—often the help and support that may save their life—many men will suffer in silence. That presents a problem. Across the UK health services are being retooled to provide parity of esteem between mental and physical health, but the problem for suicide among men is often not treatment but identification. We could have the best mental health service in the world, but until we start better identifying those who need to access it, we are unlikely to see an improvement.</p>
+    <p pid="a189.1/11">At present, 70% of people who take their own lives are not under the care of a specialist mental health service. Changing the culture, in particular among men, is central to reducing suicide.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.190.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.190.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.190.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.190.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.190.3" newgid="uk.org.publicwhip/westminhall/2017-12-13b.190.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.191.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.191.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.191.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.191.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.191.3" newgid="uk.org.publicwhip/westminhall/2017-12-13b.191.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.191.4" newgid="uk.org.publicwhip/westminhall/2017-12-13b.191.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.192.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.192.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.192.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.192.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.192.3" newgid="uk.org.publicwhip/westminhall/2017-12-13b.192.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.192.4" newgid="uk.org.publicwhip/westminhall/2017-12-13b.192.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.193.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.193.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-12-13a.193.0" speakername="Jackie Doyle-Price" person_id="uk.org.publicwhip/person/24957" colnum="193" time="16:15:00" url="">
+    <p pid="a193.0/1">It is a pleasure to serve under your chairmanship, Ms Ryan. I thank <phrase class="honfriend" person_id="unknown" name="None">the hon. Member for Rutherglen and Hamilton West (Ged Killen)</phrase> for the powerful and moving way in which he addressed this important subject. He said that this is his first Westminster Hall debate; I am sure that it will be the first of many. I encourage him to continue to look at this subject, because it is clear from the passion with which he articulated his argument that he cares deeply about it. I will always welcome hearing any representations from him.</p>
+    <p pid="a193.0/2">The hon. Gentleman rightly pointed out that suicide is the biggest killer of men between the ages of 25 and 49. Any death by suicide is an avoidable death. We should always be vigilant and do what we can to tackle suicide and self-harm. There is a gender difference because suicide affects men more and women tend to self-harm more, but the motivation is the same. We should look at the same tools in order to curb them.</p>
+    <p pid="a193.0/3">Every death by suicide is a tragedy. As the Minister responsible for mental health, I hear from families bereaved by suicide about the devastating impact that it has on them and on the wider community. All of us in this House will have been touched by suicide in one way or another, whether directly and personally or through the experience of constituents. It feels like society has failed those people. That is why I am determined to drive forward the action we are taking at a national level and in local communities to reduce suicides. Generally, paying greater attention to mental health will make a great deal of difference, particularly on the issues that the hon. Gentleman raised: encouraging people to be willing to talk and encouraging everyone around them to know when somebody might need help.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.193.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.193.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-12-13a.193.1" speakername="Danielle Rowley" person_id="uk.org.publicwhip/person/25684" colnum="193" time="16:15:00" url="">
+    <p pid="a193.1/1">As my hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Rutherglen and Hamilton West (Ged Killen)</phrase> said, the majority of people who have committed suicide never reached professional help or went to a health professional. Does the Minister agree that preventive training needs to be rolled out to people such as landlords, firemen and taxi drivers with whom people with suicidal feelings might have contact, even if they do not reach out?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.193.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.193.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.194.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.194.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.194.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.195.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.195.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-12-13a.195.0" speakername="Hugh Gaffney" person_id="uk.org.publicwhip/person/25660" colnum="195" time="16:15:00" url="">
+    <p pid="a195.0/1">I thank my hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Rutherglen and Hamilton West (Ged Killen)</phrase> for bringing this debate forward. As a trade union rep in the Royal Mail, which is male-dominated, I spoke to many men over the decades who had got to the final point, and said, “Think about it.” That did not stop one of my members taking his own life just last year. He was the life and soul of the party, as these people usually are. They really hide it. Christmas is going to be a long old time for a lot of those young men, as more and more partners are splitting up due to the pressures of life and everything else. It would be good if the Government, and all of us, sent out a Christmas message this year: “Take care and stay strong.”</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.195.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.196.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.196.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.196.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.196.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.196.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.197.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.197.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.197.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.198.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.198.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.198.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.198.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.198.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.198.3" newgid="uk.org.publicwhip/westminhall/2017-12-13b.198.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.199.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.199.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.200.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.200.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.200.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.200.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.203.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.205.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.206.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.206.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.206.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.207.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.207.1" newgid="uk.org.publicwhip/westminhall/2017-12-13b.207.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.207.2" newgid="uk.org.publicwhip/westminhall/2017-12-13b.207.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.207.3" newgid="uk.org.publicwhip/westminhall/2017-12-13b.207.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.209.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-12-13a.211.0" newgid="uk.org.publicwhip/westminhall/2017-12-13b.211.0" matchtype="perfectmatch"/>
+</publicwhip>
+

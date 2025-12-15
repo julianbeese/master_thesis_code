@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.223.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.223.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.223.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.223.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.223.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.223.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.224.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.224.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.224.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.224.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.224.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.224.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.224.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.224.4" newgid="uk.org.publicwhip/westminhall/2012-11-07b.224.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.225.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.227.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.227.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.227.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.228.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.228.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.228.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.230.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.230.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.230.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.231.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.231.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.231.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.231.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.232.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.236.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.236.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.236.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.236.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.236.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.236.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.236.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.236.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.236.4" newgid="uk.org.publicwhip/westminhall/2012-11-07b.236.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.237.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.237.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.237.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.237.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.237.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.237.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.237.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.237.4" newgid="uk.org.publicwhip/westminhall/2012-11-07b.237.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.238.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.238.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.238.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.238.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.238.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.238.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.238.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.238.4" newgid="uk.org.publicwhip/westminhall/2012-11-07b.238.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.238.5" newgid="uk.org.publicwhip/westminhall/2012-11-07b.238.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.238.6" newgid="uk.org.publicwhip/westminhall/2012-11-07b.238.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.238.7" newgid="uk.org.publicwhip/westminhall/2012-11-07b.238.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.239.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.239.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.239.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.239.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.239.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.239.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.239.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.239.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.239.4" newgid="uk.org.publicwhip/westminhall/2012-11-07b.239.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.239.5" newgid="uk.org.publicwhip/westminhall/2012-11-07b.239.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.240.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.240.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.240.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.240.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.240.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.240.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.240.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.240.4" newgid="uk.org.publicwhip/westminhall/2012-11-07b.240.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.240.5" newgid="uk.org.publicwhip/westminhall/2012-11-07b.240.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.241.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.241.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.241.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.241.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.241.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.242.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.242.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.242.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.242.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.242.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.242.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.242.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.242.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.242.4" newgid="uk.org.publicwhip/westminhall/2012-11-07b.242.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.242.5" newgid="uk.org.publicwhip/westminhall/2012-11-07b.242.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.244.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.244.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.244.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.244.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.245.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.245.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.245.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.245.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.245.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.245.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.245.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.245.4" newgid="uk.org.publicwhip/westminhall/2012-11-07b.245.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.246.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.246.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.246.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.246.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.246.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.246.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.246.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.246.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.247.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.247.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.247.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.247.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.247.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.247.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.247.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.247.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.247.4" newgid="uk.org.publicwhip/westminhall/2012-11-07b.247.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.248.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.248.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.248.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.248.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.248.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.248.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.248.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.249.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.249.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.249.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.249.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.249.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.249.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.249.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.249.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.249.4" newgid="uk.org.publicwhip/westminhall/2012-11-07b.249.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.250.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.250.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.250.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.250.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.251.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.251.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.251.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.251.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.251.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.251.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.251.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.252.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.252.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.252.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.252.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.252.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.252.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.252.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.252.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.254.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.254.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.254.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.254.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.254.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.254.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.255.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.255.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.255.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.255.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.255.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.255.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.255.3" newgid="uk.org.publicwhip/westminhall/2012-11-07b.255.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.256.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.256.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.256.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.256.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.257.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.257.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.257.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.257.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.258.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.258.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.260.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.260.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.260.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.260.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.260.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.260.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.261.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.261.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.261.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.261.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.264.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.264.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.266.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.268.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.268.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.270.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.274.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.274.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.274.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.275.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.275.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.276.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.276.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.276.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.276.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.276.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.276.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.278.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.278.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.278.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.278.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.278.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.279.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.279.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.279.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.279.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.279.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.279.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2012-11-07a.279.2" speakerid="uk.org.publicwhip/member/40103" speakername="Mark Simmonds" speakeroffice="The Parliamentary Under-Secretary of State for Foreign and Commonwealth Affairs"  colnum="279"  time="016:35:00" url="http://www.publications.parliament.uk/pa/cm201213/cmhansrd/cm121107/halltext/121107h0002.htm#12110769000177">
+	<p pid="a.279.2/1">I begin by congratulating my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40495" name="Karen Lumley">the Member for Redditch (Karen Lumley)</phrase> on securing this important debate and on her passionate introduction of the subject. She is quite right to highlight the progress that has been made&#8212;admittedly from a pretty low base&#8212;and I thank her for her tireless determination and work to stimulate and support democracy in the Maldives.</p>
+	<p pid="a.279.2/2">I hope that the House will understand that the Under-Secretary of State for Foreign and Commonwealth Affairs, my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40435" name="Alistair Burt">the Member for North East Bedfordshire (Alistair Burt)</phrase>, who has specific ministerial responsibility for the Maldives, has already apologised to my hon. Friend the Member for Redditch for not being here today. He would very much have liked to have been here to engage with this debate, but his other responsibilities mean that he has to be elsewhere.</p>
+	<p pid="a.279.2/3">I am grateful to my hon. Friends the Members for Salisbury (John Glen) and for Congleton (Fiona Bruce) for the points they made, which I will try to address during the course of my remarks.</p>
+	<p pid="a.279.2/4">It is absolutely right to point out the key link between the Maldives and the UK. Not only is the Maldives a long-standing friend and international partner of the UK, but our bilateral relationship has grown considerably during the past few years, particularly since the first multi-party presidential elections in 2008 and the subsequent parliamentary elections in 2009. Those were very positive developments in the process and commitment towards democratic reform in the Maldives. The British Government rightly welcome and encourage that progress and will encourage further progress on a consistent basis.</p>
+	<p pid="a.279.2/5">My hon. Friend the Member for Redditch expressed concern that the British Government and the Commonwealth have perhaps taken their eye off the ball after the success of free and inclusive elections in 2008. Although I appreciate her candour, I do not think that that is an entirely accurate reflection of matters, particularly in the context of the increasingly close bilateral relationship between the UK and the Maldives, and the fact that the wider international community is highly supportive of the Maldives across a range of areas, not least through EU support against the very grave threats that climate change poses for the Maldives. I will say a little bit more about the international community later. In addition, the British Council office in Male continues to support strong cultural relations between our two countries. The Commonwealth has also been a staunch supporter of democratic, economic and judicial reforms in the Maldives. Recently at the UN General Assembly, there was a meeting of the Commonwealth Council of Ministers&#8217; group, which the UK does not sit on because of rotation, at which a commitment was given by the Commonwealth to provide additional support for civil society reforms and for judicial reforms, for the reasons that colleagues have pointed out today.</p>
+	<p pid="a.279.2/6">My hon. Friend was absolutely right to mention the events of <phrase class="date" code="2012-02-07">7 February</phrase> this year, in which former President Nasheed was replaced as president. It needs to be made clear that those events follow a difficult constitutional period for the country. They were the subject of an inquiry by the Commission of National Inquiry, which has now concluded. The United Kingdom, with our Commonwealth partners, now wishes to move the relationship forward with the Maldives, and we fully accept the legitimacy of the current president and his Government.</p>
+	<p pid="a.279.2/7">Our clear view is that the Maldives cannot afford to go backwards after so much effort has been invested in its transition to democracy both by the Maldivians and by my hon. Friend and others who take a passionate interest in the country. The British Government, with the Commonwealth and other international partners, are determined to provide the necessary support and encouragement that the Maldives needs to maintain the right course of action. We continue to discuss and offer technical assistance that they and other international organisations can provide to help strengthen the judiciary and other key democratic institutions.</p>
+	<p pid="a.279.2/8">Let me turn to the specific legal process, as there are important facts that need to be put into the public domain. The current legal proceedings against former President Nasheed are a significant test for the Maldives. The international community is watching closely to see how any trial is conducted and to confirm that the proceedings are fair. The Inter-Parliamentary Union is</p>
+	<p pid="a.279.2/9">due to send a mission to the Maldives this month, and there will be international observers at any trial of the former president.</p>
+	<p pid="a.279.2/10">The former president issued instructions on <phrase class="date" code="2012-01-16">16 January</phrase> to arrest Abdulla Mohamed, chief judge of the criminal court. As my hon. Friend said, that led, for a variety of reasons, to widespread opposition demonstrations, culminating in the transfer of power from President Nasheed to his vice-president, Mohamed Waheed, on <phrase class="date" code="2012-02-07">7 February</phrase>. Former President Nasheed was subsequently arrested on <phrase class="date" code="2012-10-08">8 October</phrase> and released on <phrase class="date" code="2012-10-09">9 October</phrase>, with two hearings set for <phrase class="date" code="2012-11-04">Sunday 4 November</phrase>.</p>
+	<p pid="a.279.2/11">It is important to state that on <phrase class="date" code="2012-11-04">4 November</phrase>, the High Court suspended the trial proceedings by issuing an injunction against the special court, following an appeal by former President Mohamed Nasheed&#8217;s legal team based on procedural issues, specifically: the constitutional legitimacy of the magistrates court; the magistrates court conducting a trial on a different island to where it is based; and the legitimacy of an arrest warrant issued by the magistrates court, given that the court is not in the locality of defendant&#8217;s permanent address. As a result of the appeal, the special court could not convene as scheduled on Sunday. The High Court is due to make its ruling on those issues tomorrow, <phrase class="date" code="2012-11-08">8 November</phrase>, and that will determine the next steps in the process. The Maldives Attorney-General welcomed the High Court&#8217;s injunction, which also impacts on the trial of four co-defendants in connection with the detention of the judge in February, a point made by my hon. Friend the Member for Congleton.</p>
+	<p pid="a.279.2/12">As my fellow Under-Secretary of State for Foreign and Commonwealth Affairs, my hon. Friend the Member for North East Bedfordshire, confirmed to our hon. Friend the Member for Redditch during oral questions last week, we have sought and received assurances from President Waheed that any trial of former President Nasheed would be fair and free from political influence. At this stage of the proceedings, we have no reason to believe that that will not be the case. I have no doubt that the Maldivian Government and judiciary will feel</p>
+	<p pid="a.279.2/13">the eyes of the world on them, and that they realise that a fair and impartial trial is most evidently in their national interests.</p>
+	<p pid="a.279.2/14">While we and other international partners recognise the independence of the court proceedings and the importance of that independence, we have made clear on several occasions our concern that any sentence that prevents former President Nasheed from participating in the 2013 electoral process would risk being seen as politically motivated. It is essential that the 2013 elections are as free, fair and fully inclusive as the new benchmark set by the 2008 election process, and we welcome the Maldivian Government&#8217;s decision to accept international observers at that process.</p>
+	<p pid="a.279.2/15">At this stage of the legal process, it would not be appropriate for us to speculate on the eventual outcome or to interfere directly with the judicial process. As I said, we accept the assurances offered by the current president that the process will be free from political interference. However, we encourage the Maldivian judiciary to ensure that the process is not subject to any undue delay, and express our hope that it is concluded in good time to avoid any negative impact on the electoral process next year. As a matter of the utmost importance, we also continue to urge all political parties in the Maldives to work together to implement the recommendations of the Commission of National Inquiry in order to further strengthen democratic institutions in the Maldives.</p>
+	<p pid="a.279.2/16">I confirm that the Commonwealth Council of Ministers is concerned: it discussed the issue at length at the UN General Assembly&#8212;a meeting that was supposed to go on for 45 minutes went on for five hours. The current Maldivian Government have no popular mandate from the 2008 electoral process, which was a success. It is therefore vital that the 2013 elections are transparent, fully inclusive and free, so that the people of the Maldives can determine who governs them. I assure my hon. Friend the Member for Redditch and other hon. Friends that, together with the Commonwealth and international partners, we will continue to follow developments in the Maldives very closely in the coming months.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.283.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.283.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.283.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.283.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.283.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.283.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.286.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.287.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.287.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.287.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.288.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.288.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.288.1" newgid="uk.org.publicwhip/westminhall/2012-11-07b.288.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.288.2" newgid="uk.org.publicwhip/westminhall/2012-11-07b.288.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-07a.289.0" newgid="uk.org.publicwhip/westminhall/2012-11-07b.289.0" matchtype="perfectmatch"/>
+</publicwhip>
+

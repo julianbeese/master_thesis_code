@@ -1,0 +1,148 @@
+2025-09-28 19:22:21,241 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-09-28 19:22:21,241 - __main__ - INFO - Max Debatten: 10
+2025-09-28 19:22:21,241 - __main__ - INFO - Quell-Datenbank: database/data/debates_data_optimized.db
+2025-09-28 19:22:21,241 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data.db
+2025-09-28 19:22:21,241 - __main__ - INFO - Gemini-Modell: gemini-2.0-flash
+2025-09-28 19:22:21,241 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-09-28 19:22:21,241 - __main__ - INFO - max_debates: 10
+2025-09-28 19:22:21,241 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-09-28 19:22:21,241 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-09-28 19:22:21,241 - __main__ - INFO - estimated_total_tokens: 13750
+2025-09-28 19:22:21,241 - __main__ - INFO - estimated_input_cost: 0.0009
+2025-09-28 19:22:21,241 - __main__ - INFO - estimated_output_cost: 0.0004
+2025-09-28 19:22:21,241 - __main__ - INFO - estimated_total_cost: 0.0013
+2025-09-28 19:22:21,241 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-09-28 19:22:21,241 - __main__ - INFO - Initialisiere Komponenten...
+2025-09-28 19:22:21,252 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-2.0-flash' erfolgreich initialisiert
+2025-09-28 19:22:21,252 - __main__ - INFO - ✅ Gemini API verfügbar
+2025-09-28 19:22:21,262 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_sessions (
+            session_id TEXT PRIMARY KEY,
+     ...
+2025-09-28 19:22:21,262 - classifier.brexit_database - INFO - Tabelle 'brexit_sessions' erstellt/überprüft
+2025-09-28 19:22:21,263 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_debates (
+            debate_id INTEGER PRIMARY KEY,
+    ...
+2025-09-28 19:22:21,263 - classifier.brexit_database - INFO - Tabelle 'brexit_debates' erstellt/überprüft
+2025-09-28 19:22:21,263 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_speeches (
+            speech_id TEXT PRIMARY KEY,
+      ...
+2025-09-28 19:22:21,263 - classifier.brexit_database - INFO - Tabelle 'brexit_speeches' erstellt/überprüft
+2025-09-28 19:22:21,264 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_keywords (
+            keyword_id INTEGER PRIMARY KEY,
+  ...
+2025-09-28 19:22:21,264 - classifier.brexit_database - INFO - Tabelle 'brexit_keywords' erstellt/überprüft
+2025-09-28 19:22:21,264 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS classification_log (
+            log_id INTEGER PRIMARY KEY,
+   ...
+2025-09-28 19:22:21,264 - classifier.brexit_database - INFO - Tabelle 'classification_log' erstellt/überprüft
+2025-09-28 19:22:21,264 - classifier.brexit_database - INFO - Brexit-Datenbank initialisiert: database/data/brexit_data.db
+2025-09-28 19:22:21,264 - __main__ - INFO - Lade Debatten aus der Datenbank...
+2025-09-28 19:22:21,276 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, s.date
+        FROM debates d
+        JOIN sessi...
+2025-09-28 19:22:21,276 - __main__ - INFO - Gefunden: 10 Debatten
+2025-09-28 19:22:21,276 - __main__ - INFO - Starte Klassifikation...
+2025-09-28 19:22:21,276 - __main__ - INFO - Verarbeite Debatte 1/10: Oral Answers to Questions - Transport...
+2025-09-28 19:22:21,277 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM debates d
+        WHERE d.deb...
+2025-09-28 19:22:21,288 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_co...
+2025-09-28 19:22:22,775 - __main__ - INFO -   ❌ Keine Brexit-Debatte (Confidence: 0.14)
+2025-09-28 19:22:22,775 - __main__ - INFO - Verarbeite Debatte 2/10: TfL Funding: Discussions with Mayor of London...
+2025-09-28 19:22:22,778 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM debates d
+        WHERE d.deb...
+2025-09-28 19:22:22,786 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_co...
+2025-09-28 19:22:24,353 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.66)
+2025-09-28 19:22:24,353 - __main__ - INFO - Verarbeite Debatte 3/10: Zero-emission Buses...
+2025-09-28 19:22:24,355 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM debates d
+        WHERE d.deb...
+2025-09-28 19:22:24,357 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_co...
+2025-09-28 19:22:25,744 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.56)
+2025-09-28 19:22:25,744 - __main__ - INFO - Verarbeite Debatte 4/10: Restoring Your Railway Programme...
+2025-09-28 19:22:25,747 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM debates d
+        WHERE d.deb...
+2025-09-28 19:22:25,751 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_co...
+2025-09-28 19:22:26,769 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.56)
+2025-09-28 19:22:26,769 - __main__ - INFO - Verarbeite Debatte 5/10: Northern Powerhouse Rail: Stakeholders...
+2025-09-28 19:22:26,772 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM debates d
+        WHERE d.deb...
+2025-09-28 19:22:26,775 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_co...
+2025-09-28 19:22:28,201 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.56)
+2025-09-28 19:22:28,201 - __main__ - INFO - Verarbeite Debatte 6/10: Major Road Blockages: Climate Activists...
+2025-09-28 19:22:28,204 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM debates d
+        WHERE d.deb...
+2025-09-28 19:22:28,208 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_co...
+2025-09-28 19:22:29,709 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.66)
+2025-09-28 19:22:29,709 - __main__ - INFO - Verarbeite Debatte 7/10: Affordable Bus Travel: North-east England...
+2025-09-28 19:22:29,712 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM debates d
+        WHERE d.deb...
+2025-09-28 19:22:29,715 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_co...
+2025-09-28 19:22:31,172 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.56)
+2025-09-28 19:22:31,172 - __main__ - INFO - Verarbeite Debatte 8/10: Park-and-ride Schemes...
+2025-09-28 19:22:31,175 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM debates d
+        WHERE d.deb...
+2025-09-28 19:22:31,178 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_co...
+2025-09-28 19:22:32,707 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.66)
+2025-09-28 19:22:32,707 - __main__ - INFO - Verarbeite Debatte 9/10: Driver and Vehicle Licensing Agency: Delays...
+2025-09-28 19:22:32,708 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM debates d
+        WHERE d.deb...
+2025-09-28 19:22:32,710 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_co...
+2025-09-28 19:22:34,238 - __main__ - INFO -   ❌ Keine Brexit-Debatte (Confidence: 0.49)
+2025-09-28 19:22:34,238 - __main__ - INFO - Verarbeite Debatte 10/10: Transport and Logistics: Labour Shortages...
+2025-09-28 19:22:34,241 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM debates d
+        WHERE d.deb...
+2025-09-28 19:22:34,245 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_co...
+2025-09-28 19:22:36,086 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.66)
+2025-09-28 19:22:36,087 - __main__ - INFO - Fortschritt: 10/10 | Kosten bisher: $0.0008 | Brexit-Debatten: 8
+2025-09-28 19:22:36,088 - __main__ - INFO - === KLASSIFIKATION ABGESCHLOSSEN ===
+2025-09-28 19:22:36,088 - __main__ - INFO - Verarbeitete Debatten: 10
+2025-09-28 19:22:36,088 - __main__ - INFO - Brexit-Debatten gefunden: 8
+2025-09-28 19:22:36,089 - __main__ - INFO - Brexit-Anteil: 80.0%
+2025-09-28 19:22:36,089 - __main__ - INFO - Dauer: 14.8 Sekunden
+2025-09-28 19:22:36,089 - __main__ - INFO - Fehler: 0
+2025-09-28 19:22:36,089 - __main__ - INFO - === KOSTEN-ANALYSE ===
+2025-09-28 19:22:36,089 - __main__ - INFO - Gesamtkosten: $0.0008
+2025-09-28 19:22:36,089 - __main__ - INFO - Kosten pro Debatte: $0.000082
+2025-09-28 19:22:36,089 - __main__ - INFO - Geschätzte Kosten für 1000 Debatten: $0.08
+2025-09-28 19:22:36,089 - __main__ - INFO - API-Anfragen: 10
+2025-09-28 19:22:36,089 - __main__ - INFO - Geschwindigkeit: 40.4 Anfragen/Minute
+2025-09-28 19:22:36,089 - __main__ - INFO - === REPORTS ===
+2025-09-28 19:22:36,089 - __main__ - INFO - Kosten-Report: results/cost_report_20250928_192221.csv
+2025-09-28 19:22:36,089 - __main__ - INFO - JSON-Report: results/classification_report_20250928_192221.json
+2025-09-28 19:22:36,093 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-28 19:22:36,102 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

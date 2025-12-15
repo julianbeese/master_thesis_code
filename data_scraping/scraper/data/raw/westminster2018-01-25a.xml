@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2018-01-25a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.203.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.203.1" newgid="uk.org.publicwhip/westminhall/2018-01-25b.203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.207.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.208.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.209.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.209.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-01-25a.209.0" speakername="Gavin Robinson" person_id="uk.org.publicwhip/person/25280" colnum="209" time="14:02:00" url="">
+    <p pid="a209.0/1">As always, it is a pleasure to serve under your chairmanship, Sir David. I follow three Members whose contributions were different in many respects. They are all engaged in this issue and have considered it thoughtfully throughout the Select Committee inquiries. It is a privilege for me serve on the Defence Committee and to be a part of the inquiry.</p>
+    <p pid="a209.0/2">While I was listening to our esteemed Chair, <phrase class="honfriend" person_id="uk.org.publicwhip/person/10358" name="Julian Lewis">the right hon. Member for New Forest East (Dr Lewis)</phrase>—I mean that respectfully—I was thinking of Otto Von Bismarck’s quote about legislation being a bit like sausages: no one  needs to see how they are made. The right hon. Gentleman and I have had many private conversations about this report. He knows very clearly that my party colleagues and I are not supportive of an amnesty and that many victims in Northern Ireland—whether they are victims of republicanism, nationalism, unionists, loyalist paramilitaries or of state forces—collectively do not believe in an amnesty, nor are they interested in having the hope or the pursuit of justice snuffed out. That is the environment in which it is important to consider this report.</p>
+    <p pid="a209.0/3">This morning I was listening to BBC Radio Ulster, which had a contribution from Northern Ireland victims about Holocaust Memorial Day. One victim, Alan McBride, lost his wife on the Shankill Road when she went to her local fish and chip shop to get an evening meal and was blown up by the IRA. He spoke about a day of reflection in Northern Ireland, which is <phrase class="date" code="2018-06-21">21 June</phrase>. I did not know this, but he shared the reason that <phrase class="date" code="2018-06-21">21 June</phrase> was selected: victims across the Province had sought to find one single day in the calendar on which there has not been a troubles-related death, but they could not. They could not find a single day when someone had not died as a consequence of the troubles. They focused on <phrase class="date" code="2018-06-21">21 June</phrase> because of the solstice representing a change in culture and weather, and the hope and aspiration of warmth and sunshine.</p>
+    <p pid="a209.0/4">Our history is harrowing. Anyone who has been personally or directly affected by it is left with the scars and the emotion of the troubles of Northern Ireland. The report is about who “guards the guardians”, to use phase from a previous Defence Committee report. It is about how we look after those who protected society in Northern Ireland, not those who persecuted and were prosecuted for the most heinous crimes in Northern Ireland.</p>
+    <p pid="a209.0/5">A total of 300,000 service personnel served in Northern Ireland—there were 27,000 of them at the height of the troubles—and 1,441 human beings who we, as a nation, asked to serve and protect our interests, perished. They died. Three hundred individuals died as a direct consequence of engagement with security forces, but that does not mean 300 murders. It is important to make that point. It does not mean that 300 people were murdered at the hands of the state: 300 people died engaging against the state. They were legitimate deaths—deaths that arose out of conflict and out of those individuals who we asked to defend us standing on the frontline and defending us as best they could.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.210.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.211.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.211.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.213.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.213.1" newgid="uk.org.publicwhip/westminhall/2018-01-25b.213.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.213.2" newgid="uk.org.publicwhip/westminhall/2018-01-25b.213.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.214.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.214.1" newgid="uk.org.publicwhip/westminhall/2018-01-25b.214.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.215.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.217.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.217.1" newgid="uk.org.publicwhip/westminhall/2018-01-25b.217.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.217.2" newgid="uk.org.publicwhip/westminhall/2018-01-25b.217.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.218.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.219.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.221.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.221.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-01-25a.221.0" speakername="Mark Lancaster" person_id="uk.org.publicwhip/person/11715" colnum="221" time="14:52:00" url="">
+    <p pid="a221.0/1">It is a pleasure to serve under your chairmanship, Ms Buck. I remind the House of my interest as a member of the Army Reserve, although Northern Ireland is one of the few places where I have not seen operational service. I am grateful to my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10358" name="Julian Lewis">the Member for New Forest East (Dr Lewis)</phrase> for his Committee’s thoughtful report on a sensitive and complex issue,  and for securing this debate. I am also grateful for the incredibly powerful contributions made this afternoon. <phrase class="honfriend" person_id="uk.org.publicwhip/person/25435" name="Ruth Smeeth">The hon. Member for Stoke-on-Trent North (Ruth Smeeth)</phrase> focused on people. My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25367" name="Johnny Mercer">the Member for Plymouth, Moor View (Johnny Mercer)</phrase> has been such a champion in this area. I am particularly grateful to him for his concern about my health. I have not been laid low with man flu, but I tell him gently that if I were, as a fine Royal Engineer I probably would not seek the sympathy of the House; I would just man up and get on with it.</p>
+    <p pid="a221.0/2"><phrase class="honfriend" person_id="uk.org.publicwhip/person/25280" name="Gavin Robinson">The hon. Member for Belfast East (Gavin Robinson)</phrase> gave a really passionate speech. The attention he got from the Chamber was well-deserved. He highlighted many of the challenges that we all face. My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24907" name="Bob Stewart">the Member for Beckenham (Bob Stewart)</phrase> gave such a passionate speech about his experiences and the pressures placed on our security forces. I am grateful to <phrase class="honfriend" person_id="uk.org.publicwhip/person/13864" name="Jim Shannon">the hon. Member for Strangford (Jim Shannon)</phrase>, who had to go and speak in another debate. My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24875" name="Sheryll Murray">the Member for South East Cornwall (Mrs Murray)</phrase> gave a passionate plea on behalf of her constituent Dennis Hutchings. If she would like a meeting with me, we can discuss the matter in more detail. That is the best way that we can move that forward.</p>
+    <p pid="a221.0/3">Around 250,000 service personnel served in Northern Ireland as part of Operation Banner between 1969 and 2007. Our armed forces played a vital role in providing safety and security, and in bringing about the conditions for peace. As the then Bishop of London, Dr Richard Chartres, put it at a service to mark the end of Operation Banner,</p>
+    <p pid="a221.0/4" class="indent" pwmotiontext="yes">“Force cannot in the end resolve social conflict but it can offer a vital breathing space in which the normal processes of democratic debate and decision making can re-assert themselves. Military intervention can hold the forces of chaos at bay while people learn again how communities with different histories and aspirations can live together and do business with one another. Operation Banner kept open that vital pass”.</p>
+    <p pid="a221.0/5">I pay tribute to all those who served, especially the more than 1,000 security personnel who sadly lost their lives in doing so, as well as all those who were injured and killed. In total more than 3,500 people were killed during the troubles, with terrorists responsible for 90% of those deaths. The arrangements for investigating those deaths have, over the years, been subject to increasing criticism. There is broad agreement in Northern Ireland that the current systems and structures are not delivering enough for victims, survivors or wider society.</p>
+    <p pid="a221.0/6">The closure of the Historical Enquiries Team in December 2014 has left more than 1,000 cases outstanding, the vast majority of which are terrorist killings. The Northern Ireland courts risk being overwhelmed by the demands placed on them by historical inquests; there are 50 inquests currently open into almost 100 troubles-related deaths. Where criminal investigations are taking place, they are on a largely ad-hoc basis, feeding the concern felt by some that there is an imbalance in the mechanisms in place, which results in a disproportionate focus on those deaths that in some way involve the state. The Government are clear about the problems with the status quo.</p>
+    <p pid="a221.0/7">After 11 weeks of intensive talks, the Stormont House agreement in December 2014 reached a broad political agreement to establish four institutions to address what is sometimes described in Northern Ireland as the legacy of the past. We continue to seek the implementation of the legacy institutions set out in the Stormont House agreement as the best way to address Northern Ireland’s past in a way that is fair, balanced and proportionate.</p>
+    <p pid="a221.0/8">The key institution relevant to today’s debate is the proposed Historical Investigations Unit. The HIU would be an independent body responsible for completing outstanding investigations into troubles-related deaths. It would be required to act in a manner that is fair, impartial, proportionate, effective and efficient, and designed to secure the independence of the HIU and the confidence of the public. The HIU would be required to work through its case load in chronological order and to complete its work within five years.</p>
+    <p pid="a221.0/9">It is clear that action is needed on so-called legacy inquests. For example, in 2013 only two legacy inquests were completed and both have subsequently had their conclusions appealed, one successfully. None was completed in 2014. Better progress has been made since, and the Government support the work of the Lord Chief Justice of Northern Ireland in putting together a reform plan for the legacy inquests for the Northern Ireland Executive. I hope that a new Executive can be formed soon, so that they can reach a view on how this element of the package of legacy reform can be taken forward.</p>
+    <p pid="a221.0/10">The Government are committed to the Stormont House agreement and believe that the next phase is to consult publicly on the details of how the new institutions could work in practice. A public consultation will provide everyone who has an interest with the opportunity to see the proposals and contribute to the discussion on  the issues. The consultation will include a draft Bill, which I am sure all hon. Members here will want to scrutinise in detail.</p>
+    <p pid="a221.0/11">The consultation will also do something else. The Defence Committee’s important report, and indeed today’s debate, demonstrate that some people believe that the time has come for Northern Ireland to consider an alternative approach to dealing with the legacy of the past—an approach other than the pursuit of further criminal investigations. The Committee recommended that</p>
+    <p pid="a221.0/12" class="indent" pwmotiontext="yes">“the enactment of a statute of limitations, covering all Troubles-related incidents, up to the signing of the 1998 Belfast Agreement, which involved former members of the Armed Forces. This should be coupled with the continuation and development of a truth recovery mechanism which would provide the best possible prospect of bereaved families finding out the facts, once no-one needed to fear being prosecuted.”</p>
+    <p pid="a221.0/13">A cross-party letter to the Prime Minister signed by my right hon. Friend the Member for New Forest East, who is the Committee’s Chairman, along with <phrase class="honfriend" person_id="uk.org.publicwhip/person/25067" name="Dan Jarvis">the hon. Member for Barnsley Central (Dan Jarvis)</phrase>, <phrase class="honfriend" person_id="uk.org.publicwhip/person/11003" name="Kevan Jones">the hon. Member for North Durham (Mr Jones)</phrase> and my hon. Friend the Member for Plymouth, Moor View, went further. The letter drew on expert evidence that a statute of limitations would fall foul of international law if it applied only to servants of the state, and recognised changes that the Northern Ireland (Sentences) Act 1998 made to sentencing for offences related to the troubles. In the light of that, the letter argued that the time had come for a statute of limitations that covered all, including paramilitaries. I know that many, both inside and outside this place, agree with that position, while others, as we have heard, will not.</p>
+    <p pid="a221.0/14">As there are a range of views, and recognising the view of the Committee, the Government have decided to include within the legacy consultation a question on alternative ways of addressing the legacy of the past, such as a statute of limitations or amnesty. While the Government are clear that in their view the best way forward is to proceed with the Stormont House agreement institutions, in the spirit of meaningful consultation, all views will be considered carefully to inform the next steps.</p>
+    <p pid="a221.0/15">My right hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for New Forest East asked whether the Northern Ireland (Sentences)</phrase> Act applies to members of the security forces as well as paramilitaries. Yes, it does, provided the eligibility criteria set out in the Act are met. In practice, no former members of the security forces have been convicted of relevant offences since the passing of the Act, so it has not yet been used in this way.</p>
+    <p pid="a221.0/16">The hon. Member for Belfast East mentioned that two members of the security forces were in prison at the time of the Good Friday agreement and did not benefit from early release under the scheme. The soldiers in question were released under licence by the then Secretary of State for Northern Ireland, who had been considering their case before the Northern Ireland (Sentences) Act became law. That case does not demonstrate that members of the security forces are debarred from making use of the provisions of the Act.</p>
+    <p pid="a221.0/17">Going back to the consultation, while all views are important, I am particularly keen that armed forces veterans be given an opportunity to have their say, so I will ensure that the consultation, once published—I  hope that will be soon—is distributed to veterans, including through our network of excellent regimental secretaries.</p>
+    <p pid="a221.0/18">Finding a better way to address Northern Ireland legacy matters is a priority for the UK Government. The Defence Committee’s report is an important contribution to the debate on how best to do that. Now is the time, through the forthcoming consultation, for everyone with an interest in addressing Northern Ireland’s past to have their say.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.224.0" newgid="uk.org.publicwhip/westminhall/2018-01-25b.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.224.1" newgid="uk.org.publicwhip/westminhall/2018-01-25b.224.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-25a.224.2" newgid="uk.org.publicwhip/westminhall/2018-01-25b.224.2" matchtype="perfectmatch"/>
+</publicwhip>
+

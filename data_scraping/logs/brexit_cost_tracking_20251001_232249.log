@@ -1,0 +1,1330 @@
+2025-10-01 23:22:49,843 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-10-01 23:22:49,843 - __main__ - INFO - Max Debatten: 2
+2025-10-01 23:22:49,843 - __main__ - INFO - Quell-Datenbank: database/data/debates_data.db
+2025-10-01 23:22:49,843 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_test.db
+2025-10-01 23:22:49,843 - __main__ - INFO - Gemini-Modell: gemini-2.0-flash
+2025-10-01 23:22:49,843 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-10-01 23:22:49,843 - __main__ - INFO - max_debates: 2
+2025-10-01 23:22:49,843 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-10-01 23:22:49,843 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-10-01 23:22:49,843 - __main__ - INFO - estimated_total_tokens: 2750
+2025-10-01 23:22:49,843 - __main__ - INFO - estimated_input_cost: 0.0002
+2025-10-01 23:22:49,843 - __main__ - INFO - estimated_output_cost: 0.0001
+2025-10-01 23:22:49,843 - __main__ - INFO - estimated_total_cost: 0.0003
+2025-10-01 23:22:49,843 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-10-01 23:22:49,843 - __main__ - INFO - Initialisiere Komponenten...
+2025-10-01 23:22:49,849 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-2.0-flash' erfolgreich initialisiert
+2025-10-01 23:22:49,849 - __main__ - INFO - ✅ Gemini API verfügbar
+2025-10-01 23:22:49,855 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS sessions (
+            session_id VARCHAR PRIMARY KEY,
+         ...
+2025-10-01 23:22:49,855 - classifier.brexit_database - INFO - Tabelle 'sessions' erstellt/überprüft
+2025-10-01 23:22:49,855 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS debates (
+            debate_id VARCHAR PRIMARY KEY,
+           ...
+2025-10-01 23:22:49,855 - classifier.brexit_database - INFO - Tabelle 'debates' erstellt/überprüft
+2025-10-01 23:22:49,855 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS speakers (
+            speaker_name VARCHAR PRIMARY KEY,
+       ...
+2025-10-01 23:22:49,855 - classifier.brexit_database - INFO - Tabelle 'speakers' erstellt/überprüft
+2025-10-01 23:22:49,855 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS speeches (
+            speech_id VARCHAR PRIMARY KEY,
+          ...
+2025-10-01 23:22:49,855 - classifier.brexit_database - INFO - Tabelle 'speeches' erstellt/überprüft
+2025-10-01 23:22:49,856 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS paragraphs (
+            paragraph_id VARCHAR PRIMARY KEY,
+     ...
+2025-10-01 23:22:49,856 - classifier.brexit_database - INFO - Tabelle 'paragraphs' erstellt/überprüft
+2025-10-01 23:22:49,856 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_keywords (
+            keyword_id INTEGER PRIMARY KEY,
+  ...
+2025-10-01 23:22:49,856 - classifier.brexit_database - INFO - Tabelle 'brexit_keywords' erstellt/überprüft
+2025-10-01 23:22:49,856 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS classification_log (
+            log_id INTEGER PRIMARY KEY,
+   ...
+2025-10-01 23:22:49,856 - classifier.brexit_database - INFO - Tabelle 'classification_log' erstellt/überprüft
+2025-10-01 23:22:49,856 - classifier.brexit_database - INFO - Brexit-Datenbank initialisiert: database/data/brexit_test.db
+2025-10-01 23:22:49,856 - __main__ - INFO - Kopiere ursprüngliche Parliament-Daten...
+2025-10-01 23:22:49,856 - classifier.brexit_database - INFO - Brexit-Datenbank bereit - nur klassifizierte Daten werden gespeichert
+2025-10-01 23:22:49,856 - __main__ - INFO - Lade Debatten aus der Datenbank...
+2025-10-01 23:22:49,858 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, s.date
+        FROM debates d
+        JOIN sessi...
+2025-10-01 23:22:49,858 - __main__ - INFO - Gefunden: 2 Debatten
+2025-10-01 23:22:49,858 - __main__ - INFO - Starte Klassifikation...
+2025-10-01 23:22:49,859 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM debates WHERE debate_id = ? AND classification_timestamp IS NOT NULL...
+2025-10-01 23:22:49,859 - __main__ - INFO - Verarbeite Debatte 1/2: East-west Rail Connections: North England...
+2025-10-01 23:22:49,859 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.heading_id, d.time, d.url, d.column_number,
+  ...
+2025-10-01 23:22:49,862 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 23:22:51,689 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM sessions WHERE session_id = ?...
+2025-10-01 23:22:51,692 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+                INSERT INTO sessions 
+                (session_id, date, session_type, total_debate...
+2025-10-01 23:22:51,700 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO debates 
+            (debate_id, session_id, title, heading_id, ...
+2025-10-01 23:22:51,705 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:51,705 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1134.10: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:51,708 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:51,709 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1134.11: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:51,712 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:51,712 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1134.8: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:51,715 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:51,715 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1134.9: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:51,715 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Kevin Hollinrake: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:51,715 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Andrew Stephenson: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:51,715 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.66)
+2025-10-01 23:22:51,716 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM debates WHERE debate_id = ? AND classification_timestamp IS NOT NULL...
+2025-10-01 23:22:51,716 - __main__ - INFO - Verarbeite Debatte 2/2: Topical Questions - Covid-19: Government Support f...
+2025-10-01 23:22:51,716 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.heading_id, d.time, d.url, d.column_number,
+  ...
+2025-10-01 23:22:51,761 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 23:22:53,123 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM sessions WHERE session_id = ?...
+2025-10-01 23:22:53,128 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO debates 
+            (debate_id, session_id, title, heading_id, ...
+2025-10-01 23:22:53,134 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,134 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1136.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,140 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,140 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1136.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,144 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,144 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1136.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,148 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,148 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1136.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,151 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,151 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1136.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,154 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,154 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1136.6: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,158 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,158 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1136.7: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,161 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,162 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1136.8: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,164 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,164 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1137.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,166 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,166 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1137.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,169 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,169 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1137.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,171 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,171 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1137.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,173 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,173 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1137.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,175 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,175 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1137.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,178 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,178 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1137.6: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,180 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,180 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1137.7: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,181 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,181 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1138.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,183 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,183 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1138.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,185 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,185 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1138.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,187 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,187 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1138.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,189 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,189 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1138.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,190 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,190 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1138.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,192 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,192 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1139.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,194 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,194 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1139.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,196 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,196 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1139.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,197 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,197 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1139.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,199 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,199 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1139.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,201 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,201 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1139.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,202 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,202 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1139.6: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,204 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,204 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1139.7: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,206 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,206 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1140.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,207 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,207 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1140.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,209 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,209 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1140.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,211 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,211 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1140.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,212 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,212 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1140.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,214 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,214 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1140.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,215 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,215 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1140.6: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,217 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,217 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1140.7: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,219 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,219 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1141.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,221 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,221 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1141.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,222 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,222 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1142.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,224 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,224 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1142.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,225 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,225 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1143.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,228 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,228 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1143.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,230 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,230 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1143.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,231 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,231 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1143.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,233 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,233 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1144.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,235 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,235 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1145.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,237 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,237 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1145.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,239 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,239 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1145.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,240 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,240 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1145.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,242 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,242 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1146.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,244 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,244 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1146.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,246 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,246 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1146.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,247 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,247 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1146.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,249 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,249 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1146.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,250 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,250 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1146.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,252 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,252 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1146.6: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,254 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,254 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1147.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,255 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,255 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1147.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,257 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,257 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1147.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,258 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,258 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1147.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,261 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,261 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1147.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,262 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,262 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1147.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,264 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,264 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1147.6: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,265 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,265 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1148.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,267 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,267 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1148.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,269 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,269 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1148.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,271 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,271 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1148.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,272 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,272 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1148.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,274 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,274 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1149.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,276 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,276 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1149.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,278 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,278 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1149.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,279 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,279 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1149.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,281 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,281 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1149.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,283 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,283 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1149.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,284 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,284 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1150.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,286 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,286 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1150.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,288 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,288 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1150.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,289 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,289 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1150.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,291 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,291 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1150.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,293 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,293 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1150.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,295 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,295 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1151.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,296 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,296 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1151.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,298 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,298 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1151.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,299 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,299 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1151.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,301 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,301 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1151.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,303 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,303 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1151.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,304 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,304 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1152.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,306 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,306 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1152.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,307 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,307 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1152.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,309 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,309 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1152.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,311 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,311 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1152.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,313 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,313 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1152.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,314 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,314 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1152.6: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,316 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,316 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1152.7: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,317 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,317 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1153.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,319 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,319 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1153.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,321 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,321 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1153.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,322 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,322 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1153.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,324 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,324 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1153.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,325 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,325 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1153.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,327 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,327 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1153.6: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,329 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,329 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1154.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,331 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,331 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1154.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,332 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,332 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1154.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,334 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,334 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1154.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,336 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,336 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1154.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,337 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,337 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1154.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,339 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,339 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1154.6: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,340 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,340 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1155.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,341 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,342 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1155.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,343 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,343 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1155.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,345 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,345 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1156.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,346 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,346 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1156.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,348 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,348 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1157.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,349 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,349 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1157.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,351 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,351 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1157.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,352 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,353 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1158.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,354 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,354 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1158.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,356 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,356 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1158.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,357 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,357 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1158.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,359 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,359 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1159.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,361 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,361 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1159.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,363 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,363 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1159.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,364 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,364 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1159.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,366 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,366 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1159.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,368 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,368 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1160.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,370 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,370 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1160.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,371 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,371 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1160.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,373 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,373 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1160.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,374 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,374 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1161.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,376 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,376 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1161.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,378 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,378 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1161.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,379 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,379 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1161.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,381 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,381 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1161.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,382 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,382 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1161.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,384 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,384 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1162.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,385 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,385 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1162.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,387 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,387 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1162.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,388 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,388 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1162.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,390 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,390 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1162.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,391 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,391 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1163.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,392 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,392 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1163.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,394 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,394 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1164.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,396 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,396 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1164.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,397 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,397 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1165.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,399 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,399 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1166.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,400 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,400 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1167.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,402 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,402 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1168.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,403 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,403 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1168.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,405 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,405 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1168.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,406 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,407 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1169.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,408 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,408 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1170.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,410 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,410 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1170.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,411 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,411 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1170.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,413 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,413 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1170.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,414 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,414 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1171.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,415 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,415 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1171.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,417 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,417 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1172.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,418 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,418 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1172.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,420 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,420 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1172.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,421 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,421 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1172.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,423 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,423 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1172.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,424 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,424 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1173.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,425 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,425 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1173.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,427 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,427 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1173.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,428 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,429 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1174.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,430 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,430 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1174.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,431 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,431 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1174.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,433 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,433 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1174.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,434 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,434 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1175.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,436 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,436 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1175.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,437 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,437 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1175.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,439 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,439 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1175.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,440 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,440 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1176.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,441 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,442 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1176.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,443 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,443 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1176.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,444 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,444 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1176.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,446 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,446 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1177.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,447 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,447 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1177.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,449 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,449 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1177.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,450 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,450 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1177.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,452 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,452 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1178.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,453 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,453 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1178.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,455 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,455 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1178.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,456 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,456 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1178.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,457 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,457 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1179.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,459 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,459 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1179.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,460 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,461 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1179.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,462 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,462 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1179.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,463 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,463 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1179.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,465 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,465 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1180.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,466 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,466 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1180.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,468 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,468 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1180.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,470 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,470 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1180.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,471 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,471 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1180.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,472 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,472 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1181.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,474 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,474 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1181.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,475 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,475 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1182.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,477 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,477 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1182.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,478 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,478 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1183.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,480 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,480 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1183.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,481 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,481 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1184.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,483 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,483 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1184.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,485 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,485 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1184.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,487 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,487 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1184.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,488 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,488 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1185.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,490 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,490 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1185.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,492 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,492 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1185.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,494 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,494 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1188.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,496 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,496 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1188.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,497 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,497 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1188.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,499 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,499 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1188.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,501 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,501 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1189.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,503 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,503 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1189.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,504 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,504 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1189.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,506 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,506 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1189.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,507 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,507 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1189.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,510 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,510 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1190.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,512 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,512 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1190.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,513 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,513 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1190.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,515 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,515 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1190.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,516 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,516 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1190.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,518 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,518 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1190.5: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,520 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,520 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1191.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,521 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,521 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1191.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,523 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,523 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1192.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,524 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,524 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1192.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,525 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,525 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1192.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,527 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,527 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1193.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,528 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,528 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1193.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,530 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,530 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1194.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,531 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,531 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1194.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,533 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,533 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1194.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,535 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,535 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1195.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,536 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,536 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1195.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,538 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,538 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1196.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,539 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,539 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1196.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,541 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,541 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1196.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,542 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,542 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1197.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,544 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,544 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1199.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,545 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,545 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1199.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,547 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,547 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1199.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,548 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,548 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1202.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,549 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,549 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1202.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,551 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,551 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1202.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,552 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,552 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1203.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,554 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,554 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1203.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,555 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,555 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1203.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,557 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,557 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1204.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,558 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,558 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1206.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,560 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,560 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1206.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,561 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,561 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1206.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,563 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,563 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1206.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,564 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,564 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1206.4: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,566 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,566 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1208.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,567 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,567 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1213.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,569 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,569 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1213.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,571 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,571 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1213.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,573 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,573 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1217.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,574 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,574 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1219.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,576 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,576 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1221.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,578 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,578 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1221.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,579 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,579 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1222.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,581 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,581 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1226.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,582 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,582 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1226.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,584 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,584 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1228.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,585 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,585 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1228.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,587 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,587 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1228.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,588 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,588 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1231.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,590 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,590 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1232.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,591 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,591 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1232.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,593 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,593 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1232.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,594 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,594 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1232.3: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,596 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,596 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1233.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,597 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,597 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1236.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,599 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,599 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1237.1: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,600 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,600 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1237.2: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,602 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,602 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1240.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,604 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Absatzes uk.org.publicwhip/debate/2021-12-16c.1244.0: 'Paragraph' object has no attribute 'paragraph_pid'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Kevin Hollinrake: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Grant Shapps: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Lindsay Hoyle: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Louise Haigh: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Claire Coutinho: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Chris Heaton-Harris: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Gavin Newlands: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Robert Courts: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Antony Higginbotham: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Hon. Members:: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Jeremy Corbyn: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Rob Butler: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Andrew Stephenson: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Daniel Zeichner: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Mark Fletcher: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Rachael Maskell: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Alicia Kearns: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Trudy Harrison: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Margaret Ferrier: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Paul Howell: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Lee Anderson: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Felicity Buchan: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Andrew Jones: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Jim Shannon: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Pat McFadden: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers John Glen: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Peter Bottomley: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Chris Stephens: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Theresa Villiers: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Kevan Jones: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Steven Baker: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Seema Malhotra: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Andrew Murrison: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Steve Brine: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Wendy Chamberlain: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Bob Blackman: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Kevin Brennan: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Greg Smith: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Owen Thompson: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Martin Vickers: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Clive Betts: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Karen Buck: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Chi Onwurah: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Tan Dhesi: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Mike Kane: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Ian Mearns: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Lilian Greenwood: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Sam Tarry: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Dave Doogan: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Chris Law: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Liz Twist: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Thomas Tugendhat: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers James Cleverly: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Fabian Hamilton: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Bernard Jenkin: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Marco Longhi: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Fleur Anderson: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Thangam Debbonaire: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Jacob Rees-Mogg: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Edward Leigh: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Rosie Winterton: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Afzal Khan: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Diana R. Johnson: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers David Johnston: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Emma Lewell-Buck: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Unknown: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Damian Collins: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Dean Russell: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Richard Thomson: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Bob Stewart: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,604 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Sarah Owen: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,605 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Andrew Mitchell: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,605 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Eleanor Laing: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,605 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Rachel Hopkins: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,605 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Paul Holmes: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,605 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Tom Hunt: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,605 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Nigel Evans: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,605 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Jessica Morden: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,605 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Stuart Andrew: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,605 - classifier.brexit_database - ERROR - Fehler beim Kopieren des Sprechers Tom Pursglove: 'Speaker' object has no attribute 'first_appearance'
+2025-10-01 23:22:53,605 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.56)
+2025-10-01 23:22:53,605 - __main__ - INFO - === KLASSIFIKATION ABGESCHLOSSEN ===
+2025-10-01 23:22:53,605 - __main__ - INFO - Verarbeitete Debatten: 2
+2025-10-01 23:22:53,605 - __main__ - INFO - Brexit-Debatten gefunden: 2
+2025-10-01 23:22:53,605 - __main__ - INFO - Brexit-Anteil: 100.0%
+2025-10-01 23:22:53,605 - __main__ - INFO - Dauer: 3.7 Sekunden
+2025-10-01 23:22:53,605 - __main__ - INFO - Fehler: 0
+2025-10-01 23:22:53,605 - __main__ - INFO - === KOSTEN-ANALYSE ===
+2025-10-01 23:22:53,605 - __main__ - INFO - Gesamtkosten: $0.0002
+2025-10-01 23:22:53,605 - __main__ - INFO - Kosten pro Debatte: $0.000083
+2025-10-01 23:22:53,605 - __main__ - INFO - Geschätzte Kosten für 1000 Debatten: $0.08
+2025-10-01 23:22:53,605 - __main__ - INFO - API-Anfragen: 2
+2025-10-01 23:22:53,605 - __main__ - INFO - Geschwindigkeit: 31.9 Anfragen/Minute
+2025-10-01 23:22:53,605 - __main__ - INFO - === REPORTS ===
+2025-10-01 23:22:53,605 - __main__ - INFO - Kosten-Report: results/cost_report_20251001_232249.csv
+2025-10-01 23:22:53,605 - __main__ - INFO - JSON-Report: results/classification_report_20251001_232249.json
+2025-10-01 23:22:53,609 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-10-01 23:22:53,618 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-01-22a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.83.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.83.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.83.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.83.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.85.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.85.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.85.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.85.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.86.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.86.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.86.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.86.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.86.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.86.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.88.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.88.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.91.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.91.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.93.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.93.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.96.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.96.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.97.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.97.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.98.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.98.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.99.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.99.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.100.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.100.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.100.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.102.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.102.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.103.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.103.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.103.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.103.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.103.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.103.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.104.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.104.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.104.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.104.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.104.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.105.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.105.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.105.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.106.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.106.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.106.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.106.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.106.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.106.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.106.3" newgid="uk.org.publicwhip/westminhall/2020-01-22b.106.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.107.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.107.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.107.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.107.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.107.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.107.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.107.3" newgid="uk.org.publicwhip/westminhall/2020-01-22b.107.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.107.4" newgid="uk.org.publicwhip/westminhall/2020-01-22b.107.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.107.5" newgid="uk.org.publicwhip/westminhall/2020-01-22b.107.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.107.6" newgid="uk.org.publicwhip/westminhall/2020-01-22b.107.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.107.7" newgid="uk.org.publicwhip/westminhall/2020-01-22b.107.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.108.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.108.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.108.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.108.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.108.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.108.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.109.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.109.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.109.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.109.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.110.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.110.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.110.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.110.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.110.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.110.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.111.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.111.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.111.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.111.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.111.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.111.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.112.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.112.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.112.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.112.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.114.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.114.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.114.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.114.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.115.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.115.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.115.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.115.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.115.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-01-22a.115.2" speakername="Harriett Baldwin" person_id="uk.org.publicwhip/person/24785" colnum="115" time="15:28:00" url="">
+    <p pid="a115.2/1">I beg to move,</p>
+    <p pid="a115.2/2" class="indent" pwmotiontext="yes">That this House has considered North Cotswold line transformation.</p>
+    <p pid="a115.2/3">It is a great honour to serve under your chairmanship this afternoon, Mr Pritchard. I am delighted that the Minister of State, my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24841" name="Chris Heaton-Harris">the Member for Daventry (Chris Heaton-Harris)</phrase>, will respond. I will start by declaring an interest, which is that I am an unpaid vice-president of the Cotswold Line Promotion Group, a fantastic voluntary organisation that has worked relentlessly for decades to improve the North Cotswold line. I am grateful that I have secured the debate so early in the Parliament, and in time for the 2020 Budget, because we have a Worcestershire Chancellor, who truly understands the value of infrastructure improvements in unleashing our country’s potential and increasing its productivity. I believe that the case for investing in the North Cotswold line will be one of the easiest and most convincing ones he will see.</p>
+    <p pid="a115.2/4">The North Cotswold line, for those who have not had the pleasure of travelling along it, runs from Oxford to Hereford and crosses many constituencies, one of which is Witney—my hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Witney (Robert Courts)</phrase> has recently, and conveniently, been appointed Parliamentary Private Secretary to the Transport Secretary. The line also runs through the constituencies of The Cotswolds and Mid Worcestershire, and I believe that my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10119" name="Geoffrey Clifton-Brown">the Member for The Cotswolds (Sir Geoffrey Clifton-Brown)</phrase> will seek to catch your eye later in the debate, Mr Pritchard, although, sadly, my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25381" name="Nigel Huddleston">the Member for Mid Worcestershire (Nigel Huddleston)</phrase> would have to sit here silently, as he currently serves in the Whips Office. It then runs through the constituency of the Under-Secretary of State for Northern Ireland, my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24862" name="Robin Walker">the Member for Worcester (Mr Walker)</phrase>, through my own constituency, and on to North Herefordshire—my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11318" name="Bill Wiggin">the Member for North Herefordshire (Bill Wiggin)</phrase> is a keen supporter. It then goes through the constituency of the Financial Secretary to the Treasury, my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24827" name="Jesse Norman">the Member for Hereford and South Herefordshire (Jesse Norman)</phrase>.The North Cotswold line plan is to improve services to Kidderminster—I see that my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24824" name="Mark Garnier">the Member for Wyre Forest (Mark Garnier)</phrase> is here—and I know it will have knock-on benefits for colleagues in the Oxford area as well. All those colleagues are supporting this debate, even if they are not all speaking in it.</p>
+    <p pid="a115.2/5">I also wanted to hold this debate now because it coincides with the arrival in the Department for Transport of the strategic outline business case for the North Cotswold line, which has been written by the North Cotswold Line Taskforce. I put on record my thanks to Lord Faulkner of Worcester, for chairing the taskforce, and to all the taskforce members: Worcestershire, Oxfordshire, Gloucestershire and Warwickshire County Councils, Herefordshire Council, the Worcestershire, GFirst, Marches, Oxfordshire, Coventry and Warwickshire local enterprise partnerships, the West Midlands Rail  Executive and the Cotswold Line Promotion Group. They have all done excellent work since the taskforce was set up two years ago.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.116.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.116.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.116.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.116.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.116.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.116.3" newgid="uk.org.publicwhip/westminhall/2020-01-22b.116.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.118.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.118.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-01-22a.118.0" speakername="Geoffrey Clifton-Brown" person_id="uk.org.publicwhip/person/10119" colnum="118" time="15:40:00" url="">
+    <p pid="a118.0/1">It is a great pleasure to serve under your chairmanship, Mr Pritchard. I pay tribute to my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24785" name="Harriett Baldwin">the Member for West Worcestershire (Harriett Baldwin)</phrase> for securing the debate, and I am grateful to the Minister for being here to answer our requests.</p>
+    <p pid="a118.0/2">I have been heavily involved in the Cotswold line redoubling campaign, as it goes through my constituency—Moreton-in-Marsh and Kingham are both very busy stations along the line; the latter is just outside my constituency boundary but is used by many of my constituents—and I have worked closely with my fellow MPs, as my hon. Friend said. I am delighted to see my hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Witney (Robert Courts)</phrase> in his place. Part of the ask of this feasibility study will be to get the redoubling done in his constituency. I will say more about that in a minute, but I am sure that it will benefit his constituents hugely, and all of our constituents, because it will make the whole journey time quicker. It is delightful to see him here.</p>
+    <p pid="a118.0/3">We have all worked closely with the Cotswold Line Promotion Group, which has been a staunch advocate for this line for tens of years. I pay tribute, as did my hon. Friend the Member for West Worcestershire, to Lord Faulkner for heading up that group. We have had upgrades on this line, as my hon. Friend said; it was redoubled in the early 1990s, as was the line from Kemble to Swindon. That had huge benefits, because it now takes just 12 minutes to travel from Kemble to Swindon, and reduces journey times from Cheltenham to Swindon to London.</p>
+    <p pid="a118.0/4">The redoubling of the Cotswold line will increase the number of services along the line for the entire journey. Timetable changes in December 2019 were a milestone, because trains on that line now deliver an hourly service throughout the day. The trains are less crowded, with more capacity and, above all, faster journey times. The new timetable has been welcomed locally, but further investment is required to take it on to the next stage—for rail services to meet the long-term needs of the region which, as my hon. Friend said, is growing both economically and in population terms.</p>
+    <p pid="a118.0/5">Relative to other regions, this is still a slow journey. The journey from Worcester to London, for example, which is 120 miles, has an end-to-end speed of just 57 mph, compared with the speed from equivalent towns such as Leamington Spa, at 76 mph; Bath, at 77 mph; Swindon, at a very fast 84 mph; and Rugby, at 99 mph. This is a slow service at the moment, and much could be done to improve it.</p>
+    <p pid="a118.0/6">The journey time between Paddington and Worcester Shrub Hill—120 miles—takes between 1 hour 59 minutes and an appalling 2 hours 40 minutes, which is slow when considering that frequent trains throughout the day can reach Oxford from London in just over 50 minutes. The extra bit, which is another half of the journey, takes well over an hour. It is unacceptable that people travelling beyond Oxford are expected to travel on a second-class, slower service, as the train slows down significantly from Oxford.</p>
+    <p pid="a118.0/7">The redoubling of the line that I worked to secure has improved the journey time, but the faster trains have to slow down through the single-line sections. Suggestions put forward by the Cotswold Line Promotion Group  and the North Cotswold Line Taskforce would mean two trains per hour travelling through Worcestershire, the Cotswolds, Oxford and to London. Option 5, as my hon. Friend said, would see further redoubling from Wolvercote to Hanborough, in the constituency of my hon. Friend the Member for Witney, and eventually a 5-mile stretch between Evesham and Pershore, producing faster journey times of less than two hours between Worcester and London. Minister, that is the ultimate goal; a city of the size, importance and distance from London of Worcester ought to have a rail service of less than two hours.</p>
+    <p pid="a118.0/8">I am sure the Minister knows—my hon. Friends certainly know—that the line currently operates on both diesel and electric modes. A long-term aim, which would be a game changer, is to fully electrify the line from Oxford to Worcester, but that is not the subject of this particular study. Making the journey faster and more environmentally efficient is most important. I am sorry to tell this tale, but it is absolutely true: I recently caught a very old train from Norwich to Sheringham, and frankly it was like travelling on a moving, polluting factory—the diesel emissions were so bad. The ultimate aim must surely be to phase out all diesel trains in this country. If we want to get rid of the internal combustion engine—petrol and diesel cars—by 2040, we must have a plan to get rid of diesel trains as well.</p>
+    <p pid="a118.0/9">As my hon. Friend said, the business case for redoubling the Cotswold line is compelling, with more frequent, faster services helping to generate nearly 400,000 new passenger trips each year. An investment of £199 million would have economic benefits of £33 million gross value added per year, and would support 750 new jobs. The operating costs put forward offer efficient rolling stock utilisation, with improved use of the existing fleet and efficient redistribution to match supply with demand.</p>
+    <p pid="a118.0/10">Such improvements would hugely benefit my constituents who use the North Cotswold line. Moreton-in-Marsh is a growing town that has already seen considerable growth, mainly due to its actually having a station. I recently helped the Fire Service College—a national institution in my constituency—obtain a £500 million contract with the Ministry of Defence to train defence fire and rescue workers, which will help to secure an additional 100 jobs. The Fire Service College critically depends on the Cotswold line.</p>
+    <p pid="a118.0/11">In addition, as my hon. Friend says, the Cotswolds is an important area of outstanding natural beauty, attracting some 38 million domestic and international tourists a year, generating £1 billion a year for the Cotswolds economy. I might add that that is not only my constituency; there are 17 constituencies in the Cotswolds. For the Cotswolds to be accessible and to retain this industry, it must have strong, sustainable, green transport links that offer an alternative to road-based traffic. For the Government to achieve their targets, as set out in the 25-year environment plan, including meeting the legally binding targets to reduce emissions of five damaging air pollutants and ending the sale of conventional  petrol and diesel cars and vans by 2040, more investment is needed.</p>
+    <p pid="a118.0/12">The Cotswold line improvements will link-in with the Elizabeth line, which is significant to my constituents, as well as those of my hon. Friends the Members for West Worcestershire and for Witney. At the moment, the journey to Heathrow is so difficult that I should  think that well over 90% of my constituents choose to travel there by car. However, with an improved Cotswold line, meaning that they can get to Oxford and then Reading, and can then use the fast Elizabeth line from Reading straight into Heathrow, I am sure that more of them will change their mode of travel from car to rail. If we do not keep improving these railway lines and connectivity, many of our roads will simply clog up, which cannot be good for the environment.</p>
+    <p pid="a118.0/13">Overall, this project delivers very high value for money—my hon. Friend the Member for West Worcestershire mentioned a benefit-cost ratio of 4:1; I believe that the actual figure is 4.46:1, so it is nearer 5:1—and will support economic and population growth, tourism, connectivity to London and other regions, access to jobs and reductions in road congestion. We are talking about enhancing rural but economically competitive areas, such as the Cotswolds, that are currently being restrained—constrained—by the transport connectivity with other areas. Other strategic options such as train lengthening, road investment, platform lengthening and other railway projects in the region would all help to achieve those objectives.</p>
+    <p pid="a118.0/14">My final sentence will be to repeat to the Minister the plea made by my hon. Friend the Member for West Worcestershire. We need from this debate only half the cost of doing a feasibility study—a mere £1.5 million. Considering the other requests that will be made, that is absolute chicken feed.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.120.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.121.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.121.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.121.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.121.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.122.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.122.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.122.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.122.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.122.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.124.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.124.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.124.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.124.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.125.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.125.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.125.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.125.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.126.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.126.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.126.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.126.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-01-22a.126.1" speakername="Chris Heaton-Harris" person_id="uk.org.publicwhip/person/24841" colnum="126" time="16:07:00" url="">
+    <p pid="a126.1/1">Yes, indeed. I am pleased to hear they have noted the difference, because, at the end of the day, these are relatively expensive vehicles, so it is nice to know that they are worth what we pay for them and provide good value for money for the taxpayer.</p>
+    <p pid="a126.1/2">My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24824" name="Mark Garnier">the Member for Wyre Forest (Mark Garnier)</phrase> is no longer in his place; he apologised for leaving, but he had to go to another meeting. He wisely made the point that the Department for Transport needs as much stakeholder involvement in these schemes as possible. It would therefore be good if he could prod the local enterprise partnership for Greater Birmingham and Solihull to provide support, because the scheme would benefit this whole geographical area. My hon. Friend also made some points about High Speed 2, but that is not part of my brief, and it is a bit controversial, so I will duck that one completely.</p>
+    <p pid="a126.1/3">There were other contributions, including interventions. Brief contributions were made by <phrase class="honfriend" person_id="uk.org.publicwhip/person/25618" name="Anneliese Dodds">the hon. Member for Oxford East (Anneliese Dodds)</phrase>. It is very kind of her to come along and support her “hon. Friends” on the Government side, and there are a lot of hon. Friends on the Government side, including the Parliamentary Private Secretary for the Department, my hon. Friend <phrase class="honfriend" person_id="unknown" name="None">the Member for Witney (Robert Courts)</phrase>, who has been itching to speak in the debate, but who has not been allowed to. However, it is fair to say that there is a voice close to the Department that is very positive about the benefits that can flow from this debate and indeed from the improvements to this line.</p>
+    <p pid="a126.1/4">Then there is the shadow Minister, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25691" name="Matt Rodda">the hon. Member for Reading East (Matt Rodda)</phrase>. We have never really tangled in debate before, so I welcome him to his position—I believe he has been elevated or, at the very least, that his brief now encompasses more things. Everything that I have heard about him leads me to believe he is an honourable and decent man who actually wants to improve our railways and has some sensible suggestions to do that. I look forward to engaging with him on this issue.</p>
+    <p pid="a126.1/5">The shadow Minister obviously knows a lot about our railways, so I am sure he has seen that there is a huge amount of investment in them. As my hon. Friend the Member for The Cotswolds said, £48 billion will be invested in this five-year control period. That is a huge amount to improve our existing railways, quite apart from the huge schemes on the cards to build new capacity around the country.</p>
+    <p pid="a126.1/6">The shadow Minister also made a point about fares. I have seen what has been going on in Germany, but I remind him that, in this country, 98p of every pound spent in fares is reinvested back into transport and specifically into the railways. So someone’s fare—any fare—is almost an investment in the railways themselves. However, there is a debate to be had about this issue. I welcome that debate, and I look forward to debating this issue with him.</p>
+    <p pid="a126.1/7">The shadow Minister made a number of points about the road networks and other things that are way beyond my brief. Just as with one of the points raised by my  hon. Friend the Member for Wyre Forest, I will duck those issues in today’s debate and stick to the issue we are here to discuss.</p>
+    <p pid="a126.1/8">Having said that, there was a point about cycling, which is in my brief, even if it is not part of this debate. I just wanted to back up the point my hon. Friend the Member for The Cotswolds made about how we can connect cycling to the railways so much more than we do currently. Last week, I was privileged to go to the Cycle Rail Awards. Yes, there is such an event; it is a proper, red-carpet event—nothing but the best for the Rail Minister. It was really encouraging to see all the cycling schemes now being delivered up and down our railways, increasing capacity so that people can cycle to the railway and park their bicycle. There are also schemes whereby people can rent cycles. People can come out of a city and rent a cycle to enjoy the countryside, before returning the bike at the end of the day—please. There is a lot of investment in this area as well, so it was good to hear it being highlighted in the debate.</p>
+    <p pid="a126.1/9">However, I guess I should actually talk about the meat of this debate. My hon. Friend the Member for West Worcestershire presented a typically eloquent and persuasive argument for investment in the railway line between Oxford and Worcester. Although the debate is about the transformation of the North Cotswold line, it would be remiss of me not to begin by remarking on the renaissance the route has experienced over the last 10 years—my hon. Friend alluded to it in her speech, and it is quite spectacular.</p>
+    <p pid="a126.1/10">At one stage in the 1970s, there was just one through train to London from Worcester each day, which meant the line lived up to its nickname of “Old, Worse and Worse”. From that low point, the route and the services on it have all seen slow—quite slow—but steady improvement. Now, thanks to the sterling efforts of the Cotswold Line Promotion Group and the North Cotswold Line Taskforce, it is going from strength to strength.</p>
+    <p pid="a126.1/11">The real catalyst for the revival of the route was the Government’s investment in 2012, which reinstated sections of double-track railway that had previously been cut back—my hon. Friend the Member for The Cotswolds was vociferous in campaigning for that to happen. The increase in capacity was made to improve performance on the route. However, it also enabled Great Western Railway to gradually introduce progressive enhancement of train services.</p>
+    <p pid="a126.1/12">Fast forward to 2019 and we have seen more investment from the Government in the North Cotswold route and across the whole Great Western Railway network. We are investing over £5 billion to deliver better services and new trains, with thousands more seats, improving over 100 million rail journeys each year and stimulating—as all my hon. Friends have alluded to—economic growth from London through the Thames valley to the Cotswolds, as well as to the west country and south Wales. Our investment has provided 4,900 extra seats into London in the peak hour, which is a 40% increase in capacity.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.127.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.128.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.128.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.128.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.129.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.129.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.129.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.129.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.129.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.130.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.130.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.130.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.130.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.131.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.131.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.131.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.131.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.131.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.131.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.132.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.132.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.132.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.132.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.132.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.132.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.133.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.133.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.133.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.133.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.133.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.133.3" newgid="uk.org.publicwhip/westminhall/2020-01-22b.133.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.133.4" newgid="uk.org.publicwhip/westminhall/2020-01-22b.133.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.134.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.134.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.134.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.134.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.134.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.134.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.134.3" newgid="uk.org.publicwhip/westminhall/2020-01-22b.134.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.134.4" newgid="uk.org.publicwhip/westminhall/2020-01-22b.134.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.134.5" newgid="uk.org.publicwhip/westminhall/2020-01-22b.134.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.135.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.136.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.136.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.136.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.136.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.138.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.138.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.138.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.138.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.138.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.138.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.138.3" newgid="uk.org.publicwhip/westminhall/2020-01-22b.138.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.138.4" newgid="uk.org.publicwhip/westminhall/2020-01-22b.138.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.139.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.140.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.140.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.141.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.143.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.143.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.144.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.144.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.144.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.144.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.145.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.146.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.146.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.146.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.146.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.146.3" newgid="uk.org.publicwhip/westminhall/2020-01-22b.146.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.146.4" newgid="uk.org.publicwhip/westminhall/2020-01-22b.146.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.146.5" newgid="uk.org.publicwhip/westminhall/2020-01-22b.146.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.147.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.147.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.148.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.149.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.149.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.149.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.150.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.150.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.152.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.152.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.152.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.152.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.153.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.153.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.154.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.155.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.155.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.155.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.155.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.155.2" newgid="uk.org.publicwhip/westminhall/2020-01-22b.155.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.156.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.156.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.156.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.157.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.157.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.159.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.160.0" newgid="uk.org.publicwhip/westminhall/2020-01-22b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-01-22a.160.1" newgid="uk.org.publicwhip/westminhall/2020-01-22b.160.1" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2016-10-27b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.179.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.179.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.179.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.179.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.179.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.179.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.179.3" newgid="uk.org.publicwhip/westminhall/2016-10-27c.179.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.180.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.180.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.180.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.180.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.180.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.180.3" newgid="uk.org.publicwhip/westminhall/2016-10-27c.180.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.181.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.181.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.181.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.181.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.181.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.182.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.182.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.182.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.182.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.183.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.184.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.184.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.184.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.184.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.184.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2016-10-27b.184.2" speakername="Madeleine Moon" person_id="uk.org.publicwhip/person/11450" colnum="184" time="13:54:00" url="">
+    <p pid="b184.2/1">I will not delay everyone for long. Although the Committee found that the Government’s accounting criteria fell firmly within the NATO guidelines, we also found that those criteria had been amended to include several significant items that had not previously been included when the UK calculated its defence expenditure. That is the nub of the issue that we must address. The Committee is concerned that the inclusion of such items, which were critical in attaining the 2%, could undermine the promises in the SDSR of new money for defence.</p>
+    <p pid="b184.2/2">During our inquiry, there was considerable discussion of the 2% as an indicator of Britain’s political willingness. Witnesses said that</p>
+    <p pid="b184.2/3" class="indent" pwmotiontext="yes">“2% is good politically”</p>
+    <p pid="b184.2/4">and not to meet the 2%</p>
+    <p pid="b184.2/5" class="indent" pwmotiontext="yes">“would have been damaging to our reputation politically.”</p>
+    <p pid="b184.2/6">The 2% was said to have</p>
+    <p pid="b184.2/7" class="indent" pwmotiontext="yes">“a…powerful symbolic meaning”.</p>
+    <p pid="b184.2/8">The UK has made great play of that 2% as demonstrating its commitment to collective defence in NATO, but the inclusion of items that had not previously been included, such as pensions, has not gone unnoticed—with considerable contempt—across the alliance. As well as being a member of the Defence Committee, I represent the UK on the NATO Parliamentary Assembly, and I have found that other countries, when talking about their expenditure and accepting that it does not reach 2%, take great delight in pointing out that their figures do not include pensions, as they have no wish to use creative accounting to bolster their spending. That is divisive within NATO and damages our credibility and capability to defend our shores and those of our allies.</p>
+    <p pid="b184.2/9">Our report highlighted that 2% should be a minimum, not a target, and certainly should not be seen as an indicator of capability or capacity, or give a false glow of competency and readiness. The report also urged the Government to provide a calculation of what defence expenditure would be if we left out the new items such as pensions and used the same items as we had under the 2010 accounting rules. We still await those figures.</p>
+    <p pid="b184.2/10">A perfect storm is building of cuts to personnel, cuts to training, problems in procurement and gaps in capability. With the 2%, there is a disparity between our procurement aspirations and their affordability—and our capacity to deal with major defence equipment deficiencies, such as the engines for the Type 42 destroyers and the delays in replacing the Type 23 frigates and logistics supply ships. I have a major concern in particular about the Royal Navy’s capacity and capability. If we went back to realistic accounting, perhaps we would be able to deal with those issues.</p>
+    <p pid="b184.2/11">I do not want to take too much time, because I know that colleagues want to speak, but I must emphasise that in our report, the Committee expressed concern that the UK must not become a hollow force. Sadly, despite the great commitment and bravery of our personnel and their amazing “make do and mend” ingenuity, I fear that we are hiding our vulnerability behind the cardboard shield of 2%.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.185.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.185.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.185.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.185.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.185.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.185.3" newgid="uk.org.publicwhip/westminhall/2016-10-27c.185.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.185.4" newgid="uk.org.publicwhip/westminhall/2016-10-27c.185.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.185.5" newgid="uk.org.publicwhip/westminhall/2016-10-27c.185.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.185.6" newgid="uk.org.publicwhip/westminhall/2016-10-27c.185.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.3" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.4" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.5" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.6" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.7" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.8" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.9" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.10" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.11" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.186.12" newgid="uk.org.publicwhip/westminhall/2016-10-27c.186.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.188.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.188.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.188.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.188.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.189.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.192.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.194.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.194.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.194.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.194.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.194.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.194.3" newgid="uk.org.publicwhip/westminhall/2016-10-27c.194.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.194.4" newgid="uk.org.publicwhip/westminhall/2016-10-27c.194.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.195.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.195.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.195.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.195.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.195.3" newgid="uk.org.publicwhip/westminhall/2016-10-27c.195.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.195.4" newgid="uk.org.publicwhip/westminhall/2016-10-27c.195.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.196.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.196.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.196.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2016-10-27b.196.1" speakername="Phil Wilson" person_id="uk.org.publicwhip/person/13933" colnum="196" time="14:34:00" url="">
+    <p pid="b196.1/1">It is a pleasure to speak under your chairmanship, Mr Bone.</p>
+    <p pid="b196.1/2">This debate is about what sort of country we see ourselves as being. I have always seen the UK as a force for good, and I mean that not just in military terms but in our humanitarian role in the world and how we have defended liberal democracy over the decades. The issue is not just the 2% pledge, but whether we have the capability to achieve what we set out to do as a military nation. In 2013, the UK’s GDP was £1.6 trillion, with a defence budget of £37 million, or 2.3% of GDP. In 2014, our GDP was £1.7 billion and the defence budget was 2.17% of GDP. At the same time as the budget has fallen significantly over that period, Russia’s defence budget went up by 21% last year alone. That is what we must consider.</p>
+    <p pid="b196.1/3">I do not think the Russians want to enter into a war with the west, but times are uncertain. Russia might be a declining power, but insecure powers, like insecure people, may lash out, and that country also has nuclear weapons. I read in The Times at the beginning of this week that Russia has just unveiled a new sort of intercontinental ballistic missile. We know that it has put nuclear weapons into Kaliningrad, and we know what it does in Syria. We definitely know what it did in Ukraine. Russia is flexing its muscles, and we must be prepared for that.</p>
+    <p pid="b196.1/4">General Sir Richard Shirreff said in his evidence to the Committee that even if all NATO’s member states put 2% of their GDP into the defence of the west, he was sceptical about whether that would be enough to see off the threat from countries such as Russia. We must realise that many of the military conflicts and issues around the world are asymmetrical, and there are all sorts of issues such as cyber and terrorism. Russia is one nation that we could find ourselves in conflict with.</p>
+    <p pid="b196.1/5">China’s defence budget is well over $200 billion. The rest of that region’s defence budget put together is only $45 billion. A figure I came across at the beginning of the week is that there are more than 100,000 UN peacekeepers around the world in 16 locations, many of them in Africa. The world situation is very turbulent. Are we in a position to defend ourselves?</p>
+    <p pid="b196.1/6">Sir Richard Barrons said in The Daily Telegraph on <phrase class="date" code="2016-09-17">17 September</phrase> that the UK’s armed forces are withered. I do not want to talk down our armed forces and the brave men and women who serve in them, but this man knows what he is talking about, so he should be listened to. He referred in the Financial Times to Britain’s ability to defend itself from aerial attacks and said:</p>
+    <p pid="b196.1/7" class="indent" pwmotiontext="yes">“UK air defence now consists of the”</p>
+    <p pid="b196.1/8">working Type 45 destroyers,</p>
+    <p pid="b196.1/9" class="indent" pwmotiontext="yes">“enough ground-based air defence to protect roughly Whitehall only, and RAF fast jets. Neither the UK homeland nor a deployed force—let alone both concurrently— could be protected from a concerted Russian air effort.”</p>
+    <p pid="b196.1/10">These issues are worrying for me and, I believe, for the other people in this Chamber and the Defence Committee.</p>
+    <p pid="b196.1/11">Is 2% enough? When other things, such as pensions and so on, are included, and there is creative accounting, do the Government really mean 2%? We must sit down and think whether it is enough. Efficiencies are brilliant and fantastic. We all agree with that, but the one thing we must do is to protect this country. We must have a serious look at whether 2% is what we should be paying.</p>
+    <p pid="b196.1/12">We have two brilliant aircraft carriers that will come into service in a little while, but have we got enough ships to defend them? Have we got the submarines to defend them? Have we got the skills to man them? We need to look at that. If we are to punch above our weight, let us ensure that we can actually do that. We just have to be honest with ourselves. Is 2% enough? Is the 2% actually 2%? Should the figure be higher? We need to hear from the Minister on that.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.198.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.199.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.199.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.199.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.199.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.201.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.201.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.201.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.202.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.202.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.204.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.204.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.204.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.204.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.204.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.204.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.205.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.205.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.205.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.205.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.205.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.205.3" newgid="uk.org.publicwhip/westminhall/2016-10-27c.205.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.206.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.206.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.206.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.206.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.206.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.206.3" newgid="uk.org.publicwhip/westminhall/2016-10-27c.206.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.208.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.208.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.208.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.209.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.209.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.209.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.210.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.210.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.210.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.211.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.211.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.211.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.211.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.211.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.211.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.212.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.212.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.212.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.212.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.213.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.213.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.213.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.213.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.213.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.213.3" newgid="uk.org.publicwhip/westminhall/2016-10-27c.213.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.214.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.214.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.214.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.214.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.214.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.216.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.218.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.218.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.218.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.218.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.218.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.218.3" newgid="uk.org.publicwhip/westminhall/2016-10-27c.218.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.220.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.220.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.220.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.220.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.220.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.220.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.221.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.221.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.221.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.222.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.222.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.222.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.222.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.222.2" newgid="uk.org.publicwhip/westminhall/2016-10-27c.222.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.223.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.223.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.225.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.226.0" newgid="uk.org.publicwhip/westminhall/2016-10-27c.226.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-10-27b.226.1" newgid="uk.org.publicwhip/westminhall/2016-10-27c.226.1" matchtype="perfectmatch"/>
+</publicwhip>
+

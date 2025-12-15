@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-12-07a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.259.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.259.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.259.1" newgid="uk.org.publicwhip/westminhall/2020-12-07b.259.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.259.2" newgid="uk.org.publicwhip/westminhall/2020-12-07b.259.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.261.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.261.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.261.1" newgid="uk.org.publicwhip/westminhall/2020-12-07b.261.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.262.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.262.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.263.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.263.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.265.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.265.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.266.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.267.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.267.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.267.1" newgid="uk.org.publicwhip/westminhall/2020-12-07b.267.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.268.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.268.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.269.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.269.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.270.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.271.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.271.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.272.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.272.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.273.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.273.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-12-07a.273.0" speakername="Rachael Maskell" type="Start Speech" person_id="uk.org.publicwhip/person/25433" colnum="273" time="17:24:00" url="">
+    <p pid="a273.0/1">It is a pleasure to serve under your chairmanship, Mr Mundell. I thank all hon. Members for the way they have spoken so movingly. I put on the record my thanks to Chris Copeland, from my constituency, who helped me prepare for the debate, and to all the petitioners, who obviously signed the petition wanting to see real change in the life chances of children.</p>
+    <p pid="a273.0/2">Grace did not lose her battle with cancer. The truth is that Grace’s battle was lost before she was even given a chance to fight. The battle was lost by the lack of research into the No. 1 medical cause of death of children in the UK: childhood cancer. I was struck by the words of Dr Jen Kelly, who told me of her little girl, Grace, and how she died in her arms, just four and a quarter years old, of a rhabdoid tumour. I am grateful to her for sharing the story of her little girl, Grace, with me. She continues to fundraise and champion the cause of all children.</p>
+    <p pid="a273.0/3">Every year, 1,900 children receive the devastating news that they have cancer. Parents have to equip themselves to deal with that, often without the information that they need at that time being readily available. For Grace’s family, the time was too short, and they were simply told to do research on the internet. They have used the legacy of Grace to turn that around for other parents.</p>
+    <p pid="a273.0/4">Just two weeks ago, many of us spoke in this place about the opportunity to extend research in certain medical areas. The Association of Medical Research Charities called on the Government to establish a life sciences-charity partnership fund. I listened intently to the Chancellor’s statement and was sorry that no announcement was made. Cancer Research UK alone has had to cut its research budget by £44 million this year due to covid. Charities have also lost £10 billion to date, and this year is not getting any easier for them. However, today marks the start of UK Charity Week, with its slogan, “What will you be doing?”. I put that question to the Minister, because this week again provides an opportunity for action. It is worth recalling that, for every £1 spent on childhood cancer, there is a potential £3 return, not to mention the human benefit that this brings.</p>
+    <p pid="a273.0/5">There is an opportunity for us to go further. We trail behind our European counterparts in early diagnosis. A prime goal of at least catching up with all European countries would be a first step.</p>
+    <p pid="a273.0/6">We also need to ensure that we are part of that global community of research, and that we play our role in leading that. Before the closure of talks with the EU, we need to make sure that opportunities to participate with  other European countries are not diminished at this time but accelerated. There is hope on the horizon. There has been much discussion about Horizon research funding over the years. This new round, which is coming over the horizon, is very much related to cancer, and discussions are certainly taking place about the role it can play in advancing research into paediatric cancers. I trust that the Minister will tell us how she is participating in that debate in order to make what all of us have called for today a reality for the families who desperately need that help.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.274.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.276.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.276.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.276.1" newgid="uk.org.publicwhip/westminhall/2020-12-07b.276.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.278.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.281.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.282.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.282.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.282.1" newgid="uk.org.publicwhip/westminhall/2020-12-07b.282.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.282.2" newgid="uk.org.publicwhip/westminhall/2020-12-07b.282.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.286.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.287.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.289.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.289.1" newgid="uk.org.publicwhip/westminhall/2020-12-07b.289.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.291.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.293.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.295.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.295.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.296.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.296.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.296.1" newgid="uk.org.publicwhip/westminhall/2020-12-07b.296.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.298.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.301.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.303.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.303.1" newgid="uk.org.publicwhip/westminhall/2020-12-07b.303.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.304.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.304.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.305.0" newgid="uk.org.publicwhip/westminhall/2020-12-07b.305.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.305.1" newgid="uk.org.publicwhip/westminhall/2020-12-07b.305.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.305.2" newgid="uk.org.publicwhip/westminhall/2020-12-07b.305.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-07a.305.3" newgid="uk.org.publicwhip/westminhall/2020-12-07b.305.3" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-05-25a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.51.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.51.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.51.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.51.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.51.2" newgid="uk.org.publicwhip/westminhall/2021-05-25b.51.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.51.3" newgid="uk.org.publicwhip/westminhall/2021-05-25b.51.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.55.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.55.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.57.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.57.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.57.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.57.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.58.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.58.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.60.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.60.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.62.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.62.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.64.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.64.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.66.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.66.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.66.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.66.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.68.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.68.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.71.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.71.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-05-25a.71.0" speakername="Jo Churchill" type="Start Speech" person_id="uk.org.publicwhip/person/25408" colnum="71" time="10:40:00" url="">
+    <p pid="a71.0/1">It is a pleasure to serve under your chairmanship, Ms Bardell. I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/25649" name="Mohammad Yasin">the hon. Member for Bedford (Mohammad Yasin)</phrase> on securing this important debate. We have heard during the debate that we all want better dentistry. I would like us to have that conversation in a constructive and positive manner going forward.</p>
+    <p pid="a71.0/2">I thank all members of the dental profession. This has been incredibly tough, but there is a reason. I very gently point out that dentistry uses aerosol-generating procedures. Dentists work very much around the mouth and nose, where there are saliva and droplets. The whole onus of what we did at the beginning was to keep  people safe—the profession, their teams and their patients. It has been a very slow rebuild, and infection control still lies at the centre of that. I would like everybody to remember that, because it makes dentistry a uniquely challenging area to try to deal with.</p>
+    <p pid="a71.0/3">I agree with everyone that dentistry was an incredibly challenging area before the pandemic. Certain parts of the country, including the east of England but also the south-west, already had systemic problems. <phrase class="honfriend" person_id="uk.org.publicwhip/person/25393" name="Judith Cummins">The hon. Member for Bradford South (Judith Cummins)</phrase> and I have had conversations about how we can improve this and drive things forward. The Healthwatch report published yesterday shows that demand for dental access remains high, and that many patients are experiencing difficulties. I am not shying away from the fact that there is a problem and that we need to work hard to fix it. However, there was an access problem prior to the pandemic as well. I very much welcome the Healthwatch report, and I look forward to meeting the chair of that organisation tomorrow.</p>
+    <p pid="a71.0/4">The pandemic has had, and continues to have, a substantial impact on dentistry, and I am grateful to dentists and all their teams for their continued resilience and dedication in providing the best care for their patients under extremely challenging circumstances. They have had to adjust to working differently and responding to new challenges, especially around infection and control measures, which I know they find restrictive. My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10041" name="Paul Beresford">the Member for Mole Valley (Sir Paul Beresford)</phrase> brought members of the profession and we discussed how difficult it is to work in the PPE and so on. We are looking, with Public Health England, at how we can provide them with that assurance. However, once again, at the heart of this lies the fact that my primary concern is to make sure everybody is safe. I would not be doing what I am tasked with if that were not the case.</p>
+    <p pid="a71.0/5">Ventilation was bought up by several people. There are significant and practical financial and timing challenges in assessing and putting it in. Not every dentist owns their own premises, and not every dentist acts only in their own premises. However, I have asked NHS England what we can do in this area, what is practical and what can be achieved by working with the profession. The aerosol-generating procedures obviously involve high-speed drilling, creating a fine spray of saliva, which creates a heightened risk of transmission, as pointed out. In response to our usual high street dental practices, we required dentists to wear full PPE and to rest rooms early in the pandemic for up to an hour. That caused problems, and challenges with getting volume through. That caused problems, and challenges with getting volume through. With the new guidance, however, the time in many cases is down to as little as 10 minutes, depending on, as I have said, the level of ventilation and other things. That has been an important step forward in allowing greater throughput in practices and has helped to facilitate more care for more patients. But we are asking the profession to see patients on the basis of need. As everybody has pointed out, there has been an enormous backlog for some considerable time. We need to ensure that we are seeing the people who have the most urgent and essential need first. That is why people will not always get a routine appointment at the first time of asking.</p>
+    <p pid="a71.0/6">Taking revised IPC—infection prevention and control—requirements into account, we have worked closely with NHS England in considering what levels of NHS dentistry  can be delivered in the current environment. It is undeniable that the pandemic and the necessary steps that we have had to take to protect dental patients and staff have led to a reduction in the number of patients treated. That is self-evident, but we are continuing to work with dentists, the broader profession and NHSE to develop a road map, which is essentially what everybody needs in order to move forward.</p>
+    <p pid="a71.0/7">I know that many across the House are concerned about the thresholds; <phrase class="honfriend" person_id="uk.org.publicwhip/person/25687" name="Alex Norris">the hon. Member for Nottingham North (Alex Norris)</phrase>, who is always constructive in these things, has said that they were introduced last year. But there is a fine line here. In the beginning, we supported the profession with 100% of payments for what it was delivering, but we now need to get that volume up. We cannot have no targets for delivery; we cannot have a drive towards giving more patient care but not ask the profession to deliver more. That just does not work. Dental practices have been asked to deliver more care, prioritising based on clinical need, and in that way we have sought to target available capacity at those who need it most. I am pleased to say that approximately 95% of practices exceeded the threshold for full remuneration set in the last quarter of last year, so up to March. The average performance in February was 59%. The hon. Member for Bedford will be pleased to hear that 87% of his local NHS practices have already exceeded the threshold, and there is still time to submit the activity for quarter 4.</p>
+    <p pid="a71.0/8">We have continued to monitor the levels of NHS care being delivered, and on that basis we have set the new threshold of 60% for dental activity and 80% for orthodontic activity between April and September. Sixty per cent. still means 40% of people who were seen before not being seen, and that was still not a system that was enabling everybody to be seen. That is why we have challenges throughout the system, but the thresholds were based on data. The accusation that they were not modelled properly and we did not look at them is actually not fair, because we have done that. I am terribly sorry, but I cannot remember who said that people were not doing NHS care but reverting to private care. I think it was <phrase class="honfriend" person_id="uk.org.publicwhip/person/25433" name="Rachael Maskell">the hon. Member for York Central (Rachael Maskell)</phrase>, or was it <phrase class="honfriend" person_id="uk.org.publicwhip/person/25813" name="Fleur Anderson">the hon. Member for Putney (Fleur Anderson)</phrase>? It is still a patient in their chair; it is still activity; it is still volume. It is just a different way of charging.</p>
+    <p pid="a71.0/9">Again, the thresholds were based on modelling. There is a need to lift capacity if we are to care for patients. We are monitoring on a monthly basis, and the thresholds have been put in place for six months to provide some stability to the system. To improve access for those who need it most, NHS England has also provided a flexible commissioning toolkit; it has been charged to do that. As the hon. Member for Bradford, South said, as my discussions with my hon. Friend the Member for Mole Valley have shown and as we discussed in the previous debate, which was initiated by the hon. Member for Putney, these things are in train. We need to effect change. The UDA—unit of dental activity—system, brought in by the Labour Government in 2006, is broken; we understand that it is broken, but these things take more than a month to put in place. To improve access for those who need it most, we are pushing on with flexible commissioning, focusing on those experiencing health  inequality and on available capacity where it will impact oral health most. We are looking at and targeting those vulnerable groups who have been referred to by so many hon. Members.</p>
+    <p pid="a71.0/10">The situation remains challenging, even as we see more and more people being vaccinated, and certainly in Bedford there are challenges. I spoke to the hon. Member for Bedford last week about surge testing and turbo-charging the vaccination programme in Bedford. We need to be aware that, when there are these challenges, we have to look at dentistry and be doubly careful that we are aware of variants of concern in some of these areas.</p>
+    <p pid="a71.0/11">Many patients are still experiencing difficulties in finding an NHS dentist. NHS England’s customer care centre can help people, and patients with urgent need can also call NHS 111. I say to <phrase class="honfriend" person_id="uk.org.publicwhip/person/25356" name="Clive Lewis">the hon. Member for Norwich South (Clive Lewis)</phrase> that there are 10 urgent dental care, or UDC, teams across Norfolk. So, if anybody needs that number of teeth extracted or is in pain they should ring 111 and they will be directed to a UDC for urgent care.</p>
+    <p pid="a71.0/12">Actually, we are seeing broadly the same number of patients through urgent care as we were pre-pandemic, showing that the current prioritisation is keeping numbers stable. However, the need for urgent care is not wavering and in all reality it will rise, because people have been waiting for a longer period of time.</p>
+    <p pid="a71.0/13">I acknowledge that the Healthwatch report also highlights the fact that information on NHS dentist availability is not always easy to access. Again, I have tasked others with going away and making sure that patient information is more readily available. So, NHS dental practices will be asked to update their information online, because much of it is out of date, meaning that it is much harder for individuals to see what is available locally. The update will mean they can find the care they need.</p>
+    <p pid="a71.0/14">I have also asked that we truly look at and identify where we have dental capacity and where we have dental deserts, as it were. That goes to not only where we target the workforce—we are working with the GDC very closely on overseas registration and so on—but how we actually deliver, because parts of the country have much greater access problems than other parts.</p>
+    <p pid="a71.0/15">Throughout the pandemic, we have supported NHS practices, in addition to paying the full contractual value for the lower ends of activity. We have also provided free PPE from the dedicated portal. As of <phrase class="date" code="2021-05-18">18 May</phrase>, nearly 7,000 dental providers have registered with the portal, which has shipped over 367 million items to dentists, orthodontists and their broader teams.</p>
+    <p pid="a71.0/16">I will move on to contract reform. The pandemic continues to highlight the fact that transformation in dentistry is essential. If we are to address continuing inequalities, particularly in children’s oral health, I want to see a change in the way we approach dental services and oral health. We have much to build on, but it is time to move from research to action.</p>
+    <p pid="a71.0/17">We are grateful to the prototype practices, whose commitment to the reform programme has been invaluable over the years, and their ongoing participation has enabled us to gather vital data, which will inform the next stage of the reform process. I have spoken to people with different systems, from as close as Wales—leading academics and practitioners—but also people  from right across Europe. I have spoken to people who provide services that are totally free at the point of delivery and those who have a total charging system.</p>
+    <p pid="a71.0/18">No country has a perfect system. Dentistry offers an incredible challenge. We have a mix of private, mixed and NHS services, and I would like to maintain that environment. We need to develop a sustainable, long-term approach to dentistry that is responsive to the population, providing high-quality urgent treatment and restorative dentistry.</p>
+    <p pid="a71.0/19">There is an opportunity for the whole team to support improved population health. Everything we eat goes in through our mouths, so dentists are great in helping to advise in other general areas of health, such as obesity and so on. We have a profession that is eager to contribute more and enthusiastic to do so. High-quality prevention needs to be at the forefront, and I am determined that a transformation in commissioning will help us to achieve that.</p>
+    <p pid="a71.0/20">I am beginning to run short of time, for which I apologise. A toothbrush costs 33p. Every parent needs to help us to care for their children’s teeth. Oral decay is preventable. We need to work together, so that there is more supervised tooth brushing but also more parental guidance, so that parents can help their children to have healthy oral hygiene.</p>
+    <p pid="a71.0/21">I want to see water fluoridation, which has been in some parts of England for decades, rolled out. I heard my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25645" name="Bob Seely">the Member for Isle of Wight (Bob Seely)</phrase> argue that his constituency would be a good test place. A provision needs to be included in the upcoming health and social care Bill, to transfer responsibility to the Secretary of State, in order to expand schemes more easily. I am glad to see the unanimous support for that. Subject to funding being secured and to consultation with partners, that is something we need to work on together. I want to prevent the unnecessary pain and suffering each year of those 37,000 children in many of our constituencies. Water fluoridation offers the quickest return on investment, giving as much as £35 return for every £1 spent.</p>
+    <p pid="a71.0/22">I hope it provides reassurance that I meet regularly with the profession. I am meeting the all-party parliamentary group for dentistry and oral health next week. We are committed to ensuring that patients can access NHS dentistry and supporting the profession. A substantial amount of work is going on, changing the way dental services are provided to improve the health of the population.</p>
+    <p pid="a71.0/23">Motion lapsed (<phrase class="standing-order" code="10(6)">Standing Order No. 10(6)</phrase>).</p>
+    <p pid="a71.0/24">Sitting suspended.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.76.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.76.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.76.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.76.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.76.2" newgid="uk.org.publicwhip/westminhall/2021-05-25b.76.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.77.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.77.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.77.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.77.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.79.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.85.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.85.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.85.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.85.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.85.2" newgid="uk.org.publicwhip/westminhall/2021-05-25b.85.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.85.3" newgid="uk.org.publicwhip/westminhall/2021-05-25b.85.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.87.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.87.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.89.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.89.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.91.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.91.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.92.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.92.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.94.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.94.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.97.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.97.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.97.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.97.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.100.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.101.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.101.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.101.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.101.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.101.2" newgid="uk.org.publicwhip/westminhall/2021-05-25b.101.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.102.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.102.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.102.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.102.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.103.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.103.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.104.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.104.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.104.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.107.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.107.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.107.1" newgid="uk.org.publicwhip/westminhall/2021-05-25b.107.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.107.2" newgid="uk.org.publicwhip/westminhall/2021-05-25b.107.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.111.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.111.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.112.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.112.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.113.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.113.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.114.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.114.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.115.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.117.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-05-25a.120.0" newgid="uk.org.publicwhip/westminhall/2021-05-25b.120.0" matchtype="perfectmatch"/>
+</publicwhip>
+

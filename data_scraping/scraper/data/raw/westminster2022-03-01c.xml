@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2022-03-01c.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.269.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.269.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.269.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.269.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.269.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.269.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.269.3" newgid="uk.org.publicwhip/westminhall/2022-03-01d.269.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.269.4" newgid="uk.org.publicwhip/westminhall/2022-03-01d.269.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.269.5" newgid="uk.org.publicwhip/westminhall/2022-03-01d.269.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.270.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.270.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.270.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.271.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.271.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.272.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.272.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.272.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.272.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.272.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.272.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.273.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.273.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.273.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.273.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.273.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.273.3" newgid="uk.org.publicwhip/westminhall/2022-03-01d.273.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.274.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.274.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.274.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.276.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.276.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.276.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.276.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.278.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.279.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.279.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.279.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.279.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.280.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.280.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.280.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.280.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.280.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.281.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.282.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.282.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.282.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.282.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.284.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.284.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.285.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.285.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.286.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.286.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.286.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.287.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.287.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.287.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.289.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.290.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.290.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.290.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.290.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.290.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.290.3" newgid="uk.org.publicwhip/westminhall/2022-03-01d.290.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.291.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.294.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.294.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.294.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.294.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.294.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.295.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.295.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.295.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.295.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.295.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.295.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.297.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.297.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.297.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.297.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.298.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.298.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.298.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.299.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.299.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.303.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.303.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.303.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.303.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.303.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.303.3" newgid="uk.org.publicwhip/westminhall/2022-03-01d.303.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.304.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.304.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.304.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.304.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.304.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.304.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.306.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.307.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.307.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.308.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.308.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.309.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.309.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.309.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.309.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.310.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.310.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.313.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.313.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.315.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.315.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.315.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.315.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.316.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.316.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.317.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.317.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.317.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.317.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.319.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.319.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.321.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.321.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.324.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.324.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.325.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.325.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.325.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.325.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.329.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.329.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-03-01c.329.0" speakername="David Rutley" type="Start Speech" person_id="uk.org.publicwhip/person/24820" colnum="329" time="16:16:00" url="">
+    <p pid="c329.0/1">It is an honour to serve under your chairmanship, Sir Edward. I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24764" name="Paul Maynard">the Member for Blackpool North and Cleveleys (Paul Maynard)</phrase> on securing this debate on the household support fund. He is a thoughtful and dedicated constituency MP who has a lot of experience in this area. I take his comments and observations very seriously. I will try to answer some of his points—he has made quite a few, but that is good.</p>
+    <p pid="c329.0/2">As Members will be aware, we introduced a £500 million support fund last October to help vulnerable households with essentials, running until <phrase class="date" code="2022-03-31">31 March</phrase> this year. That was in recognition of the fact that some people required extra support over the year as we entered the final stages of the recovery from the pandemic. The household support fund has provided £421 million of support to  local authorities to help vulnerable people in England with the cost of food, utilities and wider essentials. The Barnett formula has been applied in the usual way, meaning that the devolved Administrations also received almost £80 million.</p>
+    <p pid="c329.0/3">The household support fund helps vulnerable households with food, energy and water costs, and many local authorities have used the funding to support vulnerable households with children by providing free school meal vouchers during the holidays. The support also covers any form of fuel that is used for domestic heating, cooking or lighting, as well as water for drinking, washing, cooking, or sewage and sanitary purposes. The household support fund can be used to support wider essential needs that are not linked to energy and water, and those may include, but are not limited to, support with other bills, including broadband, phone bills, clothing and essential transport-related costs.</p>
+    <p pid="c329.0/4">In response to one of the concerns of my hon. Friend the Member for Blackpool North and Cleveleys, there is no prescriptive definition of essentials, although our guidance for the household support fund outlined how we felt the funding ought to be targeted. Authorities have discretion—that is an important word—to assess what is reasonable when it comes to assisting those in genuine need this winter. Local authorities also have discretion on exactly how this funding is used in their area. They can take a variety of routes: they can offer vouchers to households, directly provide food or other goods, or issue grants to third parties, who then distribute goods to vulnerable households on their behalf.</p>
+    <p pid="c329.0/5">Local authorities set their own eligibility requirements, and they have been encouraged to use a wide range of data and sources of information at their disposal to identify and provide support to a broad cross-section of vulnerable households in their area. Assistance from the household support fund is not restricted to households in receipt of benefits. At least 50% of the funding is dedicated to vulnerable households with children, while up to 50% is available to vulnerable households without children, including individuals.</p>
+    <p pid="c329.0/6">As my hon. Friend has set out, the household support fund is a form of local welfare assistance. Local welfare assistance is a local authority-delivered discretionary safety net beyond the national benefit system that can provide one-off or infrequent assistance for people in need. Funding for local welfare assistance is included in the local government finance settlement. This Government remain committed to supporting people on low incomes, and the household support fund is just one element of a wider package of support. We established several local welfare schemes during the pandemic, including the covid winter grant scheme, which ran from December 2020 to April 2021, and the covid local support grant, which ran from April 2021 to September 2021. The household support fund built on this support, and it means that we have provided nearly £1 billion in local welfare support since December 2020.</p>
+    <p pid="c329.0/7">Those schemes offered quick, targeted support for families when they needed it most. Local authorities in England made six million awards through the covid winter grant scheme and a further 4.3 million through the covid local support grant. We will be internally reviewing the delivery of those schemes to learn lessons and inform policy making moving forward.</p>
+    <p pid="c329.0/8">In order to support local authorities in implementing the covid winter support scheme, covid local support grant and household support fund by identifying those most in need, my Department has shared data on universal credit claimants on low incomes who are eligible for free school meals or free prescriptions, whether those are households with or without children. The data is shared with authorities through local welfare provision regulations. There are many examples of good practice delivery of the household support fund.</p>
+    <p pid="c329.0/9">Blackpool, which includes the constituency of my hon. Friend, has done some good work in this space. Happily, it is a place I am familiar with, having recently attended a jobs fair at Blackpool Tower for the Kickstart scheme. I think that was back in September. Time flies. Blackpool has been allocated £1.7 million from the household support fund, which is being used to provide short-term financial support to vulnerable households in the area.</p>
+    <p pid="c329.0/10">Indeed, Blackpool is demonstrating the value and the flexibility of the household support fund by prioritising costs relating to energy, water bills and items relating to keeping warm, including winter clothing, blankets, draught excluders and window sealants. The scheme is also providing funding for boiler repair services. That demonstrates just how responsive and diverse the support under this scheme can be. Another example of good practice can be found in Leicester. It is responding to an increase in the wholesale price of gas by issuing an energy grant of, on average, £340 per eligible household through the fund. It has been providing travelling communities with grants to refill bottle gas, and around 300 foster family households are receiving one-off grants of £500 towards the increased cost of utilities and fuel.</p>
+    <p pid="c329.0/11">Likewise, Lambeth has made good use of the fund. It provided additional support to community organisations that provide food boxes to harder-to-reach communities; the food is tailored to reflect the diverse cultural make-up of those areas. It also encouraged residents to apply for further support by promoting the fund through the borough’s health and wellbeing bus, which visits high footfall areas and provides covid vaccinations and other health and wellbeing offers. It is a very creative approach, which is to be commended.</p>
+    <p pid="c329.0/12">My hon. Friend highlighted the important role of third-party providers in delivering support locally. Local authorities have worked closely with third parties on delivery of the household support fund, and they have been an important part of how the scheme has been delivered in some areas.</p>
+    <p pid="c329.0/13">Darlington Borough Council, which I think my hon. Friend mentioned, has a mature relationship with the charity Bread and Butter Thing. The charity’s core mission is to make affordable food available to struggling families. It already works with local community organisations in a well-established network, making it an ideal partner for the borough council to approach for help with distributing the household support fund. A partnership was agreed, whereby it would administer fuel voucher applications and provide free bags of shopping for those in greatest need, in addition to running weekly mobile food clubs.</p>
+    <p pid="c329.0/14">The household support fund ends on <phrase class="date" code="2022-03-31">31 March</phrase>, but other support for those on low incomes will continue to be available after this point. We understand that people  are concerned about pressure on household budgets, and we are taking action to help. The household support fund is just one part of a £12 billion fund that the Government are spending this year and next on providing wider support, in order to ease cost of living pressures. Help is targeted at working families, low-income households and those in the most need and with vulnerable families.</p>
+    <p pid="c329.0/15">We are cutting the universal credit taper rate to make sure that work pays, and are uplifting the work allowance, which will put an extra £1,000 a year into the pockets of two million low-income families. We are also freezing fuel and alcohol duties to keep costs down, and are increasing the national living wage to £9.50 per hour in April, providing an extra £1,000 in pay for a full-time worker. It has risen every year since it was introduced in 2016.</p>
+    <p pid="c329.0/16">In addition, in response to the concern about increasing energy prices, the Government recently announced a three-part plan of support to help households with rising energy bills. That support is worth £9.1 billion in 2022-23. That includes a £200 discount on energy bills this autumn for domestic electricity customers in Great Britain, which will be paid back automatically over the next five years. There is also a £150 non-repayable rebate on council tax bills for households in bands A to D in England, as well as a £144 million discretionary fund for local authorities, so that they can support households that need assistance but are not eligible for the rebate.</p>
+    <p pid="c329.0/17">There is also existing support to help people with the cost of fuel or energy, for example through the warm home discount and the winter fuel payment. That will help households with rising energy costs. Cold weather payments provide £25 a week extra for poorer households when temperatures are consistently below zero. We have increased the value of healthy start vouchers to £4.25, and we are also investing more than £200 million a year, from 2022, in continuing our holiday activities food programme. That is already providing enriching activities and healthy meals to children in English local authorities.</p>
+    <p pid="c329.0/18">My hon. Friend mentioned local authority funding for food banks. He is well aware that they are independent and charitable organisations, and the Department for Work and Pensions does not have a role in their operation. There is no consistent and accurate measure of food bank usage at a constituency or national level. We understand the data limitations in that area, so in April 2021, we introduced a set of questions into the family resources survey to measure and track food bank usage. The first results of those questions, which will be subject to the usual quality assurance processes, are due to be published in March 2023. I am sure that the data will be of great interest to him, as it will be to me and Ministers in the Department.</p>
+    <p pid="c329.0/19">To conclude, the household support fund is one of a number of ways the Government have supported those who need help most across the country. The household support fund has provided local authorities with the flexibility to tailor their provision to individual needs, and it allows them to target a broader cohort of households. We are unfortunately not yet able to discuss the interim management information collected from the household support fund so far. The information gathered from the scheme will be published once the scheme has closed and the data has been properly analysed and checked by our officials. That management information on the  household support fund will provide helpful further details on how local authorities have been using this important funding. The covid winter grant scheme management information was published in June 2021, and the covid local support grant management information was published in September 2021.</p>
+    <p pid="c329.0/20">That information will inform future policy decisions in this area, as we look to learn lessons from the support we provided throughout the pandemic and beyond. I am sure that that information will be of interest to my hon. Friend, who has once again this afternoon demonstrated his expertise in this area of policy, and his commitment to improving the life chances of vulnerable people, not just in Blackpool but across the country. I am grateful for his interest and expertise.</p>
+    <p pid="c329.0/21">Question put and agreed to.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.334.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.334.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.334.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.334.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.334.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.334.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.334.3" newgid="uk.org.publicwhip/westminhall/2022-03-01d.334.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.337.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.337.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.337.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.337.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.337.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.337.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.339.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.339.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.340.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.340.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.340.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.340.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.340.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.340.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.341.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.341.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.343.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.343.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.344.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.344.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.344.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.344.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.344.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.344.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.346.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.346.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.346.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.346.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.346.2" newgid="uk.org.publicwhip/westminhall/2022-03-01d.346.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.347.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.347.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.347.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.347.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.348.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.348.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.348.1" newgid="uk.org.publicwhip/westminhall/2022-03-01d.348.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01c.350.0" newgid="uk.org.publicwhip/westminhall/2022-03-01d.350.0" matchtype="perfectmatch"/>
+</publicwhip>
+

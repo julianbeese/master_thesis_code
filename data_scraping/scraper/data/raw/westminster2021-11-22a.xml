@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-11-22a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.1.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.1.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.1.2" newgid="uk.org.publicwhip/westminhall/2021-11-22b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.4.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.4.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.4.2" newgid="uk.org.publicwhip/westminhall/2021-11-22b.4.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.4.3" newgid="uk.org.publicwhip/westminhall/2021-11-22b.4.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.5.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.5.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.5.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.6.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.6.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.6.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.6.2" newgid="uk.org.publicwhip/westminhall/2021-11-22b.6.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.6.3" newgid="uk.org.publicwhip/westminhall/2021-11-22b.6.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.7.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.7.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.7.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.7.2" newgid="uk.org.publicwhip/westminhall/2021-11-22b.7.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.7.3" newgid="uk.org.publicwhip/westminhall/2021-11-22b.7.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.8.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.8.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.8.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.9.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.9.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.9.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.9.2" newgid="uk.org.publicwhip/westminhall/2021-11-22b.9.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.10.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.10.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.11.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.11.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.11.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.11.2" newgid="uk.org.publicwhip/westminhall/2021-11-22b.11.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.12.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.12.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.12.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.14.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.14.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.14.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.14.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.15.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.15.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.15.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.15.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.16.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.16.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.16.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.16.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.16.2" newgid="uk.org.publicwhip/westminhall/2021-11-22b.16.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.17.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.17.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.17.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.17.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.17.2" newgid="uk.org.publicwhip/westminhall/2021-11-22b.17.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.18.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.18.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.19.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.19.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.22.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.22.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-11-22a.22.0" speakername="Leo Docherty" type="Start Speech" person_id="uk.org.publicwhip/person/25628" colnum="22" time="19:35:00" url="">
+    <p pid="a22.0/1">I am grateful for the shadow Minister’s remarks. I want to begin by putting on the record my thanks to my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25898" name="Jonathan Gullis">the Member for Stoke-on-Trent North (Jonathan Gullis)</phrase> for leading this debate. I would like to reiterate the thanks that he expressed to Roy Brinkley, whom I have met more than once. I thank him for his service in the Grenadier Guards and for his continued interest in this issue. I thank my hon. Friend the Member for Stoke-on-Trent North for making reference to his own family’s record of service and the work of the veterans breakfast club at the Green Star pub in Smallthorne, which is run by Martyn Hunt and Paul Horton. I am grateful that he is interested in that sort of activity in his constituency, and I commend his efforts to look after our veterans.</p>
+    <p pid="a22.0/2">I would like to kick off with the theme of parity. It is clear that the Government value highly the service of all members of the armed forces, particularly Gurkhas, with their magnificent long and distinguished record of service. For the purpose of this debate, we need to be clear that since 2007 Gurkhas have served on the same basis as the remainder of the British Army. Under consideration today are those who enlisted and served prior to 1997.</p>
+    <p pid="a22.0/3">Figures show that there are 20,681 Gurkha veterans receiving the 1948 Gurkha pension scheme. That number comprises 13,289 former service personnel and 7,382 widows. That is important because widows normally receive over 60% of the pension of their former partner. That figure of some 20,000 pensions describes the scale of the issue. It also shows the magnificent scale of the record of service of the Gurkhas. My hon. Friend the Member for Stoke-on-Trent North referred to their 200 magnificent years of service. Some 13 Victoria Crosses were won by native Gurkhas.</p>
+    <p pid="a22.0/4">I am very proud of the deep local connection that I have with the Brigade of Gurkhas in my borough of Aldershot. We are very pleased to be the home of the Queen’s Own Gurkha Logistic Regiment. Many thousands of Gurkhas have settled and now make their home in Aldershot, Farnborough and the borough of Rushmoor, following 2009 changes in status of settlement. This represents a hugely successful integration and settlement.</p>
+    <p pid="a22.0/5">I want to put on record my thanks to three Nepalese Gurkha councillors in the borough of Rushmoor—Jil Belbase, Nem Thapa and Prabesh KC—who, under the sponsorship and encouragement of the leader of Rushmoor Borough Council, the brilliant Councillor David Clifford, show amazing levels of tenacity, civic pride and energy. This was beautifully illustrated by the recent unveiling of the bronze of the Gurkha Victoria Cross winner, Kulbir Thapa Magar. I was honoured to attend that event in Rushmoor very recently. We are fiercely proud of our Gurkha community in the borough of Rushmoor.</p>
+    <p pid="a22.0/6">The heart of the matter is parity. Given the complexity and the fact that members of the 1948 Gurkha pension scheme qualify for and receive their pension earlier, it is instructive to reflect on the lifetime benefit of the 1948 Gurkha pension scheme compared to the armed forces pension scheme 1975, which the majority of  British service personnel and veterans receive. If we compare a private soldier with 15 years’ service retiring in 1998 on the 1948 Gurkha pension scheme to a British private retiring after 15 years’ service, the lifetime value of the member of the Gurkha pension scheme’s pension will be £179,000, whereas the British service person’s would be £114,000. That reflects the fact that the Gurkha recipient will be receiving the pension at an earlier stage. That work has been done by the Government Actuary’s Department.</p>
+    <p pid="a22.0/7">If we consider the value to a corporal—let us take a corporal retiring in 1995 after 15 years of service—the lifetime value for the Gurkha corporal will be £158,000, compared with £150,000 for a British corporal retiring after 15 years’ service on the armed forces pension scheme 1975. That is £158,000 for the Gurkha and £150,000 for the non-Gurkha, which describes the complexity therein and reflects the fact that Gurkhas have traditionally been in receipt of these pensions earlier.</p>
+    <p pid="a22.0/8">I should also point out that, of course, the vast majority of these pensions are drawn in Nepal—out of 20,000, only 150 are not drawn in Nepal—and do not incur tax, which reflects the fact that the 1948 pension scheme was designed to support the vast majority of Gurkhas who were retiring in Nepal at that point.</p>
+    <p pid="a22.0/9">I have already mentioned that widows generally receive 60% of the value of their partner’s service pension, which costs Her Majesty’s Government £90 million per annum. We are very proud of that, because it is right that we should be investing in our Nepalese veterans. Of course, we do not apply retrospection to pensions, but we have had uplifts. Since 1999, the Central Pay Commission, which meets every 10 years, has provided more than a 1,000% uplift in the value of Gurkha pensions to those receiving them, which counters the effect of the cost of living in Nepal. That is something we should note. The recent Central Pay Commission recommended an uplift of between 10% and 34%, and an investment of £25 million in healthcare. We have clearly had the conclusion of the consultation, and I look forward to the Government’s final decision being announced in due course.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.23.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.23.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.23.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.23.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.24.0" newgid="uk.org.publicwhip/westminhall/2021-11-22b.24.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.24.1" newgid="uk.org.publicwhip/westminhall/2021-11-22b.24.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.24.2" newgid="uk.org.publicwhip/westminhall/2021-11-22b.24.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-11-22a.24.3" newgid="uk.org.publicwhip/westminhall/2021-11-22b.24.3" matchtype="perfectmatch"/>
+</publicwhip>
+

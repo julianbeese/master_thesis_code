@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-11-23a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.261.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.261.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.261.1" newgid="uk.org.publicwhip/westminhall/2020-11-23b.261.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.261.2" newgid="uk.org.publicwhip/westminhall/2020-11-23b.261.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.264.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.264.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.264.1" newgid="uk.org.publicwhip/westminhall/2020-11-23b.264.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.264.2" newgid="uk.org.publicwhip/westminhall/2020-11-23b.264.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.265.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.265.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.266.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.267.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.267.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.268.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.268.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.269.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.269.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.270.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.271.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.271.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.272.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.272.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.272.1" newgid="uk.org.publicwhip/westminhall/2020-11-23b.272.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.272.2" newgid="uk.org.publicwhip/westminhall/2020-11-23b.272.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.273.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.273.1" newgid="uk.org.publicwhip/westminhall/2020-11-23b.273.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.274.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.275.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.275.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.276.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.276.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.276.1" newgid="uk.org.publicwhip/westminhall/2020-11-23b.276.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.277.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.277.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.278.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.278.1" newgid="uk.org.publicwhip/westminhall/2020-11-23b.278.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.280.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.281.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.281.1" newgid="uk.org.publicwhip/westminhall/2020-11-23b.281.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.281.2" newgid="uk.org.publicwhip/westminhall/2020-11-23b.281.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.282.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.282.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.282.1" newgid="uk.org.publicwhip/westminhall/2020-11-23b.282.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.282.2" newgid="uk.org.publicwhip/westminhall/2020-11-23b.282.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.282.3" newgid="uk.org.publicwhip/westminhall/2020-11-23b.282.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.282.4" newgid="uk.org.publicwhip/westminhall/2020-11-23b.282.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.283.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.283.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.285.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.285.1" newgid="uk.org.publicwhip/westminhall/2020-11-23b.285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.285.2" newgid="uk.org.publicwhip/westminhall/2020-11-23b.285.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.287.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.289.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.290.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.291.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.293.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.294.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.295.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.295.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.296.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.296.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.300.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.300.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.301.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.301.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.302.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.302.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.302.1" newgid="uk.org.publicwhip/westminhall/2020-11-23b.302.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.302.2" newgid="uk.org.publicwhip/westminhall/2020-11-23b.302.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.302.3" newgid="uk.org.publicwhip/westminhall/2020-11-23b.302.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-11-23a.302.3" speakername="Wendy Morton" type="Continuation Speech" person_id="uk.org.publicwhip/person/25342" colnum="302" time="18:59:00" url="">
+    <p pid="a302.3/1">The hon. Gentleman pre-empts part of my notes, as I will touch a little more on the SARS programme, and I hope to give a bit more detail about work that we are doing and supporting.</p>
+    <p pid="a302.3/2">Before I come to that, I want to note quickly that my right hon. Friend the Member for Chipping Barnet raised the issue of the persecution of Christians. That is another important topic, and I reassure her that we have made clear to the Nigerian authorities, at the highest levels, the importance of protecting civilians, including Christians, and human rights for all Nigerians.</p>
+    <p pid="a302.3/3">I will now discuss the Special Anti-Robbery Squad. The UK supports police and justice reform in Nigeria. All assistance is compliant with our human rights obligations and values. Through our Nigeria policing programme, funded by the conflict, stability and security fund, which ended in March 2020, federal Special Anti-Robbery Squad officers participated in training on amended Nigerian police guidance designed to improve human rights, training on public finance, and community policing workshops. The Nigeria policing programme was part of our security and justice reform programme, which is working to help to deliver a criminal justice system that will better protect the human rights of all Nigerians.</p>
+    <p pid="a302.3/4">As a result of the programme, relationships between communities and the police improved in four states. Trust was built, with communities and the police working together to resolve safety and security issues. The Nigerian police force’s recent adoption of the community policing framework developed by the Nigeria policing programme is a positive outcome. Our support to civil society was instrumental in the President recently passing the Nigeria Police Act 2020, which provides for greater citizen protections and improved police training, which we believe will benefit Nigerians.</p>
+    <p pid="a302.3/5">Through the CSSF-funded north-east public safety and security programme, part of which is delivered jointly with USAID, radio equipment was issued to Borno police command. That was for police units working to improve local security, and to counter violent extremist organisations, including Boko Haram and Islamic State in West Africa. Borno police command distributed free radios to the local FSARS unit, which were returned after FSARS was disbanded. The north-east public safety and security programme is part of our north-east Africa security, conflict and stabilisation programme, working to help to stabilise one of Nigeria’s poorest and most fragile regions, affected by Boko Haram and Islamic State in West Africa.</p>
+    <p pid="a302.3/6">I acknowledge and understand the strength of feeling in the House and among the public. The UK and Nigeria have a long and close relationship that extends beyond our Governments to our people, especially through the British Nigerian diaspora community, which contributes so much to this country. The diaspora was also mentioned by my right hon. Friend the Member for Chipping Barnet. The UK is home to more than 200,000 members of the Nigerian diaspora, who contribute much to the country. As I am sure you will be aware, Mr Gray, my hon. Friend the Exchequer Secretary to the Treasury, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25693" name="Kemi Badenoch">the Member for Saffron Walden (Kemi Badenoch)</phrase>, was the first Minister for Nigeria.</p>
+    <p pid="a302.3/7">As to communications and engagement with the diaspora, on <phrase class="date" code="2020-11-18">18 November</phrase> my hon. Friend the Minister for Africa led a virtual business roundtable with members of the Nigerian diaspora business community, the better to understand challenges in increasing trade and investment between the UK and Nigeria. That roundtable was joined  by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24796" name="Helen Grant">the Member for Maidstone and The Weald (Mrs Grant)</phrase>, who is the UK trade envoy to Nigeria, and the British deputy high commissioner in Lagos. My right hon. Friend the Member for Chipping Barnet asked about requesting a meeting with the Minister for Africa, and it would perhaps be wrong of me to commit him to that, but I can certainly pass on her request.</p>
+    <p pid="a302.3/8">This Government will continue to press the Nigerian Government and their security services to uphold human rights and the rule of law; to investigate all incidents of brutality, illegal detentions and the use of excessive force; and to hold those responsible to account. We will closely monitor the judicial panels of inquiry, and will continue to advocate for investigations of police brutality. The Government will consider their options as the panels’ work progresses.</p>
+    <p pid="a302.3/9">The Government will also continue to work with the Nigerian Government, and international and civil society partners, to improve the accountability and transparency of the Nigerian police, for the benefit of all Nigerians.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-23a.304.0" newgid="uk.org.publicwhip/westminhall/2020-11-23b.304.0" matchtype="perfectmatch"/>
+</publicwhip>
+

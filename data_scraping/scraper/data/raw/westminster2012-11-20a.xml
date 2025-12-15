@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.79.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.79.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.79.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.79.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.79.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.80.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.80.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.80.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.80.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.83.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.83.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.85.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.85.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.87.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.87.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.89.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.89.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.91.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.91.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.91.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.91.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.92.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.92.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.92.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.92.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.93.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.93.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.93.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.93.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.94.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.94.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.94.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.94.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.95.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.95.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.95.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.95.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.96.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.96.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.96.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.96.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.97.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.97.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.97.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.97.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.97.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.97.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.98.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.98.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.98.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.98.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.99.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.99.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.100.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.100.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.100.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.104.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.104.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.104.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.104.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.104.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.104.3" newgid="uk.org.publicwhip/westminhall/2012-11-20b.104.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.104.4" newgid="uk.org.publicwhip/westminhall/2012-11-20b.104.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.104.5" newgid="uk.org.publicwhip/westminhall/2012-11-20b.104.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.105.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.105.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.105.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.108.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.108.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.108.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.108.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.110.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.110.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.110.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.110.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.112.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.112.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.112.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.112.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.112.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.112.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.113.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.113.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.114.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.114.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.114.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.114.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.115.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.115.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.115.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.116.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.116.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.116.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.116.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.116.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.116.3" newgid="uk.org.publicwhip/westminhall/2012-11-20b.116.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.117.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.117.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.117.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.117.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.117.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.117.3" newgid="uk.org.publicwhip/westminhall/2012-11-20b.117.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.118.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.118.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.118.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.119.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.119.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.119.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.119.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.120.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.120.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.120.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.121.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.121.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.121.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.121.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.121.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.121.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.122.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.122.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.122.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.122.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.122.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.123.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.123.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.123.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.123.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.124.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.124.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.124.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.124.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.124.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.124.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.124.3" newgid="uk.org.publicwhip/westminhall/2012-11-20b.124.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.125.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.125.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.125.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.125.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.125.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.125.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.125.3" newgid="uk.org.publicwhip/westminhall/2012-11-20b.125.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.125.4" newgid="uk.org.publicwhip/westminhall/2012-11-20b.125.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.125.5" newgid="uk.org.publicwhip/westminhall/2012-11-20b.125.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.125.6" newgid="uk.org.publicwhip/westminhall/2012-11-20b.125.6" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2012-11-20a.125.6" speakerid="uk.org.publicwhip/member/40201" speakername="Chris Williamson" colnum="125"  time="016:00:00" url="http://www.publications.parliament.uk/pa/cm201213/cmhansrd/cm121120/halltext/121120h0002.htm#12112052000221">
+	<p pid="a.125.6/1">There is clearly a problem, and whoever is responsible is, in a sense, not really the point. I accept that there were clearly faults with the process designed by the previous Administration, but in taking account of the comment made by <phrase class="honfriend" id="uk.org.publicwhip/member/40394" name="Pauline Latham">the hon. Member for Mid Derbyshire (Pauline Latham)</phrase>, it is important to look forward, while also acknowledging the impact of what we have seen over the past 18 months or so.</p>
+	<p pid="a.125.6/2">Time is short, so I will try to motor along. I have a lot to say, and I want to give the Minister an opportunity to respond to my points. I was about to make the point</p>
+	<p pid="a.125.6/3">that we were told 18 months ago that preferred bidder status for the Thameslink contract had been conferred on Siemens. Before the 2011 summer recess, I was told by the then Secretary of State of Transport, <phrase class="honfriend" id="uk.org.publicwhip/member/40490" name="Justine Greening">the right hon. Member for Putney (Justine Greening)</phrase>, that the contract would reach financial close by the end of that year. She said that the Department could not countenance any further retendering of the process, because that would build in far too long a delay, which would impact on the infrastructure project. However, here we are, some 18 months later, and we do not seem to be that much closer to a final decision or the financial close on the award of the contract.</p>
+	<p pid="a.125.6/4">In answer to a parliamentary question that I tabled, the Minister of State, Department for Transport, said that the DFT is now looking</p>
+	<p pid="a.125.6/5">&#8220;to secure financial close early in the new year.&#8221;&#8212;[<phrase class="offrep" id="wrans/2012-10-25.1005"><i>Official Report</i>, 25 October 2012; Vol. 551, c. 1005W</phrase>.]</p>
+	<p pid="a.125.6/6">That will be well over the 18 months and getting on for two years, so I am not sure that the arguments made in the first instance hold any water.</p>
+	<p pid="a.125.6/7">I have several questions that I hope the Minister will respond to if he gets the chance. Is he confident that the timetable will not slip yet again, because it has slipped time and again? Will he explain why the forecast date continues to slip, which is rather curious and which I do not understand? Will he tell the House whether he or the Department is aware of any problems with the proposed deal? Is the slippage caused by Siemens asking for more time, or are the delays caused by problems in his Department? Will he confirm that there will be no further slippage in the time scale? In which month in the new year will financial close eventually be reached? Will it be spring or earlier?</p>
+	<p pid="a.125.6/8">I want to go through some of the series of errors in the Thameslink tendering process, if I may. The contract is clearly a Government one, but the DFT has not managed it as though it were. Furthermore, the tender evaluation was discriminatory. The EU&#8217;s Commissioner for the single market, Michel Barnier, has said that, as far as the Commission is concerned, the Thameslink contract is being undertaken by a contracting authority; in other words, it is a Government contract. The Secretary of State for Business, Innovation and Skills, no less, has said that the consequence of the process</p>
+	<p pid="a.125.6/9">&#8220;was bound to lead to the outcome it did.&#8221;</p>
+	<p pid="a.125.6/10">The fact is that the Department is bound by regulations. As this is a Government contract, regulation 23 of the Public Contracts Regulations 2006 is relevant. It stipulates:</p>
+	<p pid="a.125.6/11">&#8220;Subject to paragraph (2), a contracting authority shall treat as ineligible and shall not select an economic operator in accordance with these Regulations if the contracting authority has actual knowledge that the economic operator or its directors or any other person who has powers of representation, decision or control of the economic operator has been convicted of any of the following offences&#8221;&#8212;</p>
+	<p pid="a.125.6/12">including, among others&#8212;</p>
+	<p pid="a.125.6/13">&#8220;(a) conspiracy within the meaning of section 1 of the Criminal Law Act 1977&#8230; ; (b) corruption within the meaning of section 1 of the Public Bodies Corrupt Practices Act 1889&#8230; or&#8230; ; (c) the offence of bribery&#8221;,</p>
+	<p pid="a.125.6/14">as well as various other offences.</p>
+	<p pid="a.125.6/15">Paragraph (2), which is referred to, states:</p>
+	<p pid="a.125.6/16">&#8220;In any case where an economic operator or its directors or any other person who has powers of representation, decision or control has been convicted of an offence described in paragraph (1), a contracting authority may disregard the prohibition described there if it is satisfied&#8221;&#8212;</p>
+	<p pid="a.125.6/17">this is the key point&#8212;</p>
+	<p pid="a.125.6/18">&#8220;that there are overriding requirements in the general interest which justify doing so&#8221;.</p>
+	<p pid="a.125.6/19">I would be grateful if the Minister explained what &#8220;overriding requirements&#8221; led the Department to disregard the fact that Siemens has fallen foul of sub-paragraphs (b) and (c)&#8212;in other words, corruption and bribery. I believe it is common knowledge that it has been found guilty of those offences in America and in its home country, Germany.</p>
+	<p pid="a.125.6/20">Siemens AG is part of the Cross London Trains consortium, so the Department should have taken into account its obligations as set out in the regulations. Let me stress that I have nothing against Siemens per se, but I want to ensure that the law is applied appropriately and that the best interests of the United Kingdom, and of my home city and constituency of Derby, are served by the Government&#8217;s decision.</p>
+	<p pid="a.125.6/21">On the discriminatory nature of the matter, the process of evaluation is separated into four distinct component parts, or stages, which do not seem to be related to each other, and each part has to be satisfied in its own right. Once a bidding company has passed a stage, that stage is not referred back to, and it seems not to have any relevance to the next stage. I say that the process is discriminatory because, as experts agree, credit ratings are the key to the decision at the fourth, most important stage of the evaluation process; the quality of the product and the deliverability of the trains are utterly irrelevant. That process gave Siemens an unfair commercial advantage because it had a superior credit rating. The Department for Transport should urge the Minister, even at this late stage, to terminate the process and retender it on the basis that it was discriminatory and unfair.</p>
+	<p pid="a.125.6/22">Another reason that the Department should consider terminating the process and starting again is that a number of civil servants who were suspended over the west coast main line debacle were also involved in the Thameslink process&#8212;that was confirmed in responses from Ministers to written parliamentary questions that I tabled. That also flags up another significant question mark over the validity of the decision to award the contract to Siemens.</p>
+	<p pid="a.125.6/23">Will the Minister give an unequivocal guarantee that Crossrail is being taken forward correctly? Are the obligations placed on contracting authorities being observed by his Department and by Transport for London? Will he confirm that the Crossrail tender evaluation criteria will be non-discriminatory and will not give an unfair financial advantage to any bidder based on their credit ratings? Moreover, will he assure us that the socio-economic factors have been included in the Crossrail invitation to tender, and if they have, how have they been included? Will he give us some information in relation to the proposed eVoyager contract, which is also really important to the future of the Bombardier factory in Derby?</p>
+	<p pid="a.125.6/24">Will the Minister put in place an independent inquiry to consider the workings of the Department for Transport with regard to the procurement of trains? From what we have seen over the past 18 months or so, it seems pretty obvious that there has been a problem with the way the Department for Transport approached the process.</p>
+	<p pid="a.125.6/25">I have further questions for the Minister. What alternatives are being considered if Siemens is unable to reach financial close? In response to a written parliamentary</p>
+	<p pid="a.125.6/26">question, the Minister said that the Department was assessing other options in the event of it being unable to reach financial close with Siemens. What are those options?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.128.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.128.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.128.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.128.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.128.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.128.3" newgid="uk.org.publicwhip/westminhall/2012-11-20b.128.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.129.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.131.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.131.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.131.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.131.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.131.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.131.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.131.3" newgid="uk.org.publicwhip/westminhall/2012-11-20b.131.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.133.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.133.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.133.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.135.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.135.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.135.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.135.2" newgid="uk.org.publicwhip/westminhall/2012-11-20b.135.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.135.3" newgid="uk.org.publicwhip/westminhall/2012-11-20b.135.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.135.4" newgid="uk.org.publicwhip/westminhall/2012-11-20b.135.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.135.5" newgid="uk.org.publicwhip/westminhall/2012-11-20b.135.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.137.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.137.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.138.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.138.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.138.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.138.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.139.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.139.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.139.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.140.0" newgid="uk.org.publicwhip/westminhall/2012-11-20b.140.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-11-20a.140.1" newgid="uk.org.publicwhip/westminhall/2012-11-20b.140.1" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2016-05-03a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.1.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.1.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.4.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.4.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.5.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.9.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.13.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.13.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.13.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.13.2" newgid="uk.org.publicwhip/westminhall/2016-05-03b.13.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.16.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.16.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.16.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.16.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.16.2" newgid="uk.org.publicwhip/westminhall/2016-05-03b.16.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.16.3" newgid="uk.org.publicwhip/westminhall/2016-05-03b.16.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.16.4" newgid="uk.org.publicwhip/westminhall/2016-05-03b.16.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.16.5" newgid="uk.org.publicwhip/westminhall/2016-05-03b.16.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.18.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.18.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.20.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.23.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.23.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.25.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.25.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.26.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.25.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.26.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.26.0" matchtype="multiplecover"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.26.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.26.1" matchtype="multiplecover"/>
+<speech id="uk.org.publicwhip/westminhall/2016-05-03a.26.1" person_id="uk.org.publicwhip/person/25425" speakername="Stuart Donaldson" colnum="26" time="11:00:00" url="">
+    <p pid="a26.1/1">I beg to move,</p>
+    <p pid="a26.1/2" class="indent" pwmotiontext="yes">That this House has considered the effect of UK foreign policy on Libya.</p>
+    <p pid="a26.1/3">It is a pleasure to serve under your chairmanship, Mr Hanson.</p>
+    <p pid="a26.1/4">I start this debate by paying special tribute to Martin Kobler, special representative and head of the UN support mission in Libya, and to the British ambassador to Libya, who have both put an incredible amount of effort into bringing together competing institutions and encouraging them to form a single Government of national unity. However, the UK Government’s foreign policy legacy in Libya has been an unmitigated disaster. The lesson for the Government is that they reap what they sow. Today, Libya is in an extremely fragile state. The political and security crisis deepens, as two rival Governments—in Tripoli and Tobruk—compete for legitimacy. Meanwhile, countless rival militias and the spread of Daesh make for a troubled environment.</p>
+    <p pid="a26.1/5">According to UN estimates, the violence in Libya has affected some 2.5 million people and displaced more than 430,000 people. It has also disrupted access to hospitals, schools and basic services, such as power, water and sanitation. However, a UN humanitarian appeal to provide basic services—including medical care, education and the protection of refugees and migrants—to 1.3 million people in Libya has just 1% of the funds that it requires.</p>
+    <p pid="a26.1/6">In the absence of the rule of law and functioning institutions, refugees and asylum seekers are subjected to harassment, arbitrary detention, limited freedom of movement and other human rights violations. Libya continues to be the main transit and departure point for irregular sea migration to Europe from north Africa. In 2015, 151,000 arrivals to Italy were reported, with 90% of them departing from Libya. Meanwhile, the total number of detainees held by the department for combating illegal migration in Libya is between 2,500 and 4,000 people, including around 396 women and 52 children, who are held in eight detention centres.</p>
+    <p pid="a26.1/7">We in the Scottish National party fully support Amnesty International’s call for the world to help to pull Libya out of its human rights chaos, five years after the uprising there began. Speaking in January, Said Boumedouha, deputy middle east and north Africa director at Amnesty, could not have been clearer when he said:</p>
+    <p pid="a26.1/8" class="indent" pwmotiontext="yes">“World leaders, particularly those who took part in the NATO intervention that helped to overthrow Colonel Muammar al-Gaddafi in 2011, have a duty to ensure that those responsible for the horrors that have unfolded in Libya in its wake are held to account.”</p>
+    <p pid="a26.1/9">I want to raise the European Parliament’s recent resolution on Libya, as it reminds us of the increasing threat of security spill-over of the Libyan conflict not only in Egypt and particularly Tunisia, but in Algeria and its oilfields. The resolution emphasises the role of the Libyan conflict in exacerbating extremism in Tunisia.</p>
+    <p pid="a26.1/10">The growing presence of extremist organisations and movements in Libya is deeply worrying. The lesson of Libya, like the lesson of Iraq, is that countries cannot just bomb somewhere and move on. Thanks to the work of the Library staff and my hon. Friend for North East Fife (Stephen Gethins), we know that the UK Government spent 13 times more money on bombing Libya than on rebuilding it. Let us just consider those figures for a moment. The Library confirmed that £320 million was spent on military operations and bombing in Libya during NATO’s intervention in 2011. Meanwhile, separate UK Government figures show that a mere £25 million was spent on rebuilding infrastructure in the years following the war.</p>
+    <p pid="a26.1/11">The legacy of that policy in Libya has meant that today we have a vacuum that is being filled by rival militias and a country that is struggling to provide for its desperate population. US intelligence agencies tell us that the number of Daesh fighters in Syria and Iraq has dropped to about 25,000 from a high of about 31,500. However, the number of Daesh fighters in Libya has roughly doubled in the same period to about 6,500.</p>
+    <p pid="a26.1/12">The UK Government cannot shirk their responsibility to Libya. Leaving the country in a disastrous state after bombing it has undoubtedly created the conditions that Daesh needs to operate, as it terrorises local civilians and sets up home among the rubble of 2011. Indeed, the UK’s bombing of Syria—along with countless other military operations—is not defeating Daesh but merely displacing it across the wider region.</p>
+    <p pid="a26.1/13">The UK Government’s involvement in Libya has been so catastrophic that even the US President himself has criticised the UK’s Prime Minister. During an interview in March, the President was forthright in his assessment of the military intervention in Libya, criticising the Prime Minister for the UK’s role in allowing Libya to degrade to its current state; in fact, the President used more colourful language than that. The President also suggested that the Prime Minister had taken his eye off Libya after being</p>
+    <p pid="a26.1/14" class="indent" pwmotiontext="yes">“distracted by a range of other things”.</p>
+    <p pid="a26.1/15">The US President’s comments do not paint the picture of a UK Prime Minister who is either up to the job of leading our forces in strategic military interventions or capable of international co-operation in multi-faceted actions. The President went on to admit that Libya was the worst mistake of his presidency. The Prime Minister could do with reflecting on his own actions and admitting the catastrophic failures of his premiership regarding Libya.</p>
+    <p pid="a26.1/16">On <phrase class="date" code="2016-04-19">19 April</phrase>, the Foreign Secretary, freshly returned from his visit to Tripoli, announced £10 million of funding to support the new Libyan Government of national accord. This money includes £1.5 million to tackle illegal migration, smuggling and organised crime, and £1.8 million to support counter-terrorism activities. The new cash follows an £11.5 million payment last year for development and humanitarian assistance.</p>
+    <p pid="a26.1/17">We in the SNP welcome that funding, but it is too little, too late. Despite urgent calls to provide humanitarian assistance to an estimated 2.4 million Libyans in need of aid, the Department for International Development has set aside just £50,000 in aid this financial year to prevent food and medicine shortages in the country.</p>
+    <p pid="a26.1/18">Understandably, that has led to much criticism. A UN official has described the UK’s humanitarian efforts as</p>
+    <p pid="a26.1/19" class="indent" pwmotiontext="yes">“paltry bone-throwing from a European country whose bombers reaped so much destruction”.</p>
+    <p pid="a26.1/20">The Government not only undertook military action with little in the way of long-term planning, but they have left the state and people of Libya paying a heavy price for that action. Humanitarian conditions in Libya have deteriorated since mid-2014, leaving an estimated 2.4 million people in need of humanitarian assistance, and some 1.28 million people across the country are at risk of food insecurity.</p>
+    <p pid="a26.1/21">It has been widely reported that the Government are now preparing to deploy British troops in Libya. The Foreign Affairs Committee wrote to the Foreign Secretary about the prospect of Britain deploying 1,000 ground troops in training and security roles for the new Government of national accord in Tripoli, but the response it received was less than clear. The Chair of the Committee, <phrase class="honfriend" person_id="uk.org.publicwhip/person/10051" name="Crispin Blunt">the hon. Member for Reigate (Crispin Blunt)</phrase>, accused the Foreign Secretary of</p>
+    <p pid="a26.1/22" class="indent" pwmotiontext="yes">“not dealing straightforwardly with Parliament”</p>
+    <p pid="a26.1/23">and went on to describe the</p>
+    <p pid="a26.1/24" class="indent" pwmotiontext="yes">“less-than-candid reply to my request for further detail on a rapidly developing situation that may require further active British engagement.”</p>
+    <p pid="a26.1/25">That is hardly a ringing endorsement for a Government who are already struggling with their poor legacy in Libya.</p>
+    <p pid="a26.1/26">Furthermore, a leaked memo from a confidential briefing to US members of Congress from King Abdullah of Jordan suggested that British SAS units are already operating in Libya. We urgently need honesty and transparency about the Government’s intentions in Libya. Our troops may soon be in Libya as part of training missions. How much of that training do the UK Government envisage taking place on Libyan soil?  In 2013, the UK Government agreed to train up to 2,000 Libyan soldiers, who were part of the Libyan general purpose force, at Bassingbourn barracks near Cambridge. The first contingent arrived in 2014, but the programme was halted early after repeated allegations of disciplinary issues and of serious sexual assaults by Libyan personnel against civilians. The Government appear unclear whether they would again host Libyan training missions in the UK.</p>
+    <p pid="a26.1/27">Will the Government ensure that a vote and full debate take place in the main Chamber before any deployment of UK troops on Libyan soil? The Prime Minister must seek approval from Parliament before deploying any UK forces and provide full disclosure of the Government’s plans. Given that Libya is extremely fragile, with numerous militias and the growing presence of Daesh, how do the Government envisage a training mission in Libya taking place?</p>
+    <p pid="a26.1/28">We now know that NATO Secretary-General, Jens Stoltenberg, has ruled out any new combat operations, and that further highlights how unwise it would be for the UK to have any further military presence in Libya. The US President’s willingness even to partially admit he made a mistake is commendable, but only in that way will he and coalition partners learn from the errors of the past. It is time that the Prime Minister and his Government admitted their mistakes, and it is time that  the Prime Minister was up front to Parliament about his Government’s plans in Libya. We need less military posturing and more long-term stability planning for Libya.</p>
+    <p pid="a26.1/29">I conclude by posing some questions to the Minister. Why have the Government promised only £50,000 to the UN Office for the Co-ordination of Humanitarian Affairs, for humanitarian efforts? It has been said that Libya is a rich country, but surely that makes reconstruction efforts all the more important, so that in the future we can access that wealth. Will the Government be hosting any more Libyan training missions on UK soil, or does the Minister envisage that the new training missions will be held on Libyan soil? Where do the Minister and the Government stand on the deployment of 1,000 British troops to Libya, and will the Minister ensure that a full debate and a vote take place in the House before the deployment of UK troops on Libyan soil?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.29.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.29.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.31.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.30.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.31.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.31.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.33.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.32.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.33.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.33.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.35.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.35.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.35.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.35.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.37.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.36.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.37.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.38.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.38.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.40.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.43.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.45.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.45.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.45.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.45.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.46.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.45.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.46.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.46.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.47.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.47.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.48.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.48.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.48.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.48.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.49.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.48.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.49.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.49.0" matchtype="multiplecover"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.49.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.49.1" matchtype="multiplecover"/>
+<speech id="uk.org.publicwhip/westminhall/2016-05-03a.49.1" person_id="uk.org.publicwhip/person/24880" speakername="Mark Pawsey" colnum="49" time="13:00:00" url="">
+    <p pid="a49.1/1">I beg to move,</p>
+    <p pid="a49.1/2" class="indent" pwmotiontext="yes">That this House has considered delays between death and burial or cremation.</p>
+    <p pid="a49.1/3">The purpose of this debate is to consider the increasing amount of time that is now occurring between a person dying and their subsequent burial or cremation. The subject was considered by the all-party parliamentary group on funerals and bereavement, which was founded in 2002 to examine issues of concern to parliamentarians and their constituents. Of course, the group brings together Members of both Houses, representatives of the funeral director profession and representatives of bereaved people. The report on delays originated in the previous Parliament at the instigation of Paul Goggins MP. We all remember him well as the Member for Wythenshawe and Sale East from 1997 until his untimely death in January 2014. At various meetings of the all-party group, he raised issues related to delays and their impact on people who had lost loved ones.</p>
+    <p pid="a49.1/4">The report was commenced under the chairmanship of my predecessor as chair of the all-party group, Lorely Burt MP, now Baroness Burt. We held evidence sessions in July 2014 and January 2015, and we published our report in December 2015. We have had three ministerial responses since the publication of our report. The Under-Secretary of State for Health, my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24922" name="Ben Gummer">the Member for Ipswich (Ben Gummer)</phrase>, addressed death certification issues, including the role of the medical examiner within the national health service. The Under-Secretary of State for Communities and Local Government, my noble Friend Baroness Williams of Trafford, addressed crematoriums and burial facilities. We received an extensive reply from the Under-Secretary of State for Women and Equalities and Family Justice, my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24873" name="Caroline Dinenage">the Member for Gosport (Caroline Dinenage)</phrase>, and I am delighted that she is here today. She addressed legal issues and the provision of services that are legally required.</p>
+    <p pid="a49.1/5">The objective of today’s debate is to highlight some of the issues raised in the report and, in addition, to provide an opportunity for the Minister to update the House on the measures she mentioned in her letter of three months ago. I note that she will respond purely on those matters for which the Ministry of Justice has responsibility. The all-party group will continue the dialogue it has already started with Ministers in other Departments.</p>
+    <p pid="a49.1/6">At the outset, it is useful to consider why the report was necessary. It is accepted that the time taken between death and a funeral or cremation is getting longer. We received written evidence suggesting that the average time between death and burial or cremation is some 15 days, which was pretty standard in the submissions we received. Witnesses, however, noted that the time could vary significantly based on factors in the local area, whether the death was expected and whether the death occurred at home or in hospital. There was consensus among our witnesses that the time had increased in recent years. One witness suggested that the time had increased from some 10 days in 2003 to 15 days in 2013,  which is an increase of five days, or half again as much, over a period of 10 years. Another witness noted that, between 2012 and 2014, an average of two days had been added to the process.</p>
+    <p pid="a49.1/7">There is a problem in measuring the change in time, because central statistics are not collected. Although some funeral directors collect those data, the figures cannot easily be broken down to show which aspect of the process is causing delays. The national medical examiner told the all-party group that the new death certification system is likely to add half a day or so to the current average time. He was at pains to express it as an average so, in some instances, we can expect the process to take longer.</p>
+    <p pid="a49.1/8">In 2015, the National Association of Funeral Directors surveyed its members and it identified that families were waiting increasingly long to see a registrar after a death. Almost 70% of members reported that waiting times had increased over the previous year, with 49% of families waiting at least three days for an appointment and 15% waiting more than five days. A survey of National Association of Funeral Directors members this month revealed a complex picture of the effectiveness of coronial services across England and Wales, with, regrettably, only 41% describing their local coronial service as good or very good. Thirty per cent. described their local coroner as providing a satisfactory service, and 27% described the service as unsatisfactory or very unsatisfactory. That is one area of concern.</p>
+    <p pid="a49.1/9">The all-party group took evidence from a range of witnesses involved in the process, including bereavement support groups, funeral directors, faith groups and organisations representing coroners’ staff, pathologists, crematorium staff and cemetery management. There is consensus among those working in the sector on the increasing time between death and burial or cremation, and we heard a number of reasons for why that might be, including increased pressure on registration and death certification services, a lack of communication and co-ordination between the organisations involved in certifying a death, and a lack of core crematorium slots.</p>
+    <p pid="a49.1/10">Our report contained 13 conclusions and recommendations, and I will pick out three key ones. First, we urged the Government to review their post-mortem arrangements. The implementation of death certification reforms provides an opportune moment to assess whether the current fee of £96.80 for a post-mortem examination is sustainable. The all-party group would welcome an assessment from the Government on whether sufficient pathologists are being trained in autopsy to cater for future demand, as the requirement to study a post-mortem module has been removed from the appropriate syllabus.</p>
+    <p pid="a49.1/11">Secondly, the Government should undertake a comprehensive review of the current state of burial and cremation in the UK, including an assessment of the projected capacity needs for the next 50 years and a review of barriers to developing crematoriums and cemeteries. New crematoriums are being developed. I am proud that a new crematorium has opened in my constituency of Rugby in the past few years, and it is an excellent example of the local authority working jointly with the neighbouring authority, Daventry District Council. We have a facility in my constituency of which we  can be proud, so it is possible for additional facilities to be provided.</p>
+    <p pid="a49.1/12">Thirdly, we urged the Government to publish their proposals on death certification reform and to ensure that they address two key issues: reducing the number of people involved in the certification process; and enabling the provision of certification outside regular working hours. On the latter matter, since our report was published, we have held a feedback session with the various witnesses who came along to give evidence in order to review the responses we received from Ministers. Concerns were raised in that session about the comments of the national medical examiner, Professor Peter Furness, who said that, on average, the new death certification process</p>
+    <p pid="a49.1/13" class="indent" pwmotiontext="yes">“is taking approximately half a day longer than the old one”.</p>
+    <p pid="a49.1/14">There is a feeling that half a day is something of an underestimate. The all-party group is pleased that a number of consultations have been announced since the report’s publication. We are keen to see them resolved, particularly the consultation on death certification reform by the Department of Health and the consultation on crematorium provision and facilities by the Department for Communities and Local Government. We are also pleased that the Ministry of Justice has been consulting on an out of hours coroner service, and we are keen to see the outcome of that consultation; I hope that the Minister can provide us with an update.</p>
+    <p pid="a49.1/15">As I said, we held a feedback session, which produced two conclusions. One conclusion that might be of concern to the Minister was the feeling among those in the sector that none of the ministerial responses inspired confidence that the Government understand that bereaved people, those who have lost a loved one, are at the centre of the system. The belief was that things are process-driven, that it is a matter of numbers and that there is a lack of understanding that people are affected. The feedback session’s second conclusion was that the Government must focus on ensuring that all Departments involved in the death process work together more coherently, and that that culture change must be instilled in every organisation involved, whether in central Government or local government.</p>
+    <p pid="a49.1/16">We picked out one or two additional observations. In respect of the out of hours issue, we know that the NHS is moving more towards a seven-day service, and it is believed that death facilities should do the same, so that out of hours service is available for those who need it. Many attendees at our feedback meeting highlighted the lack of consistency among coroners’ offices in terms of contact practices and the ability to offer non-invasive autopsy options. In particular, some witnesses highlighted that some coroner offices would not speak to funeral directors but wanted email communication instead. They advised us that emails sometimes go unanswered.</p>
+    <p pid="a49.1/17">A number of witnesses highlighted that they increasingly struggle to get access to some mortuaries when several are run by the same NHS trust. It is believed that, to save costs, some trusts reduce the opening hours for each mortuary, meaning that bodies can be unavailable for days at a time. Our attendees noted that, although 80% of deaths occur in hospitals, as far as they are aware, medical professionals are not given training in the death certification process and what best practice  looks like. Our previous chair, Baroness Burt, disagreed with DWP Ministers’ assessment that the funeral payments system is fit for purpose.</p>
+    <p pid="a49.1/18">I have a number of questions to which I hope the Minister can respond in the time available, particularly about improvements to the coroner out of hours service, to which I have referred and which we are interested to hear about. I understand that she has met with the Metropolitan Police Service to consider an across-London out of hours coroner service. If she cannot respond to my specific question now, perhaps she could respond in writing to the all-party group on that and on other questions in due course. Has her Department assessed how the coroner service and other organisations involved in the process will work alongside a seven-day NHS?</p>
+    <p pid="a49.1/19">This issue came out of several of our meetings: would it be possible for a simple flowchart to be made available so that people could see clearly the process after death? It would give both bereaved people and policy makers a better understanding of what is going on to have some explanation of the path towards a funeral. A graphic representation may help policy makers to identify which processes are causing delay.</p>
+    <p pid="a49.1/20">Our inquiry was interesting, and we came up with a number of recommendations and developments. It is clear that the delays are causing great distress to many people, not least many in our faith communities, who for faith reasons are anxious for burial or cremation to take place more promptly after death. I hope that, when the Minister rises to bring us up to date, she will be able to reassure the many people to whom we spoke that the Government take these issues seriously and that the delays that have increased in recent years might be reduced in order to minimise the distress caused to bereaved people.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.52.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.52.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.52.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.52.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.52.2" newgid="uk.org.publicwhip/westminhall/2016-05-03b.52.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.52.3" newgid="uk.org.publicwhip/westminhall/2016-05-03b.52.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.52.4" newgid="uk.org.publicwhip/westminhall/2016-05-03b.52.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.53.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.53.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.56.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.56.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.56.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.56.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.57.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.56.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.57.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.57.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.57.2" newgid="uk.org.publicwhip/westminhall/2016-05-03b.57.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.59.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.59.0" matchtype="multiplecover"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.59.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.59.1" matchtype="multiplecover"/>
+<speech id="uk.org.publicwhip/westminhall/2016-05-03a.59.0" person_id="uk.org.publicwhip/person/10576" speakername="Graham Stringer" colnum="59" time="13:28:00" url="">
+    <p pid="a59.0/1">Order. Before I call Dr Rupa Huq, I would like to explain the timetable for this hour-long debate. I would like to call the Opposition spokesperson at approximately 2.15 pm, and I expect him to take five minutes. Then the Minister can respond, leaving a minute or so for the proposer of the debate to reply. We seem to have plenty of time.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.59.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.59.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.61.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.61.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.61.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.61.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.63.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.63.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.65.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.65.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.65.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.65.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.66.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.65.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.68.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.68.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.69.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.68.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.70.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.70.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.70.1" newgid="uk.org.publicwhip/westminhall/2016-05-03b.70.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-05-03a.72.0" newgid="uk.org.publicwhip/westminhall/2016-05-03b.72.0" matchtype="perfectmatch"/>
+</publicwhip>
+

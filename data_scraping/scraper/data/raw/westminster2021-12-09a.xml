@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-12-09a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.179.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.179.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.179.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.179.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.179.2" newgid="uk.org.publicwhip/westminhall/2021-12-09b.179.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.179.3" newgid="uk.org.publicwhip/westminhall/2021-12-09b.179.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.179.4" newgid="uk.org.publicwhip/westminhall/2021-12-09b.179.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.179.5" newgid="uk.org.publicwhip/westminhall/2021-12-09b.179.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.179.6" newgid="uk.org.publicwhip/westminhall/2021-12-09b.179.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.183.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.184.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.184.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.184.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.184.2" newgid="uk.org.publicwhip/westminhall/2021-12-09b.184.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.186.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.186.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.186.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.188.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.188.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.188.2" newgid="uk.org.publicwhip/westminhall/2021-12-09b.188.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.190.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.190.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.191.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.191.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.192.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.194.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.195.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.195.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.198.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.201.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.202.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.202.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.202.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.202.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.202.2" newgid="uk.org.publicwhip/westminhall/2021-12-09b.202.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.202.3" newgid="uk.org.publicwhip/westminhall/2021-12-09b.202.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.202.4" newgid="uk.org.publicwhip/westminhall/2021-12-09b.202.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.202.5" newgid="uk.org.publicwhip/westminhall/2021-12-09b.202.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.203.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.203.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.204.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.204.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.204.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.204.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.204.2" newgid="uk.org.publicwhip/westminhall/2021-12-09b.204.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.205.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.205.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.205.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.205.2" newgid="uk.org.publicwhip/westminhall/2021-12-09b.205.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.205.3" newgid="uk.org.publicwhip/westminhall/2021-12-09b.205.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.208.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.210.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.212.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.212.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.214.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.216.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.217.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.218.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.218.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.218.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.218.2" newgid="uk.org.publicwhip/westminhall/2021-12-09b.218.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.218.3" newgid="uk.org.publicwhip/westminhall/2021-12-09b.218.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.218.4" newgid="uk.org.publicwhip/westminhall/2021-12-09b.218.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.218.5" newgid="uk.org.publicwhip/westminhall/2021-12-09b.218.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.218.6" newgid="uk.org.publicwhip/westminhall/2021-12-09b.218.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.219.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.219.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.219.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.219.2" newgid="uk.org.publicwhip/westminhall/2021-12-09b.219.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.219.3" newgid="uk.org.publicwhip/westminhall/2021-12-09b.219.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.219.4" newgid="uk.org.publicwhip/westminhall/2021-12-09b.219.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-12-09a.219.4" speakername="Leo Docherty" type="Continuation Speech" person_id="uk.org.publicwhip/person/25628" colnum="219" time="15:47:00" url="">
+    <p pid="a219.4/1">Let me be very clear: I am not saying that these cases should be heard in the military system. I am saying that it is right that we have the flexibility of concurrent jurisdiction. I am saying it is conceivable that, for the benefit and the convenience, and therefore the welfare, of a hypothetical victim, hearing a case in the court martial might be appropriate. However, that is, of course, entirely a decision for the civilian prosecutor.</p>
+    <p pid="a219.4/2">My hon. Friend asked me about bullying, harassment and discrimination. That has not been removed from the chain of command. We still believe this it is about institutionalising a robust response from the chain of command. The chain needs to be part of the solution, not the problem. That is why we keep complaints of bullying, harassment and discrimination within the chain of command system. That is right and proper, because a lot of this is solved by better leadership. It is not about entirely decanting these issues from sub-unit commanders;  it is about ensuring that people step up and realise that it is a function of their own professionalism to be able to deal with these sorts of cases.</p>
+    <p pid="a219.4/3">One way in which the Secretary of State has gone further than the Committee’s recommendations is by requiring career reporting in the formal reports on commanding officers to include their approach to these cases. If a commanding officer goes against or does not fulfil their duty, or receives a complaint from the Service Complaints Ombudsman about a grievance, that should be reflected in the career profile of a person in authority. That is important measure will ensure that, institutionally, everyone has bought into this and is part of the solution, not just the problem.</p>
+    <p pid="a219.4/4">The hon. Member for South Shields also mentioned service complaints. I was pleased with her reference to Salute Her. I have visited Salute Her, and I acknowledge the important work that it does. The Office for Veterans’ Affairs will be commissioning important research into the experience of women veterans. We look forward to that being announced next week when we formally launch the veterans strategy. I know it will be of particular interest to Salute Her.</p>
+    <p pid="a219.4/5">My right hon. Friend the Member for Bournemouth East mentioned the importance of recruitment and flexible working. I remember when he was Minister on the Public Bill Committee scrutinising the Armed Forces (Flexible Working) Act 2018. I will write to him with some figures. I do not have figures today, but I do have very positive anecdotal experience of talking to serving females about the benefits of flexible working. He should be very proud of the Bill he took through. Allowing people to drop the kids at school and then do a day’s work in a more flexible way, when operational requirements allow, is of significant personal benefit.</p>
+    <p pid="a219.4/6">The hon. Member for Glasgow North West mentioned diversity having value, rather than just being a box-ticking exercise. I commend that. As our new Chief of the Defence Staff referred to, this is not about wokefulness. It is about ensuring that we are a highly capable war-fighting machine that can deploy around the world to defeat the nation’s enemies. Diversity is a necessary precondition of that. We cannot afford not to be diverse, because diversity makes us more robust and, in this context, much more lethal.</p>
+    <p pid="a219.4/7">That plays into the question the hon. Lady asked about how we achieve this cultural shift. It is all about leadership, ultimately. It is about a huge range of technical provisions, some of which I will mention in a minute, but the bottom line is that it has got to be backed up by leadership. Leaders need to be instilling this vision in their people. That plays into some of the questions from the hon. Member for Barnsley East. We are going to deliver this through good military leadership. I should mention that we have accepted 33 and partially accepted four of the Committee’s recommendations, and noted 13 points that are conclusions rather than recommendations.</p>
+    <p pid="a219.4/8">Let me canter through some of the departmental and institutional improvements that we are getting after. The service chiefs have commissioned a policy review to strengthen the available levers for dismissing or discharging those who are found to have committed sexual offences or unacceptable sexual behaviour. We are developing a new sexual exploitation and abuse policy, which will look at the use of transactional sex workers, for example.   We take extremely seriously the overseas context, which has been mentioned, so we are looking at what kinds of policy provision we can put in place for it.</p>
+    <p pid="a219.4/9">We aim to build trust in the service complaints system and the service justice system through a revised approach to publication of successful service justice sexual offending prosecutions, alongside anonymised service complaint cases, so that women who are serving can see that those issues are taken seriously and that justice is delivered. As I have said, those cases will be taken outside the chain of command, and—this was mentioned in passing —we are very pleased to be delivering the defence serious crimes unit as a mainstay of the Armed Forces Bill.</p>
+    <p pid="a219.4/10">As I have already mentioned, the Secretary of State is determined that there should be more female representation on courts martial boards. Broader than that, moving from the technical, legalistic provision, it is about ensuring that the broader cultural environment for women serving is satisfactory. We are doing a six-month review to accelerate existing work to deliver a range of new women’s health policies in the workplace, in response to feedback from serving women. The chiefs of staff are leading an urgent six-month review accelerating existing work to address uniform and equipment improvements, which was mentioned by a number of hon. Members. I am pleased to basically, body armour—will be issued by summer next year. So we are cracking on and buying the right equipment for serving women as well as men who happen to be smaller than average. That is good news on body armour.</p>
+    <p pid="a219.4/11">It is also important to note that we are putting broader lifestyle support measures in place. Flexible service was mentioned. Importantly, with regard to supporting family life, wraparound childcare is now being piloted, and the recent feedback that I have had from members of the Royal Air Force serving in High Wycombe is that it is an absolute game changer in allowing a spouse to work and dramatically improving family cohesion. We look forward to that being rolled out in due course. That is one of the important components of the family strategy that will be formally launched next week. All hon. Members will get a copy of it with a “Dear colleague” letter explaining some of the excellent details. Basically, it puts the service family at the heart of defence and delivers choice and flexibility.</p>
+    <p pid="a219.4/12">I should say a word about trying to see the positives and reinforcing the fact that service life should be seen as a positive opportunity for women. It is not just about mitigating bad behaviour but about celebrating and reinforcing good behaviour and the amazing array of positive opportunities that come through service. That is all about leadership. As I said, an important component of leadership is how those in authority and leadership positions deal with complaints as well as ensure a work-life balance and inclusive leadership—in other words, acknowledging the needs of the family when possible—at sub-unit level. We seek to empower leaders to help us drive this institutional change. Of course we are trying to regulate bad behaviour, but it is also about inspiring leaders to be part of the delivery mechanism for positive institutional change.</p>
+    <p pid="a219.4/13">We have an ambition of 30% female inflow, but the bottom line is that we will achieve that only if we have really positive female role models who attract female  recruits. Recently, I was pleased to visit the King’s Troop Royal Horse Artillery. I spoke to a range of brilliant service personnel, some of whom had served for 18 years and others for three or four years, and they were unanimous in the message that they love service life. Of course some had critical feedback, and I was pleased to take note of that. They are the sort of individuals who will inspire more females to join and acknowledge that it is an excellent career.</p>
+    <p pid="a219.4/14">I mentioned the veterans’ charity Salute Her. When we launch the veterans’ strategy next week, we will commit to better understanding the needs of female veterans. That will be extremely important, and we will track that.</p>
+    <p pid="a219.4/15">I will conclude with role models. As a Department, institutionally we are there to ensure there is a robust and independent service justice system that gives women confidence that they can serve with dignity and thrive in every role—since 2018, every role in the armed forces is open to women. The bottom line is that this kind of institutional change can be brought about only by servicewomen themselves. The best accelerant of the change will be to have brilliant women at the very top of the military, driving forward institutional change and inspiring more women to join and serve. That is why our target is 30%.</p>
+    <p pid="a219.4/16">I would like to mention three women in particular. The first is Major General Sharon Nesmith of the army recruiting and initial training team; it is people like her who will effect this change. It is also people like Air Vice-Marshal Maria Byford, who is chief of staff personnel and air secretary, and the soon-to-be Rear Admiral Jude Terry, who will be promoted to that rank in August next year. They are role models who will drive positive change. Their own careers show young women who are considering a career in the armed forces that women can serve and thrive in the Army, that they should join, and that they will have a great career and will flourish in the armed forces.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.222.0" newgid="uk.org.publicwhip/westminhall/2021-12-09b.222.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-12-09a.222.1" newgid="uk.org.publicwhip/westminhall/2021-12-09b.222.1" matchtype="perfectmatch"/>
+</publicwhip>
+

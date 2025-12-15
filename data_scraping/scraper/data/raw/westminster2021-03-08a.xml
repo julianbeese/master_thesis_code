@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-03-08a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.1.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.1.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.1.2" newgid="uk.org.publicwhip/westminhall/2021-03-08b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.1.3" newgid="uk.org.publicwhip/westminhall/2021-03-08b.1.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.4.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.4.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.5.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.5.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.5.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.6.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.7.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.7.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.7.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.8.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.9.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.9.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.9.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.10.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.10.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.10.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.10.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.11.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.12.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.13.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.13.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.13.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.13.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.14.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.14.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.15.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.15.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.16.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.16.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.16.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.16.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.18.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.18.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.20.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.20.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.20.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.20.2" newgid="uk.org.publicwhip/westminhall/2021-03-08b.20.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.20.3" newgid="uk.org.publicwhip/westminhall/2021-03-08b.20.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.21.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.21.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.24.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.24.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.24.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.24.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.24.2" newgid="uk.org.publicwhip/westminhall/2021-03-08b.24.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.24.3" newgid="uk.org.publicwhip/westminhall/2021-03-08b.24.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.25.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.25.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.25.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.25.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.25.2" newgid="uk.org.publicwhip/westminhall/2021-03-08b.25.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.25.3" newgid="uk.org.publicwhip/westminhall/2021-03-08b.25.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.28.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.28.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.28.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.29.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.29.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.30.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.30.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.30.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.30.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-03-08a.30.1" speakername="Crispin Blunt" type="Continuation Speech" person_id="uk.org.publicwhip/person/10051" colnum="30" time="18:31:00" url="">
+    <p pid="a30.1/1">My apologies.</p>
+    <p pid="a30.1/2">The law gives the victims the opportunity to go to the police and, therefore, to have a weapon in their hand against the source of a conversion therapy. The state is on the side of victims’ freedom—the freedom that that individual is trying to take away from them.</p>
+    <p pid="a30.1/3">The second point I want to make is that such protection must include trans people. They are by far and away the most vulnerable group among the LGBT community. Identity around gender dysphoria is surely a much more challenging thing to meet than a minority sexuality, but all must be protected. The law must include trans people, and not only because they are the group who need it the most. In 2018, it appeared that trans people were on a trajectory to achieve their rights and protections to live their lives as they wished, supported by the Government’s comprehensive LGBT action plan, but all that now seems to have changed. Trans people are a community under siege. Organisations whose principle raison d’être is to attack and challenge the very legitimacy of trans people have come into being, and they appear to trans people to be firmly in the ascendant.</p>
+    <p pid="a30.1/4">The lived experience of trans people reflects the awful paucity of services for them in the United Kingdom, as graphically illustrated by VICE News in January and November. They also see 250 articles a year attacking them in our newspaper of record, The Times. They see that groups such as the Conservative Women’s Organisation and LGB Alliance, whose purpose seems to be to protect cisgender women from trans women, have the ear of Ministers. They see reform of the Gender Recognition Act 2004 abandoned, and the principle of gender-neutral legislation was reversed only last week.</p>
+    <p pid="a30.1/5">Gender is much more complicated than sexuality, and the drafting of the ban on conversion therapy will need to protect those giving informed, regulated and properly peer-reviewed advice to assist those on the path to reconciling their gender dysphoria. If the legislation does not include the protection of trans people, however, it will send to them the unmistakeable message that their Government do not want to protect them, do not value them and, at some level, do not really accept that trans is really a thing. That awful message would inadvertently make the Government themselves party to the practice of conversion therapy.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.30.2" newgid="uk.org.publicwhip/westminhall/2021-03-08b.30.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.31.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.31.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.32.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.32.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.33.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.33.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.33.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.33.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.34.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.34.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.35.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.35.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.35.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.35.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.37.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.38.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.38.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.38.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.38.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.38.2" newgid="uk.org.publicwhip/westminhall/2021-03-08b.38.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.40.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.40.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.40.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.41.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.41.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.41.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.42.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.42.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.42.1" newgid="uk.org.publicwhip/westminhall/2021-03-08b.42.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.43.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.45.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.45.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.47.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.47.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08a.50.0" newgid="uk.org.publicwhip/westminhall/2021-03-08b.50.0" matchtype="perfectmatch"/>
+</publicwhip>
+

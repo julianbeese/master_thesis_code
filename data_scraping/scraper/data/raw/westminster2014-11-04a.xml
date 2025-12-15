@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.147.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.147.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.147.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.147.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.148.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.148.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.148.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.149.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.149.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.149.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.149.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.149.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.149.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.149.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.149.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.149.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.149.5" newgid="uk.org.publicwhip/westminhall/2014-11-04b.149.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.150.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.150.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.150.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.150.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.151.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.151.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.151.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.152.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.152.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.152.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.152.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.152.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.152.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.153.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.153.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.153.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.153.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.154.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.156.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.156.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.156.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.157.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.157.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.157.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.157.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.159.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.159.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.159.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.160.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.160.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.160.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.160.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.160.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.161.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.161.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.162.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.162.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.163.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.163.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.163.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.164.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.164.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.164.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.164.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.164.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.164.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.164.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.164.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.165.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.165.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.165.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.165.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.166.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.166.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2014-11-04a.166.0" speakerid="uk.org.publicwhip/member/40141" speakername="George Eustice" speakeroffice="The Parliamentary Under-Secretary of State for Environment, Food and Rural Affairs"  colnum="166"  time="010:45:00" url="http://www.publications.parliament.uk/pa/cm201415/cmhansrd/cm141104/halltext/141104h0001.htm#141104h0001.htm_spmin0">
+	<p pid="a.166.0/1">I congratulate my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40608" name="Neil Parish">the Member for Tiverton and Honiton (Neil Parish)</phrase> on securing this important debate. As many Members have said, this issue is complex and sensitive. I had the pleasure of giving evidence to his all-party parliamentary group, and I thought that the report was engaging and got to grips with the details. As many hon. Members have said, it addressed the issue calmly and dispassionately, focusing on the evidence. I welcome his approach. Over the last six months or so, I have met representatives from all sides of the debate, including from Shechita UK, halal meat processors and Compassion in World Farming, to ensure that I have the fullest perspective of everyone&#8217;s views on the issue.</p>
+	<p pid="a.166.0/2">I will start by setting out a little of the historical and international context to the debate. Like many debates, it has been running for a long time. Today, European and domestic regulations apply to the welfare of animals that are to be slaughtered, requiring that all animals be stunned before slaughter. However, as every hon. Member here knows, there is a derogation to allow slaughter without stunning in accordance with religious rites for the production of halal or kosher meat only. The aim of the regulations is to ensure that animals are spared any avoidable pain, distress or suffering at the time of killing.</p>
+	<p pid="a.166.0/3">However, our current national requirements on religious slaughter have a long history. Government first set down powers to prevent cruelty in slaughterhouses in the Public Health Act, which was as long ago as 1875. Byelaws made under that legislation required that animals be &#8220;effectually stunned&#8221;. After that, in 1904, a Committee was set up to ascertain the most humane practicable methods of slaughtering animals. The Committee&#8217;s report recommended that all animals to be slaughtered, without exception, should be stunned.</p>
+	<p pid="a.166.0/4">Following that report, the Local Government Board issued a circular proposing that the Committee&#8217;s recommendations should be implemented, but that stunning should not be obligatory where slaughter was carried out by a Jew licensed by the Chief Rabbi, provided that no unnecessary suffering was inflicted. Interestingly, a similar requirement for shechita slaughter&#8212;that it is carried out by a Jewish slaughterman licensed by the Rabbinical Commission for the Licensing of Shochetim&#8212;still exists in our current national legislation.</p>
+	<p pid="a.166.0/5">The first national legislative requirement in England and Wales for stunning before slaughter was in the Slaughter of Animals Act 1933, which also retained an exception from stunning for religious slaughter by Jews and Muslims. Over the years, the national rules governing religious slaughter have developed to provide protection to animals slaughtered in accordance with religious rites.</p>
+	<p pid="a.166.0/6">Our existing national rules on religious slaughter provide greater protection than those contained in the European regulation. For example, there are requirements for how cattle can be restrained. In particular, we prohibit inversion during slaughter, and require bovines to be</p>
+	<p pid="a.166.0/7">restrained only in approved restraining pens. The requirements for bovine restraining pens are set down in national legislation. Other national rules concern so-called standstill times for cattle, sheep and goats; following the neck cut, the animal cannot be moved until at least 30 seconds have passed and the animal is unconscious, in the case of bovines, or at least 20 seconds have passed and the animal is unconscious, in the case of sheep and goats. The standstill times are aimed at providing protection from avoidable pain, suffering and distress caused, for example, by unnecessary movement while the animal is still conscious after its neck has been cut.</p>
+	<p pid="a.166.0/8">I turn now to what other countries are doing, to make some international comparisons. European legislation allows for national rules on religious slaughter, so there are differing rules across Europe. For example, in Germany abattoirs have to prove the &#8220;religious needs&#8221; and define the number of animals to be slaughtered so as to satisfy the needs of the religious community concerned before they are granted a licence. In the Netherlands, all animals must be stunned if they have not lost consciousness within 40 seconds of the cut being made. In France, there must be a post-cut stun if cattle are still conscious after 90 seconds. Other countries, such as Finland, Denmark, Austria, Estonia and Slovakia, go further by requiring immediate post-cut stunning. Further afield, under Australian law stunning at slaughter is required, but there is an option for a state or meat inspection authority to provide an exemption and approve an abattoir for religious slaughter without prior stunning for the domestic market, but post-cut stunning is still required for these animals.</p>
+	<p pid="a.166.0/9"><phrase class="honfriend" id="uk.org.publicwhip/member/40620" name="David Simpson">The hon. Member for Upper Bann (David Simpson)</phrase>, who was here earlier, mentioned the potential impact on exports and the concerns that some people have about what might happen to exports if we place additional restrictions on religious slaughter. I completely understand that argument. However, last year I met a farmer from Australia, who said that all Australian sheep are effectively slaughtered in accordance with halal requirements, because they are exported to some very important Muslim markets in Asia, but those sheep are also stunned post-cut.</p>
+	<p pid="a.166.0/10">The reason I highlight both the historical and the international context of this issue is that there has been a long-running debate about it, which legislators have wrestled with for well over a hundred years. I am not sure that we will resolve all the issues here today in this debate but we have had a very calm and insightful debate, which has certainly helped.</p>
+	<p pid="a.166.0/11">I will pick up on the points that some hon. Members have made. As my hon. Friend the Member for Tiverton and Honiton pointed out, one of the issues with halal is that there is no single definition of what constitutes &#8220;halal&#8221;. Often in the case of halal meat, the relevant Muslim authorities are content that the animal is stunned. Where that stunning is carried out during the course of religious slaughter, the stun must be effective under the legislation and the animals must also be stunned using a lawful stunning method. As was pointed out by a number of hon. Members, the majority of halal meat is stunned; around 88% of poultry in the UK is stunned.</p>
+	<p pid="a.166.0/12">Also, the EU welfare at slaughter regulation allows for &#8220;simple stunning&#8221;, which is sometimes referred to as &#8220;recoverable stunning&#8221;. Simple stunning does not kill</p>
+	<p pid="a.166.0/13">the animal but renders it unconscious and insensible to pain and, if it is used, it must be followed as quickly as possible by a procedure that causes death, such as bleeding.</p>
+	<p pid="a.166.0/14">I will pick up on some of the issues that other hon. Members have raised. First, however, I will underline the Government&#8217;s position today, which builds on the long-standing position we have adopted in this country. Our position is that we would prefer that all animals are stunned before slaughter, but we recognise and respect the needs of religious communities, so we have always maintained this limited exemption, which is to be used only for meat produced for Jewish and Muslim communities. Last year, the Prime Minister made it very clear in a speech that the Government have no intention of abolishing religious slaughter in this country. However, it is equally important to note that none of the derogations that we have in place, which are set out through the Welfare of Animals (Slaughter or Killing) Regulations 1995, exempt anyone from the requirements of the Animal Welfare Act 2006, which requires all abattoirs to avoid causing an animal avoidable pain.</p>
+	<p pid="a.166.0/15">My hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40326" name="Jonathan Djanogly">the Member for Huntingdon (Mr Djanogly)</phrase> and a number of other hon. Members questioned the evidence that non-stunned slaughter causes more pain and suffering to an animal. I understand the arguments that he made; I have met representatives of Shechita UK and heard those arguments from them. However, that is not a view that is widely shared in the scientific or veterinary community.</p>
+	<p pid="a.166.0/16">Put bluntly, the situation is clear from most of the evidence. There are a number of reports. The Farm Animal Welfare Committee issued a report in 2003, which concluded that there was significant pain and distress where there was not stunning before slaughter. Likewise, in 2004 the European Food Safety Authority issued a similar opinion, maintaining that there was more pain and suffering if there was no stun. There was also the EU Dialrel report and project, which was conducted in 2009 and looked at the neurological behaviour of animals once they are slaughtered. That report, too, reached a similar conclusion, as my hon. Friend the Member for Tiverton and Honiton said, and more recently there has been research in New Zealand, which reached the same conclusion. So there is a large body of research that concludes that it is better for the welfare of the animal for it to be stunned, and it is for that reason that the Government would prefer it if all animals were stunned.</p>
+	<p pid="a.166.0/17">It is important to make that point, because although the Prime Minister has made it absolutely clear that we have no intention of banning religious slaughter, we must understand the basis on which that is done. It is not that we believe the welfare issues are any different between the two types of slaughter, nor that we believe shechita is a more welfare-friendly method of slaughter, but because we respect the rights of religious communities. That has been the long-standing position of every UK Government, going back some 100 years.</p>
+	<p pid="a.166.0/18">A number of hon. Members, including the shadow Minister, <phrase class="honfriend" id="uk.org.publicwhip/member/40465" name="Huw Irranca-Davies">the hon. Member for Ogmore (Huw Irranca-Davies)</phrase>, raised the issue of labelling. The European Commission is conducting a study on labelling at the moment; we expect it to conclude in December. Initially, it was planned that the study would be published this summer, but as usual&#8212;because this is a very contentious</p>
+	<p pid="a.166.0/19">issue&#8212;it has taken the Commission rather longer than it thought. Nevertheless, we hope that the study will come by the end of the year, or perhaps the beginning of next year.</p>
+	<p pid="a.166.0/20">A number of hon. Members made the point that it would be wrong just to label meat as &#8220;stunned&#8221; or &#8220;unstunned&#8221;, and that a fairer way would be to list all the different methods of slaughter. The only thing I would say in response is that, from the EU perspective, &#8220;stunned&#8221; has a clear legal definition in the legislation, and it is simply that an animal is rendered insensible to pain almost immediately. As I say, that is a clear definition and the scientific evidence does not support the argument that a cut without prior stunning achieves that. In addition, it would be complicated to list all the different methods of slaughter and, as the hon. Member for Ogmore said, I am not sure that there would be a huge consumer appetite for us to try to differentiate between all the different methods of slaughter.</p>
+	<p pid="a.166.0/21">I know that previously people have said that perhaps we should label meat as being &#8220;halal&#8221; or &#8220;kosher&#8221;, so that people know what they are buying. However, there are also difficulties with that, in that there is no single definition of &#8220;halal&#8221;, as many hon. Members have said, and a further complication is that not all meat slaughtered by kosher methods is deemed &#8220;kosher&#8221;; for instance, the hind quarters of an animal are not deemed &#8220;kosher&#8221;, even though the animal is slaughtered by kosher methods. As I say, there are complications in the area of labelling, but we await the report from the European Commission and look forward to following it up.</p>
+	<p pid="a.166.0/22">I will also cover mis-stunning, which many hon. Members have mentioned. I can confirm that the Food Standards Agency has reviewed the way that it approaches mis-stunning. Previously, it only reported critical breaches that were observed by the official veterinarians in the slaughterhouse. We always accepted that that would not pick up every single mis-stun. Following representations that have been made, which is proof that this Parliament works when people ask questions of Ministers, I can</p>
+	<p pid="a.166.0/23">confirm that we looked at this issue again and in future the FSA intends basically to monitor and record all breaches, whether or not they were critical.</p>
+	<p pid="a.166.0/24">The important thing to understand is that just because there is a mis-stun, that does not necessarily mean that the welfare outcome for the animal was dire. On occasions, and this usually happens with bovine animals, what a mis-stun means is that the first shot taken by the captive bolt did not quite achieve the intended task, and within seconds&#8212;almost literally&#8212;a second bolt is fired, which finishes the job. So it is wrong to equate mis-stunning with dire outcomes from an animal welfare point of view. Nevertheless, we are concerned about mis-stunning and will therefore monitor it.</p>
+	<p pid="a.166.0/25">I will finish by referring briefly to a few other points. CCTV in slaughterhouses is an issue; the FAWC is looking at it. The last time we had a consultation on it, we ruled out its use, on the basis that we did not think it would necessarily identify where there were problems, but we keep the issue under review.</p>
+	<p pid="a.166.0/26">Also, when it comes to the point my hon. Friend the Member for Tiverton and Honiton made about consistency of approach, I have asked the FSA and our vets in the Department for Environment, Food and Rural Affairs to consider the approach they take to these issues, to ensure that there is consistency.</p>
+	<p pid="a.166.0/27">Finally, I will finish on the point that my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40112" name="Roger Williams">the Member for Brecon and Radnorshire (Roger Williams)</phrase> made, namely that there is a difference between animal species. We know that sheep and chickens lose consciousness relatively quickly but sadly the same is not true for bovines, which can take up to 1 minute 20 seconds to lose consciousness.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.170.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.171.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.171.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.171.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.172.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.172.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.172.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.174.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.174.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.174.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.176.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.176.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.176.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.176.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.176.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.176.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.177.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.177.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.179.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.179.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.179.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.179.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.179.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.179.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.179.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.179.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.179.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.179.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.179.5" newgid="uk.org.publicwhip/westminhall/2014-11-04b.179.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.179.6" newgid="uk.org.publicwhip/westminhall/2014-11-04b.179.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.179.7" newgid="uk.org.publicwhip/westminhall/2014-11-04b.179.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.179.8" newgid="uk.org.publicwhip/westminhall/2014-11-04b.179.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.179.9" newgid="uk.org.publicwhip/westminhall/2014-11-04b.179.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.180.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.180.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.180.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.180.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.180.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.180.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.180.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.181.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.181.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.181.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.181.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.181.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.181.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.181.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.182.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.182.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.183.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.183.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.183.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.183.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.183.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.183.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.183.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.183.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.183.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.183.5" newgid="uk.org.publicwhip/westminhall/2014-11-04b.183.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.184.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.184.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.184.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.184.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.184.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.184.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.184.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.184.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.184.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.186.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.186.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.186.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.186.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.186.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.186.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.186.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.186.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.186.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.186.5" newgid="uk.org.publicwhip/westminhall/2014-11-04b.186.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.187.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.187.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.187.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.187.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.187.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.187.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.187.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.187.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.187.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.187.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.187.5" newgid="uk.org.publicwhip/westminhall/2014-11-04b.187.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.187.6" newgid="uk.org.publicwhip/westminhall/2014-11-04b.187.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.188.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.188.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.188.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.188.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.188.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.188.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.188.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.188.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.188.5" newgid="uk.org.publicwhip/westminhall/2014-11-04b.188.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.190.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.191.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.191.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.191.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.191.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.191.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.191.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.192.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.192.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.192.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.192.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.193.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.193.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.194.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.195.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.195.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.196.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.196.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.196.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.196.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.196.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.197.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.197.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.197.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.197.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.197.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.197.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.197.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.200.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.200.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2014-11-04a.200.0" speakerid="uk.org.publicwhip/member/40141" speakername="George Eustice" speakeroffice="The Parliamentary Under-Secretary of State for Environment, Food and Rural Affairs"  colnum="200"  time="015:50:00" url="http://www.publications.parliament.uk/pa/cm201415/cmhansrd/cm141104/halltext/141104h0002.htm#141104h0002.htm_spmin0">
+	<p pid="a.200.0/1">I welcome the opportunity to respond to today&#8217;s debate and thank all hon. Members for their contributions, which have covered a wide range of issues.</p>
+	<p pid="a.200.0/2">This year&#8217;s culls finished as planned after six weeks, and we are now analysing the data collected over that period. The data are being independently audited in the same way as last year&#8217;s. When the analysis is complete, the outcomes of this year&#8217;s cull will be published, so I will focus on our approach to collecting the data and assessing populations this year&#8212;issues to which many hon. Members have alluded. That is directly relevant to this debate.</p>
+	<p pid="a.200.0/3">We published our approach to monitoring before the culls started, and I confirm that we carried out the planned number of field observations and far more than the planned number of post-mortem examinations&#8212;figures that were both set last year. A lot of information has been collected. The processes used for collecting data are also currently subject to independent audit. We are taking the same approach as last year to ensure that our data are robust.</p>
+	<p pid="a.200.0/4">In August 2014 we published a detailed document setting out our precise methodology, &#8220;Setting the minimum and maximum numbers for Year 2 of the badger cull&#8221;, and before the cull started we published that guidance to help Natural England set this year&#8217;s minimum and maximum numbers. We set out clearly how this year&#8217;s numbers were derived for each area, and the paper describes in great detail&#8212;it runs to 34 pages&#8212;the basis of the estimates and any assumptions made. The approach was agreed by the chief scientific adviser. Estimating wildlife populations is subject to uncertainty, as the independent expert panel acknowledged in its report last year. It is important that we use all valid sources of information, giving particular weight to up-to-date evidence about numbers of active setts, based on repeated observations across the whole cull area.</p>
+	<p pid="a.200.0/5">A number of hon. Members have mentioned the somewhat unscientific outburst by Professor Rosie Woodroffe. I like Rosie Woodroffe&#8212;she hails from Cornwall and</p>
+	<p pid="a.200.0/6">even went to the same school as my sister&#8212;but she needs to compare the approach taken in the randomised badger culling trials with the methodology we have used this year. The reality is that there was no hair-trapping at all in the RBCTs, on which all our assumptions in the fight against this disease are based. In fact, no assessment of the badger population was made at the start of the culls. Instead, once four years of culling were finished, there was a retrospective attempt to estimate what the population might have been at the start&#8212;to back-calculate what the populations were. People have talked about the methodology that we adopted being crude, but how is that for crude? The RBCTs did not even assess the population before they started, and then they retrospectively tried to estimate what the population was.</p>
+	<p pid="a.200.0/7">Compare that with the approach we took this year, which is set out in great detail on pages 10 and 11 of the guidance. We took the end point of the population last year as this year&#8217;s starting point. We followed the IEP&#8217;s advice and used the cull sample matching method to try to predict the end population after last year&#8217;s culls. We then used a number of models, which are set out in detail, to take account of population growth. Those models are largely rooted in long-standing population measurements in places such as Woodchester park over many years&#8212;there are 20 years of data&#8212;to establish how populations change over a given winter. At the end of that process, as with the RBCT, which is all the IEP had to go on, we finally submitted the population to method 4, which is where one looks at the real activity on the ground. There were sett surveys and sett sticking. We looked at the trees and measured actual activity in badger setts. That is a kind of reality check, to check whether our data models are giving the right information.</p>
+	<p pid="a.200.0/8">The shadow Secretary of State highlighted the fact that different approaches were taken in Somerset and Gloucester, and asked why. We set that out in great detail on pages 12 and 13 of the guidance. In Gloucester, there was greater consistency in what the models were telling us about the population, so it was easier to meet that condition. In Somerset there was a conflict between some of the models, so it went with the most reliable model, which used real data in real time on real activity in setts.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.201.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.201.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.201.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.202.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.202.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.202.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.202.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.203.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.203.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.203.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.203.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.203.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.203.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.203.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.203.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.203.5" newgid="uk.org.publicwhip/westminhall/2014-11-04b.203.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.203.6" newgid="uk.org.publicwhip/westminhall/2014-11-04b.203.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.204.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.204.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.204.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.204.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.206.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.206.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.206.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.207.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.209.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.209.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.209.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.209.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.209.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.210.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.210.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.210.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.210.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.210.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.210.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.210.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.211.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.211.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.211.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.211.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.211.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.211.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.211.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.211.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.211.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.211.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.211.5" newgid="uk.org.publicwhip/westminhall/2014-11-04b.211.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.211.6" newgid="uk.org.publicwhip/westminhall/2014-11-04b.211.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.211.7" newgid="uk.org.publicwhip/westminhall/2014-11-04b.211.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.212.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.212.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.212.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.212.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.212.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.212.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.212.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.212.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.212.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.212.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.212.5" newgid="uk.org.publicwhip/westminhall/2014-11-04b.212.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.212.6" newgid="uk.org.publicwhip/westminhall/2014-11-04b.212.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.213.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.214.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.214.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.214.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.215.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.215.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.215.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.215.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.215.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.215.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.215.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.216.0" newgid="uk.org.publicwhip/westminhall/2014-11-04b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.216.1" newgid="uk.org.publicwhip/westminhall/2014-11-04b.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.216.2" newgid="uk.org.publicwhip/westminhall/2014-11-04b.216.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.216.3" newgid="uk.org.publicwhip/westminhall/2014-11-04b.216.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.216.4" newgid="uk.org.publicwhip/westminhall/2014-11-04b.216.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2014-11-04a.216.5" newgid="uk.org.publicwhip/westminhall/2014-11-04b.216.5" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2019-02-25a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.1.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.1.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.2.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.2.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.2.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.2.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.2.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.2.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.2.3" newgid="uk.org.publicwhip/westminhall/2019-02-25b.2.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.3.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.3.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.3.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.3.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.3.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.3.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.3.3" newgid="uk.org.publicwhip/westminhall/2019-02-25b.3.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.3.4" newgid="uk.org.publicwhip/westminhall/2019-02-25b.3.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.3.5" newgid="uk.org.publicwhip/westminhall/2019-02-25b.3.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.4.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.4.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.4.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.4.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.4.3" newgid="uk.org.publicwhip/westminhall/2019-02-25b.4.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.5.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.5.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.5.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.6.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.6.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.6.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.6.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.6.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.6.3" newgid="uk.org.publicwhip/westminhall/2019-02-25b.6.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.7.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.7.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.7.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.7.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.7.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.8.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.8.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.8.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.8.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.8.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.8.3" newgid="uk.org.publicwhip/westminhall/2019-02-25b.8.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.8.4" newgid="uk.org.publicwhip/westminhall/2019-02-25b.8.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.8.5" newgid="uk.org.publicwhip/westminhall/2019-02-25b.8.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.8.6" newgid="uk.org.publicwhip/westminhall/2019-02-25b.8.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.8.7" newgid="uk.org.publicwhip/westminhall/2019-02-25b.8.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.8.8" newgid="uk.org.publicwhip/westminhall/2019-02-25b.8.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.9.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.11.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.11.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.11.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.11.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.11.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.11.3" newgid="uk.org.publicwhip/westminhall/2019-02-25b.11.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.12.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.12.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.12.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.13.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.13.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.13.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.13.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.14.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.14.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.14.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.14.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.15.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.15.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.17.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.17.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.18.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.18.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.18.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.18.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.18.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.18.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.20.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.21.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.21.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.21.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.21.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.22.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.22.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.22.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.22.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.22.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.22.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.22.3" newgid="uk.org.publicwhip/westminhall/2019-02-25b.22.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.23.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.23.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.24.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.24.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2019-02-25a.24.0" speakername="Jim Fitzpatrick" person_id="uk.org.publicwhip/person/10199" colnum="24" time="17:59:00" url="">
+    <p pid="a24.0/1">It is a pleasure to see you presiding in the Chair for this debate, Sir David. I am pleased to follow my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25034" name="Debbie Abrahams">the Member for Oldham East and Saddleworth (Debbie Abrahams)</phrase> after another one of her trademark thoughtful contributions. I thank Tower Hamlets Council, the Terrence Higgins Trust, Women’s Aid, the Sex Education Forum, Humanists UK, the National Secular Society, and Tower Hamlets police for providing briefings in support of today’s debate. I also thank Jenny Simmons in my office for making sense of it all and drafting this contribution, which I have managed to file down to comply with Mrs Moon’s suggestions on time limits.</p>
+    <p pid="a24.0/2">Today I want to explain why I support compulsory relationships education and why it is not only useful but essential for the welfare of children in Poplar and Limehouse, despite 100 emails and 1,200-plus signatures from constituents supporting the petition. It is my stance that comprehensive relationships and sex education is a powerful tool for countering some of the biggest social problems—mainly misogyny, homophobia, and the resulting violence against women and the LGBT community. Society has a responsibility to ensure our young people have the confidence to live full lives without embarrassment, confusion or worse. As it stands now, parents have the right to withdraw their children from sex education up until three terms before they turn 16.</p>
+    <p pid="a24.0/3">We know that some young people start having sex much younger than 16. They need to be educated properly about how to look after their bodies and avoid contracting diseases. My own borough of Tower Hamlets has one of the highest chlamydia rates in all of the UK, and the council is keen to address it through comprehensive sex education. The Sex Education Forum quotes research that states that young people who receive high quality RSE are more likely to start having sex at an older age and use protection when they do. Contrary to some parents’ fears that being taught RSE may encourage young people to engage in premature, unsafe sexual activity, research shows the opposite.</p>
+    <p pid="a24.0/4">There is nothing to prohibit parents from giving their children further information. However, it must be covered in school to ensure that all children know the basics about puberty and adolescence. Consent is also an  important thing to learn at a young age. Young women and girls need to understand as early as possible how to express consent in an intimate relationship and to know that it is okay to say no. Young men and boys especially need to learn the importance of “no” and how to respect that. RSE lessons can also be opportunities to recognise any abuse that pupils might be experiencing. Lessons could help pupils to learn about healthy and safe relationships and recognise signs of sexual, physical or emotional abuse in themselves and others.</p>
+    <p pid="a24.0/5">One in six children in Tower Hamlets have special educational needs, making them more vulnerable to abuse. Our council recognises the importance of RSE in supporting those children and young people, increasing their knowledge about sexual abuse and improving their skills in refusing activities with which they are not comfortable. Relationships education will also provide an important space for children and young people to learn about how to get on with each other and about gender dynamics. We know that sexist and misogynistic attitudes can be picked up in childhood, and if left uncorrected can develop into abuse towards women. Violence against women is a particular problem in my borough, much of it happening within the home. Tower Hamlets police told me that in the past 12 months there have been more than 3,400 offences relating to domestic abuse: 100 caused moderate or severe injury and four led to death. Four deaths caused by domestic abuse is four too many.</p>
+    <p pid="a24.0/6">Tower Hamlets Council holds that a comprehensive education in gender equality and respect is essential to reducing violence against women, and it recommends working to counter it not only in schools, but in the wider community. I note that Women’s Aid welcomes the Government’s declaration, which is a sure sign the proposals for RSE are in the interests of women’s safety. Covering such topics is essential to help young women and girls recognise signs of abuse and unhealthy relationships.</p>
+    <p pid="a24.0/7">This debate is also an important opportunity to emphasise how valuable RSE is in raising awareness of LGBT people and increasing understanding. In 2019 many of our families look different; children in our classrooms may be raised by grandparents, single parents or same-sex parents. They may also grow to identify themselves as LGBT. Our children should not just learn about diversity in our society, but should celebrate it.</p>
+    <p pid="a24.0/8">I want to commend the faith schools in my constituency that already provide RSE to a high standard, making sure it is inclusive as well as culturally sensitive. When it comes to sensitivity towards different communities, there are services available that can help schools deal with the challenges. In my constituency, Tower Hamlets Council offers their healthy lives team to advise schools on how to be in tune with the cultural attitudes of parents while ensuring that children and young people do not receive a lower-quality of RSE.</p>
+    <p pid="a24.0/9">Many of the organisations who briefed me expressed concerns at the proposed rights for parents to withdraw their children from RSE. For some young people, school might be the only place they can learn the facts and the law on issues around consent, sexual health, abuse and exploitation, and understand that attitudes in their homes or communities towards women may be unjust. The Government proposal states that headteachers will grant requests for parents to withdraw children up to three terms before 16, other than under “exceptional  circumstances”. The parameters around exceptional circumstances need to be more clearly defined to give heads the leeway to deny requests from parents if they judge them to be against the best interests of the child. Will the Minister comment on that?</p>
+    <p pid="a24.0/10">It is worth keeping in mind that parents withdrawing their children and teenagers from classes will not ensure they learn about the issues only from their parents. It simply means their other sources of information will be the internet; representations of relationships from TV and films; ideas about body image from Instagram; and sexual education from online sources that are easily available. We need to make sure our children and young people receive the best quality information from reliable, trained professionals, and that it is ingrained in them before they are susceptible to dangerous messaging online.</p>
+    <p pid="a24.0/11">In conclusion, I have made it clear today that l am fully in favour of all children and young people being taught RSE and am against increasing parental rights to withdraw their children from the lessons that will ensure the safety, mentally and physically, of the children in my constituency, and hopefully break cycles of violence against women and the LGBT community. With such vital education the next generation should grow up to be more tolerant and knowledgeable than previous generations.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.26.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.26.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.27.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.27.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.27.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.27.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.27.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.27.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.27.3" newgid="uk.org.publicwhip/westminhall/2019-02-25b.27.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.27.4" newgid="uk.org.publicwhip/westminhall/2019-02-25b.27.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.28.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.28.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.28.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.28.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.28.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.28.3" newgid="uk.org.publicwhip/westminhall/2019-02-25b.28.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.28.4" newgid="uk.org.publicwhip/westminhall/2019-02-25b.28.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.29.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.29.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.32.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.32.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.34.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.34.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.38.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.38.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2019-02-25a.38.0" speakername="Mike Kane" person_id="uk.org.publicwhip/person/25220" colnum="38" time="18:55:00" url="">
+    <p pid="a38.0/1">It is always a pleasure to serve under your chairmanship, Sir David, but especially in this critical debate. I thank all Members who have taken part: the hon. Members for Henley (John Howell), for Congleton (Fiona Bruce), for Bolton West (Chris Green), for Brighton, Pavilion (Caroline Lucas), for North Antrim (Ian Paisley), for Strangford (Jim Shannon) and for Livingston (Hannah Bardell), my hon. Friends the Members for Birmingham, Ladywood (Shabana Mahmood), for Walthamstow (Stella Creasy), for Bradford West (Naz Shah), for Oldham East and Saddleworth (Debbie Abrahams) and for Poplar and Limehouse (Jim Fitzpatrick), and my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11360" name="Liam Byrne">the Member for Birmingham, Hodge Hill (Liam Byrne)</phrase>. Everyone made excellent speeches.</p>
+    <p pid="a38.0/2">The Government are right to be doing what they are doing. The common good is the maximum utility for the most number of people, but always with a preferential option for those who cannot go along with the decisions. My hon. Friend the Member for Birmingham, Ladywood whetted my appetite regarding the culture wars today, but we must be careful not to engage in them. Government should and have a right to govern and bring forward guidance on this matter.</p>
+    <p pid="a38.0/3">I also thank my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10319" name="Helen Jones">the Member for Warrington North (Helen Jones)</phrase>, a woman with stunning oratory. She has absolutely brought due diligence to her work on the Petitions Committee and to introducing the debate today. She made powerful points that opened the debate up. I look forward to her soaring oratory when she winds up.</p>
+    <p pid="a38.0/4">I just mentioned the common good; interestingly, the same concept exists in Judaism—tikkun olam—and in Islamic social thought, but we need to think about what that is. The hon. Member for North Antrim was right—I agreed with him—about one thing. As a school teacher myself, I used to rail against politicians in this place who thought that the answer to every social problem in our country was to get it on the school curriculum. It is not. Parents are the primary educators and we should remember that. The hon. Members for North Antrim and for Strangford might be on one side and the hon. Member for Livingston and my hon. Friend the Member for Poplar and Limehouse slightly on the other side, but I think there was a great degree of consensus in the debate.</p>
+    <p pid="a38.0/5">A champion of RSE was my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25168" name="Sarah Champion">the Member for Rotherham (Sarah Champion)</phrase>, who got it included in the Children and Social Work Act 2017. Deciding what is in the national curriculum in social work Acts or amendments to them is not the proper way forward, or what I would want if I was in government, but she championed it, she won and here we are today. It is a shame that we did not have the guidance that would have informed this debate, and that the Secretary of State was on his feet in the main Chamber at the same time, but these are the circumstances in which we find ourselves. Proposals made by the Secretary of State at the time, <phrase class="honfriend" person_id="uk.org.publicwhip/person/11771" name="Justine Greening">the right hon. Member for Putney (Justine Greening)</phrase>, included making elements of PHSE mandatory in all schools and making new subjects—relationships education and relationships and sex education—mandatory at primary and secondary level respectively.</p>
+    <p pid="a38.0/6">In the past, RSE was seen as an add-on, taught for an hour every fortnight by someone whose job it was not, or by an outside agency brought in to tick a particular box.  That was backed up by the evidence of the Department for Education’s own data, which showed that time spent teaching PHSE fell 32% between 2011 and 2015. As a former PHSE co-ordinator I attribute some of that fall to my coming to Parliament.</p>
+    <p pid="a38.0/7">High-quality relationships and sex education helps to create safe school communities where pupils can grow, learn and develop positive, healthy behaviour for life. Inadequate RSE leaves pupils vulnerable to abuse or exploitation, without an understanding of how to negotiate risky situations or where to go to for help. Statutory RSE needs to be part of the overall teacher training programme, and any qualified teachers whose role includes teaching it must be appropriately equipped and resourced. It needs to be done sensitively.</p>
+    <p pid="a38.0/8">I taught year 5, including the sex education programme, for a number of years. There was a really well-developed policy through the Standing Advisory Council for Religious Education, local religious organisations and the local education authority. There was a sense of subsidiarity in how it was done in local areas. We lose that slightly through the multi-academy trust system, as my right hon. Friend the Member for Birmingham, Hodge Hill, pointed out. The policy was overseen by the headteacher, we held consultation meetings with all the parents of that class, we did one-to-ones, and we had an accelerated learning programme where objectives were clearly marked out and outcomes noted. It was done late into the term, when I had established good relationships with each child. It was overseen by a parent governor—Mrs Rocca in my case, who was also the school’s secretary—who would sit in on some of the lessons if the headteacher did not.</p>
+    <p pid="a38.0/9">I would present myself at the school gates at the end of every day of those lessons, to ensure parents could interact with me. At the end of the lesson, when we had reached the objectives, the children could place a question into the pot and we would have an open, honest and constructive conversation about the questions they had. It was done really well at my school; I taught it well, but it was down to really strong leadership from the headteacher.</p>
+    <p pid="a38.0/10">The Minister needs to outline what budget and resources his Department has identified to support schools, such as the school where I taught, so that teachers can deliver RSE effectively. The Government’s draft guidance clearly sets out the rights of parents and carers to withdraw pupils from sex education, but not relationships education. It also notes that the role of parents in the development of their children’s understanding of relationships is vital—they are the primary educators—and that all schools should work closely with parents when planning and delivering these subjects, to ensure all children and young people receive age-appropriate RSE. The Minister will probably touch upon whether it will be the same for LEA schools as for free schools and academies. We know there are differences in how the national curriculum is delivered.</p>
+    <p pid="a38.0/11">For primary schools, the draft guidance states that headteachers will automatically grant a request to withdraw a pupil from any sex education that is not part of the science curriculum. For secondary schools, parents will still have a right to request to withdraw children from all sex education delivered as part of statutory RSE, and the request will be granted in all but exceptional  circumstances. That will apply up until three terms before a child turns 16, at which point a child will be able to opt in to sex education if they so choose. The guidance is also clear that as primary educators, parents must be consulted on their school’s curriculum for relationships and relationships and sex education.</p>
+    <p pid="a38.0/12">Children need to be taught what a coercive relationship is, whether violent or sexual. The Government have done remarkable work and I commend the Prime Minister —I rarely say that—on her work to combat human trafficking and the problems it creates. Children need to be taught what is appropriate and what is not when they meet people.</p>
+    <p pid="a38.0/13">There is a danger that without a clearer steer from Government there will be big variations in what schools deem consultation with parents to be. That was the key message of the eloquent speech from my right hon. Friend the Member for Birmingham, Hodge Hill, about the issues at Parkfield. Will the Minister indicate what guidance and support will be available for primary schools to engage with parents on the RSE curriculum?</p>
+    <p pid="a38.0/14">Views expressed through the consultation are helping to shape the final regulations and guidance, and the Department for Education expects to lay the regulations in spring 2019, alongside final draft guidance. We are expecting schools to be ready to deliver the statutory RSE curriculum in September, so there is not much time for consultation with parents and appropriate training and resources for teachers. Will the Minister outline the consideration he has given to the ability of schools to deliver within those timescales?</p>
+    <p pid="a38.0/15">RSE is sensitive and can be emotive. Our priority has to be to keep our children healthy and safe. Like many in this Chamber, I believe that age-appropriate RSE should be a statutory subject in schools in order to teach children about mutual respect and the importance of healthy relationships. Its role does not end there. Greater Manchester Police are increasingly worried about child exploitation, but they are more worried about criminal child exploitation. Last year, just short of 10,000 children were off-rolled in years 9 and 10. The state had no idea where those children were. I have criticised the Minister about that, because it makes our young people hugely vulnerable.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.40.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.40.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.40.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.41.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.42.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.42.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.42.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.42.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.43.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.43.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.43.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.43.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.43.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.44.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.44.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.44.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.44.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.44.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.44.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.45.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.45.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.45.1" newgid="uk.org.publicwhip/westminhall/2019-02-25b.45.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.45.2" newgid="uk.org.publicwhip/westminhall/2019-02-25b.45.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.45.3" newgid="uk.org.publicwhip/westminhall/2019-02-25b.45.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2019-02-25a.46.0" newgid="uk.org.publicwhip/westminhall/2019-02-25b.46.0" matchtype="perfectmatch"/>
+</publicwhip>
+

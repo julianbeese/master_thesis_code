@@ -1,0 +1,66 @@
+2025-09-20 19:47:57,401 - __main__ - INFO - === Debates XML-Parser und Datenbank-Import ===
+2025-09-20 19:47:57,401 - __main__ - INFO - Input-Verzeichnis: scraper/data/debates
+2025-09-20 19:47:57,401 - __main__ - INFO - Datenbank-Pfad: database/data/debates_data.db
+2025-09-20 19:47:57,401 - __main__ - INFO - Max-Dateien: alle
+2025-09-20 19:47:57,401 - __main__ - INFO - Batch-Größe: 100
+2025-09-20 19:47:57,401 - __main__ - INFO - Test-Modus: True
+2025-09-20 19:47:57,401 - __main__ - INFO - Test-Modus aktiviert: Max-Dateien auf 5 gesetzt
+2025-09-20 19:47:57,401 - __main__ - INFO - Initialisiere Database Manager...
+2025-09-20 19:47:57,410 - __main__ - INFO - Gefunden: 2945 XML-Dateien
+2025-09-20 19:47:57,410 - __main__ - INFO - Starte XML-Parsing und Datenbank-Import...
+2025-09-20 19:47:57,410 - database_manager - INFO - Starte Import aus scraper/data/debates
+2025-09-20 19:47:57,412 - database_manager - INFO - Verarbeite 5 XML-Dateien aus scraper/data/debates
+2025-09-20 19:47:57,412 - database_manager - INFO - Verarbeite Datei 1/5: debates2012-01-10a.xml
+2025-09-20 19:47:57,412 - database_manager - INFO - Parse debates XML-Datei: debates2012-01-10a.xml
+2025-09-20 19:47:57,413 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:47:57,413 - database_manager - INFO - Verarbeite Datei 2/5: debates2021-11-18c.xml
+2025-09-20 19:47:57,413 - database_manager - INFO - Parse debates XML-Datei: debates2021-11-18c.xml
+2025-09-20 19:47:57,414 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:47:57,414 - database_manager - INFO - Verarbeite Datei 3/5: debates2017-03-16a.xml
+2025-09-20 19:47:57,414 - database_manager - INFO - Parse debates XML-Datei: debates2017-03-16a.xml
+2025-09-20 19:47:57,424 - database_manager - INFO - Debates XML erfolgreich geparst: 24 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:47:57,424 - database_manager - INFO - Verarbeite Datei 4/5: debates2012-10-31b.xml
+2025-09-20 19:47:57,424 - database_manager - INFO - Parse debates XML-Datei: debates2012-10-31b.xml
+2025-09-20 19:47:57,425 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:47:57,425 - database_manager - INFO - Verarbeite Datei 5/5: debates2021-06-30b.xml
+2025-09-20 19:47:57,425 - database_manager - INFO - Parse debates XML-Datei: debates2021-06-30b.xml
+2025-09-20 19:47:57,439 - database_manager - INFO - Debates XML erfolgreich geparst: 17 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:47:57,439 - database_manager - INFO - Verarbeitung abgeschlossen: 5 Sitzungen erfolgreich geparst
+2025-09-20 19:47:57,439 - database_manager - INFO - Konvertiere 5 Sitzungen zu DataFrames
+2025-09-20 19:47:57,444 - database_manager - INFO - DataFrames erstellt: ['sessions', 'debates', 'speeches', 'speakers', 'paragraphs']
+2025-09-20 19:47:57,448 - database_manager - INFO - Indizes erfolgreich erstellt
+2025-09-20 19:47:57,448 - database_manager - INFO - Debates-Tabellen erfolgreich erstellt
+2025-09-20 19:47:57,452 - database_manager - INFO - Tabelle 'sessions' importiert: 5 Zeilen
+2025-09-20 19:47:57,454 - database_manager - INFO - Tabelle 'speakers' importiert: 222 Zeilen
+2025-09-20 19:47:57,458 - database_manager - INFO - Tabelle 'debates' importiert: 41 Zeilen
+2025-09-20 19:47:57,466 - database_manager - INFO - Tabelle 'speeches' importiert: 803 Zeilen
+2025-09-20 19:47:57,474 - database_manager - INFO - Tabelle 'paragraphs' importiert: 1672 Zeilen
+2025-09-20 19:47:57,474 - database_manager - INFO - Erstelle ML-Features aus Rede-Daten
+2025-09-20 19:47:57,487 - database_manager - INFO - ML-Features erstellt: (803, 12)
+2025-09-20 19:47:57,492 - database_manager - INFO - Tabelle 'ml_features' aus Polars DataFrame erstellt
+2025-09-20 19:47:57,501 - database_manager - INFO - Sprecher-Statistiken aktualisiert
+2025-09-20 19:47:57,501 - database_manager - INFO - Import abgeschlossen: {'sessions': 5, 'speakers': 222, 'debates': 41, 'speeches': 803, 'paragraphs': 1672, 'ml_features': 803}
+2025-09-20 19:47:57,502 - __main__ - INFO - === Import-Ergebnisse ===
+2025-09-20 19:47:57,502 - __main__ - INFO - Verarbeitungsdauer: 0.09 Sekunden
+2025-09-20 19:47:57,502 - __main__ - INFO - Import-Statistiken: {'sessions': 5, 'speakers': 222, 'debates': 41, 'speeches': 803, 'paragraphs': 1672, 'ml_features': 803}
+2025-09-20 19:47:57,505 - __main__ - INFO - === Datenbank-Statistiken ===
+2025-09-20 19:47:57,505 - __main__ - INFO - sessions_count: 5
+2025-09-20 19:47:57,505 - __main__ - INFO - debates_count: 41
+2025-09-20 19:47:57,505 - __main__ - INFO - speakers_count: 222
+2025-09-20 19:47:57,505 - __main__ - INFO - speeches_count: 803
+2025-09-20 19:47:57,505 - __main__ - INFO - paragraphs_count: 1672
+2025-09-20 19:47:57,505 - __main__ - INFO - ml_features_count: 803
+2025-09-20 19:47:57,505 - __main__ - INFO - date_range: (datetime.date(2012, 1, 10), datetime.date(2021, 11, 18))
+2025-09-20 19:47:57,505 - __main__ - INFO - top_speakers: [('David Lidington', 44), ('Karen Bradley', 43), ('Gavin Williamson', 42), ('Boris Johnson', 26), ('John Bercow', 22), ('Matthew Hancock', 20), ('Anthony Mangnall', 19), ('Simon Hart', 19), ('Jeremy Wright', 16), ('Robert Buckland', 15)]
+2025-09-20 19:47:57,512 - __main__ - INFO - ML-Dataset: 747 Reden mit Features
+2025-09-20 19:47:57,512 - __main__ - INFO - === Beispiel-Queries ===
+2025-09-20 19:47:57,513 - __main__ - WARNING - Top-Sprecher-Query fehlgeschlagen: Binder Error: column "first_appearance" must appear in the GROUP BY clause or must be part of an aggregate function.
+Either add it to the GROUP BY list, or use "ANY_VALUE(first_appearance)" if the exact value of "first_appearance" is not important.
+2025-09-20 19:47:57,514 - __main__ - INFO - Top 5 Debatten-Themen:
+2025-09-20 19:47:57,514 - __main__ - INFO -   1. Imminent Threats - BUSINESS OF THE HOUSE - ROYAL A... (1 Debatten)
+2025-09-20 19:47:57,514 - __main__ - INFO -   2. Business of the House - SKY/21ST CENTURY FOX: MERG... (1 Debatten)
+2025-09-20 19:47:57,514 - __main__ - INFO -   3. Professional Qualifications Bill... (1 Debatten)
+2025-09-20 19:47:57,514 - __main__ - INFO -   4. Broadcasting: Diversity... (1 Debatten)
+2025-09-20 19:47:57,514 - __main__ - INFO -   5. Great Repeal Bill... (1 Debatten)
+2025-09-20 19:47:57,514 - __main__ - INFO - === Verarbeitung erfolgreich abgeschlossen ===
+2025-09-20 19:47:57,536 - database_manager - INFO - Datenbankverbindung geschlossen

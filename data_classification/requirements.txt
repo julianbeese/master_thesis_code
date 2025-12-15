@@ -1,0 +1,32 @@
+# XML Parsing und Web Scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Datenbank
+duckdb>=0.10.0
+
+# LLM API
+google-generativeai>=0.3.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Data Analysis & Visualization
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+# Streamlit für Web App
+streamlit==1.50.0
+plotly==6.3.1
+pandas==2.3.3
+numpy==2.3.3
+
+# PostgreSQL für Railway
+psycopg2-binary==2.9.10
+
+# Standard-Bibliotheken (normalerweise bereits vorhanden)
+# pathlib - Standard in Python 3.4+
+# xml.etree.ElementTree - Standard Library
+# re - Standard Library
+# collections - Standard Library

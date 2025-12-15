@@ -1,0 +1,43 @@
+# Core Database Libraries
+duckdb>=0.9.0
+polars>=0.20.0
+pandas>=2.0.0
+pyarrow>=12.0.0
+
+# XML Processing
+lxml>=4.9.0
+xmltodict>=0.13.0
+beautifulsoup4>=4.12.0
+
+# Data Processing & Analysis
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Web Scraping (für XML-Download)
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pathlib2>=2.3.0
+tqdm>=4.65.0
+
+# Development & Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Jupyter & Visualization
+jupyter>=1.0.0
+ipykernel>=6.25.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional: Performance & Monitoring
+psutil>=5.9.0
+memory-profiler>=0.60.0
+
+# AI/ML Libraries
+google-generativeai>=0.3.0

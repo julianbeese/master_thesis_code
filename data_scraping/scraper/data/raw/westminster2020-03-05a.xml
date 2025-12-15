@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-03-05a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.357.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.357.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.357.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.357.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.357.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.357.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.358.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.358.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.358.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.358.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.358.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.358.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.358.3" newgid="uk.org.publicwhip/westminhall/2020-03-05b.358.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.358.4" newgid="uk.org.publicwhip/westminhall/2020-03-05b.358.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.358.5" newgid="uk.org.publicwhip/westminhall/2020-03-05b.358.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.358.6" newgid="uk.org.publicwhip/westminhall/2020-03-05b.358.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.359.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.359.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.359.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.359.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.359.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.359.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.359.3" newgid="uk.org.publicwhip/westminhall/2020-03-05b.359.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.360.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.360.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.360.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.360.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.360.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.360.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.360.3" newgid="uk.org.publicwhip/westminhall/2020-03-05b.360.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.361.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.361.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.361.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.361.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.362.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.362.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.362.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.362.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.363.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.363.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.364.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.364.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.364.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.364.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.364.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.364.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.365.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.365.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.365.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.365.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.365.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.365.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.366.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.366.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.366.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.366.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.366.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.366.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.366.3" newgid="uk.org.publicwhip/westminhall/2020-03-05b.366.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.368.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.368.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.368.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.368.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.369.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.369.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.369.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.369.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.369.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.369.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.370.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.370.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.370.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.370.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.371.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.371.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.371.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.371.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.371.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.371.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.371.3" newgid="uk.org.publicwhip/westminhall/2020-03-05b.371.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.373.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.373.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.374.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.374.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.374.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.374.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.375.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.375.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.376.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.376.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.376.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.376.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.377.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.377.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.378.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.378.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.378.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.378.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.378.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.378.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.378.3" newgid="uk.org.publicwhip/westminhall/2020-03-05b.378.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.378.4" newgid="uk.org.publicwhip/westminhall/2020-03-05b.378.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.378.5" newgid="uk.org.publicwhip/westminhall/2020-03-05b.378.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.379.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.379.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.379.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.379.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.379.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.379.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.379.3" newgid="uk.org.publicwhip/westminhall/2020-03-05b.379.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.379.4" newgid="uk.org.publicwhip/westminhall/2020-03-05b.379.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.379.5" newgid="uk.org.publicwhip/westminhall/2020-03-05b.379.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.380.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.380.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.380.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.380.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.380.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.380.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.381.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.381.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.381.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.381.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.381.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.381.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.386.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.386.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.387.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.387.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.390.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.390.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.392.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.392.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.392.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.392.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.392.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.392.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.396.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.396.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.396.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.396.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.396.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.396.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-03-05a.396.2" speakername="Nadine Dorries" person_id="uk.org.publicwhip/person/11397" colnum="396" time="16:04:00" url="">
+    <p pid="a396.2/1">I thank my hon. Friend for that intervention. I will go on to talk about waiting times, but he is absolutely right. It is a trial that we have rolled out to ensure that, across the country, anybody who presents with a serious first instance eating disorder is seen within one week and routine cases are seen with specialist help within four weeks. That has been rolled out and  tested across the country by NHS England, and I am incredibly impressed at some of the statistics that I am hearing; I thank the hon. Member for Worsley and Eccles South for citing her own constituency.</p>
+    <p pid="a396.2/2">This is a trial and, as we know, everybody has yet to meet the standards; that is the responsibility also of the clinical commissioning groups, because this is quite complicated. I will go on to talk about that, but I am actually impressed even with those statistics, considering what it was like before. I am pleased to hear the figures that my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25864" name="Alexander Stafford">the Member for Rother Valley (Alexander Stafford)</phrase> quotes for his constituency, but they do have to be, to quote a phrase, “levelled up” along with everywhere else.</p>
+    <p pid="a396.2/3">We know that the earlier an intervention is made and treatment provided, the more successful it is. One of the services in our mental health profile, which is not focused on eating disorders but which I am particularly impressed with, is the trailblazer schemes that we have rolling out into schools. Staff working on the schemes can pick up young people’s eating disorders at the very first signs. Outcomes are promising if they intervene at that very first stage, because the pattern of behaviour does not become established or embedded. They can intervene very early on.</p>
+    <p pid="a396.2/4">On the point from my hon. Friend the Member for Rother Valley, we set up the first standard to improve access to eating disorder services for children and young people to ensure that, by the end of 2021, 95% of all children and young people with an eating disorder will receive treatment within one week for urgent cases, and within four weeks for routine cases. We are on track to meet that commitment, and figures I have seen today suggest that we may be on track to meet it early, which would be fantastic.</p>
+    <p pid="a396.2/5">The number of people seeking treatment for eating disorders is sadly rising—or maybe it is a good thing, because people are not so stigmatised, are aware that help is there and are seeking it. However, that rise makes even more encouraging the corresponding increase in the number of patients who actually receive the care that they need. In-patient treatment should be a last resort, which is why in 2014 the Government announced a £150-million investment to expand community-based eating disorder care. We are making good on that promise, and as a result, 70 dedicated new or extended community services are now open or in development.</p>
+    <p pid="a396.2/6">Indeed, I visited one myself and met the amazing staff who work there—it takes incredible skills to work with people who suffer from eating disorders—and some of the sufferers, and saw that work taking place. People who go into these units are usually there for quite a while; it takes some time to work through this. However, the outcomes looked incredibly promising, particularly for the young women I spoke to. The fact that we have 70 of those dedicated units open now, or about to open, across the country is an incredible step forward in addressing this problem.</p>
+    <p pid="a396.2/7">That has led to sufferers receiving swift access to treatment within the community, because it is important that they receive treatment near to where they live, close to their families, schools and friends, and that their treatment causes as little disruption to their lives as possible. By improving care in the community, we can  improve outcomes and recovery, reduce rates of relapse and prevent eating disorders continuing into adulthood, which is really important.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.398.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.398.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.398.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.398.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.398.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.398.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.398.3" newgid="uk.org.publicwhip/westminhall/2020-03-05b.398.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.398.4" newgid="uk.org.publicwhip/westminhall/2020-03-05b.398.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.399.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.399.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-03-05a.399.0" speakername="Nadine Dorries" person_id="uk.org.publicwhip/person/11397" colnum="399" time="16:04:00" url="">
+    <p pid="a399.0/1">That is incredibly interesting. I had not heard about it, but I am sure that my officials will take note of it. We have an open door for anything that we can identify that helps us in targeting and providing services. We are looking for solutions to the problem. As I said, the money is there. Claire Murdoch, who I mention in almost every debate, and Professor Tim Kendall are rolling out mental health services across the country via NHS England. They have probably heard of it and are probably looking at it, but I am sure that we will take note and check if that is the case.</p>
+    <p pid="a399.0/2">Although eating disorders are commonly first experienced by people when they are young, they can continue into adulthood. Following a report on how NHS eating disorder services were failing patients, NHS England convened a working group with Health Education England, the Department of Health and Social Care and other partners, which goes to the point that my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24809" name="Caroline Nokes">the Member for Romsey and Southampton North (Caroline Nokes)</phrase> made. We are working in collaboration to address the report’s recommendations and to take them into account when planning for improvements to adult eating disorder services. Work is in progress on that.</p>
+    <p pid="a399.0/3">We are continuing the investment in mental health services through the NHS long-term plan, as I think most people know. The £2.3 billion is with NHS England, which has a long-term plan to deliver on mental health and is moving at incredible pace. Even today, although it is not relevant to the debate, it announced the opening of gambling clinics across the UK. Community services are being rolled out across the UK so that people in mental health crises do not end up in casualty. It is an incredibly impressive roll-out of mental health services across the UK, including for eating disorders.</p>
+    <p pid="a399.0/4">That long-term plan will give an additional 345,000 children access to mental health support; 380,000 adults access to psychological therapies; and 370,000 adults access to better support for severe mental illness by 2023-24. It commits to the delivery of eating disorder waiting time standards, which I have already spoken about, and I hope that we will reach those before the end of next year. The plan has also committed to the design and roll-out of a new integrated model of adult community mental health care.</p>
+    <p pid="a399.0/5">To increase further the number of people seeking treatment for their eating disorder, the Government recognise that raising awareness and reducing stigma are incredibly important. Here I should come on to a few of the points made by the right hon. Member for Knowsley. I shall go through them backwards, because that will be more positive in terms of affirmative answers. He mentioned social media providers, their role in body  image and the impact that they have on young women. My right hon. Friend the Secretary of State for Health and Social Care has already—this happened recently—held a roundtable with social media providers. It was an incredibly positive meeting, but that is something that needs to continue, because when it comes to social media interactors, providers and platforms need to be aware of the impact that their forums have on young women, so we are continuing that dialogue with them and, I hope, are continuing to push that point.</p>
+    <p pid="a399.0/6">The right hon. Gentleman made a point about the entertainment industry and its relationship and responsibilities with regard to body image. I announced two weeks ago that I am holding a roundtable with the entertainment industry. That was as a result of the death of Caroline Flack, who took her own life. For me, that was a watershed moment. It is time for the entertainment industry to be aware that it does not have a duty of care only to the people who they take on a contract to work with them. This is not just about sudden fame and reputation loss. The industry has a wider responsibility in relation to images that it projects and how it projects them, because young women and, indeed, many people absolutely are influenced by what they see—their perceived role models—through the lens of television or the cinema. The entertainment industry definitely has a responsibility, so in response to the right hon. Gentleman’s question, I can say that I have already put that in train.</p>
+    <p pid="a399.0/7">In relation to a review of the long-term effectiveness of CBT, I defer to the expertise and knowledge of our friend from the Scottish National party, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25276" name="Lisa Cameron">the hon. Member for East Kilbride, Strathaven and Lesmahagow (Dr Cameron)</phrase>, who made the point that short-term CBT may not be as effective, in terms of how it is delivered, for such long-term conditions. It may be part of the treatment, but as we know, when it comes to eating disorders, treatment is very prolonged in some cases. I am sure that CBT has a definite role, but it should not be seen in isolation. Management of eating disorders takes the input of physicians and psychologists—people who are expert in managing these conditions and working in this field. Therefore I would say yes, but not in isolation.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.400.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.400.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.400.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.400.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-03-05a.400.1" speakername="Nadine Dorries" person_id="uk.org.publicwhip/person/11397" colnum="400" time="16:04:00" url="">
+    <p pid="a400.1/1">I am sure that Claire Murdoch and Tim Kendall at NHS England are all over that and very aware of that. A streamlining approach to treatment is about getting people seen within the first week. If people are first seen within the first week when they present with their first crisis, that is the time when greater intervention can happen and when that treatment plan can be designed and put in place and there can be that entire care pathway through. I will not say that I think that that would shorten the illness, because I do  not know. The hon. Lady probably knows more than I do, but I would think that an effective treatment plan with CBT and everything that is involved in that would provide a better outcome than piecemeal interventions along the way.</p>
+    <p pid="a400.1/2">The right hon. Gentleman’s first point was careful consideration of Beat and so on. I am a huge admirer of Beat. It provides an incredible service. Its helpline deals with 30,000 people a year, I think, if I am not mistaken—it is a few weeks since I saw Beat. The support service that it provides, particularly to young women who are looking for someone to talk to and advice and help, is second to none. We are absolute supporters of Beat.</p>
+    <p pid="a400.1/3">Let me just go on to the point made by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11461" name="Charles Walker">the Member for Broxbourne (Sir Charles Walker)</phrase> about diabulimia. It is also of course the point that the right hon. Member for Knowsley raised repeatedly. We are absolutely committed to ensuring that people with diabulimia receive the treatment that they need. That is why NHS England announced in February 2019 the piloting of services. The services are being piloted on the south coast and in London, and NHS England will evaluate and monitor the pilots and take the learning from them. I will raise what the results show, if the results are through yet from the pilots, and what learning there has been and how it will apply across the UK. I am sure that the officials will take a note, and when I have had that meeting, I will report back to the right hon. Gentleman and let him know exactly what the findings are and where we are going on that. The group that we are talking about is very small, but it is at the extreme end and requires very serious consideration.</p>
+    <p pid="a400.1/4">I think that those are all the points that were raised and that I need to answer.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.401.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.401.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.401.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.401.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.401.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.401.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.401.3" newgid="uk.org.publicwhip/westminhall/2020-03-05b.401.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.402.0" newgid="uk.org.publicwhip/westminhall/2020-03-05b.402.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.402.1" newgid="uk.org.publicwhip/westminhall/2020-03-05b.402.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.402.2" newgid="uk.org.publicwhip/westminhall/2020-03-05b.402.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-03-05a.402.3" newgid="uk.org.publicwhip/westminhall/2020-03-05b.402.3" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2017-11-16a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.215.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.215.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.215.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.215.2" newgid="uk.org.publicwhip/westminhall/2017-11-16b.215.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.216.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.216.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.218.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.218.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.218.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.219.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.221.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.224.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.224.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.224.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.224.2" newgid="uk.org.publicwhip/westminhall/2017-11-16b.224.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.227.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.229.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.229.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.232.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.232.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.232.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.234.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.234.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.235.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.235.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.236.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.236.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.236.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.236.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.238.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.241.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.241.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.241.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.243.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.243.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.243.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.243.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.243.2" newgid="uk.org.publicwhip/westminhall/2017-11-16b.243.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.244.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.244.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.244.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.244.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.245.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.245.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.245.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.248.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.250.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.250.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.250.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.250.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.251.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.251.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.251.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.251.2" newgid="uk.org.publicwhip/westminhall/2017-11-16b.251.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.251.3" newgid="uk.org.publicwhip/westminhall/2017-11-16b.251.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.251.4" newgid="uk.org.publicwhip/westminhall/2017-11-16b.251.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.251.5" newgid="uk.org.publicwhip/westminhall/2017-11-16b.251.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.251.6" newgid="uk.org.publicwhip/westminhall/2017-11-16b.251.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.251.7" newgid="uk.org.publicwhip/westminhall/2017-11-16b.251.7" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-11-16a.251.7" speakername="Caroline Dinenage" person_id="uk.org.publicwhip/person/24873" colnum="251" time="15:51:00" url="">
+    <p pid="a251.7/1">I am grateful to the right hon. Gentleman for drawing attention to my former colleague, Edward Timpson, who was a most fantastic Minister in the Department for Work and Pensions and a great advocate for care leavers. We are supporting the Staying Put arrangements that the right hon. Gentleman alluded to, which mean that care leavers who remain with their ex-foster carer can claim means-tested benefit from their 18th birthday up to the age of 21, but I will look at everything he has said.</p>
+    <p pid="a251.7/2">In addition, we have exempted care leavers from the shared accommodation rate until they are 22. The shared accommodation rate is normally paid to single people aged under 35. That means that care leavers can claim the higher local housing allowance one-bedroom rate of housing benefit until their 22nd birthday.</p>
+    <p pid="a251.7/3">I have listened to the arguments made by hon. Members about the issue today. I particularly welcome the comments of my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25403" name="Will Quince">the Member for Colchester (Will Quince)</phrase>; he gave an eloquent description. I also thank him for the significant contribution he has made as chair of the all-party parliamentary group on homelessness, where he does a sterling and very valuable job.</p>
+    <p pid="a251.7/4">We have always said that this is something we would like to achieve, but at the moment we do not have plans to extend the exemption for care leavers from the shared accommodation rate to age 25. I assure my hon. Friend and other Members who have raised the issue today that we will continue to keep it under review and will consider evidence from stakeholders on the impact that the shared accommodation rate has on care leavers.</p>
+    <p pid="a251.7/5">We have given care leavers priority access to personal budgeting support in universal credit. That includes benefit advances, rent paid direct to landlords, payments more frequent than monthly and budgeting advice, including debt advice, which was raised by the hon. Member for Stockton North.</p>
+    <p pid="a251.7/6">We have a fantastic “See Potential” campaign—I say fantastic as it falls under my ministerial portfolio. It encourages employers to recognise the benefits of recruiting people from all kinds of backgrounds, including care leavers. I was so pleased to celebrate the inspiring workplace and training achievements of young people, including care leavers and others, at the Land Securities Community Employment Awards recently—we saw the incredible growth, development and achievement of some very inspiring young people.</p>
+    <p pid="a251.7/7">I am pleased that the Government are leading by example by setting up a cross-Government scheme to provide employment to care leavers. My Department’s own care leaver team includes a quite brilliant care leaver intern, who I have had the pleasure of meeting, and who is providing us with very valuable insights into issues that care leavers face and helping us improve our services for care leavers. She is very cool as well—she is in the room, which is why I am saying that!</p>
+    <p pid="a251.7/8">In developing our support for care leavers, we have worked closely with stakeholders. I am particularly grateful for the input from the Children’s Society, representatives of which I met shortly after being appointed to the Department. When I met with them, I was made aware of the fact that in some cases care leavers have difficulty taking up apprenticeships and a number of hon. Members have raised that today. We know that without the support of a family, they struggle economically. Having had that meeting, I hotfooted it straight over to the Department for Education and met the Minister for Apprenticeships and Skills to discuss the idea of an apprenticeship bursary, which would ensure that apprenticeships were an affordable option for care leavers, who do not have the family support that most apprentices can rely on.</p>
+    <p pid="a251.7/9">The Department for Education are reviewing how the new apprenticeship funding approach is supporting all those who are disadvantaged, including care leavers,  with the intention of improving how the system supports those individuals from 18 to 19, so that apprenticeships offer a more attractive opportunity to them and a greater chance of success. It has agreed to explore the proposal for an apprenticeship bursary.</p>
+    <p pid="a251.7/10">The debate has raised some really important issues, and I am grateful to all right hon. and hon. Members for the points they have made, which will continue to inform our work to support care leavers, alongside our discussions with our valuable stakeholders.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.253.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.253.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.253.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.253.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.254.0" newgid="uk.org.publicwhip/westminhall/2017-11-16b.254.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-11-16a.254.1" newgid="uk.org.publicwhip/westminhall/2017-11-16b.254.1" matchtype="perfectmatch"/>
+</publicwhip>
+

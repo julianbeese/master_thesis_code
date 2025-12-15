@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-07-22b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.447.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.447.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.447.1" newgid="uk.org.publicwhip/westminhall/2021-07-22c.447.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.447.2" newgid="uk.org.publicwhip/westminhall/2021-07-22c.447.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.447.3" newgid="uk.org.publicwhip/westminhall/2021-07-22c.447.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.447.4" newgid="uk.org.publicwhip/westminhall/2021-07-22c.447.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.450.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.450.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.450.1" newgid="uk.org.publicwhip/westminhall/2021-07-22c.450.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.452.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.452.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.453.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.453.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.454.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.454.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.455.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.455.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.456.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.456.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.457.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.457.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.458.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.458.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.459.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.459.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.460.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.460.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.462.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.462.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.462.1" newgid="uk.org.publicwhip/westminhall/2021-07-22c.462.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.463.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.463.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.466.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.466.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-07-22b.466.0" speakername="Matthew Pennycook" type="Start Speech" person_id="uk.org.publicwhip/person/25379" colnum="466" time="14:36:00" url="">
+    <p pid="b466.0/1">It is always a pleasure to serve with you in the Chair, Mr McCabe. It is also a pleasure to follow <phrase class="honfriend" person_id="uk.org.publicwhip/person/25336" name="Deidre Brock">the hon. Member for Edinburgh North and Leith (Deidre Brock)</phrase>. This has been an excellent debate, with a great many heartfelt and incisive contributions from Members from both sides of the House. I congratulate, as others have done, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25657" name="Simon Clarke">the hon. Member for Middlesbrough South and East Cleveland (Mr Clarke)</phrase>, for Bath (Wera Hobhouse) and my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25637" name="Darren Jones">the Member for Bristol North West (Darren Jones)</phrase> for sponsoring it.</p>
+    <p pid="b466.0/2">We really do need more debates of this kind over the next 100 days. COP26 is, as others have said, a critical moment in the fight against runaway global heating, the impact of which we have seen over recent months in the devastating extreme weather events across the globe. The House has a real duty to engage with the complexities of this summit far more than it has done to date.</p>
+    <p pid="b466.0/3">The Minister will know that over the past 15 months, the Opposition have not held back from criticising the Government for their lack of clarity on what they believe should be achieved over the course of those 12 days in Glasgow. Until a few months ago, Ministers had merely identified five key themes for the conference. They were then followed by four aims, one of which was the goal of</p>
+    <p pid="b466.0/4" class="indent" pwmotiontext="yes">“working together to make the negotiations in Glasgow a success”.</p>
+    <p pid="b466.0/5">That is all entirely laudable but also betrays a notable lack of strategic intent.</p>
+    <p pid="b466.0/6">I will be more generous in saying that, although it needs to be built on further, there has been a noticeable sharpening of focus over recent months, particularly when it comes to being explicit about the objective that Labour believes must be the overriding priority for the summit, and that is the need to put the world decisively on course to deliver the upper ambition—it is only the upper ambition—of the Paris agreement, namely limiting global heating to 1.5° over pre-industrial levels. The problem is, as I am sure the Minister will acknowledge, that there is clearly not yet a global consensus on 1.5° being a core objective of the summit, as opposed to merely an aspiration. Indeed, Bloomberg reported just this morning that for the second time this month, G20 climate Ministers are struggling to reach agreement on that 1.5° target. We believe that, over the coming weeks, keeping 1.5° within reach must be hardened into a headline target for the summit. It is incumbent on us, as the host of COP26, to do everything possible to ensure it is.</p>
+    <p pid="b466.0/7">Let me pick up some of the themes of the debate. I want to touch on four areas where greater progress is absolutely essential if we are to realise that aim, with an explicit focus not on the domestic but on the international, given that this is an international summit. First, the Government need to do much more with the presidency to initiate a genuine global debate on how we deliver at  the scale and pace that the science requires. In particular, we need much more openness and transparency about the commitments required from each of the parties by the time they arrive in Glasgow to ensure that a limit of 1.5° remains a possibility. Put simply, if current country climate plans have the world emitting, as they do, about 54 gigatonnes of greenhouse gas emissions in 2030, and 1.5° requires that they fall to about 24 gigatonnes by that date, what collective commitments do we need in November at COP26 to put the world on course to meet that 30 gigatonne ambition gap by the end of the next nine years? That is the question, but there is no real debate around it at present and, in its absence, no collective understanding of what is necessary to keep 1.5° within reach.</p>
+    <p pid="b466.0/8">Secondly—this is a point that a number of hon. Members raised, particularly the hon. Members for Brighton, Pavilion (Caroline Lucas) and for Strangford (Jim Shannon)—when it comes to mitigation ambition, we are currently way off track as a world. With just 100 days to go, the Government need to be straining every sinew possible to persuade, cajole and pressure those who have not yet done so to bring forward more ambitious nationally determined contributions. Countries such as Brazil that are making a mockery of the ratchet process by submitting new targets that are less ambitious than their previous ones need to be called out; those such as India and Saudi Arabia that are resisting the very proposition that the Paris agreement requires them to revisit their current plans at all need to be persuaded to think again, and quickly; and key allies such as Australia that are stubbornly refusing to improve on their inadequate 2030 targets need to start facing some public opprobrium for doing so. Perhaps the Minister could tell me whether she agrees with those points.</p>
+    <p pid="b466.0/9">Thirdly, as others have said, we have to make good on the promise of building back greener, not only in terms of domestic credibility and what that means in terms of our consistency and our leadership of the conference. The Chancellor has now passed up three fiscal opportunities, by my count—the 2020 summer statement, the 2020 comprehensive spending review, and the 2021 Budget—to lock in a genuine green economic recovery from the coronavirus crisis, with only £9.3 billion of funding focused on decarbonisation, £1 billion of which has been cut in the new green homes grant. That is dwarfed by levels of funding in other countries around the world, but the Chancellor’s failure is not unique: the International Energy Association’s sustainable energy tracker estimates that only 2% of fiscal support across the globe is being directed towards clean energy investment. That is lower than the level of green spending we saw in the wake of the 2008 financial crisis. The world has simply got to do better if we are going to lock in that green recovery.</p>
+    <p pid="b466.0/10">Fourthly and finally—this point was made powerfully by several hon. Members, including my hon. Friends <phrase class="honfriend" person_id="uk.org.publicwhip/person/25798" name="Mick Whitley">the Member for Birkenhead (Mick Whitley)</phrase> and for Bristol East (Kerry McCarthy)—we must ensure that the voice of the global south is heard. We must ensure that climate justice is prioritised, and we must do more on a practical level to urgently forge a coalition between high-ambition developed countries and highly vulnerable developing countries, not least because that is the only way in which we will apply sufficient pressure on major emitters such as China. The occasional ministerial meeting  cannot hide the fact that these issues have not been prioritised diplomatically over the past 15 months, and that ground needs to be made up urgently. The Foreign, Commonwealth and Development Office is going to need to be far more agile and focused on using all of the levers available to it to knit together that coalition.</p>
+    <p pid="b466.0/11">The Minister may not say so, but she knows as well as I do the serious damage that the decision to cut the overseas aid budget has caused to our standing with those on the frontline of the climate crisis. She will also know how critical trust will be if we are to secure a successful outcome in Glasgow. That makes it all the more important, as many others have said, that we honour the 2009 promise of $100 billion in climate finance annually to support developing nations. I would like to hear the Minister’s assessment of how that target will be reached in the coming weeks, and what more, if anything, the UK needs to contribute to ensure it is reached. Specifically—this is the one question I will ask the Minister, so I would really like an answer today, or subsequently in writing from a colleague if appropriate—can she confirm that a plan for meeting that $100 billion commitment will be brought forward by the UN General Assembly in September at the very latest, as 100 developing countries, including key Commonwealth allies, called for last week? Can she also assure the House that the UK will use its influence at the World Bank to ensure that it has a climate finance plan in place by the International Monetary Fund meeting scheduled for October?</p>
+    <p pid="b466.0/12">In addition to that $100 billion, as others have said, we also need to make tangible progress over the next few months on the share of climate finance flowing towards adaptation; on financing for loss and damage; on arrangements for post-2025 climate finance; and on the wider issues, which are really important in their own right, of vaccines and the debt burden that developing countries are facing as a result of the pandemic. There are a range of other issues on which greater progress is required, whether that is the rules for article 6 and transparency that the hon. Member for Bath mentioned; financial flows for the phasing out of coal; or, as my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25908" name="Olivia Blake">the Member for Sheffield, Hallam (Olivia Blake)</phrase> brought home powerfully in her contribution, nature and biodiversity. However, time prevents me from exploring any of them in this debate.</p>
+    <p pid="b466.0/13">What is important for the purposes of today, as we approach the 100-day marker, is that the House realises that the window for securing the outcomes necessary to make COP26 a success is closing rapidly, and that the outcome of the conference hangs in the balance as a result. There is a pressing need to accelerate progress markedly in a range of areas where the UK, as COP president, can make a real difference, but for that to happen, this critical summit has to be made a whole-of-Government priority, with the sustained engagement and focus from the Prime Minister, Chancellor and Foreign Secretary that that implies. It is an open secret that we are not seeing that engagement or focus at the moment. Until we do, we run the very real risk of failure in Glasgow in November.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.468.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.468.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.472.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.472.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.472.1" newgid="uk.org.publicwhip/westminhall/2021-07-22c.472.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.472.2" newgid="uk.org.publicwhip/westminhall/2021-07-22c.472.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.472.3" newgid="uk.org.publicwhip/westminhall/2021-07-22c.472.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.474.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.474.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.474.1" newgid="uk.org.publicwhip/westminhall/2021-07-22c.474.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.474.2" newgid="uk.org.publicwhip/westminhall/2021-07-22c.474.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.474.3" newgid="uk.org.publicwhip/westminhall/2021-07-22c.474.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.477.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.477.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.477.1" newgid="uk.org.publicwhip/westminhall/2021-07-22c.477.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.478.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.478.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.480.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.480.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.481.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.481.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.482.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.482.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.484.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.484.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.485.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.485.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.486.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.486.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.489.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.489.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.491.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.491.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.492.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.492.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.492.1" newgid="uk.org.publicwhip/westminhall/2021-07-22c.492.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.493.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.493.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.493.1" newgid="uk.org.publicwhip/westminhall/2021-07-22c.493.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.494.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.494.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.494.1" newgid="uk.org.publicwhip/westminhall/2021-07-22c.494.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.494.2" newgid="uk.org.publicwhip/westminhall/2021-07-22c.494.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.494.3" newgid="uk.org.publicwhip/westminhall/2021-07-22c.494.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.496.0" newgid="uk.org.publicwhip/westminhall/2021-07-22c.496.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-22b.496.1" newgid="uk.org.publicwhip/westminhall/2021-07-22c.496.1" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,194 @@
+2025-09-28 11:19:24,445 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-09-28 11:19:24,445 - __main__ - INFO - Max Debatten: 10000
+2025-09-28 11:19:24,445 - __main__ - INFO - Quell-Datenbank: database/data/parliament_data.db
+2025-09-28 11:19:24,445 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data.db
+2025-09-28 11:19:24,445 - __main__ - INFO - Gemini-Modell: gemini-1.5-flash
+2025-09-28 11:19:24,445 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-09-28 11:19:24,445 - __main__ - INFO - max_debates: 10000
+2025-09-28 11:19:24,445 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-09-28 11:19:24,445 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-09-28 11:19:24,445 - __main__ - INFO - estimated_total_tokens: 13750000
+2025-09-28 11:19:24,445 - __main__ - INFO - estimated_input_cost: 0.9375
+2025-09-28 11:19:24,445 - __main__ - INFO - estimated_output_cost: 0.375
+2025-09-28 11:19:24,445 - __main__ - INFO - estimated_total_cost: 1.3125
+2025-09-28 11:19:24,445 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-09-28 11:19:24,445 - __main__ - INFO - Initialisiere Komponenten...
+2025-09-28 11:19:24,455 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-1.5-flash' erfolgreich initialisiert
+2025-09-28 11:19:24,463 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_sessions (
+            session_id TEXT PRIMARY KEY,
+     ...
+2025-09-28 11:19:24,464 - classifier.brexit_database - INFO - Tabelle 'brexit_sessions' erstellt/überprüft
+2025-09-28 11:19:24,464 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_debates (
+            debate_id INTEGER PRIMARY KEY,
+    ...
+2025-09-28 11:19:24,465 - classifier.brexit_database - INFO - Tabelle 'brexit_debates' erstellt/überprüft
+2025-09-28 11:19:24,465 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_speeches (
+            speech_id TEXT PRIMARY KEY,
+      ...
+2025-09-28 11:19:24,465 - classifier.brexit_database - INFO - Tabelle 'brexit_speeches' erstellt/überprüft
+2025-09-28 11:19:24,465 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_keywords (
+            keyword_id INTEGER PRIMARY KEY,
+  ...
+2025-09-28 11:19:24,465 - classifier.brexit_database - INFO - Tabelle 'brexit_keywords' erstellt/überprüft
+2025-09-28 11:19:24,465 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS classification_log (
+            log_id INTEGER PRIMARY KEY,
+   ...
+2025-09-28 11:19:24,465 - classifier.brexit_database - INFO - Tabelle 'classification_log' erstellt/überprüft
+2025-09-28 11:19:24,465 - classifier.brexit_database - INFO - Brexit-Datenbank initialisiert: database/data/brexit_data.db
+2025-09-28 11:19:24,465 - __main__ - INFO - Lade Debatten aus der Datenbank...
+2025-09-28 11:19:24,474 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, s.date
+        FROM parliament_debates d
+       ...
+2025-09-28 11:19:24,474 - __main__ - INFO - Gefunden: 8 Debatten
+2025-09-28 11:19:24,474 - __main__ - INFO - Starte Klassifikation...
+2025-09-28 11:19:24,474 - __main__ - INFO - Verarbeite Debatte 1/8: Growth Strategy — [Mr Philip Hollobone in the Chai...
+2025-09-28 11:19:24,475 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-09-28 11:19:24,478 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,478 - __main__ - ERROR - Fehler beim Laden der Debatte 1: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,478 - __main__ - WARNING - Debatte 1 konnte nicht geladen werden
+2025-09-28 11:19:24,478 - __main__ - INFO - Verarbeite Debatte 2/8: Economy and Society: Contribution of Music...
+2025-09-28 11:19:24,479 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-09-28 11:19:24,479 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,479 - __main__ - ERROR - Fehler beim Laden der Debatte 2: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,479 - __main__ - WARNING - Debatte 2 konnte nicht geladen werden
+2025-09-28 11:19:24,479 - __main__ - INFO - Verarbeite Debatte 3/8: Motorhomes and Vehicle Excise Duty — [Sir David Am...
+2025-09-28 11:19:24,479 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-09-28 11:19:24,480 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,480 - __main__ - ERROR - Fehler beim Laden der Debatte 3: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,480 - __main__ - WARNING - Debatte 3 konnte nicht geladen werden
+2025-09-28 11:19:24,480 - __main__ - INFO - Verarbeite Debatte 4/8: Surrogacy: Government Policy...
+2025-09-28 11:19:24,480 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-09-28 11:19:24,481 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,481 - __main__ - ERROR - Fehler beim Laden der Debatte 4: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,481 - __main__ - WARNING - Debatte 4 konnte nicht geladen werden
+2025-09-28 11:19:24,481 - __main__ - INFO - Verarbeite Debatte 5/8: Growth Strategy — [Mr Philip Hollobone in the Chai...
+2025-09-28 11:19:24,481 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-09-28 11:19:24,481 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,481 - __main__ - ERROR - Fehler beim Laden der Debatte 5: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,481 - __main__ - WARNING - Debatte 5 konnte nicht geladen werden
+2025-09-28 11:19:24,481 - __main__ - INFO - Verarbeite Debatte 6/8: Economy and Society: Contribution of Music...
+2025-09-28 11:19:24,482 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-09-28 11:19:24,482 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,482 - __main__ - ERROR - Fehler beim Laden der Debatte 6: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,482 - __main__ - WARNING - Debatte 6 konnte nicht geladen werden
+2025-09-28 11:19:24,482 - __main__ - INFO - Verarbeite Debatte 7/8: Motorhomes and Vehicle Excise Duty — [Sir David Am...
+2025-09-28 11:19:24,482 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-09-28 11:19:24,482 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,482 - __main__ - ERROR - Fehler beim Laden der Debatte 7: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,482 - __main__ - WARNING - Debatte 7 konnte nicht geladen werden
+2025-09-28 11:19:24,482 - __main__ - INFO - Verarbeite Debatte 8/8: Surrogacy: Government Policy...
+2025-09-28 11:19:24,482 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.url
+        FROM parliament_debates d
+        ...
+2025-09-28 11:19:24,482 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,482 - __main__ - ERROR - Fehler beim Laden der Debatte 8: Binder Error: Referenced column "speaker_party" not found in FROM clause!
+Candidate bindings: "speaker_name", "speaker_id", "speaker_title", "speaker_person_id", "speech_id"
+
+LINE 2: ... speech_id, speaker_name, speaker_person_id, speaker_title, speaker_party, speaker_constituency,
+                                                                       ^
+2025-09-28 11:19:24,482 - __main__ - WARNING - Debatte 8 konnte nicht geladen werden
+2025-09-28 11:19:24,483 - __main__ - INFO - === KLASSIFIKATION ABGESCHLOSSEN ===
+2025-09-28 11:19:24,483 - __main__ - INFO - Verarbeitete Debatten: 0
+2025-09-28 11:19:24,483 - __main__ - INFO - Brexit-Debatten gefunden: 0
+2025-09-28 11:19:24,483 - __main__ - INFO - Brexit-Anteil: 0.0%
+2025-09-28 11:19:24,483 - __main__ - INFO - Dauer: 0.0 Sekunden
+2025-09-28 11:19:24,483 - __main__ - INFO - Fehler: 0
+2025-09-28 11:19:24,483 - __main__ - INFO - === KOSTEN-ANALYSE ===
+2025-09-28 11:19:24,483 - __main__ - INFO - Gesamtkosten: $0.0000
+2025-09-28 11:19:24,483 - __main__ - INFO - Kosten pro Debatte: $0.000000
+2025-09-28 11:19:24,483 - __main__ - INFO - Geschätzte Kosten für 1000 Debatten: $0.00
+2025-09-28 11:19:24,483 - __main__ - INFO - API-Anfragen: 0
+2025-09-28 11:19:24,483 - __main__ - INFO - Geschwindigkeit: 0.0 Anfragen/Minute
+2025-09-28 11:19:24,483 - __main__ - INFO - === REPORTS ===
+2025-09-28 11:19:24,483 - __main__ - INFO - Kosten-Report: results/cost_report_20250928_111924.csv
+2025-09-28 11:19:24,483 - __main__ - INFO - JSON-Report: results/classification_report_20250928_111924.json
+2025-09-28 11:19:24,484 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-28 11:19:24,489 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

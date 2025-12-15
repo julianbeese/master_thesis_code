@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-11-02a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.1.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.1.1" newgid="uk.org.publicwhip/westminhall/2020-11-02b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.1.2" newgid="uk.org.publicwhip/westminhall/2020-11-02b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.1.3" newgid="uk.org.publicwhip/westminhall/2020-11-02b.1.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.2.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.2.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.3.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.3.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.3.1" newgid="uk.org.publicwhip/westminhall/2020-11-02b.3.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.4.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.4.1" newgid="uk.org.publicwhip/westminhall/2020-11-02b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.4.2" newgid="uk.org.publicwhip/westminhall/2020-11-02b.4.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.6.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.7.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.9.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.11.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.14.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.14.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.16.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.16.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.18.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.18.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.18.1" newgid="uk.org.publicwhip/westminhall/2020-11-02b.18.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.20.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.20.1" newgid="uk.org.publicwhip/westminhall/2020-11-02b.20.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.22.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.22.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.22.1" newgid="uk.org.publicwhip/westminhall/2020-11-02b.22.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.22.2" newgid="uk.org.publicwhip/westminhall/2020-11-02b.22.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.24.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.24.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.26.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.26.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.28.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.30.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.30.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.30.1" newgid="uk.org.publicwhip/westminhall/2020-11-02b.30.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-11-02a.30.1" speakername="Wes Streeting" type="Continuation Speech" person_id="uk.org.publicwhip/person/25320" colnum="30" time="18:22:00" url="">
+    <p pid="a30.1/1">I am grateful for that intervention. There is a role for Ofsted to play in looking at remote learning in the home, not least to disseminate best practice among schools. Let us just be clear for a moment—we are asking schools across the country to do something that they have not previously been asked to do. Even the very best teachers will have to adapt quite significantly to teaching remotely. It requires a completely different skillset, and we do an enormous disservice to people whose professional careers are spent in distance learning by pretending that teaching in a classroom full of pupils, where it is possible to look right into the whites of their eyes and ensure they have access to the right books and the kit that they need for their learning, is not a very different challenge from teaching someone via an internet connection with video streaming.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.30.2" newgid="uk.org.publicwhip/westminhall/2020-11-02b.30.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.30.3" newgid="uk.org.publicwhip/westminhall/2020-11-02b.30.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.30.4" newgid="uk.org.publicwhip/westminhall/2020-11-02b.30.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.31.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.31.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.32.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.32.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.32.1" newgid="uk.org.publicwhip/westminhall/2020-11-02b.32.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-11-02a.32.1" speakername="Wes Streeting" type="Continuation Speech" person_id="uk.org.publicwhip/person/25320" colnum="32" time="18:22:00" url="">
+    <p pid="a32.1/1">Ultimately, in the worst case, parents have the right to withdraw their children from education altogether. I think, by the way, that that is not the right course of action. All the evidence says that children will be safer, happier and better educated if they are in school. That is why we are clear that the Government must do whatever it takes to keep schools open—we do not hear the phrase “whatever it takes” often these days—but people have legitimate concerns. Parents sending their children to school and staff going to work in school need to know that the headteacher and the governing body are being given the resources they need to ensure the school is clean, safe and welcoming, to put in place the right measures, from protective equipment to hand-washing facilities and sanitisers, and to ensure that they do not have to cut corners on cleaning—in catering facilities, for example, multiple cleaning rounds are needed throughout the day. Parents need to know that if, for whatever reason, staff are forced to isolate and cannot be at school, schools can bring in the cover support that they need to make sure that their children are still well supported and well educated. Parents need to know that if their children</p>
+    <p pid="a32.1/2">I am concerned that the schemes and funding initiatives that the Government have already announced—they are obviously not up and running yet; they are out to tender—are not targeted as well as they should be on pupils from the most disadvantaged backgrounds. I urge the Government to get back to that focus. I am really looking forward to the many exchanges that I will no doubt have with the Minister in the coming weeks, months and years.</p>
+    <p pid="a32.1/3">One fundamental problem with the Government’s approach to education policy in the past 10 years, and with where we are today, is that progress on closing the attainment gap at crucial points in pupils’ education journey—whether it be at their entry to primary school at five, when they leave primary school at 11, or when they are sitting their GCSEs at 16—has not only stalled but is beginning to slip into reverse gear. If we are not careful, we will allow the pandemic to rewrite the story of educational disadvantage in this country in a way that none of us wants, with the gap between those from the wealthiest and poorest backgrounds widening, and with children who have special educational needs and require additional support being left further behind. We cannot let that happen, because even with the best lifelong learning system in the world, children only get one chance at a primary and secondary education. Those formative years are absolutely crucial, which is why we believe that schools must be supported to be safe and open, and that we need a national strategy to make sure that no pupil is left behind.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.33.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.33.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-11-02a.33.0" speakername="Nick Gibb" type="Start Speech" person_id="uk.org.publicwhip/person/10225" colnum="33" time="18:42:00" url="">
+    <p pid="a33.0/1">It is a pleasure to serve under your chairmanship again, Sir David; I have not kept count like my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25811" name="Tom Hunt">the Member for Ipswich (Tom Hunt)</phrase>, but I am sure there have been many occasions. I welcome <phrase class="honfriend" person_id="uk.org.publicwhip/person/25320" name="Wes Streeting">the hon. Member for Ilford North (Wes Streeting)</phrase> to his position. I look forward to debating with him. If today is an example of the exchanges that we will have in the future, I look forward to them very much indeed. I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25898" name="Jonathan Gullis">the Member for Stoke-on-Trent North (Jonathan Gullis)</phrase> on the excellent and fair way that he introduced the debate.</p>
+    <p pid="a33.0/2">To pick up on one or two points made by the hon. Member for Ilford North on the attainment gap, the raison d’être of education policy since 2010 has been to close that gap. That has been the reason for all our reforms in reading, in maths, in the curriculum of GCSEs and A-levels, in the academies programme, and in the school improvement programme—everything we have been doing since 2010 has been about closing that gap, and making sure that those from the least advantaged backgrounds in our country have the same quality of education as their more advantaged peers. Since 2011, we have managed to close the attainment gap in primary schools by 13% and by 9% in secondary schools. We worry about the effect of the pandemic on that success, which is why we have managed to secure £1 billion of catch-up funding, £350 million of which is specifically targeted at the most disadvantaged pupils through the national tutoring programme.</p>
+    <p pid="a33.0/3">This debate is particularly timely in the light of the Prime Minister’s announcement this weekend of new national restrictions. We are clear that the Government will continue to prioritise the long-term future of young people. We will not ask schools to close. It is vital that as  many children as possible attend school, for their education, for their wellbeing and for their wider development—a view shared by my hon. Friends the Members for Stoke-on-Trent North, and for Ipswich, and by the hon. Members for Ilford North, and for Mitcham and Morden (Siobhain McDonagh).</p>
+    <p pid="a33.0/4">High levels of pupil attendance in school over this period are critical to ensuring that this generation of children reaches its potential, and to preventing a widening of the attainment gap. I pay tribute to the outstanding efforts of teachers, staff and parents across the country, which have meant that pupils continue to receive the education and opportunities that they deserve in the face of this pandemic. I also extend my thanks specifically to the attendance workers in schools and local authorities for their continued hard work in supporting so many pupils to attend.</p>
+    <p pid="a33.0/5">At the beginning of the outbreak, we made the difficult decision to limit the number of pupils attending school, and we empowered schools and local professionals to prioritise the attendance of vulnerable children and the children of critical workers. Although rates of coronavirus are rising, it is vital that children attend school to minimise as far as possible the long-term impact of the pandemic on their education. We are clear that school attendance is mandatory, and all the usual rules apply, including regarding parents’ duty to secure their child’s regular attendance at school, and the ability of schools and local authorities to issue sanctions and secure attendance.</p>
+    <p pid="a33.0/6">The Department will shortly issue summary guidance to schools setting out the implications of the new national restrictions. There is a clear correlation, as the hon. Member for Ilford North said, between time absent from school and attainment. Pupils with higher overall absence tend to do less well in their GCSEs. Figures show that as of <phrase class="date" code="2020-10-22">22 October</phrase>, 99.3% of schools were open, excluding schools on half term or inset days, and up to 7 million children and young people were in school; that represents 86% of pupils across the country. We continue to regularly collect and monitor school attendance data, which is published weekly as part of the Department’s commitment to transparency and to supporting local action.</p>
+    <p pid="a33.0/7">To support high levels of attendance, we have specifically asked schools to continue to communicate clear and consistent expectations about school attendance to pupils and their families. We have asked schools to identify pupils who are reluctant to attend or who are at risk of disengagement, and to develop plans to re-engage them, using the catch-up funding that they will receive.</p>
+    <p pid="a33.0/8">We have asked schools to work closely with other professionals, including social workers and specialist services, to support pupils’ attendance. There are examples of excellent work to support high levels of attendance across the country, including in the constituency of my hon. Friend the Member for Stoke-on-Trent North. The Stoke-on-Trent opportunity area is funding a project to tackle the underlying causes of unauthorised absence by creating a behaviour and attendance leaders network to establish consistent approaches and shared best practice across all the schools in the city. cannot attend school because they are required to self-isolate, they will be able to learn at home, and that catch-up support will be provided.</p>
+    <p pid="a33.0/9">Underpinning all this important work by schools are the usual school attendance rules and legal duties. These rules and duties will continue to apply during the forthcoming new national restrictions. Parents have a duty under section 7 of the Education Act 1996 to ensure that if their child is of compulsory school age, they receive an efficient full-time education, either by attendance at school or otherwise.</p>
+    <p pid="a33.0/10">Schools and local authorities can use a range of measures if a child’s attendance becomes a problem. The law gives schools and local authorities power to offer parenting contracts and obtain parenting orders to improve school attendance. Where a parent has failed to secure their child’s regular attendance, prosecution of a parent is available to local authorities as a last resort, under section 444 of the Education Act 1996.</p>
+    <p pid="a33.0/11">Of course, now more than ever, we trust schools and local authorities to consider the circumstances of each pupil and family when considering what the appropriate action is to tackle absence and support the child’s attendance, and whether to use those powers. We trust them to do this sensitively, as was pointed out by my hon. Friend the Member for Ipswich. We also encourage parents to work with their child’s school and the local authority, to discuss the reasons behind their child’s absence, and to agree together an action plan, so that the right support can be put in place to help the child return to regular and consistent education.</p>
+    <p pid="a33.0/12">Where children are not able to attend school because they are following public or clinical health advice related to coronavirus, parents will not be penalised. We will shortly publish updated guidance setting out current attendance expectations for children who are clinically extremely vulnerable. We also recognise that some pupils or families may still be anxious about sending their child to school, especially in the light of the rise in infections. Schools have been discussing those concerns with these families in order to provide reassurance.</p>
+    <p pid="a33.0/13">To increase support further in the long term, we remain committed to tackling mental health problems and implementing our joint Green Paper, which helps to introduce new mental health support teams, linked to schools and colleges. Those teams will help schools deal with mental health issues, which are as prevalent as, if not more prevalent than, they have been in recent years.</p>
+    <p pid="a33.0/14">The safety of all children in schools is especially important at present. We have set out a clear framework so that school leaders can put in place protective measures for pupils and their staff. Protective controls include ensuring that people who have symptoms do not attend school, that robust hand and respiratory hygiene measures are followed, that cleaning arrangements are enhanced, that contact is minimised between individuals, and that schools actively engage with NHS Test and Trace.</p>
+    <p pid="a33.0/15">All four UK chief medical officers have been clear that the risk to children of becoming severely ill from coronavirus is low. Therefore, for the vast majority of children, the benefits of being back in the classroom far outweigh the risks. Nevertheless, access to testing is available for any child, young person or member of staff displaying symptoms, as well as any symptomatic members of their household. Supplies of test kits have also been provided to all schools for those who develop symptoms on site and face significant personal barriers to accessing a test.</p>
+    <p pid="a33.0/16">The hon. Member for Mitcham and Morden raised the important issue of remote education, as she did in the Adjournment debate just before the recess. I share her genuine passion for ensuring that all children have access to remote education. We are clear that for some pupils who are unable to attend school in person, remote education may need to be an essential component of their education, alongside classroom teaching. In those circumstances, the Government want to ensure that there is no doubt about the roles and responsibilities within the system for providing remote education.</p>
+    <p pid="a33.0/17">The Secretary of State therefore made a temporary continuity direction on <phrase class="date" code="2020-10-01">1 October</phrase> to clarify that schools have a duty to provide remote education for state-funded school-aged children who are unable to attend school due to coronavirus, in line with our guidance and the law. To support schools and colleges in meeting those expectations, the Department announced a further remote education support package, which includes access to the right technology to deliver remote education, peer-to-peer training on how to use it effectively, and practical tools, guidance and webinars. Alongside that, the Department has made £4.84 million available for Oak National Academy, both for the summer term of the last academic year and for the 2020-21 academic year, so that it can provide video lessons on a broad range of subjects for reception up to year 11.</p>
+    <p pid="a33.0/18">The hon. Lady also talked about devices. The Government are doing everything that they can to support schools in delivering remote education. Having invested more than £195 million in supporting remote education, the Department delivered more than 220,000 laptops and tablets for disadvantaged children who would not otherwise have access to a digital device, and we are adding to the support by making 340,000 additional laptops and tablets available to support children who might face disruption to their education this term. Since September—the beginning of term—more than 100,000 of those laptops have already been delivered to schools.</p>
+    <p pid="a33.0/19">In the context of increasing global demand, we are bringing schools’ device allocations more closely in line with the average size of a pupil group that is self-isolating. We recognise that levels of self-isolation may be higher in different areas of the country, and that face-to-face education is being prioritised in all eventualities.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.36.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.36.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.36.1" newgid="uk.org.publicwhip/westminhall/2020-11-02b.36.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.37.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.37.1" newgid="uk.org.publicwhip/westminhall/2020-11-02b.37.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.37.2" newgid="uk.org.publicwhip/westminhall/2020-11-02b.37.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.37.3" newgid="uk.org.publicwhip/westminhall/2020-11-02b.37.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-02a.38.0" newgid="uk.org.publicwhip/westminhall/2020-11-02b.38.0" matchtype="perfectmatch"/>
+</publicwhip>
+

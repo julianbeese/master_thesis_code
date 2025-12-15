@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-06-16a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.99.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.99.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.99.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.99.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.99.2" newgid="uk.org.publicwhip/westminhall/2021-06-16b.99.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.99.3" newgid="uk.org.publicwhip/westminhall/2021-06-16b.99.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.100.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.100.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.100.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.101.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.101.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.101.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.101.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.104.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.105.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.107.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.107.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.110.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.110.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.113.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.113.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.116.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.116.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.116.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.116.2" newgid="uk.org.publicwhip/westminhall/2021-06-16b.116.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.117.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.117.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.117.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.118.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.118.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.118.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.119.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.119.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.119.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.119.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.120.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.120.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.120.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.121.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.121.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.121.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.121.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.122.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.122.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.122.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.122.2" newgid="uk.org.publicwhip/westminhall/2021-06-16b.122.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.123.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.123.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.123.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.123.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.123.2" newgid="uk.org.publicwhip/westminhall/2021-06-16b.123.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.126.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.126.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-06-16a.126.0" speakername="Nadine Dorries" type="Start Speech" person_id="uk.org.publicwhip/person/11397" colnum="126" time="11:11:00" url="">
+    <p pid="a126.0/1">I thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/25310" name="Helen Hayes">the hon. Member for Dulwich and West Norwood (Helen Hayes)</phrase> for bringing this debate to the House and for raising important concerns on behalf of her constituents in what was a truly constituency oriented speech. We both come from Liverpool, which is an incredibly diverse city. I recognise many of the points she raised in her speech and thank her for that.</p>
+    <p pid="a126.0/2">The hon. Lady spoke about the consultation, which was wide reaching and had a huge response, including from Mind, which she spoke about. Mind has worked very closely with us throughout the development of the   mental health White Paper and contributed strongly to the consultation process. It is a very important stakeholder and we work very closely with it.</p>
+    <p pid="a126.0/3">The Mental Health Act exists so that people with severe mental illness who present a risk to themselves or others can be detained in hospital and treated, which, I am sure the hon. Lady will agree, is necessary at times, unfortunately. Outside the cases where we know that people are safest in hospital and require hospital treatment, no mental health treatment is better delivered in a hospital than in the community. Our goal is for people to receive community mental health treatment close to where they live and to their families and work, in order to prevent them from having to be admitted as hospital in-patients. There are times, however, when detention is, unfortunately, necessary. We are taking steps because it is time to modernise the Act so that it works better for people.</p>
+    <p pid="a126.0/4">In 2018, the Government asked Professor Sir Simon Wessely to review the Mental Health Act. I thank the hon. Lady for her comments about him. We asked him to review the Act because we were concerned about the rising rates and numbers of people being detained under the Act and the racial disparities in those detention rates. Sir Simon’s independent review of the Act clearly shows that it does not always work as well as it should for patients, their families and communities. It goes too far in removing people’s autonomy and it does not give them enough control over their own care.</p>
+    <p pid="a126.0/5">In response to Sir Simon’s review, in January the Government published the White Paper on reforming the Mental Health Act, setting out our proposals to make the Act work better for people. These are once-in-a-generation reforms that will give people greater control over their treatment and let them have the dignity and respect they deserve. Through these reforms, we will give patients a voice in their own care, which we know leads to better engagement in treatment. We will put care and treatment plans, and advance choice documents, into statute for the first time. I will address in a moment some of the individual points made by the hon. Lady.</p>
+    <p pid="a126.0/6">Patients will be more closely involved in the development of their own care and can have confidence that if they lose capacity because of illness, their preferences on drug treatment, named next of kin and choices for the future will be properly considered. We will also make it easier—this is incredibly important—for patients to challenge decisions about their care. We are creating a new right for patients to choose a nominated person who will best look after their interests. I am sure the hon. Lady knows that, until the reform of the Act, it was still the case that if a woman was detained in hospital, it was her husband, father or next male relative who—regardless of how remote that person was to her life or experience—was nominated to make decisions on her behalf. That is one of the reasons why I personally think that this new provision is so important—it is so that that anyone can choose their nominated person, regardless of whether they are a relative, next of kin or someone in their family. That person is nominated during a time of wellness and remains the nominated person in the future. That can lead to patients having a far greater degree of control over their treatment, and a feeling of control over decisions taken on their behalf.</p>
+    <p pid="a126.0/7">We are increasing patients’ access to the independent mental health tribunal to provide vital independent scrutiny of detention. The reforms also seek to address  the disproportionate number of people from black and minority ethnic groups detained under the Act. Black people are currently four times more likely than white people to be detained under the Act, and 10 times more likely to be placed on a community treatment order, as mentioned by the hon. Lady. Our plans to enhance patient choice, increase scrutiny of decisions and improve a patient’s right to challenge aim to address those concerning disparities.</p>
+    <p pid="a126.0/8">On the criminal justice system, our proposals include key improvements to how we manage offenders with acute mental disorders and support them to access the care they need as quickly and as early as possible. We will improve the timeliness of transfers from prisons to mental health hospitals where individuals become well when in custody—I am sure that the hon. Lady is familiar with that situation from her previous experience—so that people in the criminal justice system get the right care, in the right place, at the right time, while continuing to fulfil our duty to keep the public safe.</p>
+    <p pid="a126.0/9">Finally, we want to improve how people with a learning disability and autistic people are treated under the Act. The right community services would prevent needs from escalating. In future, the Act should be used only where there is a treatable mental health condition and admission is therapeutic, close to home and for the shortest time possible. There have been far too many examples of poor practice and quality failings in in-patient care for people with learning disabilities and autistic people. Therefore, we are proposing reforms to limit the scope to detain people under the Act where their needs are due to their learning disability or autism alone. We are firmly committed to developing community based services to support people with learning disabilities and autistic people, and to reduce reliance on specialist in-patient services. We have put forward proposals to ensure that that is available. These once-in-a-generation reforms will be instrumental in bringing the Mental Health Act into the 21st century.</p>
+    <p pid="a126.0/10">On the points raised by the hon. Lady, CTOs are incredibly important and we are increasing the scrutiny of when they are used—and the frequency of that scrutiny—so that they are used only when appropriate and for no longer than necessary. That has been one of the failings so far, and it needs to be addressed. They will now be monitored and kept in place for no longer than is necessary. We are taking action to address racial disparities across the use of the Mental Health Act. Those CTO disparities are, of course, happening in the communities represented by the hon. Lady.</p>
+    <p pid="a126.0/11">The hon. Lady mentioned Seni’s law. We are clear that restrictive intervention and restraint should only ever be used as a last resort, when all attempts to de-escalate a situation have already been employed. The Mental Health Units (Use of Force) Act, also known as Seni’s law, received Royal Assent in November 2018. The purpose of the Act is to increase the oversight and management of the use of force and acts of restraint in mental health units, so that force is only ever used as a last resort. We are committed to publishing the draft statutory guidance to the Act for public consultation by late spring 2021, and to publishing the final guidance and commencing the Act this November.</p>
+    <p pid="a126.0/12">We have made a huge amount of progress, but unfortunately, and sadly, we have been delayed by covid. The Department’s resources have all been focused on  covid over the last 15 months. I met Seni’s family and <phrase class="honfriend" person_id="uk.org.publicwhip/person/25170" name="Steve Reed">the hon. Member for Croydon North (Steve Reed)</phrase> only a few weeks ago to discuss this. They were absolutely delighted to hear that we will make huge progress from September to November, and that by November the Act will hopefully be live. I commend them for the work and the campaigning that they have done—they are still campaigning.</p>
+    <p pid="a126.0/13">The disparity in the use of force and restraint speaks to the communities that the hon. Lady represents. The Mental Health Units (Use of Force) Act will be instrumental, along with reform of the Mental Health Act 1983, in improving her constituents’ mental health experiences of detention and in-patient treatment.</p>
+    <p pid="a126.0/14">On the next steps, public consultation on the White Paper has ended. I note that the hon. Lady said that she would like her comments to be considered, and they will be—they have been heard and duly noted. I reassure her that the stakeholders, many of whom represent her community and interface both with the Department of Health and Social Care and with other organisations and arm’s length bodies, have been fully engaged in the White Paper for the reform of the 1983 Act and in the consultation. I stand to be corrected, but I think we have accepted 124 of Sir Simon Wessely’s 127 recommendations. We meet him regularly to look at how we can enhance and implement those recommendations.</p>
+    <p pid="a126.0/15">I want to thank and reassure the hon. Lady. I absolutely understand why we are reforming the Mental Health Act and the reason why we supported and assisted the enactment of Seni’s law. It is because we are absolutely committed to improving the experience of mental health in-patient detention for all, and especially the communities she represents. We are very aware of the fact that black men are four times more likely to be detained under the Mental Health Act, and we very much want to change that. That is why we have accepted so many of Sir Simon Wessely’s recommendations.</p>
+    <p pid="a126.0/16">I thank you, Ms Nokes, and I thank the hon. Lady for securing this debate. I always look forward to an opportunity to speak about mental health, particularly the reform of the Mental Health Act, which I very much look forward to championing later in the year.</p>
+    <p pid="a126.0/17">Question put and agreed to.</p>
+    <p pid="a126.0/18">Sitting suspended.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.130.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.130.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.130.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.130.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.130.2" newgid="uk.org.publicwhip/westminhall/2021-06-16b.130.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.130.3" newgid="uk.org.publicwhip/westminhall/2021-06-16b.130.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.133.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.133.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.133.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.135.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.136.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.136.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.138.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.138.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.139.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.140.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.140.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.141.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.142.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.144.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.144.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.144.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.144.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.145.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.147.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.150.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.150.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.151.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.151.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.151.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.153.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.153.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.153.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.153.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.153.2" newgid="uk.org.publicwhip/westminhall/2021-06-16b.153.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.153.3" newgid="uk.org.publicwhip/westminhall/2021-06-16b.153.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.153.4" newgid="uk.org.publicwhip/westminhall/2021-06-16b.153.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.153.5" newgid="uk.org.publicwhip/westminhall/2021-06-16b.153.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.153.6" newgid="uk.org.publicwhip/westminhall/2021-06-16b.153.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.154.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.154.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.154.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.154.2" newgid="uk.org.publicwhip/westminhall/2021-06-16b.154.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.157.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.157.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.157.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.157.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.158.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.158.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.158.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.158.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.159.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.159.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.159.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.160.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.160.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.160.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.163.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.163.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.163.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.163.2" newgid="uk.org.publicwhip/westminhall/2021-06-16b.163.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.165.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.165.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.165.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.165.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.166.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.168.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.168.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.170.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.172.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.174.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.174.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.174.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.174.2" newgid="uk.org.publicwhip/westminhall/2021-06-16b.174.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.174.3" newgid="uk.org.publicwhip/westminhall/2021-06-16b.174.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.174.4" newgid="uk.org.publicwhip/westminhall/2021-06-16b.174.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.174.5" newgid="uk.org.publicwhip/westminhall/2021-06-16b.174.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.174.6" newgid="uk.org.publicwhip/westminhall/2021-06-16b.174.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.178.0" newgid="uk.org.publicwhip/westminhall/2021-06-16b.178.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-06-16a.178.1" newgid="uk.org.publicwhip/westminhall/2021-06-16b.178.1" matchtype="perfectmatch"/>
+</publicwhip>
+

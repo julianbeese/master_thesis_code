@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2022-12-07a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.113.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.113.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.113.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.113.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.113.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.113.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.113.3" newgid="uk.org.publicwhip/westminhall/2022-12-07b.113.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.115.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.115.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.115.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.115.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.115.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.116.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.118.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.118.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.118.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.119.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.119.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.120.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.120.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.120.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.120.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.120.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.121.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.121.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.122.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.124.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.124.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.125.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.125.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.125.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.125.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.126.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.126.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.126.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.126.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.126.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.126.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.126.3" newgid="uk.org.publicwhip/westminhall/2022-12-07b.126.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.126.4" newgid="uk.org.publicwhip/westminhall/2022-12-07b.126.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.127.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.127.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.127.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.128.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.128.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.128.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.129.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.131.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.131.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.131.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.131.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.131.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.131.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.131.3" newgid="uk.org.publicwhip/westminhall/2022-12-07b.131.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.132.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.132.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.133.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.133.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.133.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.134.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.134.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.134.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.134.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.134.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.134.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.134.3" newgid="uk.org.publicwhip/westminhall/2022-12-07b.134.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.135.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.135.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.135.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.135.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.135.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.135.3" newgid="uk.org.publicwhip/westminhall/2022-12-07b.135.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.136.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.136.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.136.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.136.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.136.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.136.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.136.3" newgid="uk.org.publicwhip/westminhall/2022-12-07b.136.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.136.4" newgid="uk.org.publicwhip/westminhall/2022-12-07b.136.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.138.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.138.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.138.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.138.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.138.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.138.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.139.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.139.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.139.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.141.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.141.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.141.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.141.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.141.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.145.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.145.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.145.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.146.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.146.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.146.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.146.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.147.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.147.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.148.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.148.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.148.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.149.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.149.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.149.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-12-07a.149.1" speakername="Daniel Kawczynski" type="Continuation Speech" person_id="uk.org.publicwhip/person/11817" colnum="149" time="14:30:00" url="">
+    <p pid="a149.1/1">I agree with my hon. Friend; of course, it is a combination of both factors, with the Chinese trying to extend the tentacles of their reach throughout the whole region in order to put smaller countries under pressure.</p>
+    <p pid="a149.1/2">The Chinese control Mauritius through their belt and road policy, as they do so many other small nations around the world. Guess which is the first African nation that received a free trade agreement with China? Mauritius. Guess which country—a tiny island, with a small economy—has received over $1 billion in investment from China over the last few years? Mauritius. The moment that we give Mauritius some of the outer islands, of which there are 58, it will lease one or some of them to the Chinese almost instantaneously. We do not know what conversations are taking place between Beijing and Port Louis, but we cannot discount what the financial statistics say about Chinese control of Mauritius.</p>
+    <p pid="a149.1/3">Certain politicians and colleagues have made a nuanced argument to me: “Do not rock the boat; these are very delicate negotiations. We have to maintain our control over Diego Garcia. If that means giving away some of the other islands and coming to a compromise, so be it.” No. If the mantra is to keep Diego Garcia while giving some of the other islands away, imagine what would happen to the viability and sustainability of UK and American bases on Diego Garcia. It would be absolutely intolerable for us. I have visited our military bases on Diego Garcia. I have spent days meeting with American officials on the islands; they briefed me and showed me around the naval vessels and installations. Having those huge military bases with the Chinese just a stone’s throw away from us on the other islands would be completely unacceptable.</p>
+    <p pid="a149.1/4">I visited Peros Banhos, one of the outer islands, after sailing overnight from Diego Garcia, which is where the military base is. Islanders on Peros Banhos were expelled in 1970 because the island was perceived to be too close to our military base. The Chinese have shown form. They are the world experts on turning atolls into military installations. There is an argument that Peros Banhos and the other islands are too small, too insignificant and too far below sea level for them to be viable. Well, the Chinese have proved that concept completely wrong; they have created installations successfully in the South China sea.</p>
+    <p pid="a149.1/5">There has been an appalling injustice, which we must now right. Rather than accommodating the spurious demands of Mauritius, we need to consult the indigenous people living in Britain, Mauritius, the Maldives and  the Seychelles. I want to read a statement from Frankie Bontemps, who is a constituent of my hon. Friend the Member for Crawley. He is an NHS worker at the hospital in Crawley, and is from the Chagos islands. I had a long and somewhat emotional telephone conversation with him last night. He is a tremendous man, whom I look forward to meeting in the House of Commons. He writes:</p>
+    <p pid="a149.1/6" class="indent" pwmotiontext="yes">“I am a founding member of Chagossian Voices. I don’t agree that islands should go to Mauritius. Chagossians have never been consulted at any stage and Chagossians were never represented, either at the International Court or before. Chagossians have been used by the Mauritian government at ICJ to get sympathy by providing an account of suffering…Then they were dismissed…as ‘Mauritians of Chagossian origin’. They have erased our identity.”</p>
+    <p pid="a149.1/7">That is the allegation: “they have erased our identity”. The statement goes on:</p>
+    <p pid="a149.1/8" class="indent" pwmotiontext="yes">“The Mauritian Government was also complicit in the exile of Chagossians and the ‘sale’ of the islands in 1965.”</p>
+    <p pid="a149.1/9">That is a fascinating concept. Mauritius took £3 million of our taxpayers’ money in 1965. Think for a moment how much £3 million was in 1965. It took our money as final settlement for the islands. It was complicit in helping the removal of the Chagossians from Diego Garcia and the other islands, and now, 60 years on, it wants to overturn that agreement and take away from us islands that are more than 2,000 km away from it.</p>
+    <p pid="a149.1/10">Mr Bontemps goes on to say:</p>
+    <p pid="a149.1/11" class="indent" pwmotiontext="yes">“Chagossians do not feel they are Mauritians and Chagossians feel they are still being exploited by the Mauritian government. Mauritius wants sovereignty of the islands for financial gain and I do not think there will be resettlement of Chagossians”</p>
+    <p pid="a149.1/12">under Mauritian rule. He goes on to say this, which is very evocative, powerful and emotional:</p>
+    <p pid="a149.1/13" class="indent" pwmotiontext="yes">“It is wrong to describe Chagossians as Mauritians. Their origins are as slaves from Africa and Madagascar. The Chagossians have been there for 5 or 6 generations with their own language and culture, food and music traditions. It is a remote and unique culture different to Mauritius…The judgment of Lord Justice Laws &amp; Mr. Justice Gibbs in November 2000 said Chagossians are the ‘belongers’ on the islands. As ‘belongers’ Chagossians should be their own deciders of their futures, not the Mauritian Government. Self-determination should have been for the Chagossians, not for Mauritians who have their own island more than 2,000 km away. So far only UK and Mauritius have been consulted. Chagossians have never been allowed to participate in decisions about their future, from exile until now. Chagossians should now be asked to decide the future of the islands. Chagossians should be around the table. It’s our human right.”</p>
+    <p pid="a149.1/14">Mr Bontemps then goes on to say that he has written a letter to the Foreign Secretary asking for those assurances, dated <phrase class="date" code="2022-11-11">11 November</phrase> 2022, and he has not as yet received a reply.</p>
+    <p pid="a149.1/15">I would like to thank Rob Crilly, a reporter from The Daily Mail USA edition, who has written a story about this debate. As a result of it, I was contacted this week by Republican Congressman Mike Waltz, a ranking member of the military readiness sub-committee of the Congress of the United States of America. He is now likely to become chairman of that powerful and important group, as the Republicans recently won the congressional elections. US bases are under its jurisdiction. I had a long, fruitful discussion with Congressman Waltz’s team and highlighted my concerns about the negotiations that our Government have entered into with Mauritius. I briefed them about this debate, and they are extremely concerned by the news. They are worried about the  ramifications for them and what will happen to their naval base if they have to share the archipelago with the Chinese.</p>
+    <p pid="a149.1/16">Even if we retain Diego Garcia, the other islands will be up for lease to the Chinese. We have seen what Mauritius is doing with Agaléga—</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.151.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.151.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.151.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.151.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.151.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.151.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.151.3" newgid="uk.org.publicwhip/westminhall/2022-12-07b.151.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.152.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.152.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.152.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.152.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.152.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.152.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.154.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.154.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.154.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.155.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.155.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.156.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.157.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.157.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.158.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.158.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.158.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.158.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.159.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.159.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.159.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.160.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.161.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.161.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.163.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.163.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.163.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.164.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.164.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-12-07a.164.0" speakername="Anne-Marie Trevelyan" type="Start Speech" person_id="uk.org.publicwhip/person/25439" colnum="164" time="15:41:00" url="">
+    <p pid="a164.0/1">I thank my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11817" name="Daniel Kawczynski">the Member for Shrewsbury and Atcham (Daniel Kawczynski)</phrase> for securing this important debate. Hon. Members have all highlighted the UK’s recently opened negotiations with Mauritius on the exercise of sovereignty over the British Indian Ocean Territory, also known as the Chagos archipelago. The Foreign Secretary announced the beginning of the negotiations on <phrase class="date" code="2022-11-03">3 November</phrase>. That followed discussions with Mauritius at the Commonwealth Heads of Government meeting in June and at the UN General Assembly in September.</p>
+    <p pid="a164.0/2">I can confirm that negotiations have formally begun. Officials from the United Kingdom and Mauritius met on 23 and <phrase class="date" code="2022-11-24">24 November</phrase>, and they had constructive discussions. They will meet again shortly to continue those discussions and negotiations. Hon. Members will appreciate that we will not provide any detail on the content of ongoing discussions or speculate on the outcome. However, I commit to and reassure Members that we will keep them and Parliament informed at key junctures through the process.</p>
+    <p pid="a164.0/3">The UK and Mauritius intend to secure an agreement on the basis of international law to resolve all outstanding issues. I anticipate any agreement will be subject to parliamentary scrutiny under the Constitutional Reform and Governance Act 2010 in the usual way. Let me be clear that both the UK and Mauritius have reiterated that any agreement between us will ensure the continued effective operation of the joint UK-United States defence facility on Diego Garcia. For more than 40 years, this joint base has contributed significantly to regional and global security. It is the result of a uniquely close and active defence and security partnership between two longstanding allies.</p>
+    <p pid="a164.0/4">The base helps the UK, US and other allies and partners to combat some of the most challenging threats, including from terrorism, organised crime and instability.  The base is well positioned as a key enabler for maritime security, including the protection of regional shipping lanes from threats such as piracy. Diego Garcia also plays a key role in humanitarian efforts, ready for a rapid response in times of crisis or disaster in the region. That includes during the 2004 earthquake and tsunami in the Indian ocean, the 2011 earthquake and tsunami in Japan and the 2013 typhoon in the Philippines. The base plays an important part in assisting the operation of the global positioning system, GPS, and helping the international space station to avoid space debris and prevent satellite collisions.</p>
+    <p pid="a164.0/5">We are alive to concerns about influence from malign actors in the Indian ocean. My right hon. Friend the Foreign Secretary acknowledged these concerns when he gave evidence to the Foreign Affairs Committee on <phrase class="date" code="2022-11-14">14 November</phrase>. He assured the Committee that this is an issue we take very seriously and that we will ensure it is at the heart of our position during the sovereignty negotiations with Mauritius.</p>
+    <p pid="a164.0/6">Reaching a negotiated agreement on the archipelago will allow the UK and Mauritius, as close Commonwealth partners, to work even more closely together. This will help us to tackle the regional and global security challenges that we both face, along with our wider partners, and avoid the expansion of malign influences into the Indian ocean. It will include promoting human rights and maritime security while tackling illegal migration, drugs and arms trafficking.</p>
+    <p pid="a164.0/7">We are also keen to strengthen significantly our co-operation with Mauritius on marine and environmental protection in particular. My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24802" name="Henry Smith">the Member for Crawley (Henry Smith)</phrase> set out some historical issues where those challenges were perhaps not managed as well as they needed to be. The archipelago boasts incredible marine biodiversity, as well as some of the cleanest seas and healthiest reef systems in the world. They support six times more fish than any other Indian ocean reef.</p>
+    <p pid="a164.0/8">The marine protected area is one of the largest in the world. It prohibits all commercial fishing and extractive activities, such as mining for minerals, oil and gas, and it forms a substantial part of the UK Government’s Blue Belt programme. The area hosts many scientific expeditions, as part of our call for an international target to protect at least 30% of the global oceans by 2030. We will push for this ambitious target at COP15 in the weeks ahead.</p>
+    <p pid="a164.0/9">We recognise the views of the diverse Chagossian communities in the United Kingdom, Mauritius and the Seychelles. We recognise the diversity of views in those communities and we take those views very seriously. Although the negotiations are between the UK and Mauritius, we will ensure that we engage with the communities as negotiations progress, and I note the kind invitation from my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25795" name="Paul Bristow">the Member for Peterborough (Paul Bristow)</phrase> to meet some of those communities.</p>
+    <p pid="a164.0/10">The UK has expressed our profound and deep regret about the manner in which Chagossians were removed from the islands in the late 1960s and early 1970s, and colleagues have done so again today. I hope that sense of horror and dismay at what happened all those decades ago continues to be reiterated. We are committed to supporting Chagossians, wherever they live, through the £40 million Chagossian support package, which is funding projects in the UK and overseas. I commit to  writing to <phrase class="honfriend" person_id="uk.org.publicwhip/person/25220" name="Mike Kane">the hon. Member for Wythenshawe and Sale East (Mike Kane)</phrase> to set out in more detail how that work is progressing.</p>
+    <p pid="a164.0/11">We have taken other steps to support the community. On <phrase class="date" code="2022-11-23">23 November</phrase>, the UK Government launched a new route to British citizenship for all Chagossian people and their children, free of charge. This new route will give anyone of Chagossian descent the opportunity to build their future in the United Kingdom should they wish to do so, holding British citizenship.</p>
+    <p pid="a164.0/12">I have talked about ways in which the UK and Mauritius could strengthen our work together. The backdrop to this is our close Commonwealth partnership and our deep historical ties. We are the second biggest export market for Mauritius, while Mauritius is our sixth biggest market in Africa for trade and investment. We are proud of the active Mauritian diaspora in the UK, and hundreds of Mauritian students study in our universities every year. Meanwhile, our tourists flock to Mauritius, accounting for 15% of its visitors annually.</p>
+    <p pid="a164.0/13">Mauritius is a leader among small island states in tackling climate change. The UK welcomes it as a new pioneer country for the Taskforce on Access to Climate Finance and will act as an anchor donor for Mauritius.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.166.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.166.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.166.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.166.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.166.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.167.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.167.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.167.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.168.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.168.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.168.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.168.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.168.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.168.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.168.3" newgid="uk.org.publicwhip/westminhall/2022-12-07b.168.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.170.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.170.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.170.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.170.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.170.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.171.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.172.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.174.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.174.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.174.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.174.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.174.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.174.3" newgid="uk.org.publicwhip/westminhall/2022-12-07b.174.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-12-07a.174.3" speakername="Catherine West" type="Continuation Speech" person_id="uk.org.publicwhip/person/25328" colnum="174" time="16:30:00" url="">
+    <p pid="a174.3/1">I believe that the free parking that is on offer from the Welsh Government is not necessarily replicated in England, so there are swings and roundabouts with different regions. I am sure the Minister will know every detail about where free parking is available and where it is not, but that may well be something that my constituents now ask me for, because parking is quite a contentious issue in my local authority area.</p>
+    <p pid="a174.3/2">Going back to the essay question—that of high streets—2.8 million people are employed in retail across the UK, and in London, our high streets are home to 41% of all businesses in the city. Small businesses employ 16 million people in the UK and account for two thirds of UK private sector employment, yet so many high streets are on their knees after 12 years of staggeringly low growth, and independent and small businesses have been hit very hard. The BBC reported this week that there were  9,300 fewer retail outlets in March 2022 than in March 2020, and a recent London Business 1000 survey showed that three quarters of London businesses are feeling less confident about the UK economy over the next 12 months. That is why today’s debate is so important. We need to act now if we want to secure the future of our town centres and the 5.6 million small businesses across the country that are vital to our economy.</p>
+    <p pid="a174.3/3">Developments in digital technology and the growth in online retail have completely transformed how  people shop. Between 2006 and 2019, as we are all aware, online retail increased from around 7% to 19% of the market, while physical shops lost 13% of their market. The pandemic rapidly accelerated that trend and, sadly, many high streets have never recovered. In the week to <phrase class="date" code="2022-07-02">2 July</phrase> 2022, overall retail footfall in the UK was 19% lower than the equivalent week in 2019. We saw how agile and innovative the retail sector can be when many shops moved online; however, that has not been enough to keep stores open, and businesses are begging for more support.</p>
+    <p pid="a174.3/4">In 2014, the Centre for Retail Research predicted that the growth in online retailing and change in consumer demand would result in one in five UK stores closing within five years. Sadly, its predictions were correct, yet nearly a decade after they were made, the Government have failed to undertake any meaningful action to keep our high streets alive. One respondent, Trevor, described his local high street as follows:</p>
+    <p pid="a174.3/5" class="indent" pwmotiontext="yes">“Depressing beyond belief. The life and vibrancy have completely disappeared”.</p>
+    <p pid="a174.3/6">Shops are not the only businesses leaving the high street. Post offices, such as the branch inside WHSmith on Wood Green High Road, and bank branches have also been closing at an alarming rate over the past decade. We must consider the damaging effect of losing these other high street services on small businesses and the welfare of our senior citizens.</p>
+    <p pid="a174.3/7">At least 50 bank branches have closed each month in the UK since 2015. I look forward to hearing what the Minister has to say about that; he used to mention it quite a lot when he was on the Back Benches, so I hope he will have some solutions now he is in that powerful position. As colleagues will be aware, HSBC announced another raft of closures this week. Some 8 million adults struggle to cope in a cashless society, with 1.9 million reliant on cash for nearly every transaction they make. Small businesses dependent on local bank branches to safely deposit cash will be forced to go cashless if more branches close, further isolating those who only use cash.</p>
+    <p pid="a174.3/8">Banks are closing disproportionately in lower-income areas, taking their ATMs with them, shutting off free access to cash and quality financial services from those who need them most. At Prime Minister’s questions today, I was pleased to hear my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10381" name="Siobhain McDonagh">the Member for Mitcham and Morden (Siobhain McDonagh)</phrase> ask eloquently what the Prime Minister would do about the closure of banks and the lack of access to cash. I hope the Minister will address that burning question.</p>
+    <p pid="a174.3/9">Shop closures are also costing jobs. Some 1,001 shops closed between January and July this year, resulting in more than 13,000 job losses. Those closures will be among the 43% increase in insolvencies in the last 12 months alone.  Retail employees are facing huge instability at a time when so many people are struggling to pay their bills and put food on the table.</p>
+    <p pid="a174.3/10">As the Union of Shop, Distributive and Allied Workers —USDAW—has pointed out, retail is one of the few sectors that offers employees the flexibility to balance their work alongside caring commitments, yet many small businesses report that they cannot afford to pay their staff a wage that reflects the increasing cost of living. That is true for one small hair care business in my constituency, Afrocenchix, which told me that, although it would like to pay its staff more, that would mean increasing the cost of its products at a time when customers are tightening their belts. Many small business owners told me that although they struggle to pay themselves, they would go out of business if they put their prices up.</p>
+    <p pid="a174.3/11">Another matter of acute concern for small businesses is the effect of soaring energy costs. The Government claim to have recognised that, but they have failed  to offer a sustainable long-term solution to provide  businesses with the assurance they need. For food-producing businesses, which use a lot of energy, skyrocketing energy bills are extremely worrying. The chair of the Crouch End traders group, who owns a bakery in my constituency, told me that increases in product prices are a likely outcome of soaring energy bills. At a time when customers are tightening their purse strings, he believes that this is a perfect storm threatening many traders. The owner of the oldest family-run artisan bakery in Manchester replied to the House of Commons survey to say that their biggest fear was the totally unsustainable increase in energy costs. I hope that the Minister will address this issue when he speaks.</p>
+    <p pid="a174.3/12">Where is the sustainable support for businesses terrified about their energy bills? Where is the support for businesses to become more energy efficient, to reduce bills and help the planet? One trader told me that</p>
+    <p pid="a174.3/13" class="indent" pwmotiontext="yes">“offering grants for solar panels would help a lot of businesses,”</p>
+    <p pid="a174.3/14">adding that</p>
+    <p pid="a174.3/15" class="indent" pwmotiontext="yes">“a lot of us want to be greener but can’t afford the initial capital outlay.”</p>
+    <p pid="a174.3/16">Labour would keep energy bills down by establishing a publicly owned generator, GB Energy, to guarantee energy security and a stable supply of affordable power. We would make Britain a clean energy superpower by 2030, making sky-high energy bills under the Conservatives a thing of the past. There would be an exciting role for small businesses to play, with so many of them wanting to be part of the solution.</p>
+    <p pid="a174.3/17">The most pressing issue threatening disaster for our high street shops, which was mentioned by every trader I spoke to, is the major burden of business rates. I am sure that the shadow Minister, my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25150" name="Seema Malhotra">the Member for Feltham and Heston (Seema Malhotra)</phrase>, will outline Labour’s position on business rates, which I think is quite an exciting offer that would even out the disproportionate impact on small businesses compared with huge online retailers.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.176.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.176.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.177.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.177.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.177.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.177.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.177.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.177.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.178.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.178.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-12-07a.178.0" speakername="Robbie Moore" type="Start Speech" person_id="uk.org.publicwhip/person/25922" colnum="178" time="16:43:00" url="">
+    <p pid="a178.0/1">It is a pleasure to serve under your chairmanship, Mrs Cummins. I thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/25328" name="Catherine West">the hon. Member for Hornsey and Wood Green (Catherine West)</phrase> for securing this really important debate; talking about small businesses and the revitalisation of high streets is undoubtedly incredibly important.</p>
+    <p pid="a178.0/2">As the hon. Member indicated, last Saturday we celebrated 10 years since Small Business Saturday was introduced—what a moment for us to be having this debate. No doubt we all spent the weekend out and about in our constituencies, supporting our many independent retail shops. I celebrated by going out and buying my Christmas tree from James and Anne, who run a fantastic business in Addingham. On Wednesday this week, they celebrate 63 years operating in Addingham, which is a huge achievement for a brilliant family-run business.</p>
+    <p pid="a178.0/3">We are all familiar with such fantastic retail businesses. I suppose this is my opportunity to encourage all my constituents, while they have time, to get involved with my small business award. Nominations close on <phrase class="date" code="2022-12-09">9 December</phrase> and it is a great way to recognise the valuable support that small businesses give to our communities and their customers.</p>
+    <p pid="a178.0/4">There is absolutely no doubt that the pandemic has changed the nature of high streets, with many more people shopping online. That is a challenge that the market is driving, and it is difficult for the Government to react to it. I do not accept the blame game that says that is the Government’s fault. The way people buy items is very much market-driven, and most people now go online, which is incredibly challenging and frustrating for our many independent businesses.</p>
+    <p pid="a178.0/5">Of course, there are mechanisms that the Government or local government can use to try to keep high streets as alive as possible. I welcome the range of support that the Government have put in place to help with utility costs, and the indication that they will look at things such as business rates. As the Minister will know, I have said in this place many times that there is a case for reviewing business rates. There is a case for them to be linked more to turnover or calculated on a percentage basis, rather than relating to the area of space that a business occupies. That might take away the challenge faced by a new business occupying a large space and being exposed to business rates. But of course we know that there are reliefs in place, which have been expanded, that are helping many of our small businesses.</p>
+    <p pid="a178.0/6">I want to pick up on the point made by the hon. Member for Hornsey and Wood Green about the closure of a lot of high street banks. Unfortunately, in Ilkley, we have just had the announcement that HSBC will close its branch, Barclays has already closed, and NatWest has indicated that it will close too. We need to send a wake-up call to the banking sector. I would like to see the banks come together and have a proper conversation about banking hubs. Those could be implemented on the high street, utilising the same premises, and would remove the challenge that banks face keeping their customer base going into branches. We all know that high street banks can help customers who do not live purely in a cashless society. In common with post offices, it is important that we keep those vital facilities going, with a presence on the high street.</p>
+    <p pid="a178.0/7">In my constituency of Ilkley, and in Keighley, one of the things that causes frustration for local businesses is parking charges. Bradford Council has brought in parking charges in Ilkley, which is incredibly frustrating to a place that is driven by tourists who want to browse our many fantastic retail offerings. When people arrive, they do not know how long they want to stay, so they are faced with the challenge of spending money on car parking and then having to rush back without feeling that they have had enough time to shop and browse. Bradford Council has got it wrong in my constituency. If parking charges have to be implemented, better and more innovative schemes could be considered.</p>
+    <p pid="a178.0/8">BIDs are an important tool if they have a good culture, a good management team and a good strategy in place. I pay tribute to the Ilkley BID and its manager, Helen Rhodes, who does a fantastic job keeping the sell factor going and driving the good local stories that we have to tell in places in my constituency. On that note, I thank the hon. Member for Hornsey and Wood Green—what a brilliant debate.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.179.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.179.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.180.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.181.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.182.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.182.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.183.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.184.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.184.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.184.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.184.2" newgid="uk.org.publicwhip/westminhall/2022-12-07b.184.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.186.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.187.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.187.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.188.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.188.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.189.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.189.1" newgid="uk.org.publicwhip/westminhall/2022-12-07b.189.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-12-07a.190.0" newgid="uk.org.publicwhip/westminhall/2022-12-07b.190.0" matchtype="perfectmatch"/>
+</publicwhip>
+

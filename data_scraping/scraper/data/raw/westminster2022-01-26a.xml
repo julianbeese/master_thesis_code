@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2022-01-26a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.339.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.339.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.339.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.339.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.339.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.339.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.340.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.340.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.340.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.340.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.340.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.340.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.340.3" newgid="uk.org.publicwhip/westminhall/2022-01-26b.340.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.340.4" newgid="uk.org.publicwhip/westminhall/2022-01-26b.340.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.341.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.341.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.341.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.341.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.342.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.342.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.342.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.342.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.343.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.343.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.343.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.343.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.343.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.343.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.343.3" newgid="uk.org.publicwhip/westminhall/2022-01-26b.343.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.344.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.344.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.346.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.346.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.346.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.346.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.347.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.347.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.348.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.348.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.350.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.350.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.352.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.352.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.352.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.352.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.353.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.353.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.354.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.354.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.354.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.354.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.356.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.356.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.357.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.357.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.360.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.360.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.360.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.360.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.362.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.362.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.363.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.363.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.363.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.363.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.363.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.363.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.364.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.364.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.364.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.364.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.365.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.365.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.366.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.366.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.366.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.366.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.367.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.367.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.367.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.367.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.367.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.367.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.367.3" newgid="uk.org.publicwhip/westminhall/2022-01-26b.367.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.369.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.369.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.369.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.369.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.369.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.369.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.369.3" newgid="uk.org.publicwhip/westminhall/2022-01-26b.369.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.370.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.370.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.370.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.370.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.371.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.371.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.371.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.371.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.371.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.371.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.371.3" newgid="uk.org.publicwhip/westminhall/2022-01-26b.371.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.374.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.374.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.374.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.374.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.376.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.376.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.377.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.377.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.379.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.379.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.380.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.380.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.381.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.381.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.382.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.382.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.383.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.383.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.384.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.384.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.386.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.386.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.386.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.386.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.386.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.386.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.388.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.388.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.388.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.388.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.389.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.389.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.389.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.389.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.390.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.390.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.390.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.390.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.390.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.390.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.390.3" newgid="uk.org.publicwhip/westminhall/2022-01-26b.390.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.391.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.391.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.392.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.392.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.392.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.392.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.392.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.392.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.392.3" newgid="uk.org.publicwhip/westminhall/2022-01-26b.392.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.393.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.393.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.395.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.395.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.396.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.396.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.396.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.396.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.396.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.396.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.396.3" newgid="uk.org.publicwhip/westminhall/2022-01-26b.396.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-01-26a.396.3" speakername="David Rutley" type="Continuation Speech" person_id="uk.org.publicwhip/person/24820" colnum="396" time="16:35:00" url="">
+    <p pid="a396.3/1">The hon. Member makes a good point. We stand ready to help and assist. One of the points made by the hon. Member for Edmonton was that, in some of the cases that she highlighted, there are challenges around the ability to speak English. Of course, interpreters are made available. In the Chamber today, we have three of the most well-recognised campaigners in the House, along with others who have not spoken yet. Hon. Members should bring cases about which they have concerns to my attention directly, with the usual information that they think is appropriate and that needs to be processed. If there are any outstanding concerns, I will take a personal interest in them and move cases forward. The issue is that often—I will talk about the statistics in due  course—the information is not provided, and of course we cannot provide benefits without that evidence, because of all of the fraudulent cases we have spoken about. I will carry on with my speech, which I hope will answer more questions. We will take a close look at each and every one of those 29 cases if that information can be provided—I give hon. Members that undertaking.</p>
+    <p pid="a396.3/2">First, I need to emphasise that the overwhelming majority of claims for universal credit are legitimate. We know that most people are not trying to defraud the Department. The hon. Member for Edmonton raised—I would not say “a couple”—a lot of pertinent issues via parliamentary questions. That was one of the reasons why we were delayed in providing full answers to all her questions: we wanted to make sure that they matched up with the parliamentary questions. In the letter that I sent her, I apologised for that. As I say, it was mainly because we wanted to ensure that we had all the right information in response to all the questions. I hope that underlines the approach that we want to take, which is all based on due process.</p>
+    <p pid="a396.3/3">However, I take this opportunity to stress, as I already have, that we are trying to get the balance right between getting money to those who need it and tackling those who are actively seeking to commit fraud. I will follow up on those individual cases in due course once the information is provided. Benefit claims should be verified and paid as quickly as possible, which is why we always make it clear to claimants exactly what information they need to provide. We do that via the claimant’s universal credit journal, and the messages also let the claimant know exactly how they can contact the Department and speak to the staff members responsible for their case. That is an important dimension; in our casework, we can do better at highlighting that to constituents. I also take the feedback that maybe we can do a better job at communicating that to MPs and their offices—a point well made.</p>
+    <p pid="a396.3/4">Where there is a problem in providing information, we always encourage the individual to get in touch, so that we can discuss and resolve the matter as quickly as possible. As the hon. Member for Edmonton would expect, when we suspend a claim, we do not do it lightly. Suspension is always a last resort, for the reasons that the Chair of the Work and Pensions Committee, <phrase class="honfriend" person_id="uk.org.publicwhip/person/10596" name="Stephen Timms">the right hon. Member for East Ham (Stephen Timms)</phrase>, has highlighted. Suspension is based on an initial assessment that a person would not be entitled to the benefit that they have claimed—an assessment that is based on intelligence and not on the specific characteristics of claimants, such as nationality. I know that that was a concern of the hon. Member for Edmonton, but I can confirm that a person’s nationality is not a factor in determining whether a claim is referred to the risk review team.</p>
+    <p pid="a396.3/5">In fact, because nationality is not a factor in that assessment process, an equality impact assessment is not needed. However, as part of the initial universal credit claim process—not the risk element, but the claims process itself—we do request information regarding a person’s nationality. That is necessary to assess the eligibility and entitlement of a claimant at the start of their claim, but it is not used as part of the risk review process.</p>
+    <p pid="a396.3/6">We take good care to ensure that we understand a person’s personal circumstances, as <phrase class="honfriend" person_id="uk.org.publicwhip/person/13864" name="Jim Shannon">the hon. Member for Strangford (Jim Shannon)</phrase> highlighted, and any potential vulnerability before we suspend. That means that we can engage with individuals in the right way. We have processes in place such that any contact from a claimant will be dealt with by a dedicated team. That type of one-to-one conversation with a member of staff allows the claimant to discuss the claim in detail and means that the member of staff can provide the necessary support to help to ensure that individuals can give us the documentation we need.</p>
+    <p pid="a396.3/7">Once the risk review team has its information and the decision has been made that there is an entitlement to benefit, we will of course lift the suspension immediately and pay any arrears due. However, we receive no contact from the majority of suspected fraud cases—approximately 65% of those that we suspend. That is a remarkable figure: 65% of people do not get in touch with us after a suspension notice.</p>
+    <p pid="a396.3/8">If a claim is suspended, we are unable to make alternative payments. However, claimants are still able to get help from work coaches to find them work. We have a record more than 1.2 million job vacancies and our work coaches are supporting thousands of people into work. There is also continued support for the most vulnerable children, regardless of a parent’s universal credit suspension. Children in receipt of free school meals will continue to receive that support. There is also the free childcare provision for three and four-year-olds and disadvantaged two-year-olds, where eligible. An individual may also be entitled to claim child benefit, assuming they meet the qualification conditions.</p>
+    <p pid="a396.3/9">More broadly, local authorities have responsibility for local welfare provision. Recognising that some households will require additional help this winter, we have provided £500 million to provide support with essential household costs such as heating and food bills. That is delivered through the household support fund in England. Other help may be available via healthy start payments and the holiday activities fund. Staff in local jobcentres will be able to help to direct those in need. I should also make it clear that, while in law there is no right of appeal against the decision to suspend payment of a benefit, a claimant does have the right to appeal any outcome decision where the Department has determined that there is no entitlement.</p>
+    <p pid="a396.3/10">Hon. Members will appreciate that I cannot say too much about how the risk review team works in this area of activity. As I said, it is a constant challenge to stay ahead of fraudsters and we cannot provide any clues to those looking to evade our systems. However, while a focus on disruption is a primary tactic of the team, their activity does not stop at that point. The risk review team will also gather intelligence that can be used as the basis for a formal criminal investigation, should it be warranted. It is worth noting that although the number of suspicious claims processed by the risk review team is significant, it is believed that the numbers of people responsible for those claims are actually relatively small. Our focus is on pursuing those behind the attacks in intelligence-led investigations, which is the most effective use of our resources.</p>
+    <p pid="a396.3/11">Last month I went on a raid with fraud colleagues as part of a joint crackdown on fraud with West Midlands police. The raid was part of Operation Goliath, a joint  national operation with police nationwide that aims to combat fraud. Numerous arrests were made and we believe that we stopped an organised crime gang alleged to be stealing from the benefits purse. Thousands of false claims, based on thousands of hijacked identities, had netted the gang approximately £4 million already—a huge amount of money, and a figure that would have likely been far higher had we not been able to intervene at the pace that we did and had the approach taken by the risk review team not been in place.</p>
+    <p pid="a396.3/12">As I have said, fraudsters are constantly thinking of new ways to attack us and to evade and circumvent our systems and safeguards. Some of the frauds are so engrained and deep-set that, remarkably, even after the arrest of major criminals, we are still being contacted by individuals pursuing claims linked to those investigations. It is extraordinary.</p>
+    <p pid="a396.3/13">We are continuing to build and grow our capabilities, including investing to save. At the end of last year, we had announced a total investment of £630 million, which is a huge amount of money, over the next three years, to support the Department in this challenge and enable us to drive down fraud and recover debt. The money also enables further recruitment into our counter-fraud, compliance and debt so that we can continue to respond quickly and effectively to threats. It includes the funding of around 2,000 trained specialists to stop and identify scammers. I wish that we did not have to recruit those people, but we have a challenge, which is why we have to take those steps.</p>
+    <p pid="a396.3/14">I hope that hon. Members agree that we must have a co-ordinated response to the attacks on the benefits system, and take action on as many fronts as possible to drive criminals out of it. These criminals will not let up and neither will we, on which note I commend the work of the risk review team, which is clearly playing a major part in helping to stop fraud getting a foothold.</p>
+    <p pid="a396.3/15">At the same time, I reiterate the point that I made earlier: I know that it can be difficult, and that there are challenges for the people involved, but we always want to work with genuine claimants. In getting the balance right, I again extend the offer to hon. Members, particularly the hon. Member for Edmonton, who has been a doughty champion for her constituents, that if they write to us on those cases we will take them up and follow them through. I hope that she will do so, and that I have given her some satisfaction on the questions that she asked. Clearly, we will follow up on the outstanding parliamentary questions that she highlighted in due course.</p>
+    <p pid="a396.3/16">Question put and agreed to.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.400.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.400.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.400.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.400.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.400.2" newgid="uk.org.publicwhip/westminhall/2022-01-26b.400.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.403.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.403.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.403.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.403.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.404.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.404.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.404.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.404.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.406.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.406.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.407.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.407.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.409.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.409.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.410.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.410.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.411.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.411.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.412.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.412.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.414.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.414.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.415.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.415.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.417.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.417.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.417.1" newgid="uk.org.publicwhip/westminhall/2022-01-26b.417.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-01-26a.418.0" newgid="uk.org.publicwhip/westminhall/2022-01-26b.418.0" matchtype="perfectmatch"/>
+</publicwhip>
+

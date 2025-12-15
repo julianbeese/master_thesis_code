@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-07-01a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.123.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.123.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.123.1" newgid="uk.org.publicwhip/westminhall/2021-07-01b.123.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.123.2" newgid="uk.org.publicwhip/westminhall/2021-07-01b.123.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.123.3" newgid="uk.org.publicwhip/westminhall/2021-07-01b.123.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.123.4" newgid="uk.org.publicwhip/westminhall/2021-07-01b.123.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.126.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.126.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.127.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.128.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.129.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.130.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.130.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.131.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.131.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.133.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.134.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.134.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.135.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.136.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.136.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.137.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.137.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.138.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.138.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.139.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.139.1" newgid="uk.org.publicwhip/westminhall/2021-07-01b.139.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.139.2" newgid="uk.org.publicwhip/westminhall/2021-07-01b.139.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.142.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.144.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.144.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-07-01a.144.0" speakername="Amanda Solloway" type="Start Speech" person_id="uk.org.publicwhip/person/25436" colnum="144" time="14:47:00" url="">
+    <p pid="a144.0/1">It is, as always, a great pleasure to serve under your chairmanship, Sir David. I thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/25648" name="Wera Hobhouse">the hon. Member for Bath (Wera Hobhouse)</phrase> for securing this important debate. I am representing the Department in place of the Minister for Business, Energy and Clean Growth, my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25439" name="Anne-Marie Trevelyan">the Member for Berwick-upon-Tweed (Anne-Marie Trevelyan)</phrase>. As I am taking part virtually, I am unable to take any interventions, but I will happily write to people if they have specific questions that are not covered in my remarks.</p>
+    <p pid="a144.0/2">I reassure the House that this Government absolutely recognise the valuable role that community and local renewable energy projects can and do play in supporting the UK’s national net zero targets. I know that all Members will agree that excellent work is already under way in the community energy sector. We have heard about a number of such projects from several hon. Members, including my right hon. and learned Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11791" name="Jeremy Wright">the Member for Kenilworth and Southam (Jeremy Wright)</phrase>, my hon. Friends the Members for Clwyd South (Simon Baynes) and for Barrow and Furness (Simon Fell), and the hon. Members for Bristol North West (Darren Jones) and for North East Fife (Wendy Chamberlain).</p>
+    <p pid="a144.0/3">We need only look at the recent state of the sector report by Community Energy England, which identified 424 active community energy organisations across the United Kingdom run by 396 volunteers, to note that community energy projects can contribute to achieving net zero, not only by stimulating clean growth, but by acting as catalysts for raising awareness. As the hon. Member for Bath and my hon. Friend for Barrow and Furness pointed out, the promotion of behaviour change and the ability to build communities is a key outcome for us to achieve our 2050 goals.</p>
+    <p pid="a144.0/4">To support community energy projects, the Government currently fund the rural community energy fund. The £10 million scheme supports rural communities in England to develop renewable energy projects, which provide economic and social benefits to the community. Since the fund’s launch in 2019, it has received 1,214 inquiries and 188 applications, and it has awarded more than £4.5 million in grants to projects focusing on a variety of technologies, including solar, wind, low-carbon heating and electric vehicle charging.</p>
+    <p pid="a144.0/5">Many Members spoke about the recent Environmental Audit Committee inquiry into community energy and its several recommendations. As many Members will be aware, the Secretary of State published a response last month—it can be viewed on the EAC website—and stated that we are considering future plans for community energy in the net zero strategy, which will be published later this year. As my right hon. and learned Friend the Member for Kenilworth and Southam mentioned, we will draw on evidence from this country and around the world when assessing the most effective way of meeting our net zero goals.</p>
+    <p pid="a144.0/6">Many Members also spoke about the Local Electricity Bill and the need to establish a right to local supply, which would allow electricity generators to sell their power directly to local consumers. That Bill sought to establish that right through the creation of a local supply licence  and to ensure that the costs and complexities of being a local energy supplier are proportionate to the scale of its operation.</p>
+    <p pid="a144.0/7">As my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24904" name="Peter Aldous">the Member for Waveney (Peter Aldous)</phrase> stated, the Local Electricity Bill was unsuccessful in receiving a Second Reading in the previous Session. While the Government agreed with its broad intentions, we did not support the Bill as a means to enable local energy supply. There is already flexibility in how Ofgem regulates energy supply to allow for local suppliers. Ofgem has powers to award supply licences that are restricted to specified geographies and/or types of premises. However, many Members have observed that, while the right to local supply exists, the costs of becoming a supplier currently act as a barrier to entering the market.</p>
+    <p pid="a144.0/8">Making more substantial changes to the licensing framework to suit specific business models may create even wider distortion elsewhere in the energy system. Artificially reducing network costs for local energy suppliers, as the Bill appeared to suggest, would be distortive. It would mean higher costs falling on to consumers, with costs increasing as more local suppliers entered the market. It is important that we take a broad view of all consumers when making changes to the energy market, including consumer protection measures, which form an important part of the supply licence.</p>
+    <p pid="a144.0/9">The Government support the development of new business models to supply energy consumers and to help achieve our net zero ambition. The 2020 energy White Paper committed the Government to review the overall energy retail market regulatory framework. That review will assess the changes that may be needed to ensure that the framework is fit for purpose and allows new business models to come forward. We will engage closely with community energy stakeholders as part of the review, and I welcome the various offers from Members today.</p>
+    <p pid="a144.0/10">To support the establishment of more local energy schemes, we will also continue to look at a full range of other options to support local involvement in tackling climate change in the net zero strategy, which will set out how we will meet our net zero goals overall. My hon. Friend the Member for Waveney raised several additional points, and I look forward to receiving and responding to his letter.</p>
+    <p pid="a144.0/11">As my hon. Friend the Member for Clwyd South suggested, I am happy to recognise the role that Wales, Scotland and Northern Ireland play in taking forward community energy projects. I was interested to learn from the hon. Member for North East Fife about the community-owned project on Orkney. I note that community energy is a devolved policy, and each nation has different policies and financial support. Indeed, they may use different definitions of community energy. The hon. Member for Bristol North West asked for information on the role of the shared prosperity fund and, again, I will be pleased to write to him in response.</p>
+    <p pid="a144.0/12">This debate is testament to the fact that there is clear cross-party support and a growing appetite for community energy. I close by reiterating that this Government are supportive of community energy. We absolutely understand that communities are key to the Department’s wider efforts to decarbonise the country and create a cleaner, greener future for us all. I thank the hon. Member for Bath once again for securing this important debate.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.146.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.146.1" newgid="uk.org.publicwhip/westminhall/2021-07-01b.146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.147.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.147.1" newgid="uk.org.publicwhip/westminhall/2021-07-01b.147.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.147.2" newgid="uk.org.publicwhip/westminhall/2021-07-01b.147.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.147.3" newgid="uk.org.publicwhip/westminhall/2021-07-01b.147.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.155.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.155.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.158.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.158.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.160.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.162.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.162.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.165.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.165.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.165.1" newgid="uk.org.publicwhip/westminhall/2021-07-01b.165.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.166.0" newgid="uk.org.publicwhip/westminhall/2021-07-01b.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-07-01a.166.1" newgid="uk.org.publicwhip/westminhall/2021-07-01b.166.1" matchtype="perfectmatch"/>
+</publicwhip>
+

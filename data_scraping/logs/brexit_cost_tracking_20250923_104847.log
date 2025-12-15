@@ -1,0 +1,55 @@
+2025-09-23 10:48:47,756 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-09-23 10:48:47,756 - __main__ - INFO - Max Debatten: 1000
+2025-09-23 10:48:47,756 - __main__ - INFO - Quell-Datenbank: database/data/debates_data.db
+2025-09-23 10:48:47,756 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data.db
+2025-09-23 10:48:47,756 - __main__ - INFO - Gemini-Modell: gemini-1.5-flash
+2025-09-23 10:48:47,756 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-09-23 10:48:47,756 - __main__ - INFO - max_debates: 1000
+2025-09-23 10:48:47,756 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-09-23 10:48:47,756 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-09-23 10:48:47,756 - __main__ - INFO - estimated_total_tokens: 1375000
+2025-09-23 10:48:47,756 - __main__ - INFO - estimated_input_cost: 0.0938
+2025-09-23 10:48:47,756 - __main__ - INFO - estimated_output_cost: 0.0375
+2025-09-23 10:48:47,756 - __main__ - INFO - estimated_total_cost: 0.1313
+2025-09-23 10:48:47,756 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-09-23 10:48:53,178 - __main__ - INFO - Initialisiere Komponenten...
+2025-09-23 10:48:53,187 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-1.5-flash' erfolgreich initialisiert
+2025-09-23 10:48:53,196 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_sessions (
+            session_id TEXT PRIMARY KEY,
+     ...
+2025-09-23 10:48:53,196 - classifier.brexit_database - INFO - Tabelle 'brexit_sessions' erstellt/überprüft
+2025-09-23 10:48:53,196 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_debates (
+            debate_id INTEGER PRIMARY KEY,
+    ...
+2025-09-23 10:48:53,196 - classifier.brexit_database - INFO - Tabelle 'brexit_debates' erstellt/überprüft
+2025-09-23 10:48:53,197 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_speeches (
+            speech_id TEXT PRIMARY KEY,
+      ...
+2025-09-23 10:48:53,197 - classifier.brexit_database - INFO - Tabelle 'brexit_speeches' erstellt/überprüft
+2025-09-23 10:48:53,197 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_keywords (
+            keyword_id INTEGER PRIMARY KEY,
+  ...
+2025-09-23 10:48:53,197 - classifier.brexit_database - INFO - Tabelle 'brexit_keywords' erstellt/überprüft
+2025-09-23 10:48:53,197 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS classification_log (
+            log_id INTEGER PRIMARY KEY,
+   ...
+2025-09-23 10:48:53,197 - classifier.brexit_database - INFO - Tabelle 'classification_log' erstellt/überprüft
+2025-09-23 10:48:53,197 - classifier.brexit_database - INFO - Brexit-Datenbank initialisiert: database/data/brexit_data.db
+2025-09-23 10:48:53,197 - __main__ - INFO - Lade Debatten aus der Datenbank...
+2025-09-23 10:48:53,203 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name parliament_debates does not exist!
+Did you mean "pg_database"?
+
+LINE 3:         FROM parliament_debates d
+                     ^
+2025-09-23 10:48:53,203 - __main__ - ERROR - Kritischer Fehler: Catalog Error: Table with name parliament_debates does not exist!
+Did you mean "pg_database"?
+
+LINE 3:         FROM parliament_debates d
+                     ^
+2025-09-23 10:48:53,205 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-23 10:48:53,209 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

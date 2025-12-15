@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2022-03-22a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.37.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.37.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.37.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.41.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.41.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.41.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.41.2" newgid="uk.org.publicwhip/westminhall/2022-03-22b.41.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.41.3" newgid="uk.org.publicwhip/westminhall/2022-03-22b.41.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.41.4" newgid="uk.org.publicwhip/westminhall/2022-03-22b.41.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.42.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.42.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.42.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.42.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.43.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.47.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.47.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.49.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.49.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-03-22a.49.0" speakername="John Glen" type="Start Speech" person_id="uk.org.publicwhip/person/24839" colnum="49" time="10:25:00" url="">
+    <p pid="a49.0/1">It is a privilege to serve under your chairmanship, Mr Stringer, and I join others in congratulating <phrase class="honfriend" person_id="uk.org.publicwhip/person/10785" name="Alistair Carmichael">the right hon. Member for Orkney and Shetland (Mr Carmichael)</phrase> on securing today’s debate.</p>
+    <p pid="a49.0/2">Before I get into the matter at hand, I want to acknowledge the role that my opposite number, <phrase class="honfriend" person_id="uk.org.publicwhip/person/25344" name="Tulip Siddiq">the hon. Member for Hampstead and Kilburn (Tulip Siddiq)</phrase>, has played over the past six years in championing the case of her constituent, Nazanin Zaghari-Ratcliffe. We all have constituents in need, but the hon. Lady’s consistent advocacy has been very effective, and I want to pay tribute to her publicly.</p>
+    <p pid="a49.0/3">In acknowledging that this is an extremely challenging case, which has caused great misery to many investors who were misled, I recognise, too, the broader context of a financial services sector that is a great success in this country. However, the debate and the points made in it have raised a number of issues that I want to respond to specifically. If hon. Members are patient, I will get into the mechanics of the authorised representative regime, how it is working and what lessons we learn from this.</p>
+    <p pid="a49.0/4">Fraud is a crime that damages trust between individuals and across society—I would say it casts a shadow across the economy—and tackling it is a priority for the Government. Our efforts are focused on reducing vulnerabilities, catching the criminals responsible and supporting the victims of these despicable crimes. As <phrase class="honfriend" person_id="uk.org.publicwhip/person/13864" name="Jim Shannon">the hon. Member for Strangford (Jim Shannon)</phrase> said in his welcome remarks, those crimes cause considerable distress to individuals and have a catastrophic effect on families and communities.</p>
+    <p pid="a49.0/5">We are working closely with industry regulators and consumer groups to consider additional legislative and non-legislative solutions. I will say more about that in a moment, but first I will set out the Government’s position on this specific case. As hon. Members no doubt appreciate, there are limits to what I can say, but Mr Alistair Greig perpetrated a large-scale fraud over several years, much of it accurately depicted by Members this morning. He lied to those who trusted him with their pensions and life savings, and caused enormous suffering.</p>
+    <p pid="a49.0/6">Midas was founded by Mr Greig in 2006 and it carried on a financial advisory business based in Aberdeen. In 2007, it became an appointed representative of a firm called Sense Network Ltd, and the Treasury understands that much of its business was mortgage advice. Mr Greig used his senior position in the firm and its relationship with Sense to convince his clients that he was investing their hard-earned money in high street accounts with RBS.</p>
+    <p pid="a49.0/7">I want to pick up the point made in passing by the right hon. Member for Orkney and Shetland on the culpability of RBS. In all these tragic cases, it is incumbent on all parties to examine their processes. I think the right hon. Gentleman mentioned that RBS had—</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.50.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.50.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.50.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.50.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.51.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.51.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.51.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.51.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-03-22a.51.1" speakername="John Glen" type="Continuation Speech" person_id="uk.org.publicwhip/person/24839" colnum="51" time="10:25:00" url="">
+    <p pid="a51.1/1">I hope I am coming to that point. The right hon. Gentleman addresses the core point, which is about the comfort that the appointed representative  regime provides to the consumer, and the Treasury and FCA are taking steps to ensure that use of the appointed representative regime is not open to abuse.</p>
+    <p pid="a51.1/2">The relationship between a principal firm and the appointed representatives, including what regulated activities it covers, should be available to the public. That is now a regulatory requirement, and the FCA is taking steps to improve the information that is available to the public by clarifying what the appointed representative firm is authorised by the principal—in this case, Sense—to undertake and what it is therefore not authorised to undertake. That will give consumers clarity on what activities they can legitimately discuss with the appointed representative firm and ensure that they know there is regulatory oversight.</p>
+    <p pid="a51.1/3">As we know, Sense was not found to be at fault in its role as a principal, as Mr Greig was acting outside the Sense-Midas agreement. The right hon. Member for Orkney and Shetland has spoken about the role of the principal, and the hon. Member for Hampstead and Kilburn asked what the Treasury is doing about this issue, following the Select Committee report last summer. We are undertaking a review of the appointed representative regime and examining how consumers are protected when dealing with an appointed representative and not directly with the authorised firm.</p>
+    <p pid="a51.1/4">On <phrase class="date" code="2022-12-03">3 December</phrase>, we published a call for evidence on the regime as a whole. At the same time, the FCA published a consultation paper on proposals that will strengthen the oversight that principals have over their appointed representatives, or ARs, and the information available to consumers on the FCA register when dealing with these firms. That call for evidence is essentially gathering information from interested parties and it closed a few weeks ago on <phrase class="date" code="2022-03-03">3 March</phrase>. The Treasury and the FCA are working together to consider the responses, and to set out the next steps in due course and as urgently as we can.</p>
+    <p pid="a51.1/5">I will also speak a little bit about the role of the FCA, which, as the House will be aware, is an independent regulator, and of the Financial Services Compensation Scheme. The FCA took steps to investigate Midas and Alistair Greig in relation to the activity of accepting deposits without the necessary authorisation and subsequently referred the matter to the police, who launched a successful criminal investigation. The FCA took civil action to stop the activity and obtain compensation for victims, securing agreements to repay over £1.3 million in October 2015. As a result of the proceedings, the FCA recovered approximately £380,000, which has been distributed to victims. Mr Greig was charged by Police Scotland and sentenced to 14 years in jail in April 2020 for fraud.</p>
+    <p pid="a51.1/6">Although the FCA took action and the subsequent police action led to Mr Greig being prosecuted and sent to prison, I acknowledge the point made in the complaints commissioner’s report that the Financial Services Authority, which was the predecessor to the FCA, should have taken more action, more swiftly and more effectively. It is right, therefore, that the FCA, the successor organisation to the FSA, apologised for that.</p>
+    <p pid="a51.1/7">Let me just say something about the Financial Services Compensation Scheme, which is the UK’s compensation scheme of last resort. It pays compensation to consumers when authorised financial firms fail and a relevant regulated activity has been undertaken. The FSCS carries out its compensation function within the rules set by the  FCA and the PRA. The FSCS first became aware of claims against Midas in December 2019, when lawyers representing claimants approached the FSCS, and it declared the default in March 2020. By August 2020—so, just a few months later—it had processed 197 claims and paid out £9.6 million in compensation.</p>
+    <p pid="a51.1/8">In order to aid investors claiming compensation, the FSCS, using data collected by the FCA, was able to pay compensation to 175 investors without those investors actually needing to make a claim. It also ran a media campaign targeting the Aberdeen area to ensure that all investors were aware that they could claim compensation from the FSCS, recognising the sensitivity with respect to named constituents that the right hon. Member for Orkney and Shetland mentioned.</p>
+    <p pid="a51.1/9">On that note, I will take this opportunity to say that the FSCS is still accepting claims against Midas, so I encourage anyone who thinks that they may be eligible to get in touch with the FSCS. Some Midas investors brought a claim against Sense as Midas’s principal, which is the point the right hon. Member made, and I understand that some of those investors are disappointed that the compensation they received from the FSCS did not cover their legal costs.</p>
+    <p pid="a51.1/10">As set out in the FCA’s rules, the FSCS covers losses suffered by a customer caused by the firm in connection with its regulated activities. It does not, however, extend to covering legal costs in pursuing a regulated firm, especially where the firm is not even a party to those legal proceedings.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.53.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.53.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.53.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.53.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-03-22a.53.1" speakername="John Glen" type="Continuation Speech" person_id="uk.org.publicwhip/person/24839" colnum="53" time="10:25:00" url="">
+    <p pid="a53.1/1">The Government work closely with the FCA. As I have said, we are taking very seriously the implications of this case and the relationship between the principal and the appointed representative, as well as the apparent lack of clarity over what consumers know to be covered by that delegated authority of the principal to the appointed representative. The right hon. Gentleman is referring to the relationship between two entities: the FSA and the FCA. The FCA acknowledges the FSA’s prior failings to do the job as it should have. The right hon. Gentleman is asking me to comment on the eligibility of the victims to access the FCA compensation scheme, which is clearly something that is governed by its protocols. I hope we can learn from this very sad case that, going forward, we will bring more clarity to the appointed representative regime and more clarity to consumers. Of course, consumer care is important.</p>
+    <p pid="a53.1/2">However, we also have to recognise that the FCA is responsible for around 51,000 authorised firms. Of course, the role of some of those authorised firms in acting as sponsors for appointed representatives needs examination: as I have set out, the Treasury and the FCA are undertaking that. It would be pretty impossible for every appointed representative to undergo the same sort of supervision as an authorised firm—that would expand the scale of the FCA’s responsibilities. We have to make sure that authorised firms’ responsibilities to their appointed representatives are more effective.</p>
+    <p pid="a53.1/3">I think that I have expressed with clarity that this has been an extremely challenging case for everyone involved. I acknowledge unequivocally that Mr Greig’s fraudulent scheme will have caused great misery to the investors he misled, and it is absolutely right that he was brought to justice. I am pleased that so many of those who made losses have been compensated by the FSCS, and I hope they can now put it behind them.</p>
+    <p pid="a53.1/4">The Government are not complacent about this. I have gone into some detail about the lessons that we need to learn. We will work alongside other financial authorities to counter fraud and ensure that cases such as these are prevented wherever possible and that, where they do occur, they are dealt with appropriately.</p>
+    <p pid="a53.1/5">It will always be the case that the Government will need to work with regulators to create an environment that protects consumers while allowing firms to operate. What we have to do—and, since the new chief executive came in about 17 months ago, work has been going on urgently at the FCA to do this—is to undertake a transformation programme to allow the FCA to examine risks across the authorised firms and act more effectively than its predecessor organisation, the FSA, did in this particular case. I hope that is helpful to the House this morning.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.54.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.54.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.56.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.56.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.56.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.56.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.56.2" newgid="uk.org.publicwhip/westminhall/2022-03-22b.56.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.58.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.58.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.60.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.60.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.60.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.60.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.62.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.62.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.62.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.62.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.62.2" newgid="uk.org.publicwhip/westminhall/2022-03-22b.62.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.63.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.63.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.63.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.63.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.65.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.65.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.66.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.66.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.69.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.69.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.71.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.71.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.72.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.72.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.72.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.72.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.72.2" newgid="uk.org.publicwhip/westminhall/2022-03-22b.72.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.74.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.74.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.75.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.75.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.75.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.75.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.76.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.76.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.77.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.77.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.77.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.77.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.77.2" newgid="uk.org.publicwhip/westminhall/2022-03-22b.77.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.77.3" newgid="uk.org.publicwhip/westminhall/2022-03-22b.77.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.79.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.79.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.79.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.80.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.80.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.80.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.80.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.80.2" newgid="uk.org.publicwhip/westminhall/2022-03-22b.80.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.80.3" newgid="uk.org.publicwhip/westminhall/2022-03-22b.80.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.82.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.82.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.83.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.83.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.83.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.83.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.83.2" newgid="uk.org.publicwhip/westminhall/2022-03-22b.83.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.86.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.86.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.86.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.86.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.87.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.87.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.88.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.88.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.88.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.88.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.88.2" newgid="uk.org.publicwhip/westminhall/2022-03-22b.88.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.88.3" newgid="uk.org.publicwhip/westminhall/2022-03-22b.88.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.91.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.91.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.91.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.91.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.93.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.93.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.95.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.95.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.96.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.96.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.98.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.98.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.98.1" newgid="uk.org.publicwhip/westminhall/2022-03-22b.98.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-22a.102.0" newgid="uk.org.publicwhip/westminhall/2022-03-22b.102.0" matchtype="perfectmatch"/>
+</publicwhip>
+

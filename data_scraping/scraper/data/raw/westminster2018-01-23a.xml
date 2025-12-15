@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2018-01-23a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.45.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.45.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.45.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.45.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.46.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.46.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.46.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.46.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.50.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.50.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.51.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.51.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.51.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.51.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.52.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.52.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.52.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.52.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.52.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.52.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.54.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.54.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.56.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.56.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.58.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.58.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.60.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.60.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.60.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.60.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.62.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.62.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.62.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.62.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.65.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.65.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.67.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.67.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.67.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.67.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.68.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.68.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.69.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.69.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.72.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.72.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.72.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.72.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.72.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.72.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.73.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.73.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.74.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.74.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.74.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.74.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.76.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.76.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.77.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.77.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.77.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.77.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.78.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.78.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.78.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.78.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.79.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.79.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.79.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.80.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.80.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.80.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.80.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.80.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.80.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.80.3" newgid="uk.org.publicwhip/westminhall/2018-01-23b.80.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.81.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.81.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.81.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.81.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.81.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.81.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.81.3" newgid="uk.org.publicwhip/westminhall/2018-01-23b.81.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.82.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.82.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.84.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.84.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.86.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.86.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.86.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.86.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.87.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.87.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.87.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.87.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.87.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.87.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.88.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.88.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.88.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.88.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.90.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.90.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.90.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.90.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.91.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.91.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.91.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.91.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.91.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.91.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.92.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.92.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.93.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.93.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.93.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.93.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.94.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.94.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.95.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.95.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.95.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.95.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.96.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.96.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.96.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.96.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.96.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.96.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.96.3" newgid="uk.org.publicwhip/westminhall/2018-01-23b.96.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.99.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.99.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.99.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.99.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.100.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.100.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.100.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.100.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.100.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.100.3" newgid="uk.org.publicwhip/westminhall/2018-01-23b.100.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.100.4" newgid="uk.org.publicwhip/westminhall/2018-01-23b.100.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.100.5" newgid="uk.org.publicwhip/westminhall/2018-01-23b.100.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.101.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.101.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.101.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.101.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.102.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.102.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.103.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.103.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.103.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.103.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.103.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.103.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.104.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.104.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.104.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.104.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.104.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.104.3" newgid="uk.org.publicwhip/westminhall/2018-01-23b.104.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.104.4" newgid="uk.org.publicwhip/westminhall/2018-01-23b.104.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.105.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.105.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.105.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.107.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.107.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.109.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.109.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.110.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.110.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.114.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.114.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.114.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.114.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.114.2" newgid="uk.org.publicwhip/westminhall/2018-01-23b.114.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.114.3" newgid="uk.org.publicwhip/westminhall/2018-01-23b.114.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.116.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.117.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.118.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.119.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.119.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.120.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.120.1" newgid="uk.org.publicwhip/westminhall/2018-01-23b.120.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.122.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.123.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.123.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-01-23a.123.0" speakername="Mark Field" person_id="uk.org.publicwhip/person/10884" colnum="123" time="17:49:00" url="">
+    <p pid="a123.0/1">I pay tribute to my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24857" name="Fiona Bruce">the Member for Congleton (Fiona Bruce)</phrase> for her work as chair of the Conservative party human rights commission. I value her deep interest in Hong Kong and a range of other matters. Forgive me if I reply to some specific issues in writing subsequent to this debate; I hope that all Members will understand, particularly <phrase class="honfriend" person_id="uk.org.publicwhip/person/11421" name="Helen Goodman">the hon. Member for Bishop Auckland (Helen Goodman)</phrase>. We are concerned about the checkpoint issue, not least because it has been raised by the Law Society of Hong Kong, but I will return to the detailed points made by <phrase class="honfriend" person_id="uk.org.publicwhip/person/25328" name="Catherine West">the hon. Member for Hornsey and Wood Green (Catherine West)</phrase> after this debate.</p>
+    <p pid="a123.0/2">I have rather more sympathy than I can probably say publicly for much of what <phrase class="honfriend" person_id="uk.org.publicwhip/person/25273" name="Peter Grant">the hon. Member for Glenrothes (Peter Grant)</phrase> said. It is a conversation that I had with my officials earlier, and I am glad he was not a fly on the wall for that. He will appreciate that although he makes some valid points about the past, we also need to look to the future. It is my responsibility now to make things work for the future and to ensure that the joint declaration is properly enforced, and I intend to do so.</p>
+    <p pid="a123.0/3">I stress that the UK Government are acutely aware of our historic responsibilities to Hong Kong, and indeed to future generations of Hong Kongers, to uphold the joint declaration. We remain absolutely committed to monitoring and ensuring the faithful implementation of that document, and to the principle of one country, two systems. The joint declaration of 1984 is a legally binding treaty registered at the United Nations. It clearly applies to both signatories, remains in force, and is relevant to today’s Hong Kongers and those of future generations. We have been unequivocal about our position on that issue both publicly, including in our six-monthly reports to Parliament, and in private with the Chinese Government.</p>
+    <p pid="a123.0/4">We judge that one country, two systems has generally functioned well. It provides Hong Kong with the essential foundations for success as a global financial centre and a prosperous world city. Those foundations are Hong Kong’s capitalist economic system, its high degree of autonomy, its system of common law and independent judiciary and the protection of rights and freedoms. To return to one thing that the hon. Member for Bishop Auckland said, I take seriously the three prongs of my responsibility as the Minister for Asia and the Pacific: prosperity; security, defence and intelligence; and human rights. Please be assured that there is and must be no trade-off between human rights, whether in Hong Kong or in any other part of the world, and any Brexit-related trade matters. I know that there will be ongoing debates in the House, but please be assured that that is my position as Minister and that of the Foreign and Commonwealth Office.</p>
+    <p pid="a123.0/5">The Government’s most recent six-monthly report makes it clear that we cannot ignore the fact that important areas of the one country, two systems framework are coming under increasing pressure. However, I reassure the House that we consistently and unashamedly raise  those concerns with the Chinese and the Hong Kong authorities. I appreciate that such engagement may not always be obvious or visible, although of course it is very obvious in the six-monthly reports, but be assured that those representations continue to be made.</p>
+    <p pid="a123.0/6">Personally, I believe that more can often be achieved through quiet diplomatic engagement than through megaphone diplomacy, but we are willing to comment publicly and robustly where we feel that it is appropriate. For example, I raised our concerns about the pressure on one country, two systems during my visit to Beijing and Hong Kong last August, and I was encouraged to hear Chinese Ministers confirm their support for the doctrine. That support was echoed by Hong Kong Chief Executive Carrie Lam in my discussions with her. She pledged to implement the principle of one country, two systems, to uphold the basic law and to safeguard the rule of law.</p>
+    <p pid="a123.0/7">However, I also accept that confidence in that doctrine is being undermined by ever more frequent reports of mainland security officials operating in Hong Kong and continuing concerns raised about the exercise of some of the rights and freedoms guaranteed by the joint declaration. Many people will have followed the media coverage last year when three high-profile pro-democracy activists, Joshua Wong, Nathan Law and Alex Chow, were sentenced to imprisonment. We were further concerned when we heard that the British national Ben Rogers had been denied entry to Hong Kong in October last year. He is a champion of democracy and human rights, well known to Members of all parties. The Prime Minister spoke about his case in the House, we summoned the Chinese ambassador to the Foreign Office to discuss it and the Secretary of State for Communities and Local Government raised the issue with the Hong Kong Secretary for Labour and Welfare during his visit to Hong Kong in November.</p>
+    <p pid="a123.0/8">I wrote to the Hong Kong Chief Executive Carrie Lam setting out our position on all four of those cases. Her response was consistent with previous public comments made by the Hong Kong authorities on the issue. If the people of Hong Kong and the watching world are to have continued confidence in one country, two systems, it is vital that the high degree of autonomy and the rights and freedoms enshrined in the basic law and guaranteed in international law by the joint declaration are respected. As I said earlier, we will not shy away from that. I know that the Prime Minister mentioned it when she met President Xi at the G20 summit in July, and as the hon. Member for Bishop Auckland rightly pointed out, we will no doubt discuss it when the next visit takes place.</p>
+    <p pid="a123.0/9">Let me be clear: ongoing commitment to those doctrines is not interference by the west in Chinese affairs. Maintaining confidence in one country, two systems and the rule of law is crucial for both Hong Kong’s own interests and China’s, including the city’s role as a financing hub for the belt and road initiative. Our interest is also driven by our wish to see Hong Kong prosper well into the future. We firmly believe that Hong Kong’s economic system, which is uniquely trusted to bring huge new opportunities into China from all corners of the globe, will only flourish if its people enjoy the freedom and safeguards that will promote their talents and enterprise.</p>
+    <p pid="a123.0/10">Turning to political reform, I welcome the Chief Executive’s commitment to addressing that challenge in Hong Kong, which was a focus of her policy address last October. As we have said and will continue to say in the six-monthly reports, we believe that political reform, including on universal suffrage and functional constituencies, will better equip Hong Kong to tackle the challenges that it faces, as well as giving the people of Hong Kong confidence for the future.</p>
+    <p pid="a123.0/11">On independence, our position is also clear. We do not consider it to be a realistic option for Hong Kong. That is the other side of one country, two systems. Indeed, any move toward independence undermines the concept. Again, we will call that out, because we believe that the system as it stands is the best possible guarantor for Hong Kong’s long-term stability and prosperity.</p>
+    <p pid="a123.0/12">As I have outlined, Hong Kong matters hugely to the UK, and not just because of our shared history. Hong Kong is also an important trade and investment partner, both bilaterally and due to its pivotal role as a gateway to the belt and road initiative. I am perhaps a little more optimistic than my hon. Friend the Member for Congleton. Twenty years after the handover of Hong Kong to China, the UK’s commitment to the joint declaration and one country, two systems remains as robust as ever. I am very confident that the relationship between the UK and Hong Kong, a relationship that will also include China, will continue to deepen in the coming months and years to come.</p>
+    <p pid="a123.0/13">Where we identify disagreements, such as in the case of Ben Rogers, we shall continue to raise our concerns.  We shall continue to stress to the Chinese and Hong Kong authorities that for confidence in one country, two systems to be maintained, Hong Kong must enjoy the full measure of its high degree of autonomy and rule of law, as set out in the joint declaration and enshrined in the basic law.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-01-23a.126.0" newgid="uk.org.publicwhip/westminhall/2018-01-23b.126.0" matchtype="perfectmatch"/>
+</publicwhip>
+

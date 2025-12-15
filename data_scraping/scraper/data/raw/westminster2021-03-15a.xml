@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-03-15a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.1.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.1.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.1.2" newgid="uk.org.publicwhip/westminhall/2021-03-15b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.1.3" newgid="uk.org.publicwhip/westminhall/2021-03-15b.1.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.3.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.3.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.3.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.3.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.5.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.5.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.5.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-03-15a.5.1" speakername="Chris Green" type="Start Speech" person_id="uk.org.publicwhip/person/25359" colnum="5" time="16:47:00" url="">
+    <p pid="a5.1/1">It is a pleasure to follow my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24786" name="Steven Baker">the Member for Wycombe (Mr Baker)</phrase> and <phrase class="honfriend" person_id="uk.org.publicwhip/person/25562" name="Carla Lockhart">the hon. Member for Upper Bann (Carla Lockhart)</phrase>. I thought that <phrase class="honfriend" person_id="uk.org.publicwhip/person/25619" name="Mike Hill">the hon. Member for Hartlepool (Mike Hill)</phrase> set out so many of the issues very well. It is a pleasure to speak in this e-petition debate on electronic vaccine passports, which is incredibly timely.</p>
+    <p pid="a5.1/2">The starting point is that it is fundamentally up to individual countries to make decisions for themselves, so it ought not to be, in that sense, for the United Kingdom to take a lead with regard to what Brazil, Italy or any other country chooses to do. We have to respect those countries and their decisions; it is not for us to determine what they do. I hope that all countries, including the United Kingdom, if we choose at some point to take this approach of vaccine passports for other countries’ foreign nationals coming here, will themselves consider what they should do.</p>
+    <p pid="a5.1/3">My hon. Friend the Member for Wycombe captured the point about the effectiveness of the vaccination programme. It is remarkable. I had no anticipation that it would be as effective as it seems to be at the moment. We have to recognise that, and the protection that will give to so many people right around the world. Any question over certification for vaccinations or anything else therefore has to be proportionate to the threat of the disease itself, which at the moment is diminishing, so actually the need is diminishing. At the same time, there has been an escalation in concerns and expectation that the passports will be delivered for many countries. I am quite sympathetic to the sense of having vaccinations.</p>
+    <p pid="a5.1/4">About 20 or so years ago, when I was in the Territorial Army, I went on an expedition to Ecuador to climb Volcán Sangay. I had a yellow fever vaccination and got a certificate. There are minimal concerns about certification if someone has a piece of paper to demonstrate their vaccination status, and we do not need fancy electronic readers to read a certificate—we just need to be able to speak the language used on the certificate. I am pretty comfortable with vaccination certificates. If there were any questions about forgeries or anything else, companies such as De La Rue, which is based in my constituency, could make remarkable authentication devices to put on certificates and ensure that there were no concerns about authenticity.</p>
+    <p pid="a5.1/5">If we moved from paper certificates to electronic, however, significant questions of civil liberty would arise. Who in the world would run that database? What data would go into it and who would determine that? Would it be an international body such as the United Nations, the EU or some other organisation? If we could not get an international organisation to take the lead, would a big corporate organisation do so? Would big tech in California have control over the database? In the light of what happened when the Australian national Government confronted a big tech company, giving such a company so much power would be a colossal problem. We need to be proportionate and cautious. We need to look to paper first and foremost, and there would need to be huge justification if we were to take the electronic route, which I would not welcome.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.6.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.6.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.6.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.7.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.8.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.9.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.10.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.10.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.11.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.12.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.12.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.12.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.13.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.13.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.14.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.14.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.15.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.15.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.18.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.18.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.20.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.21.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.21.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.21.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.21.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.22.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.22.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.22.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.22.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.24.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.24.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.25.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.25.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.25.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.25.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.25.2" newgid="uk.org.publicwhip/westminhall/2021-03-15b.25.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.25.3" newgid="uk.org.publicwhip/westminhall/2021-03-15b.25.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.28.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.29.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.29.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.30.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.30.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.30.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.30.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.32.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.32.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.34.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.34.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.38.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.38.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.39.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.39.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.39.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.39.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.40.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.41.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.43.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.43.1" newgid="uk.org.publicwhip/westminhall/2021-03-15b.43.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-15a.48.0" newgid="uk.org.publicwhip/westminhall/2021-03-15b.48.0" matchtype="perfectmatch"/>
+</publicwhip>
+

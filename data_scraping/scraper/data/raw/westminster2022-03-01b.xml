@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2022-03-01b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.269.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.269.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.269.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.269.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.269.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.269.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.269.3" newgid="uk.org.publicwhip/westminhall/2022-03-01c.269.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.269.4" newgid="uk.org.publicwhip/westminhall/2022-03-01c.269.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.269.5" newgid="uk.org.publicwhip/westminhall/2022-03-01c.269.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.270.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.270.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.270.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.271.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.271.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.272.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.272.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.272.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.272.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.272.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.272.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.273.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.273.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.273.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.273.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.273.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.273.3" newgid="uk.org.publicwhip/westminhall/2022-03-01c.273.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.274.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.274.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.274.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.276.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.276.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.276.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.276.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.278.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.278.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.279.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.279.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.279.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.279.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.280.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.280.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.280.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.280.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.280.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.281.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.282.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.282.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.282.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.282.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.284.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.284.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.285.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.285.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.286.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.286.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.286.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.287.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.287.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.287.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.289.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.290.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.290.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.290.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.290.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.290.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.290.3" newgid="uk.org.publicwhip/westminhall/2022-03-01c.290.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.291.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.294.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.294.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.294.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.294.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.294.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.295.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.295.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.295.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.295.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.295.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.295.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.297.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.297.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.297.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.297.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.298.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.298.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.298.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.299.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.299.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.303.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.303.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.303.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.303.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.303.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.303.3" newgid="uk.org.publicwhip/westminhall/2022-03-01c.303.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.304.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.304.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.304.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.304.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.304.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.304.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.306.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.307.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.307.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.308.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.308.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.309.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.309.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.309.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.309.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.310.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.310.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.313.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.313.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.315.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.315.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.315.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.315.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.316.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.316.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.317.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.317.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.317.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.317.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.319.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.319.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.321.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.321.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-03-01b.321.0" speakername="Vicky Ford" type="Start Speech" person_id="uk.org.publicwhip/person/25614" colnum="321" time="15:45:00" url="">
+    <p pid="b321.0/1">It is an honour to serve under your chairmanship, Sir Edward. I begin by thanking <phrase class="honfriend" person_id="uk.org.publicwhip/person/25914" name="Apsana Begum">the hon. Member for Poplar and Limehouse (Apsana Begum)</phrase> and all the hon. Members for speaking. I also wish a particularly happy St David’s day to all our Welsh colleagues.</p>
+    <p pid="b321.0/2">It has been wonderful to hear everyone speak in so many languages. I am not going to speak in another language, but I was deeply grateful to the headteacher of the Royal School for the Deaf Derby for teaching me how to introduce myself. My name is Vicky. [In British Sign Language: “My name is Vicky.”] Also, to the children who come each year to Chelmsford for our annual carol concert for the deaf and hearing impaired, who taught me how to say “Happy Christmas”. [In British Sign Language: “Happy Christmas.”] That is “happy”, with a big smile, and then a reindeer, stroking the snow and then putting their foot down. I hope hon. Members remember that.</p>
+    <p pid="b321.0/3">As the hon. Member for Poplar and Limehouse pointed out, International Mother Language Day was established by UNESCO in 1999. It is an annual global celebration of cultural and linguistic diversity. It was a Bangladeshi initiative inspired by Bengali students, who sacrificed their lives for the right to speak in their mother tongue in what was then East Pakistan. Those students have been honoured annually in Bangladesh since 1952 on Language Martyrs’ Day, which also marks the significance of the movement as a cornerstone of Bangladeshi independence.</p>
+    <p pid="b321.0/4">Successive UK Governments have a proud history of standing up for minority groups, including linguistic minorities. International Mother Language Day promotes linguistic and cultural diversity across the world. It encourages the preservation of more than 6,000 languages and promotes the need for multilingual education to aid learning and preserve cultures. This year’s event focuses on the challenges and opportunities of using technology for multilingual learning. That is timely following the pandemic and the way the world has had to reimagine the way we use technology to teach and learn.</p>
+    <p pid="b321.0/5">The Department for Education has invested significantly in devices to support disadvantaged students and platforms and connectivity for schools and colleges, particularly those in rural and hard to reach areas. Across the world, however, we know that many lack the equipment and internet access needed for home learning during the pandemic and more must be done to ensure quality education for all. The UK is committed to ensuring that everyone can access education and learn. Last year, despite covid, under our presidency of the G7, we committed to two important global targets to get 40 million more girls in school and 20 million more girls learning by 2026.</p>
+    <p pid="b321.0/6">The impact of school closures during the pandemic means that the initiative to get girls learning is more urgent than ever. We recently launched the prestigious Global Education Evidence Advisory Panel report with the World Bank and UNICEF to provide practical, evidence-based recommendations to drive learning recovery globally. Following on from the global launch of the report, the Foreign, Commonwealth and Development Office will be hosting in-country launch events, starting with Bangladesh on <phrase class="date" code="2022-03-12">12 March</phrase>, which—<phrase class="honfriend" person_id="uk.org.publicwhip/person/25759" name="Florence Eshalomi">the hon. Member for Vauxhall (Florence Eshalomi)</phrase> will like this—will be followed by events in Ghana, Tanzania, Kenya, South Africa and India.</p>
+    <p pid="b321.0/7">We remain committed to our call for 12 years of quality education for all children, especially girls. Last year, the Foreign Secretary publicly committed to restoring gender equality funding to pre-cut official development assistance levels, as part of her vision to put women and girls at the heart of our international development strategy. We are delivering on this commitment to girls’ education all around the world. For example, in Bangladesh, we recently announced a £54 million programme supporting access to improved education for all.</p>
+    <p pid="b321.0/8">The Government recognise the many benefits of multilingualism, and International Mother Language Day is one of myriad events in which we celebrate the cultural and linguistic diversity of the UK. Doing so builds tolerance, understanding and solidarity between us. Linguistic diversity is one of the defining aspects of our country.</p>
+    <p pid="b321.0/9">My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25886" name="Mark Logan">the Member for Bolton North East (Mark Logan)</phrase> spoke of his valiant efforts to learn Irish. I, too, have spent many a summer in Donegal, but have never tried to learn Irish—it is an incredibly challenging subject, but I encourage him to keep going. We remain committed to linguistic diversity and protecting minority languages across the UK, including Cornish, Manx Gaelic, Scots Gaelic, Scots, Ulster Scots, Irish and Welsh. Today, there are over 300 languages spoken in our schools.</p>
+    <p pid="b321.0/10">As it is St David’s day, I remind colleagues that Welsh is the oldest indigenous language of these British Isles. It is also one of the oldest in Europe, and since 2011 it has been a language protected by law and has had equal status to English in Wales. The UK Government are supporting the Welsh language, including the aim of achieving 1 million Welsh speakers by 2030, and the Government have also increased the use of that language in public debate—including in the House of Commons, as was seen most recently in the Welsh Grand Committee debate held on <phrase class="date" code="2022-01-18">18 January</phrase> 2022. <phrase class="honfriend" person_id="uk.org.publicwhip/person/25824" name="Alex Davies-Jones">The hon. Member for Pontypridd (Alex Davies-Jones)</phrase> spoke about the many people who turned to learning the Welsh language via the Duolingo app during lockdown; my own husband contributed to that great effort.</p>
+    <p pid="b321.0/11">Our country is blessed by the dynamism and contributions of our many diaspora communities, and I again thank the 600,000 British people of Bangladeshi origin who live in the UK. Our diversity makes it easier for us to forge meaningful and productive partnerships with countries across the world—again, I return to Bangladesh, because over recent months we have celebrated the golden jubilee of Bangladesh’s independence and of UK-Bangladesh relations. For the past five decades, the UK and Bangladesh have worked together as friends and partners to overcome challenges and help our countries to become more secure and prosperous.</p>
+    <p pid="b321.0/12">Bangladesh has made remarkable progress. It has lifted millions of people out of poverty and made giant leaps forward in life expectancy. It has built a dynamic economy that is among the fastest growing in the world. It has supported international peace and stability, being the largest contributor to UN peacekeepers. Over recent years, Bangladesh has showed incredible generosity by hosting nearly 1 million Rohingya refugees from Myanmar, and we have stood with Bangladesh, contributing £320 million to its refugee programme. We have worked particularly closely with Bangladesh over the past year in response to the covid pandemic and to tackle climate change, and the UK is proud to partner with Bangladesh on so many fronts.</p>
+    <p pid="b321.0/13"><phrase class="honfriend" person_id="uk.org.publicwhip/person/10256" name="Fabian Hamilton">The hon. Member for Leeds North East (Fabian Hamilton)</phrase> spoke about the situation in Tibet. We have very serious concerns about that situation, including   about reports of the erosion of the Tibetan language and culture. We continue to urge China to respect fundamental rights across China, in line with its own constitution and international frameworks. The hon. Gentleman specifically asked what the Government are doing to co-ordinate international efforts: maybe he is in two countries at once, because earlier today, the Foreign Secretary expressed her concern about human rights violations in Tibet at the Human Rights Council taking place in Geneva today.</p>
+    <p pid="b321.0/14">At this time, all across the UK, we are thinking about the really brave people in Ukraine. Ukraine is a multilingual nation, with both Ukrainian and Russian spoken widely in many households. Ukraine does not restrict Russian as a language used by citizens; Russian is spoken frequently in the street and freely in people’s homes. Millions of Ukrainians across the country speak Russian as their first language and face no problems. Let me use my language very clearly: we call on Putin to remove his troops and stop the violence. [Hon. Members: “Hear, hear.”] We in the UK stand firmly with the people of Ukraine, and are proud to be stepping up our role and playing our part in responding to the terrible situation on the ground. Yesterday, the UK announced the first phase of bespoke humanitarian routes for the people of Ukraine, responding directly to the needs and asks of the Ukrainian Government. We will continue to do so.</p>
+    <p pid="b321.0/15">At this dark hour in human history, with conflict raging on the European continent, we should welcome all initiatives that build understanding and tolerance. International Mother Language Day is one such initiative, and I thank our friends and partners from Bangladesh and UNESCO for it.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.324.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.324.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.325.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.325.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.325.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.325.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.329.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.329.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.334.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.334.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.334.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.334.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.334.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.334.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.334.3" newgid="uk.org.publicwhip/westminhall/2022-03-01c.334.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.337.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.337.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.337.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.337.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.337.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.337.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.339.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.339.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.340.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.340.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.340.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.340.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.340.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.340.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.341.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.341.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.343.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.343.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.344.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.344.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.344.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.344.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.344.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.344.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.346.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.346.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.346.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.346.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.346.2" newgid="uk.org.publicwhip/westminhall/2022-03-01c.346.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.347.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.347.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.347.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.347.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.348.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.348.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.348.1" newgid="uk.org.publicwhip/westminhall/2022-03-01c.348.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-03-01b.350.0" newgid="uk.org.publicwhip/westminhall/2022-03-01c.350.0" matchtype="perfectmatch"/>
+</publicwhip>
+

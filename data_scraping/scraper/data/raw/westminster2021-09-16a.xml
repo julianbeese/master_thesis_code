@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-09-16a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.393.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.393.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.393.1" newgid="uk.org.publicwhip/westminhall/2021-09-16b.393.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.393.2" newgid="uk.org.publicwhip/westminhall/2021-09-16b.393.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.393.3" newgid="uk.org.publicwhip/westminhall/2021-09-16b.393.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.396.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.396.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.396.1" newgid="uk.org.publicwhip/westminhall/2021-09-16b.396.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.397.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.397.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.399.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.399.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.401.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.401.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.401.1" newgid="uk.org.publicwhip/westminhall/2021-09-16b.401.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.401.2" newgid="uk.org.publicwhip/westminhall/2021-09-16b.401.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.402.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.402.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.402.1" newgid="uk.org.publicwhip/westminhall/2021-09-16b.402.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.402.2" newgid="uk.org.publicwhip/westminhall/2021-09-16b.402.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.403.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.403.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.405.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.405.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.407.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.407.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.409.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.409.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.411.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.411.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.411.1" newgid="uk.org.publicwhip/westminhall/2021-09-16b.411.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.411.2" newgid="uk.org.publicwhip/westminhall/2021-09-16b.411.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.413.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.413.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.413.1" newgid="uk.org.publicwhip/westminhall/2021-09-16b.413.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.413.2" newgid="uk.org.publicwhip/westminhall/2021-09-16b.413.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.413.3" newgid="uk.org.publicwhip/westminhall/2021-09-16b.413.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.416.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.416.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.417.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.417.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.417.1" newgid="uk.org.publicwhip/westminhall/2021-09-16b.417.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.417.2" newgid="uk.org.publicwhip/westminhall/2021-09-16b.417.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.417.3" newgid="uk.org.publicwhip/westminhall/2021-09-16b.417.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.420.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.420.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-09-16a.420.0" speakername="Edward Timpson" type="Start Speech" person_id="uk.org.publicwhip/person/14128" colnum="420" time="15:13:00" url="">
+    <p pid="a420.0/1">It is a pleasure to serve under your chairmanship, Mr Stringer, for what I think is the first time—I apologise if we have crossed swords in this place before. I thank the Backbench Business Committee for allowing the debate to take place, as well as my near neighbour, my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25884" name="Andy Carter">the Member for Warrington South (Andy Carter)</phrase>, who in the short time he has served in this place has already become a great champion for children who are at risk of school exclusion, highlighting the consequences of it. His chairmanship of the APPG is already reaping benefits for the profile of this important subject and the work and collaboration that are taking place on it, both inside and outside Parliament.</p>
+    <p pid="a420.0/2">Despite my now being back in this place, the review I carried out was an independent review at the behest of the then Secretary of State, which was commissioned in March 2018 and published in May 2019. The last time we debated the review was on <phrase class="date" code="2021-03-02">2 March</phrase> 2020: it was essentially an almost-one-year-on review of the review to check against progress. Of course, that was pre-pandemic, so we were still looking at the review through the lens of the world as it was then.</p>
+    <p pid="a420.0/3">From memory, it was my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10225" name="Nick Gibb">the Member for Bognor Regis and Littlehampton (Nick Gibb)</phrase> who responded to that debate. I will take a moment to pay tribute to his incredibly long and fruitful service at the Department for Education as Minister for School Standards; I was there with him from 2012 until 2015, apart from a short period when he was allowed a breather. Many Members across the House recognise that he has shown a great deal of commitment, dedication and perseverance, to the benefit of many children in this country, and I wanted to put that on the record.</p>
+    <p pid="a420.0/4">When we look at the response then and the position we are in now, we have to factor in that many children have had to endure a very different environment over the last 18 months. I want to explore how that may impact not only on the range of responses we have to the prevalence of school exclusion, but how it may bring about new opportunities to improve the way that we work more upstream, as my hon. Friend the Member for Warrington South said, to prevent as much disruption to education as possible.</p>
+    <p pid="a420.0/5">Although exclusion will have a severe impact on any child, the analysis in my review showed that it affects only 0.1% of all children. However, that is 40 children a day. We need to make sure that we make the best of that situation for every child. Similarly, there are around 2,000 suspensions every day—I believe that is what they are being called; we used to call them fixed term exclusions—so there is a lot of disruption in the education system daily.</p>
+    <p pid="a420.0/6">When I conducted my review, I understandably had to encompass a whole spectrum of different views and senses of what is right and wrong in the management of behaviour in schools. That was sometimes quite tricky territory. However, the consensus I found was that everyone understood the need for the headteacher to have some autonomy and discretion to use exclusion where appropriate, and very much as a last resort where nothing else will do, and that there have to be high standards in schools around values of respect and good behaviour. However, people also recognised that there are children who, for whatever reason—from what I called “in-school” or “out-of-school” factors in the review—find it difficult to meet that level of behaviour and interaction in school. That gets to the nub of how we need to respond and intervene earlier when we recognise that there may be a problem in that child’s life.</p>
+    <p pid="a420.0/7">I remain of the view that exclusion is an important tool in the headteacher’s toolbox. We should not be looking for some artificial figure of how many exclusions there should be—what we need are the right reasons for exclusions and, as a consequence, the right number at the right time. However, that would be less of a concern if we knew that was true in every case: one finding of my review was that there was not always an appropriate use of exclusion. That is particularly worrying as we know that vulnerable pupils are most likely to fall foul of exclusion, as we have heard already, in particular those who have been diagnosed with special educational needs or come into contact with social care.</p>
+    <p pid="a420.0/8">We look at the impact that exclusion has on their life prospects: on their educational attainment, their employment, the aggravation of mental health issues and the correlation with the criminal justice system. All the evidence is there. We know that we can do much more for these children and young people if we work at a more preventative level and ensure a greater continuum of support through some difficult times by involving all those who work with children, not only in schools, but in the agencies that support schools, including pupil referral units and those working in alternative provision.</p>
+    <p pid="a420.0/9">We are looking at the overlaying of the pandemic and still trying to come to terms with how that will manifest in the longer term. We are already seeing reports of heightened anxiety for some children, with social disconnection problems that have been bottled up at home. That has led to some disengagement from education for those who were not able to get online every day and to get into each lesson when they were at home. All that has an impact on their ability to progress and reach their potential.</p>
+    <p pid="a420.0/10">Although we do not have any data beyond the autumn of 2019—before the pandemic—Cheshire West and Chester Council, the authority in which my Eddisbury constituency falls, has published a report with Social Finance. The report shows a rising level of pupil absence and a rising use of exclusion by schools in the first term after lockdown restrictions ended last year, in an area that has a lower-than-average exclusion rate. That finding may not be the same across the country, but it is certainly an indicator that there may be some fallout and additional issues for children who have gone through that experience.</p>
+    <p pid="a420.0/11">Indeed, the number of suspensions in the Chester West and Chester area went up from 62 to 93, and the proportion of children being suspended for the first  time rose from 40% to 54%. That is just one snapshot in one part of the country, but that is why it is important that we look at the matter carefully and consider, as more data comes out, whether it is an aberration or a deeper problem caused by the disruption over the last 18 months.</p>
+    <p pid="a420.0/12">Unfortunately, that could also point to the risk of rising persistent absence and exclusion. The children most at risk of slipping out of education—and not only those who live in poverty, but those who may have a social worker because life outside school is unsafe—are more prone to exclusion. On the face of it, covid makes the risk of exclusion more likely rather than less, but at the same time, the conclusions of my review, and its recommendations, still hold water. In fact, in many respects, it is even more important to implement them in a timely manner.</p>
+    <p pid="a420.0/13">I know you are a great fan of googling the word “Timpson”, Mr Stringer, so I am sure that you are aware of the Timpson tracker, which is on the IntegratED website. When I first saw it, I thought it was something that would track me doing the marathon a few weeks later, which was clearly not the case—it would have been a very long viewing period if it had been. The tracker sets out the progress on the recommendations in my review, from those that are still in progress to those on which we have not made any progress at all. At this juncture I want to thank the Minister, because I have had a number of opportunities to engage with her on that progress since the last time we debated the matter in Parliament. We had a discussion with officials on <phrase class="date" code="2021-05-25">25 May</phrase>, and that provided me with some reassurance that further work was going on, although because of the pandemic, it had perhaps been done differently from how we had anticipated. None the less, the will and the determination to make progress were clearly there. In the time I have left, I will refer to just some of the recommendations, to push them forward again and ask the Minister what progress has been made in the intervening period.</p>
+    <p pid="a420.0/14">Recommendation 8 is to establish a practice improvement fund. I have highlighted that on a regular basis because, although I fully accept that there is a spending review to come and that sometimes funds have to be found within existing budgets—or even within slightly smaller existing budgets after a spending review—that part of the overall package of recommendations is crucial because it homes in on what we know from the evidence our review collected on what actually works on the ground and which tools professionals need to have a strong response to any difficulties children have at school, so that exclusions can be avoided.</p>
+    <p pid="a420.0/15">The recommendation considers the transition points from primary to secondary school, and in-school units, as well as how many children have attachment and trauma issues. In that respect, I pray in aid the Attachment Research Community, which, along with the National Association of Virtual School Heads, has produced a call to action to help raise awareness of attachment and trauma needs in schools across England. The recommendation also looks at teaching, learning and emotional wellbeing in schools, and really aims to complement and extend some of the existing Department for Education guidance on supporting mental health in schools.</p>
+    <p pid="a420.0/16">I hope that my hon. Friend the Minister will be able to tell us more about the work on mental health in schools, particularly on having a trained lead in each school, and on how attachment and trauma could be fused into that work so that every school’s workforce has some basic knowledge of how attachment and trauma manifest, and how staff might be able to respond in a way that really helps to keep children on the right path.</p>
+    <p pid="a420.0/17">There has also been interest in the behaviour hubs that have been announced by the Government. Twenty-two schools and trusts have signed up, including six that have a relationship with alternative and specialist provision, which is an important step forward. It would be good to hear from the Minister about how that is starting to have an influence on pushing out the good practice, and what steps will be taken in the future.</p>
+    <p pid="a420.0/18">Recommendation 11 may, on the face of it, seem a synthetic recommendation compared with others, but I still see it as an important part of how we change the conversation around alternative provision, particularly pupil referral units. The recommendation deals with the stigma that is often attached to PRUs. As my hon. Friend the Member for Warrington South said, they can seem like a dead-end place where pupils are put to be kept out of sight. We know there are PRUs all over the country that are not like that at all. We have seen some tremendously impressive examples where they are turning lives around, working directly in mainstream schools, and helping with the work they do. Renaming PRUs in a way that reflects their role both as schools—places of learning—and as places that support children to overcome barriers to engaging with education seems to be one way of making people view their role within the system more positively and constructively.</p>
+    <p pid="a420.0/19">Recommendation 10 draws on the excellent opening speech given by my hon. Friend the Member for Warrington South, particularly about alternative provision and the need to have a strong workforce. We are starting, particularly post-lockdown, to hear some APs report difficulties with recruiting subject specialist teachers. There are shortages in many professions at the moment, but fortunately for APs, there is a route to quality within their workforce. Recently, I was lucky to be able to thank the founding cohort of the Difference Leadership programme, led by Kiran Gill, who graduated after their first two-year placement programme in good and outstanding APs. They are already having a profound impact on the ground. Within the first months of the course, leaders reported a 65% reduction in internal and external exclusions, and an 80% improvement in de-escalation incidents. That is not just a single improvement; for example, the Pendlebury Centre pupil referral unit works on the continuum of need that we have heard about, and very closely with the mainstream schools around it. This work is starting to see a real culture change in the way that schools and PRUs are working together to resolve problems as soon as they possibly can.</p>
+    <p pid="a420.0/20">I want to touch upon the illegal practice of off-rolling, which is in my report. Off the back of my recommendation —I do not have the number to hand, it may be recommendation 26—the Education Committee were looking at how Ofsted might make sure that where they have found off-rolling during an inspection, they make that clear on the face of the inspection report. The  consequences of that, in my judgement and review, should be that the leadership and management aspect of the school’s inspection be deemed inadequate in all but exceptional circumstances. That still has some time to cement itself within the inspection regime, but it is important that we call out the extremely sharp practice of off-rolling, which is ultimately illegal, and squeeze it out of the school system.</p>
+    <p pid="a420.0/21">I am realistic. Having been Children’s Minister, I know that there are often principles that one agrees with and accepts, as is the case with the Government’s response to this review, but that is not always then ad idem with one’s ability to bring them into practice. There may be some need to nuance them and fashion them slightly differently as circumstances shift, and of course the pandemic is one such circumstance.</p>
+    <p pid="a420.0/22">I am clear that the will is still there in Government, and I look forward to hearing what the Minister says at the two-year—it is over two years now—review point to establish how much progress we have made. We know there is a lot of knowledge and understanding in the school system, and a commitment to do better and learn from the best, and many of my recommendations point to achieving that, as well as having a much more cohesive and transparent system where we can track children more easily, we do not lose them to the system, and we can respond more efficiently and effectively in providing the support they need to make the best of their education.</p>
+    <p pid="a420.0/23">We have some fantastic schools all over this country and children who want to learn. We just need to make sure we do not leave any of them behind, and this review provides a great opportunity to do just that.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.424.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.424.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.427.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.427.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.428.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.428.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.428.1" newgid="uk.org.publicwhip/westminhall/2021-09-16b.428.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.430.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.430.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.432.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.432.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.434.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.434.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.434.1" newgid="uk.org.publicwhip/westminhall/2021-09-16b.434.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.438.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.438.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.438.1" newgid="uk.org.publicwhip/westminhall/2021-09-16b.438.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16a.440.0" newgid="uk.org.publicwhip/westminhall/2021-09-16b.440.0" matchtype="perfectmatch"/>
+</publicwhip>
+

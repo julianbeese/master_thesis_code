@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.129.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.129.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.129.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.129.2" newgid="uk.org.publicwhip/westminhall/2013-10-10b.129.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.130.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.130.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.130.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.130.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.133.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.133.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.133.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.134.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.134.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.134.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.134.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.135.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.135.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.135.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.137.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.137.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.139.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.141.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.141.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.141.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.142.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.143.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.143.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.143.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.143.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.143.2" newgid="uk.org.publicwhip/westminhall/2013-10-10b.143.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.143.3" newgid="uk.org.publicwhip/westminhall/2013-10-10b.143.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.145.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.145.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.145.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.146.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.146.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.147.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.149.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.149.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.149.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.149.2" newgid="uk.org.publicwhip/westminhall/2013-10-10b.149.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.149.3" newgid="uk.org.publicwhip/westminhall/2013-10-10b.149.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2013-10-10a.149.3" speakerid="uk.org.publicwhip/member/40037" speakername="Anne Begg" colnum="149"  time="014:55:00" url="http://www.publications.parliament.uk/pa/cm201314/cmhansrd/cm131010/halltext/131010h0001.htm#131010h0001.htm_spnew22">
+	<p pid="a.149.3/1">I am delighted to be given the chance, Mr Walker&#8212;five minutes early&#8212;to debate the report on the Work programme that my Select Committee published at the end of May this year, and the Government&#8217;s response to it.</p>
+	<p pid="a.149.3/2">Other colleagues will arrive, hopefully, in time for when they thought that the debate would start, but in the meantime I extend my congratulations to the new Minister; this is perhaps her first outing in her new role. She may be new to the employment aspects of the role, but she is all too familiar with certain issues that I shall raise this afternoon to do with people with disabilities and their ability, or inability, to get into work. I appreciate that when I refer to &#8220;the Minister&#8221; this afternoon, it is probably not her that I am speaking about, but her predecessor. I extend my condolences to him, in as much as he proved to be a capable Minister whenever he appeared before our Committee, and he knew his brief well.</p>
+	<p pid="a.149.3/3">The report that we are debating was the result of our second inquiry into the Work programme. The first, in May 2011, was on the contractual arrangements of the programme just before it was introduced. At the time, we said that we would return to the subject, to see how things were working out in practice and whether the Work programme was delivering on its promises. As a result, we carried out a further inquiry into the experience of the people on the Work programme; as that inquiry progressed, we realised that while the programme might be delivering sustained job outcomes for some people, it was not effective in helping those who have major barriers to work, such as those who are homeless, have drug or alcohol problems or, in particular, have a disability or health problem, diagnosed or undiagnosed.</p>
+	<p pid="a.149.3/4">The report is therefore called &#8220;Can the Work Programme work for all user groups?&#8221; The question mark is important. In short, the answer is no. To be generous, I could say that the answer is not yet, but there would have to be major changes to the way in which the contracts are delivered, and to how the differential pricing structure works, if the Work programme is to begin properly delivering job outcomes for those with the highest barriers to work.</p>
+	<p pid="a.149.3/5">My Committee&#8217;s starting point was one of broad support for the programme&#8217;s policy intentions and innovative approach. It was a replacement programme&#8212;a single one, instead of all the various welfare-to-work schemes introduced by the previous Government. It was to focus on sustained job outcomes and to be a payment-by-results system. Elements such as the differential pricing structure were meant to encourage providers to focus on those who were furthest from the world of work, not just those who were easiest to help.</p>
+	<p pid="a.149.3/6">There was also to be a prime provider model, in which large providers&#8212;predominantly from the commercial sector&#8212;would bear most of the financial risk of operating</p>
+	<p pid="a.149.3/7">in a results-based system, but draw on the expertise of a wide range of subcontractors to deliver services, in particular to meet the requirements of jobseekers with more complex needs.</p>
+	<p pid="a.149.3/8">The debate is timely, in that the Department for Work and Pensions has just published its latest set of statistics on Work programme performance; it is the third set of statistics, covers the period between July 2012 and June 2013 and was published at the end of September. The statistics bear out the conclusion of our report: the performance levels for mainstream jobseekers have continued to improve&#8212;some commentators say that they are plateauing, but they have improved after a shaky start&#8212;and are now above the Department&#8217;s minimum performance levels.</p>
+	<p pid="a.149.3/9">For those claiming employment and support allowance, however, the results remain very poor: only 5.8% get work, which is way below the minimum performance levels, set at 16.5%. Only six people out of every 100 in that group are getting a sustained job. In fact, for that group of claimants&#8212;the group that the Government said they would not leave languishing on benefits as the previous Government did&#8212;the Work programme is delivering a worse outcome than the previous, specialist welfare-to-work programmes for the recipients of incapacity benefit, such as pathways to work.</p>
+	<p pid="a.149.3/10">Pathways to work varied in different parts of the country, but the programme had job outcomes of between 10% and 30%. The coalition Government, on coming to power, said that those results were simply not good enough&#8212;but if the 30% was not good enough, the 5.8% must be a cause for shame. That is why our key conclusion was that differential pricing had not had its intended impact. Creaming and parking persist, and we believe that segmenting jobseekers into payment groups according to the type of benefit being claimed is proving ineffective. We also have concerns about how the prime provider model is operating in practice, having heard evidence that smaller niche providers with the experience to support more disadvantaged jobseekers have received far fewer referrals than anticipated, and in some cases none at all.</p>
+	<p pid="a.149.3/11">Our inquiry was hampered by a lack of transparent data. We were unable to assess from official statistics the level of specialist advisers&#8217; involvement in the programme, or how effective those providers are. Publishing official referral and performance data at subcontractor level would not only aid effective scrutiny, but facilitate the development of a more effective welfare-to-work market.</p>
+	<p pid="a.149.3/12">As this debate is about the Government&#8217;s response to our report, I would like to turn my attention to some of our concerns about the process for formulating Government responses. The quality of the Government&#8217;s response is poor and includes some perfunctory responses to individual recommendations. There is no explicit indication of whether the Government agree with the overall thrust of the report. Some of their actions suggest that they share at least some of the Committee&#8217;s concerns, but that is not mentioned in the response, or is mentioned only perfunctorily. I will give a few examples.</p>
+	<p pid="a.149.3/13">The response alludes briefly to a pilot in which Work programme participants who are undertaking or recently undertook treatment for drug or alcohol dependency attract increased outcome payments. That is exactly the sort of pilot we recommended. Clearly, the Government</p>
+	<p pid="a.149.3/14">share to some extent our concern that the Work programme pricing structure does not sufficiently incentivise providers to help some groups of harder-to-help claimants. A fuller description of the pilot and how it will be evaluated would have been appropriate. We are aware of a further pilot that tests closer working between the Work programme providers and treatment programmes to support participants with a history of drug or alcohol problems, but that is not mentioned at all in the Government&#8217;s response.</p>
+	<p pid="a.149.3/15">The response gives the strong impression that no official in the Department for Work and Pensions has read the report in full. In some cases, it addresses only the text of the individual recommendation paragraphs, instead of engaging with the preceding evidence-based discussion and argument in our report. A particularly egregious example is the Department&#8217;s reply to the Committee&#8217;s concern that smaller specialist providers seem not to be involved in the Work programme to the extent anticipated. The Department states:</p>
+	<p pid="a.149.3/16">&#8220;In fact, the latest stock-take of the Work Programme supply chain shows that 43% are from the voluntary and community sectors, and charities.&#8221;</p>
+	<p pid="a.149.3/17">That sounds good, unless our report has been read. The official who drafted that sentence seems ignorant of the fact that in the paragraphs preceding the recommendation the report casts serious doubt on the usefulness of that stocktake exercise. It notes evidence that many organisations included in the 43% cited by the Department for Work and Pensions have received no Work programme referrals at all.</p>
+	<p pid="a.149.3/18">The report highlights the results of a BBC &#8220;Panorama&#8221; survey of voluntary sector organisations listed as Work programme subcontractors, but 40% of those organisations did not even consider themselves to be part of the Work programme when they were approached, and 73% had received fewer referrals than expected. The stocktake seemed to us to be merely a list of organisations named by prime contractors as being part of their Work programme supply chains, regardless of whether those organisations have received a single client via the Work programme. It was clear from evidence to our inquiry that the stocktake tells us nothing about the availability of specialist support within the programme.</p>
+	<p pid="a.149.3/19">We had other concerns about responses to some of our recommendations. The response to our recommendations on minimum performance levels does not engage with the Committee&#8217;s concern that the Government&#8217;s calculation of minimum performance levels seems to be based on unrealistic economic forecasts made prior to the launch of the programme. Paul Lester&#8217;s independent review, which the Department holds up as evidence that it has dealt with this issue, seems to have concerned itself only with how data on performance are presented, and not with how more realistic performance expectations can be calculated.</p>
+	<p pid="a.149.3/20">The Department&#8217;s primary concern seems to be that performance in year one of the Work programme looked low to commentators and the media. Our concern, which was not addressed in the Government&#8217;s response, was that performance was in fact low&#8212;it did not just seem low; it was low&#8212;when measured against the Department&#8217;s unrealistic expectations.</p>
+	<p pid="a.149.3/21">This is fundamentally important in a payment-by-results programme. If contractual performance expectations are set too high, they risk starving providers of funding, with inevitable consequences for service delivery. Our recommendation that the Department explore, with independent experts, new methods for setting minimum performance levels that are more responsive to economic conditions and can be more transparently calculated and applied deserved a more considered response from the Government.</p>
+	<p pid="a.149.3/22">We also made recommendations about jobseeker segmentation. It is clear that the Department knew from the outset that segmenting participants predominately by benefit type and using that as the basis for the differential pricing structure was a risk. Everyone accepted that benefit type was only a very rough proxy for claimants&#8217; level of need. There is now strong evidence that segmenting claimants in this way ignores important information that is crucial in making an accurate assessment of claimants&#8217; distance from the labour market. Participants most at risk of not having their needs recognised or addressed include homeless people, those with unrecognised health or disability-related barriers to work, and people with a history of drug or alcohol problems.</p>
+	<p pid="a.149.3/23">The Department says it is</p>
+	<p pid="a.149.3/24">&#8220;currently exploring whether we can more effectively identify and segment those claimants who are likely to be particularly difficult to help back into sustained employment.&#8221;</p>
+	<p pid="a.149.3/25">However, more details about the Department&#8217;s work and the approach it is considering would have been appreciated. We believe it should pilot an initial assessment along the lines of the Australian jobseeker classification instrument, testing its effectiveness in jobcentres. We hope that in that way the specialist help will go to those who are furthest from the labour market.</p>
+	<p pid="a.149.3/26">Another recommendation was that the money that was returned to the Treasury because of the year one underspend should have been redirected to the Work programme. Due partly to the underperformance I have referred to in terms of the data, &#163;248 million was unspent in year one of the Work programme. That could have been used to address some of the programme&#8217;s clear shortcomings over the course of the current contracts. The recommendation received the most dismissive of responses. The Department simply told us:</p>
+	<p pid="a.149.3/27">&#8220;All in-year under-spends are returned to Her Majesty&#8217;s Treasury.&#8221;</p>
+	<p pid="a.149.3/28">That might be a statement of fact, but it is despite the then Minister telling us in oral evidence that he had entered into discussions with the Treasury on that very point.</p>
+	<p pid="a.149.3/29">Our view is that it was short-sighted not to use that money to help those jobseekers who are currently being failed by the Work programme. The Government should not lose sight of the fact established by Lord Freud in his 2007 review of welfare-to-work that well-targeted and effective employment support for those furthest from the labour market has the potential to achieve large savings for the Exchequer in the long run.</p>
+	<p pid="a.149.3/30">We welcomed the establishment of a best practice group looking at minimum service standards, which are so vague in some cases as to allow providers virtually to ignore some Work programme participants, if they so chose. However, it is unfortunate that the Department appears to have ruled out a single set of core minimum standards on the grounds that it would in some way</p>
+	<p pid="a.149.3/31">inhibit providers&#8217; ability to innovate&#8212;the black-box approach, I suppose. We simply do not agree. It is perfectly possible to establish core minimum standards that offer all participants protection and service assurance without being overly prescriptive about the services providers offer.</p>
+	<p pid="a.149.3/32">There is no attempt to address the problem of high adviser case loads. Average case loads are between 120 and 180 participants per adviser, which is far too high to allow an acceptable level of service for all participants. Advisers have no choice but to prioritise certain participants to support. The Department&#8217;s response to our recommendation that it, together with providers, consider ways of reducing case loads amounts to fewer than four lines of text. Its assertion that compliance monitoring officers</p>
+	<p pid="a.149.3/33">&#8220;provide assurance of service delivery at individual claimant level&#8221;</p>
+	<p pid="a.149.3/34">is simply not plausible. Addressing high case loads means finding resources for more advisers or offering alternative provision for some participants. It is not just that the differential payment structure is not delivering for those furthest from the labour market, but that an assurance of service quality is not built into the system, which makes it clear why many advisers are not working with those who are most difficult to help.</p>
+	<p pid="a.149.3/35">The Committee also took evidence about the Merlin standard. Much of it was from subcontractors, many of whom felt they had been unfairly treated by primes. Most had received far fewer referrals than they had been promised; some had received none at all. A number had withdrawn from the Work programme altogether. Many felt that, far from shouldering the burden of financial risk, prime contractors were passing the risk involved in payment by results further down the supply chain. We are concerned that the Merlin standard&#8212;the regulatory regime intended to monitor the quality of supply-chain relationships&#8212;appears incapable of addressing these very real issues. A review of the Merlin standard is necessary, so we welcome the news that the Department for Work and Pensions, together with the Merlin advisory board and the accreditation service provider, is seeking views from across the sector on the regime&#8217;s effectiveness to date. Our strong view is that changes are required to strengthen the regulatory regime.</p>
+	<p pid="a.149.3/36">What should be the future shape of the Work programme? The Committee&#8217;s key conclusion&#8212;that the programme as currently contracted has the potential to work well for relatively mainstream jobseekers, but that it is unlikely to do so for those facing more severe barriers to employment&#8212;has been borne out by the published data, and particularly the most recent data. In line with our conclusion, the Employment Related Services Association&#8212;the welfare-to-work industry body&#8212;openly accepts that the programme is not working well for disabled jobseekers.</p>
+	<p pid="a.149.3/37">Clearly changes are required. The Government must decide whether improved support for disadvantaged groups can be achieved through changes to the Work programme&#8217;s design, pricing structure and payment model, or whether alternative, specialist programmes are required, so that appropriate support is available for everyone who requires it.</p>
+	<p pid="a.149.3/38">Work programme 2, or whatever programme or collection of programmes replaces the current contracts, will need to be in place by 2015. No doubt the Department is</p>
+	<p pid="a.149.3/39">beginning to consider its options. It would have been a good start if the Government had engaged properly with the recommendations in our report.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.154.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.154.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.154.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.154.2" newgid="uk.org.publicwhip/westminhall/2013-10-10b.154.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.154.3" newgid="uk.org.publicwhip/westminhall/2013-10-10b.154.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.154.4" newgid="uk.org.publicwhip/westminhall/2013-10-10b.154.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.156.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.156.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.156.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.156.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.156.2" newgid="uk.org.publicwhip/westminhall/2013-10-10b.156.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.156.3" newgid="uk.org.publicwhip/westminhall/2013-10-10b.156.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.160.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.161.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.161.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.166.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.167.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.167.1" newgid="uk.org.publicwhip/westminhall/2013-10-10b.167.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.168.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.168.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.169.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-10-10a.172.0" newgid="uk.org.publicwhip/westminhall/2013-10-10b.172.0" matchtype="perfectmatch"/>
+</publicwhip>
+

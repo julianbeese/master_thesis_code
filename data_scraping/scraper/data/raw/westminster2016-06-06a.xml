@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2016-06-06a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.1.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.1.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.1.2" newgid="uk.org.publicwhip/westminhall/2016-06-06b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.1.3" newgid="uk.org.publicwhip/westminhall/2016-06-06b.1.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.1.4" newgid="uk.org.publicwhip/westminhall/2016-06-06b.1.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.2.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.2.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.2.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.2.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.2.2" newgid="uk.org.publicwhip/westminhall/2016-06-06b.2.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.2.3" newgid="uk.org.publicwhip/westminhall/2016-06-06b.2.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.3.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.3.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.3.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.3.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.3.2" newgid="uk.org.publicwhip/westminhall/2016-06-06b.3.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.4.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.4.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.4.2" newgid="uk.org.publicwhip/westminhall/2016-06-06b.4.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.6.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.6.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.6.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.7.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.7.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.7.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.7.2" newgid="uk.org.publicwhip/westminhall/2016-06-06b.7.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.7.3" newgid="uk.org.publicwhip/westminhall/2016-06-06b.7.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.7.4" newgid="uk.org.publicwhip/westminhall/2016-06-06b.7.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.9.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.9.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.9.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.9.2" newgid="uk.org.publicwhip/westminhall/2016-06-06b.9.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.9.3" newgid="uk.org.publicwhip/westminhall/2016-06-06b.9.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.10.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.10.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.10.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.10.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.10.2" newgid="uk.org.publicwhip/westminhall/2016-06-06b.10.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.11.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.11.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.11.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.12.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.12.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.12.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.12.2" newgid="uk.org.publicwhip/westminhall/2016-06-06b.12.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.16.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.16.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.17.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.17.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.19.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.19.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.19.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.19.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.19.2" newgid="uk.org.publicwhip/westminhall/2016-06-06b.19.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.19.3" newgid="uk.org.publicwhip/westminhall/2016-06-06b.19.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.20.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.20.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.20.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.20.2" newgid="uk.org.publicwhip/westminhall/2016-06-06b.20.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.20.3" newgid="uk.org.publicwhip/westminhall/2016-06-06b.20.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.20.4" newgid="uk.org.publicwhip/westminhall/2016-06-06b.20.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.21.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.21.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.21.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.21.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2016-06-06a.21.1" speakername="Martin Docherty" person_id="uk.org.publicwhip/person/25275" colnum="21" time="17:48:00" url="">
+    <p pid="a21.1/1">It is always a pleasure to see you in the chair, Ms Vaz. I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/25347" name="David Mackintosh">the hon. Member for Northampton South (David Mackintosh)</phrase> on securing this debate. Importantly, I congratulate the authors of the e-petition, which offers a constructive path that the UK Government can follow to ensure a healthy balance between limiting noise pollution and respecting and acknowledging important occasions that our communities take part in.</p>
+    <p pid="a21.1/2">I declare an interest as my family includes two rather spoilt whippets, so I can fully appreciate and sympathise with the thousands of people who signed the e-petition, including those from my own constituency, calling for a limit on when the general public can use fireworks.</p>
+    <p pid="a21.1/3">To pick up the point made by <phrase class="honfriend" person_id="uk.org.publicwhip/person/24720" name="Susan Elan Jones">the hon. Member for Clwyd South (Susan Elan Jones)</phrase>, I cannot stand fireworks. They are the dullest thing since sliced bread. I would rather be sitting in the house, having a cup of tea and watching “Coronation Street”. Perhaps I am the odd one out, but I have never really got into them. By allowing communities to celebrate and mark events, such as Hogmanay, that are part of our culture and heritage, while at the same time offering protection to those dog owners whose animals are adversely affected by noise, we will go some way towards tackling the increasing problem of noise pollution for those who have pets, as well as for those affected by the noise personally.</p>
+    <p pid="a21.1/4">The traditional bonfire night was perhaps the reason why I do not really appreciate fireworks. They were always very small bonfires and, back in the good old days when I had hair, the fireworks were useless. Most importantly, it was always raining, so I never really liked fireworks displays. In my constituency, we have bonfire night events in Levengrove Park in Dumbarton and Dalmuir Overtoun Park in Clydebank. They are organised by the local authority and done very well, but I hear from constituents who live close to such large organised events that dogs—it is predominantly dogs, but also cats and other animals—have to be sedated so that they can deal with the noise. Traditionally, we did not have so many huge events or back-garden firework displays. Fireworks were not easily accessible and more often than not people could not afford them. There has been a change in the culture, and fireworks are now used a lot more often and are a lot noisier.</p>
+    <p pid="a21.1/5">As the owner of two whippets who like nothing better than to run about in the park or the garden, I see at first hand the impact that the noise from fireworks  has on them and neighbouring dogs. As the saying goes, dogs are our best friends, and they are an important and integral part of any family. For me, seeing them suffer is like seeing one’s own children suffer. Noise pollution harms not only dogs but their owners, who feel helpless as they are unable to offer comfort to their pets. The psychological impact on all those affected cannot be fully calculated or identified, but it is not too difficult to agree that there is some impact.</p>
+    <p pid="a21.1/6">I was pleased that the former Scottish National party MSP Dennis Robertson released an eight-point guide to helping pet owners and, probably more importantly, their pets through last Hogmanay. The recommendations included having a specific play area in the house—as is often mentioned by charitable bodies that deal with animal care—filled with favourite toys, treats and so on, and making sure that pets are secure and cannot escape if they are suddenly frightened. Dennis also highlighted the effect of fireworks on his companion and working guide dog, Mr Q, who retired at the end of the last Scottish Parliament Session. Although highly trained, working animals are nevertheless susceptible to noise pollution from fireworks, which can undermine their working capabilities and affect those who rely on them.</p>
+    <p pid="a21.1/7">Dennis’s guide will go only some of the way towards combating the issues relating to noise pollution from fireworks. As Members have mentioned, more could be done by strengthening the existing Fireworks Regulations 2004, or by fully ensuring that they are properly and rigorously enforced. I am sure that, like me, other Members will find that the Pyrotechnic Articles (Safety) Regulations 2015 go some way towards addressing the issue of access to certain fireworks, such as those classed as category F4. That legislation was a step in the right direction.</p>
+    <p pid="a21.1/8">The noise of fireworks gives cause for concern, but other devices, such as Chinese lanterns, are well documented as having caused injury and the death of livestock. That is a dreadful way for any animal to die and a huge loss to local farming communities. Animals face many challenges. Although it is not the UK Government’s intention to legislate at this point—the Minister can correct me if I am wrong—if further work is to be done, the implementation of the Pyrotechnic Articles (Safety) Regulations 2015 might allow additional support. The purchase of fireworks online is a serious issue mentioned by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25315" name="Phil Boswell">the Member for Coatbridge, Chryston and Bellshill (Philip Boswell)</phrase>. It gives me cause for concern, and I am sure that it is brought up with other Members in the lead-up to fireworks night.</p>
+    <p pid="a21.1/9">It is critical that we work with animal welfare and educational charities to bring about a cultural shift in the indiscriminate use of fireworks, thus reducing noise pollution and ensuring a better experience for communities when they use fireworks. This debate offers the welcome opportunity to highlight the work of various national bodies that seek to educate the wider community about the impact of using fireworks, especially organisations such as the Scottish Society for Prevention of Cruelty to Animals, which has been on the frontline of animal welfare in Scotland since 1839.</p>
+    <p pid="a21.1/10">The SSPCA reminded me, as a constituency MP, that individuals and communities must bear in mind that fireworks can be very stressful for pet owners who are trying to protect their animals from fear and distress. It also highlighted the fact that the bang from a firework  is terrifying to an animal, causing some to panic and flee. That has resulted in road traffic accidents, and there have even been reports of swans flying into electricity pylons and horses being badly injured after running into barbed wire fences.</p>
+    <p pid="a21.1/11">We require a cultural change in our use of and interaction with fireworks, based on the understanding that noise pollution affects people and animals. As <phrase class="honfriend" person_id="uk.org.publicwhip/person/13864" name="Jim Shannon">the hon. Member for Strangford (Jim Shannon)</phrase> said, pet owners have a personal duty to protect their pets in the lead-up to fireworks night. Nevertheless, as the hon. Member for Clwyd South said, it is ridiculous for pet owners to have to do that from October all the way through to January. It is unacceptable that they find themselves in that position. Perhaps the Minister will reflect on that.</p>
+    <p pid="a21.1/12">We must recognise changes in fireworks themselves. As I said, for me, Hogmanay used to be about spending time with neighbours and family; it is now more about going out to huge fireworks displays. There has been a huge cultural shift in many events across these islands, with more, louder fireworks. That, of course, affects communities. Partnership is key to changing attitudes. Closer collaboration can enable people to better understand the impact of noise. We should work with the fire service and people in education services. We should work with people in the health service, who understand the effect of fireworks through working in A&amp;E departments and seeing the reality of the impact a firework can have on an individual. We should work with veterinary surgeons, who can tell us about the effect of fireworks on animals who escape during displays.</p>
+    <p pid="a21.1/13">We must collaborate and we must better understand the impact of noise pollution on people and animals to better inform the enforcement of the existing legislation. If required, future legislation should be based on communities’ experiences. We must ensure that future legislation or policies better reflect the impact of noise pollution on animals, as highlighted by the petitioners. I congratulate them on their petition and thank the hon. Member for Northampton South for bringing it to the House.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.23.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.23.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.26.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.26.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.27.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.27.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.27.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.27.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.28.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.28.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.28.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.29.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.29.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.29.1" newgid="uk.org.publicwhip/westminhall/2016-06-06b.29.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-06-06a.30.0" newgid="uk.org.publicwhip/westminhall/2016-06-06b.30.0" matchtype="perfectmatch"/>
+</publicwhip>
+

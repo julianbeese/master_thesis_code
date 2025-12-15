@@ -1,0 +1,22 @@
+# ML Training Requirements
+torch>=2.1.0
+transformers>=4.36.0
+peft>=0.7.0
+accelerate>=0.25.0
+bitsandbytes>=0.41.0
+datasets>=2.14.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tensorboard>=2.15.0
+wandb>=0.16.0
+evaluate>=0.4.0
+duckdb>=0.9.0
+pyyaml>=6.0.0
+tqdm>=4.66.0
+flash-attn>=2.3.0
+python-dotenv>=1.0.0
+peft
+datasets

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.279.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.279.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.279.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.279.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.280.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.280.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.280.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.281.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.282.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.282.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.284.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.284.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.285.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.285.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.285.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.285.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.285.3" newgid="uk.org.publicwhip/westminhall/2016-03-02b.285.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.285.4" newgid="uk.org.publicwhip/westminhall/2016-03-02b.285.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.286.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.287.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.287.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.287.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.288.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.288.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.289.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.289.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.289.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.290.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.292.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.292.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.293.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.293.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.293.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.295.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.295.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.295.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.295.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.297.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.297.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.297.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.297.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.298.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.298.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.303.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.303.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.303.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.303.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.305.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.305.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.306.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.306.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.308.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.308.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.308.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.308.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.311.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.311.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.311.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.311.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.311.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.311.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.311.3" newgid="uk.org.publicwhip/westminhall/2016-03-02b.311.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.311.4" newgid="uk.org.publicwhip/westminhall/2016-03-02b.311.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.312.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.312.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.312.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.312.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.313.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.313.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.314.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.314.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.314.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.314.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.314.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.314.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.315.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.315.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.316.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.316.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.318.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.318.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.318.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.318.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.320.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.320.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.320.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.320.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.320.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.320.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.321.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.321.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.321.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.321.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.322.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.322.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.322.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.322.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.323.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.323.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.323.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.323.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.324.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.324.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.327.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.327.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.328.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.328.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.329.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.329.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.329.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.329.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.330.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.330.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.331.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.331.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2016-03-02a.331.0" person_id="uk.org.publicwhip/person/11437" speakername="Tobias Ellwood" colnum="331"  time="015:46:00" url="http://www.publications.parliament.uk/pa/cm201516/cmhansrd/cm160302/halltext/160302h0002.htm#160302h0002.htm_spnew12">
+	<p pid="a.331.0/1">I will come to that point as I develop my argument.</p>
+	<p pid="a.331.0/2">The hon. Member for Kingston upon Hull North spoke in her usual formidable style and clearly understands these matters. We spar on a number of issues across the middle east and I thank her for the tone she adopts in these debates when putting forward extremely important points. She spoke first about the flight concern, which I will come to, and the case of the Italian student, the importance of the economy and, linked to that, stability and the opportunities in front of us. I am grateful for the points she made. As always, if I do not cover all the points that have been made, I will write to hon. Members in due course.</p>
+	<p pid="a.331.0/3">In the limited time available, I want to take a step back and place Egypt today in context. It is worth reminding ourselves that it is a cradle of ancient civilisation and a very proud part of the world. It has gifted to the world some of the earliest forms of central governance, literature and major feats of engineering. It connected the world with the Suez canal in the 19th century and has been a centre of Arab culture and regional political leadership in the 20th century.</p>
+	<p pid="a.331.0/4">In the Arab world, Egypt sits astride the Organisation of Islamic Cooperation and the Arab League and occupies a unique position in international affairs. Despite experiencing some tumultuous times in the 21st century, Egypt has delivered another major feat of engineering through expansion of the Suez canal in just one year under President Sisi. That truly represents Egypt&#8217;s ambition in looking forward.</p>
+	<p pid="a.331.0/5">Although not as long standing as Egypt&#8217;s ancient history, Britain&#8217;s interests are also deep and long standing in modern times and include an historical British presence, close business links, more recent efforts to bring peace in the region and working together on the UN Security Council. President Sisi&#8217;s visit to the UK in November was an important moment in deepening our relationship further and an opportunity to have those frank conversations I spoke about.</p>
+	<p pid="a.331.0/6">Egypt is the Arab world&#8217;s most populous country, is on the frontline in the war against Daesh and in north-east Sinai, and has a critical role in bringing stability and security to Libya. Egypt is a vital partner in a troubled region. It is clear that its stability is in our interests. I am proud to say that since 2010 the UK has spent some &#163;30 million in Egypt and we plan to spend a further &#163;50 million between now and 2020. All this funding has the ultimate aim of helping to support the country&#8217;s continued stability. There are, of course, many aspects to stability. Our work in Egypt focuses on security, the economy, governance and education. I will take each in turn.</p>
+	<p pid="a.331.0/7">A number of hon. Members asked about security. The crash of the Metrojet airliner, the murder of a Croatian oil worker and the attacks on Egyptian troops make it clear that Egypt faces a real threat from terrorism, so security is key. To protect ordinary Egyptians, tackle radicalisation and safeguard tourists, we are working closely with the Egyptian Government, training bomb disposal officers and close protection officers, and welcoming military officers to Sandhurst and other prestigious military training establishments here in the UK. This will help to meet the threat emanating from north-west Sinai and the region.</p>
+	<p pid="a.331.0/8">Egypt&#8217;s greatest external security threat remains Daesh&#8217;s planning and launching of attacks from bases in eastern Libya. The UK is supporting Libyan efforts to finalise a Government of national accord, which is vital because only a unified national Government can begin the difficult work of restoring stability and tackling the threat posed by Daesh from the west of Egypt. In Gaza, the UK is providing aid and working to convince Israel, Egypt and the Palestinian Authority to take steps to improve conditions, which is in the interests of Egypt&#8217;s long-term security.</p>
+	<p pid="a.331.0/9">We are, of course, continuing our extremely close co-operation on aviation security so that we can resume flights as soon as possible. Sharm el-Sheikh is proven to be a clear favourite with tourists. Prior to the changes, almost 1 million visitors wanted to go to Egypt every year. I am unable to give further details, but huge efforts have been made. I spoke to the deputy National Security Adviser yesterday. Some final pieces of the jigsaw need to be put in place, but I hope it will not be too long before flights are resumed.</p>
+	<p pid="a.331.0/10">The hon. Member for Cambridge raised the very sad case of Giulio Regeni. I can only echo what I said in my reply to the question. We are very saddened by this tragic death and very concerned about the reports that he had been tortured. He is an Italian citizen and there is protocol on who can lead and participate in the investigation. Having said that, we have raised our concerns with the Italian authorities. We very much support Italian and Egyptian efforts to investigate and have requested that that be done in full to recognise what happened. The Italian police now have a team on the ground in Egypt. We will continue to raise the matter. I will be visiting the country very soon and will certainly ask further questions, but although the individual studied in the UK, there is a protocol on which country can lead and be involved.</p>
+	<p pid="a.331.0/11">Egypt has elected a President, has a new constitution and now has a Parliament, which is to be celebrated. We are working to help to make parliamentarians stronger and to encourage visits. I hope that the work with the Westminster Foundation for Democracy will continue. As the new Parliament beds in, we want to do more to strengthen this vital institution and I hope that Members with a keen interest in Egypt, many of whom are here today, will be able to play an active role in that.</p>
+	<p pid="a.331.0/12">We are looking to President Sisi and the Egyptian Government to make more progress on human rights&#8212;that has been echoed today&#8212;and on freedoms. We are concerned about detention of political and civil society activists and journalists, deaths and reports of torture in police detention and prisons, and the continued narrowing of space for civil society to operate freely. We continue to believe that respect for human rights is vital to effective governance for the Egyptian people and long-term stability</p>
+	<p pid="a.331.0/13">A vibrant economy is a necessary precondition for security and democracy. I am proud that Britain remains the largest foreign investor in Egypt. British companies have invested over &#163;25 billion in recent years. I was pleased to lead the largest trade delegation to Egypt for 15 years when we had the pleasure of meeting President Sisi.</p>
+	<p pid="a.331.0/14">Education has an important role and I am pleased that the British Council has taught English to over 90,000 Egyptians in the last five years.</p>
+	<p pid="a.331.0/15">I want to give my hon. Friend the Member for Spelthorne a few minutes to respond so I will conclude. We remain a close and important partner of Egypt. I am grateful for this debate to underline our commitment to the country and pleased that other Members of Parliament have also been able to do so.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.333.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.333.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.334.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.334.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.334.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.334.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.334.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.334.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.334.3" newgid="uk.org.publicwhip/westminhall/2016-03-02b.334.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.338.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.338.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.338.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.338.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.338.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.338.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.341.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.341.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.341.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.341.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.344.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.344.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.344.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.344.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.344.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.344.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.345.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.345.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.346.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.346.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.346.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.346.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.347.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.347.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.347.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.347.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.347.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.347.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.347.3" newgid="uk.org.publicwhip/westminhall/2016-03-02b.347.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.348.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.348.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.350.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.350.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.350.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.350.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.351.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.351.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.352.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.352.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.352.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.352.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.352.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.352.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.354.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.354.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.355.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.355.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.355.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.355.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.356.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.356.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.356.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.356.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.356.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.356.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.356.3" newgid="uk.org.publicwhip/westminhall/2016-03-02b.356.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.356.4" newgid="uk.org.publicwhip/westminhall/2016-03-02b.356.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.356.5" newgid="uk.org.publicwhip/westminhall/2016-03-02b.356.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.356.6" newgid="uk.org.publicwhip/westminhall/2016-03-02b.356.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.357.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.357.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.357.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.357.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.357.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.357.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.357.3" newgid="uk.org.publicwhip/westminhall/2016-03-02b.357.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.358.0" newgid="uk.org.publicwhip/westminhall/2016-03-02b.358.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.358.1" newgid="uk.org.publicwhip/westminhall/2016-03-02b.358.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.358.2" newgid="uk.org.publicwhip/westminhall/2016-03-02b.358.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2016-03-02a.358.3" newgid="uk.org.publicwhip/westminhall/2016-03-02b.358.3" matchtype="perfectmatch"/>
+</publicwhip>
+

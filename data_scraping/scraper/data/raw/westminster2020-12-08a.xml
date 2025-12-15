@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-12-08a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.307.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.307.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.307.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.307.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.307.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.307.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.309.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.309.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.309.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.309.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.311.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.311.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.313.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.313.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.315.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.315.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.317.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.317.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.319.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.319.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.321.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.321.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.322.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.322.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.325.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.325.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.327.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.327.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.327.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.327.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.328.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.328.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.328.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.328.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.329.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.329.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.331.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.331.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.331.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.331.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.331.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.331.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.332.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.332.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.332.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.332.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.332.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.332.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.333.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.333.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.333.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.333.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.335.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.335.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.335.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.335.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.336.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.336.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-12-08a.336.0" speakername="Michelle Donelan" type="Start Speech" person_id="uk.org.publicwhip/person/25316" colnum="336" time="11:19:00" url="">
+    <p pid="a336.0/1">I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25686" name="Andrew Lewer">the Member for Northampton South (Andrew Lewer)</phrase> on securing this debate on such an important topic. I stress that the Government remain committed to music education during this very challenging time, for the reasons that he himself outlined—to build creative skills, health and wellbeing. Those things will all foster the next generation of innovators, creators, artists and much, much more.</p>
+    <p pid="a336.0/2">Music and the arts form a vital part of children and young people’s education. In fact, the best schools in the country combine a high-quality creative arts and cultural education with excellence in core academic subjects. We are committed to ensuring that pupils in England continue to access both. Music education remains a central part of a broad and balanced curriculum. That is why it is a statutory subject, from age five to 14, in the national curriculum, and why pupils in maintained schools have an entitlement to study at least one arts subject in key stage 4.</p>
+    <p pid="a336.0/3">Although only maintained schools are required to teach the national curriculum, academies are also expected to teach a curriculum that is similar in breadth and ambition. My hon. Friend referred to music teacher recruitment and concerns regarding bursaries. I am pleased to inform him that from 2020-21, the initial teacher training census shows that we have provisionally recruited 483 postgraduate trainee music teachers—that is 125% of the post-graduate ITT target for music. The bursaries and incentives are reviewed regularly to ensure that we are filling the skills gaps and needs. They might be put back in place at later dates but there are positive signs at the moment.</p>
+    <p pid="a336.0/4">The Department for Education invested nearly £500 million between 2016 and 2020 on a diverse portfolio of music and arts education programmes. That includes £300 million for music education hubs that provide specialist music education services to around 90% of state schools. Almost £120 million has been given to the music and dance scheme that currently supports more than 2,300 exceptionally talented children and young people.</p>
+    <p pid="a336.0/5">The Department works closely with the Department for Digital, Culture, Media and Sport. Together the two Departments co-fund a wide range of national music programmes for young people, led by the Arts Council, providing a total of £3 million in the financial year 2020-21. That includes seven national youth music organisations, such as the National Youth Orchestra and the National Youth Jazz Collective; the In Harmony project, which aims to inspire and transform the lives of children in six areas in England, through community-based orchestral music making; and the Music for Youth project, which provides opportunities for young people and families to perform in and attend festivals and concerts.</p>
+    <p pid="a336.0/6">In January, the Department for Education announced a further £80 million investment in music education hubs for the financial year 2020-21, to ensure that all children, whatever their background, have access to a high-quality music education, which, as we have heard today, is so vital. I stress again that the Government remain committed to supporting music education. We will provide shortly an update on funding for the financial year 2021-22. I am afraid I am not at liberty to do that today.</p>
+    <p pid="a336.0/7">My hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25807" name="Jane Stevenson">the Member for Wolverhampton North East (Jane Stevenson)</phrase> referred to the national plan. As we know, the national plan of 2011 set out our vision for music education. We will be refreshing that and consulting widely. I urge everybody to input into that consultation. We can expect an announcement in the coming months.</p>
+    <p pid="a336.0/8">The Government have continued to support schools to deliver a broad and ambitious curriculum, including music, since the start of the pandemic. In the previous academic year, our teachers worked tirelessly to support the majority of pupils through remote education from March, and priority groups of pupils were supported through the gradual easing of national restrictions from June into July.</p>
+    <p pid="a336.0/9">Similarly, teachers and leaders of music education hubs, specialist schools and training centres funded by music and dance schemes, and the leaders of our national music programmes, transformed their support to allow children and young people to engage remotely in music making, overcoming those logistical and technical challenges highlighted by my hon. Friend the Member for Northampton South. They were able to support the remote learning. In addition, the Department assisted with the introduction of several initiatives for schools and parents, including establishing the Oak National Academy to provide direct curriculum support to schools from a range of online resources. Professional organisations such as Music Mark, the Incorporated Society of Musicians and the Music Teachers Association, along with musicians’ unions, also acted quickly to help their members.</p>
+    <p pid="a336.0/10">The situation has been very different in the autumn term, with schools open, but we set out additional guidance, given the risk of infection in environments where singing and the playing of wind or brass instruments take place. That advice was informed by DCMS guidance on performing arts, informed by the latest scientific advice from SAGE, to give schools and educators the confidence to continue with lessons and workshops, given the importance of the activity. Guidance for schools includes comprehensive advice on music, drama and dance, including on social distancing, additional safeguards for singing and playing wind or brass instruments, groups for ensemble, and handling equipment and musical instruments. In parallel, the Department published advice on music and the performing arts in our guidance for all other educational settings, including out-of-school settings such as school clubs, tutors and other organisations that provide supervised activities for under-18s.</p>
+    <p pid="a336.0/11">I recognise that the national restrictions brought new challenges for some providers of music education, such as private music tutors and performing arts organisations that run supplementary schools in the evening and on weekends. That face-to-face activity was permitted only if the primary purpose was to enable parents to work, seek work or undertake education or training, or for respite or care for vulnerable children and home-educated children. Those specific conditions have been an important part of reducing the spread of the virus and, as hon. Members will know, they have now been lifted and the general exemption for all supervised activity for under-18s applies to all tiers.</p>
+    <p pid="a336.0/12">The past months have been challenging, to say the least, and hon. Members have pointed out the impact on music education and learning. However, I am encouraged by the resourceful response from our educators and I wish to thank all 120 music education hubs and their dedicated staff for all they have done to adapt and innovate in that time. The swiftness of their response as the pandemic escalated was, quite frankly, remarkable. Never has it been more important for children to have music in their lives, and the hubs helped ensure that that continued.</p>
+    <p pid="a336.0/13">Music education hubs provide an important service to the vast majority of state-funded schools, with specialist teachers providing expert advice and support to classroom teachers, music tuition to individual pupils and directly supporting whole-class ensemble teaching—a cornerstone of a high-quality music curriculum. The Government recognise that one of the most significant impacts on the sector of the spring lockdown was the reduction in the money from schools and parents to music education hubs. That is why the Government took steps to ensure that music education hubs were eligible to apply for the Government’s £1.57 billion cultural recovery fund, launched by DCMS and administered by Arts Council England. As a result, 12 music education hubs secured a total of more than £3.5 million in additional funding.</p>
+    <p pid="a336.0/14">We will also announce shortly an additional package of support provided by Arts Council England to struggling music education hubs, such as the Northamptonshire Music and Performing Arts Trust mentioned by my hon. Friend the Member for Northampton South. He also flagged that it had benefited considerably from the covid job retention scheme, which is important to note.</p>
+    <p pid="a336.0/15">All of that, once again, demonstrates the importance the Government place on music education and that we have stepped up, as <phrase class="honfriend" person_id="uk.org.publicwhip/person/13864" name="Jim Shannon">the hon. Member for Strangford  (Jim Shannon)</phrase> requested. I hope that hon. Members present are left in no doubt that the Government’s commitment to music education is solid. I will end by once again thanking all of the teachers, those working in music hubs and the music education sector at large for their hard work throughout the past few months, which has enabled so many children to continue to access, enjoy and learn music, no matter their background.</p>
+    <p pid="a336.0/16">Question put and agreed to.</p>
+    <p pid="a336.0/17">Sitting suspended.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.340.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.340.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.340.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.340.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.340.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.340.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.342.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.342.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.342.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.342.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.345.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.345.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.345.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.345.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.346.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.346.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.346.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.346.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.347.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.347.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.347.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.347.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.348.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.348.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.348.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.348.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.348.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.348.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.349.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.349.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.349.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.349.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.350.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.350.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.352.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.352.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.353.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.353.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.353.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.353.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.354.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.354.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.356.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.356.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.357.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.357.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.357.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.357.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.359.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.359.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.360.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.360.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.360.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.360.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.362.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.362.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.365.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.365.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.365.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.365.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.366.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.366.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.366.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.366.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.366.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.366.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.367.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.367.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.367.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.367.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.367.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.367.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.367.3" newgid="uk.org.publicwhip/westminhall/2020-12-08b.367.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.367.4" newgid="uk.org.publicwhip/westminhall/2020-12-08b.367.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.368.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.368.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.370.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.370.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.370.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.370.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.370.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.370.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.370.3" newgid="uk.org.publicwhip/westminhall/2020-12-08b.370.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.370.4" newgid="uk.org.publicwhip/westminhall/2020-12-08b.370.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.370.5" newgid="uk.org.publicwhip/westminhall/2020-12-08b.370.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.370.6" newgid="uk.org.publicwhip/westminhall/2020-12-08b.370.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.370.7" newgid="uk.org.publicwhip/westminhall/2020-12-08b.370.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.372.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.372.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.372.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.372.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.372.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.372.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.372.3" newgid="uk.org.publicwhip/westminhall/2020-12-08b.372.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.373.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.373.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.373.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.373.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.374.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.374.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.374.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.374.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.375.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.375.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.375.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.375.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.378.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.378.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.378.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.378.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.380.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.380.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.382.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.382.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.383.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.383.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.384.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.384.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.384.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.384.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.384.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.384.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.385.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.385.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.385.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.385.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.385.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.385.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.386.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.386.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.386.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.386.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.387.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.387.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.387.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.387.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.387.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.387.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.388.0" newgid="uk.org.publicwhip/westminhall/2020-12-08b.388.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.388.1" newgid="uk.org.publicwhip/westminhall/2020-12-08b.388.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-12-08a.388.2" newgid="uk.org.publicwhip/westminhall/2020-12-08b.388.2" matchtype="perfectmatch"/>
+</publicwhip>
+

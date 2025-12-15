@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.187.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.187.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.187.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.187.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.188.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.188.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.188.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.188.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.189.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.189.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.189.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.189.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.189.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.189.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.189.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.189.4" newgid="uk.org.publicwhip/westminhall/2013-04-22b.189.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.190.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.190.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.191.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.191.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.192.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.192.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.192.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.192.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.192.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.192.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.192.4" newgid="uk.org.publicwhip/westminhall/2013-04-22b.192.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.193.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.193.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.193.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.193.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.193.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.193.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.193.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.193.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.193.4" newgid="uk.org.publicwhip/westminhall/2013-04-22b.193.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.193.5" newgid="uk.org.publicwhip/westminhall/2013-04-22b.193.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.193.6" newgid="uk.org.publicwhip/westminhall/2013-04-22b.193.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.195.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.195.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.195.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.195.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.195.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.195.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.195.4" newgid="uk.org.publicwhip/westminhall/2013-04-22b.195.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.195.5" newgid="uk.org.publicwhip/westminhall/2013-04-22b.195.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.196.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.197.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.197.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.197.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.197.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.197.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.197.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.197.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.198.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.198.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.198.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.198.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.198.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.198.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.198.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.198.4" newgid="uk.org.publicwhip/westminhall/2013-04-22b.198.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.198.5" newgid="uk.org.publicwhip/westminhall/2013-04-22b.198.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.198.6" newgid="uk.org.publicwhip/westminhall/2013-04-22b.198.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.198.7" newgid="uk.org.publicwhip/westminhall/2013-04-22b.198.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.199.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.199.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.199.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.199.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.199.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.199.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.199.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.199.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.201.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.203.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.203.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.203.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.203.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.203.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.203.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.204.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.204.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.205.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.205.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.205.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.205.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.205.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.206.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.206.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.206.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.207.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.207.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.207.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.207.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.207.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.207.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.207.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.207.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.208.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.209.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.209.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.209.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.210.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.212.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.212.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.212.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.212.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.212.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.212.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.212.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.212.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.214.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.215.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.215.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.215.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.217.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.217.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.217.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.218.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.218.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.218.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.218.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.218.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.218.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.218.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.218.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.219.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.220.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.220.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.220.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.220.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.221.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.221.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.221.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.222.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.222.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.223.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.223.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.223.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.223.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.223.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.223.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.224.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.224.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.224.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.224.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.224.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.224.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.224.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.225.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.225.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.225.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.226.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.226.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.226.1" newgid="uk.org.publicwhip/westminhall/2013-04-22b.226.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.226.2" newgid="uk.org.publicwhip/westminhall/2013-04-22b.226.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.226.3" newgid="uk.org.publicwhip/westminhall/2013-04-22b.226.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.226.4" newgid="uk.org.publicwhip/westminhall/2013-04-22b.226.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2013-04-22a.226.4" speakerid="uk.org.publicwhip/member/40263" speakername="Mark Harper" speakeroffice="The Minister for Immigration"  colnum="226"  time="019:38:00" url="http://www.publications.parliament.uk/pa/cm201213/cmhansrd/cm130422/halltext/130422h0001.htm#130422h0001.htm_spmin0">
+	<p pid="a.226.4/1">It is a great pleasure to serve under your chairmanship, Mr Howarth, in the second half of the debate, and it was a great pleasure to serve under Mr Walker in the first half.</p>
+	<p pid="a.226.4/2">If Members will forgive me, I will not take many, if any, interventions. I will try, in the less than 15 minutes I have, to do justice to my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40604" name="Mark Pritchard">the Member for The Wrekin (Mark Pritchard)</phrase>, who secured the debate, and to all those who contributed. You have indicated, Mr Howarth, that you wish me to finish at 7.53 pm to</p>
+	<p pid="a.226.4/3">allow my hon. Friend to speak for a couple of minutes before the debate concludes, so I hope that Members will forgive me if I do not take many interventions.</p>
+	<p pid="a.226.4/4">I congratulate my hon. Friend not only on securing the debate, which was in response to the petition&#8212;I will say a few words about its specific terms in a moment&#8212; but on the moderate and reasonable tone in which he introduced it, which clearly set a good example, because that was the way in which all other Members debated the issue. That is important if we are to have a sensible debate led by mainstream political parties and not extremists.</p>
+	<p pid="a.226.4/5">The debate was granted by the Backbench Business Committee, to which I pay tribute also, because the e-petition received more than 100,000 signatures. Once it passed that number it received a written Home Office response, which hon. Members can see on the website. I will discuss the e-petition because hon. Members alluded to it but did not go into its terms in detail. It contained two requests, and I can give a positive response to one. One is that</p>
+	<p pid="a.226.4/6">&#8220;the government suspends the easing on these restrictions for another 5 years.&#8221;</p>
+	<p pid="a.226.4/7">The other is about whether the Government should renegotiate some of the terms of our membership of the European Union.</p>
+	<p pid="a.226.4/8">The first of those requests relates to the point made by my hon. Friend the Member for The Wrekin about the extent of our ability to do something now about the ending of transitional controls at the end of the year. I assure my hon. Friend and the other hon. Members who made the same point that Ministers test the legal advice that we get from Government lawyers and outside counsel. I particularly like doing that. I have had legal advice in the past that I have challenged, and which turned out to be just that&#8212;advice. It is worth testing it, and Ministers do so. That is consistent throughout the Government from the Prime Minister downward. My hon. Friend talked about restricting movement on grounds of public policy, public security or public health, but the free movement directive says in terms that those grounds shall not be invoked to serve economic ends. I am not going to go into huge amounts of detail, or I shall do nothing for the next 15 minutes but discuss legal matters, but I do not think there is any possibility, under the directive or the accession treaties for Bulgaria and Romania, of complying with the request in the petition.</p>
+	<p pid="a.226.4/9">I think that we can be more positive about the second point in the petition, and my hon. Friend the Member for The Wrekin and several other hon. Members have referred to the Prime Minister&#8217;s clear commitment, in his capacity as leader of the Conservative party, to renegotiate, if we win the next election, the terms on which we are members of the European Union. As my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40341" name="Philip Hollobone">the Member for Kettering (Mr Hollobone)</phrase> said, we will put that to the people. Some hon. Members may take different views on that, but we can all agree that the public will then get a choice, and will be able to make a clear decision. We can deliver on that part of the petition.</p>
+	<p pid="a.226.4/10">It is also worth saying, in relation to the public debate, that the Prime Minister made it clear in a recent speech that the Government understand public concern about immigration and are not just willing but keen to</p>
+	<p pid="a.226.4/11">encourage sensible debate about it. Those points were made by the Select Committee Chairman, <phrase class="honfriend" id="uk.org.publicwhip/member/40358" name="Keith Vaz">the right hon. Member for Leicester East (Keith Vaz)</phrase>, by my right hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40397" name="Nicholas Soames">the Member for Mid Sussex (Nicholas Soames)</phrase> and by my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40338" name="Kris Hopkins">the Member for Keighley (Kris Hopkins)</phrase>. The Government do not believe there should be no net migration; we just think that it should be sustainable. We want to reduce it from the unsustainable hundreds of thousands to the sustainable tens of thousands. Various Members have talked about the benefits to be obtained from some migration, and the Government agree with them.</p>
+	<p pid="a.226.4/12">Of course, 1.4 million British people live in another EU country, either in retirement or working. We should always remember that, when we are engaged in this debate. Britain&#8217;s future, like its past, is as a global trading nation, which means that many British people will work and live abroad. We cannot expect other countries to allow us to do that if we do not allow movement too. It is right, however, to take account of public concern about free movement, and to deal with that. I want to flesh out some of the points that my right hon. Friend the Prime Minister has made.</p>
+	<p pid="a.226.4/13">Several hon. Members addressed the point that actions that the Government took from the moment they took office have already reduced net migration by a third since the general election. That is significant. Also, only a third of the people coming to the United Kingdom are from the EU; 55% come from outside it and 15% are British citizens returning home, so the bulk of our net migration is from outside the EU. That is important to remember in a debate about migration from Bulgaria and Romania, and the point was well made by my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40198" name="Chris Heaton-Harris">the Member for Daventry (Chris Heaton-Harris)</phrase>, who has extensive European experience.</p>
+	<p pid="a.226.4/14">There was a lot of debate about Government attempts to forecast how many people would come here from Bulgaria and Romania when transitional controls ended. My hon. Friend the Member for Kettering referred to that in his Westminster Hall debate, and the right hon. Member for Leicester East asked whether the Government would commission advice. Of course they did commission advice, and asked the independent Migration Advisory Committee what we should do&#8212;whether it was possible to predict the scale of future migration. The committee made it clear that</p>
+	<p pid="a.226.4/15">&#8220;it would not be sensible, or helpful to policymakers&#8230;to attempt to put a precise range around this likely impact.&#8221;</p>
+	<p pid="a.226.4/16">It did not think it was possible to come up with accurate figures. The reason is that, unlike the previous experience, with the A8 countries of eastern Europe, eight other countries have transitional controls. We are not likely to be able to predict accurately how many people are likely to leave Bulgaria and Romania to work overseas, and to which of the countries with transitional controls they are likely to go.</p>
+	<p pid="a.226.4/17">I said in the previous Westminster Hall debate, secured by my hon. Friend the Member for Kettering, that the reason the Government did not want to forecast was that we did not think we could do so accurately, and we wanted to be straight with people and say so, rather than making up a number. We could just make up a number, and use it for the rest of this year; but that would probably be as accurate as what happened under the previous Government. It would not be treating people as adults. We got clear advice from the Migration</p>
+	<p pid="a.226.4/18">Advisory Committee, and it has been supported by the recent report of the National Institute of Economic and Social Research. The institute said that</p>
+	<p pid="a.226.4/19">&#8220;it is not possible to predict the scale of future migration from Bulgaria and Romania to the UK numerically.&#8221;</p>
+	<p pid="a.226.4/20">I presume that that means it is not possible to do it accurately, because clearly it is possible to predict it, but the likelihood of being accurate is I think slim. That is a sensible point of view and we have been straight about it.</p>
+	<p pid="a.226.4/21"><phrase class="honfriend" id="uk.org.publicwhip/member/40497" name="Chris Bryant">The hon. Member for Rhondda (Chris Bryant)</phrase> talked about a mysterious Foreign Office report, which the Department refused to publish. I think that he meant the report by the National Institute of Economic and Social Research, which was commissioned by the Foreign and Commonwealth Office. That might not have been published when he asked his question, so perhaps a reference was made to the fact that it was to be published. Of course it has now been published, and it reached the conclusion about predicting numbers that I have set out. It was perfectly sensible for the Government to say what they did; that was treating people with respect.</p>
+	<p pid="a.226.4/22">Several hon. Members wanted me to say more about the inter-ministerial group on access to benefits and public services. Rather than producing speculative projections, we have been considering the work being done across Government&#8212;I am pleased to say that all Departments concerned with delivering public services are involved, along with the Department for Work and Pensions, which deals with benefits&#8212;on cutting out the abuse of free movement, and addressing the pull factors. With reference to something that the hon. Member for Rhondda said, it is worth pointing out that Germany is strongly opposed to benefit tourism&#8212;the abuse of free movement. We have been working with Germany and, indeed, the Home Secretary&#8212;along with her German, Austrian and Dutch counterparts&#8212;recently signed a letter to the European Commission to ask it urgently to review the current arrangements on the availability of social security benefits to newly arrived EU migrants, and stressed the need for more robust legal measures, such as re-entry bands for individuals removed from the UK for abusing their free movement rights.</p>
+	<p pid="a.226.4/23">I mention that because we are not of course alone in sharing such concerns, and I am therefore quite hopeful about not only what we may be able to achieve in this Parliament, but the seriousness with which other European countries will take our views on changing our relationship with the European Union. As we have seen, my right hon. Friend the Prime Minister has a close working relationship with his counterpart the Chancellor of Germany. That positive work will continue.</p>
+	<p pid="a.226.4/24">Let me briefly set out some of the work that we are doing. We will tighten the rules on access to benefits, and put in place a statutory presumption that European economic area national jobseekers will lose their right to benefits after six months unless they can show that they are genuinely seeking work and have a genuine chance of being engaged.</p>
+	<p pid="a.226.4/25">We intend to tighten access to social housing to insist that local authorities have to consider the local rules. I have a little more confidence than my hon. Friend the Member for The Wrekin about their ability to do that. Local authorities where there is an issue&#8212;for</p>
+	<p pid="a.226.4/26">example, in the constituency of my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40479" name="Stewart Jackson">the Member for Peterborough (Mr Jackson)</phrase> or elsewhere in Cambridgeshire&#8212;will, if we give them a nudge, want to have some sensible controls so that they can deal with their constituents&#8217; concerns.</p>
+	<p pid="a.226.4/27">The final area is the national health service. Some Members have made the point that it is a national, not an international, health service. My hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40172" name="Mark Field">the Member for Cities of London and Westminster (Mark Field)</phrase>, who is no longer in his place, had concerns about how well we could implement that, given doctors&#8217; Hippocratic oath. We do not of course propose to remove access to emergency treatment or to treatment required for public health reasons. My right hon. Friend the Secretary of State for Health set out some of that in his response to the urgent question from <phrase class="honfriend" id="uk.org.publicwhip/member/40079" name="Frank Field">the right hon. Member for Birkenhead (Mr Field)</phrase>.</p>
+	<p pid="a.226.4/28">There have been some positive views from GPs in their magazine, <i>Pulse</i>, which has undertaken a survey of them. A significant number of GPs want us to take action: three quarters are confused or frustrated about the lack of clarity about NHS entitlement; more than half&#8212;52%&#8212;said that they believe that NHS provision for migrants is too generous; and only 7% thought that it is not generous enough. In addition, 38% said that they did not want to agree to register people they think are illegal immigrants and 40% did not want to register people who had failed in their asylum claims. Therefore, a significant number of GPs and other doctors will, if we take the matter seriously&#8212;obviously we will consult both the public and the professions&#8212;support what the Government want to do, and that will be welcomed.</p>
+	<p pid="a.226.4/29">Let me turn, in my remaining two minutes, to criminality. That was raised by several colleagues, including my hon. Friend the Member for Kettering, to whose service as a special constable we should pay tribute. Several things are going on. In London, to which he drew attention, there is the successful ongoing Operation Nexus between the Home Office immigration enforcement teams and the Metropolitan police to target high-harm foreign national offenders and immigration offenders. It has removed more than 400 such people just since last November, so it has been very successful, and we intend to roll it out across the country. There are several operations to deal with lower-level criminality, so a lot is going on.</p>
+	<p pid="a.226.4/30">I have one minute left, so I will conclude. If there are any issues that I have not touched on, the Chair of the Select Committee will no doubt put them to me when I give evidence tomorrow. We have real concerns about the abuse of free movement rights. The Home Secretary has consistently raised that at the Council of Ministers with her European counterparts. We will continue to do so at the European level, as well as through the work of the cross-Government committee, which the Prime Minister has asked me to chair.</p>
+	<p pid="a.226.4/31">In due course, we will introduce a package of measures that I hope colleagues on both sides of the House will welcome. Of course, I could not possibly prejudge what may be announced in the Queen&#8217;s Speech in a few weeks&#8217; time, but I hope that my hon. Friends will not be disappointed about the measures that the Government are going to set out. I am glad that we could have this debate today, Mr Howarth, which you have excellently chaired.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2013-04-22a.231.0" newgid="uk.org.publicwhip/westminhall/2013-04-22b.231.0" matchtype="perfectmatch"/>
+</publicwhip>
+

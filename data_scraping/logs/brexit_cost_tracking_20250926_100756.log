@@ -1,0 +1,16 @@
+2025-09-26 10:07:56,507 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-09-26 10:07:56,507 - __main__ - INFO - Max Debatten: 10000
+2025-09-26 10:07:56,507 - __main__ - INFO - Quell-Datenbank: database/data/debates_data.db
+2025-09-26 10:07:56,507 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data.db
+2025-09-26 10:07:56,507 - __main__ - INFO - Gemini-Modell: gemini-1.5-flash
+2025-09-26 10:07:56,507 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-09-26 10:07:56,507 - __main__ - INFO - max_debates: 10000
+2025-09-26 10:07:56,507 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-09-26 10:07:56,507 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-09-26 10:07:56,507 - __main__ - INFO - estimated_total_tokens: 13750000
+2025-09-26 10:07:56,507 - __main__ - INFO - estimated_input_cost: 0.9375
+2025-09-26 10:07:56,507 - __main__ - INFO - estimated_output_cost: 0.375
+2025-09-26 10:07:56,507 - __main__ - INFO - estimated_total_cost: 1.3125
+2025-09-26 10:07:56,507 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-09-26 10:07:56,507 - __main__ - INFO - Initialisiere Komponenten...
+2025-09-26 10:07:56,512 - __main__ - ERROR - Kritischer Fehler: IO Error: Could not set lock on file "/Users/julianbeese/Developer/Master/Data/database/data/debates_data.db": Conflicting lock is held in /Applications/Cursor.app/Contents/Frameworks/Cursor Helper (Plugin).app/Contents/MacOS/Cursor Helper (Plugin) (PID 59377) by user julianbeese. See also https://duckdb.org/docs/stable/connect/concurrency

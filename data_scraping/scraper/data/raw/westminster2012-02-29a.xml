@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="a" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.73.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.73.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.73.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.73.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.73.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.73.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.73.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.73.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.73.4" newgid="uk.org.publicwhip/westminhall/2012-02-29b.73.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.73.5" newgid="uk.org.publicwhip/westminhall/2012-02-29b.73.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.73.6" newgid="uk.org.publicwhip/westminhall/2012-02-29b.73.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.74.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.74.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.74.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.74.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.74.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.74.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.74.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.74.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.74.4" newgid="uk.org.publicwhip/westminhall/2012-02-29b.74.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.74.5" newgid="uk.org.publicwhip/westminhall/2012-02-29b.74.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.74.6" newgid="uk.org.publicwhip/westminhall/2012-02-29b.74.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.74.7" newgid="uk.org.publicwhip/westminhall/2012-02-29b.74.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.74.8" newgid="uk.org.publicwhip/westminhall/2012-02-29b.74.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.74.9" newgid="uk.org.publicwhip/westminhall/2012-02-29b.74.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.75.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.75.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.75.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.75.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.76.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.76.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.77.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.77.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.78.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.78.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.78.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.78.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.78.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.78.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.79.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.80.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.80.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.80.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.80.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.80.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.80.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.81.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.81.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.81.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.81.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.82.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.82.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.82.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.82.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.83.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.83.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.84.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.84.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.84.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.84.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.84.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.84.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.85.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.85.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.85.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.85.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.86.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.86.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.86.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.86.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.86.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.86.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.87.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.87.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.88.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.88.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.89.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.89.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.89.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.89.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.89.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.89.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.89.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.89.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.89.4" newgid="uk.org.publicwhip/westminhall/2012-02-29b.89.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.90.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.90.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.90.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.90.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.90.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.90.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.90.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.90.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.91.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.91.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.91.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.91.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.92.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.92.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.92.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.92.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.92.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.92.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.93.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.93.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.93.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.93.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.93.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.93.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.93.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.93.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.93.4" newgid="uk.org.publicwhip/westminhall/2012-02-29b.93.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.93.5" newgid="uk.org.publicwhip/westminhall/2012-02-29b.93.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.93.6" newgid="uk.org.publicwhip/westminhall/2012-02-29b.93.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.93.7" newgid="uk.org.publicwhip/westminhall/2012-02-29b.93.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.93.8" newgid="uk.org.publicwhip/westminhall/2012-02-29b.93.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.94.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.94.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.94.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.94.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.94.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.94.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.94.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.94.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.94.4" newgid="uk.org.publicwhip/westminhall/2012-02-29b.94.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.94.5" newgid="uk.org.publicwhip/westminhall/2012-02-29b.94.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.94.6" newgid="uk.org.publicwhip/westminhall/2012-02-29b.94.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.95.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.95.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.95.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.95.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.96.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.96.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.96.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.96.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.96.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.96.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.96.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.96.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.97.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.97.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.97.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.97.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.100.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.100.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.100.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.100.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.100.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.100.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.100.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.100.4" newgid="uk.org.publicwhip/westminhall/2012-02-29b.100.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.101.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.101.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.101.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.101.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.101.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.101.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.101.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.101.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.103.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.103.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.103.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.103.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.104.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.105.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.105.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.105.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.105.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.105.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.105.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.105.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.105.4" newgid="uk.org.publicwhip/westminhall/2012-02-29b.105.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.105.5" newgid="uk.org.publicwhip/westminhall/2012-02-29b.105.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.105.6" newgid="uk.org.publicwhip/westminhall/2012-02-29b.105.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.105.7" newgid="uk.org.publicwhip/westminhall/2012-02-29b.105.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.106.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.106.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.106.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.106.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.109.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.109.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.109.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.109.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.109.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.109.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.109.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.109.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.111.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.111.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.111.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.111.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.111.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.111.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.111.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.111.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.112.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.112.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.112.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.112.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.115.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.116.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.116.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.116.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.117.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.117.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.117.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.118.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.119.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.119.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.119.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.119.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.120.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.120.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.120.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.120.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.120.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.120.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.120.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.122.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.122.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.122.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.123.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.123.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.123.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.123.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.123.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.123.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.126.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.126.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.126.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.126.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.127.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.128.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.128.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.128.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.128.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.128.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.128.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.128.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.128.4" newgid="uk.org.publicwhip/westminhall/2012-02-29b.128.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.128.5" newgid="uk.org.publicwhip/westminhall/2012-02-29b.128.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.130.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.130.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.130.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.130.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.130.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.130.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.131.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.131.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.132.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.132.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.132.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.132.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.132.2" newgid="uk.org.publicwhip/westminhall/2012-02-29b.132.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.132.3" newgid="uk.org.publicwhip/westminhall/2012-02-29b.132.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.132.4" newgid="uk.org.publicwhip/westminhall/2012-02-29b.132.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.132.5" newgid="uk.org.publicwhip/westminhall/2012-02-29b.132.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.133.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.133.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.133.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2012-02-29a.133.1" speakerid="uk.org.publicwhip/member/40646" speakername="Tom Watson" colnum="133"  time="016:00:00" url="http://www.publications.parliament.uk/pa/cm201212/cmhansrd/cm120229/halltext/120229h0002.htm#12022953000684">
+	<p pid="a.133.1/1">It is nearly 25 years&#8212;<phrase class="date" code="1987-03-10">10 March 1987</phrase>&#8212;since the son of Isabel and the brother of Alastair, Daniel Morgan, was brutally killed by five blows of an axe to the head. The last blow was probably struck when he was on the ground, because the hilt was embedded in his skull. Alastair is here today representing his family to hear the Minister&#8217;s response to the family&#8217;s call for a judge-led inquiry into the five failed investigations into Daniel&#8217;s murder. All they ask is justice for Daniel.</p>
+	<p pid="a.133.1/2">The five failed inquiries have cost the taxpayer nearly &#163;30 million. I believe that had the murder been investigated adequately a quarter of a century ago, Daniel&#8217;s killer would have been brought to justice. John Yates said:</p>
+	<p pid="a.133.1/3">&#8220;This case is one of the most deplorable episodes in the entire history of the Metropolitan Police Service.&#8221;</p>
+	<p pid="a.133.1/4">He went on to say that Daniel&#8217;s family had &#8220;been treated disgracefully.&#8221; I suspect that the Minister will not be able to grant a judge-led inquiry today, but I hope that he will at least keep an open mind, as the Home Secretary has not yet decided whether to grant such an inquiry, which my hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40335" name="Emily Thornberry">the Member for Islington South and Finsbury (Emily Thornberry)</phrase> has also been campaigning for on behalf of her constituents.</p>
+	<p pid="a.133.1/5">I ask the Minister for one thing: please agree to ask his officials and the Metropolitan police a number of searching questions before he and the Home Secretary make their decision. I will put those questions to him at the end of my contribution. Daniel&#8217;s family categorically do not want another investigation by the Metropolitan police&#8212;they have lost trust. Before I raise specific questions for the Minister, I will run through the events that have led to the five failed investigations.</p>
+	<p pid="a.133.1/6">Investigation No. 1 was severely compromised by police corruption. For 20 years the Met failed to admit that, despite the repeated pleas of the Morgan family. Indeed, it was not until 2005 that the Met&#8217;s then commissioner, Sir Ian Blair, admitted that the first inquiry involving Detective Superintendent Sidney Fillery had been compromised. If that admission had come earlier, the subsequent inquiries might not also have failed.</p>
+	<p pid="a.133.1/7">As part of the first investigation, it is now known that DS Sid Fillery&#8212;a member of the original murder squad&#8212;failed to reveal to his superiors that he had very close links with Jonathan Rees when he became part of the inquiry. I am told that Fillery took a statement from Rees, but it did not include details that both he and Rees had met Daniel at the Golden Lion pub the night before the murder, nor did it include details of a robbery of Belmont Car Auctions a year earlier. Had those details emerged at the time, they would have revealed that those incidents brought both men into direct conflict with Daniel.</p>
+	<p pid="a.133.1/8">The Belmont Car Auctions story was significant because Jonathan Rees and Daniel had previously agreed that they would not deal with cash-in-transit work. Daniel is known to have been angry when Jonathan Rees took on the job of looking after the takings from the auctions, saying it would, &#8220;backfire on them.&#8221; Rees, who was contracted to carry cash to the bank after a series of auctions, alleged that the bank night-safe had been</p>
+	<p pid="a.133.1/9">interfered with, and therefore took the money to his home in March 1986. He alleges that he was attacked outside his house by two masked men who took the &#163;18,000 from him. Belmont Car Auctions then sued Southern Investigations, which resulted in Daniel having to raise &#163;10,000 very quickly for security to the court.</p>
+	<p pid="a.133.1/10">We know that two days before the murder Daniel told a witness, Brian Crush, that he believed that Rees and Fillery had set up the robbery and taken the money themselves. Daniel also told a witness that he was dealing with police corruption and that he did not know whom in the Met he could trust with the information.</p>
+	<p pid="a.133.1/11">It is important that the Minister understands at the outset why the omissions of the meeting at the Golden Lion pub and the auction robbery were so critical to the first investigation being compromised. My source has told me that omissions in the statement gathered by Fillery initially prevented attention being drawn towards Jonathan Rees and, indeed, Fillery himself. Alastair Morgan, Daniel&#8217;s brother, has also told me how he raised his own suspicions with Fillery about Rees&#8217;s possible involvement with the Belmont Car Auctions robbery as a possible motive for the murder. Alastair had not known that Fillery had actually recommended Rees to the auction company at the time.</p>
+	<p pid="a.133.1/12">Alastair now believes that it was a mistake to trust Fillery. He tells me that, for example, his information to Fillery later led to a phone call to his sister-in-law in which the family were told directly by Fillery that Alastair should get out of London because he was interfering in the investigation. When Fillery was removed from the team, the investigation quickly focused on those whom the Met believed to be responsible. Fillery, Rees, the two Vian brothers and two other police officers who were closely associated with Southern Investigations were arrested. However, no charges were brought and all six men were released.</p>
+	<p pid="a.133.1/13">At the inquest in April 1998, Kevin Lennon, who worked as a bookkeeper at Southern Investigations, gave evidence that implicated Rees in Daniel&#8217;s murder. <i>The Guardian</i> newspaper reported that, in evidence to the hearing, Kevin Lennon said Rees wanted Morgan dead after a row. Lennon said:</p>
+	<p pid="a.133.1/14">&#8220;John Rees explained that, when or after Daniel Morgan had been killed, he would be replaced by a friend of his who was a serving policeman, Detective Sergeant Sid Fillery.&#8221;</p>
+	<p pid="a.133.1/15">Lennon also told the inquest that Rees had said to him:</p>
+	<p pid="a.133.1/16">&#8220;I&#8217;ve got the perfect solution for Daniel&#8217;s murder. My mates at Catford nick are going to arrange it.&#8221;</p>
+	<p pid="a.133.1/17">Lennon added:</p>
+	<p pid="a.133.1/18">&#8220;He (Rees) went on to explain to me that if they didn&#8217;t do it themselves the police would arrange for some person over whom they had some criminal charge pending to carry out Daniel&#8217;s murder&#8221;.</p>
+	<p pid="a.133.1/19">In the weeks before his murder, Daniel Morgan had repeatedly expressed concerns over corrupt police officers in south London. The Morgan family also believe that Daniel was about to reveal evidence of corruption.</p>
+	<p pid="a.133.1/20">In the aftermath of the murder and just as predicted by the evidence of Kevin Lennon seven months before at the inquest in 1988, Fillery took early retirement with an enhanced sick pension. Alastair Morgan has also told me how, at the inquest, members of the Met</p>
+	<p pid="a.133.1/21">disputed the fact he had ever spoken with Fillery directly as part of the investigation. He believes that they were trying to cover up for Fillery.</p>
+	<p pid="a.133.1/22">Investigation No. 2&#8212;an outside inquiry&#8212;ordered by the then commissioner, Sir Peter Imbert, following a complaint by the family, was carried out by Hampshire police. It made no attempt whatsoever to address the allegations that Fillery had tried to get Daniel&#8217;s brother, Alastair, out of London after he had pointed to Rees as a prime suspect in the murder. Had the inquiry done so, it might have found that what Alastair said tallied with the allegations previously made by Kevin Lennon at the inquest in 1988. The inquiry&#8217;s terms of reference were to investigate</p>
+	<p pid="a.133.1/23">&#8220;all aspects of police involvement arising from the death of Daniel Morgan&#8221;.</p>
+	<p pid="a.133.1/24">Unknown to Daniel&#8217;s family, the remit of the inquiry was secretly changed at a high-level meeting at Scotland Yard in December 1988. The family further believe that the second investigation did not address the statements made at the inquest by serving police officers in which they denied that Alastair Morgan had ever raised his suspicions about Rees with Fillery, directly, as part of investigation No. 1.</p>
+	<p pid="a.133.1/25">In addition, Mr Morgan is frustrated that he offered to provide Hampshire police with a statement after an initial interview, but they refused it&#8212;indeed, no further statement was taken until 2000. The inquiry later reported to the Police Complaints Authority that there was</p>
+	<p pid="a.133.1/26">&#8220;no evidence whatsoever of police involvement in the murder&#8221;</p>
+	<p pid="a.133.1/27">and that the original inquiry had been good.</p>
+	<p pid="a.133.1/28">Understandably, the Morgan family kept up their campaign for justice. In November 1997, they met Sir Paul Condon who promised to review the case&#8212;nothing happened until late 1998 when, under the leadership of John Stevens and Roy Clark, the Met launched a third investigation into the murder. That was done without the knowledge of the Morgan family and in secrecy&#8212;not including the family was a mistake and the secrecy of the inquiry has deeply troubled them. The secrecy today is still a major issue for the family with the Met. I hope that the Minister understands that he must ask why the family were not kept informed.</p>
+	<p pid="a.133.1/29">As part of investigation No. 3, a covert bug was placed in the office of Southern Investigations. I will return to that later. Yet investigation No. 3 arguably missed its chance to use trigger events to gather further evidence on the murder. After Rees went to jail, the Morgan family had another meeting with Roy Clark. Clark initially said that they would do another investigation. The family ruled that out, as they wanted disclosure of the Hampshire report first. First Clark and then Andy Hayman refused to disclose the report to the family. It was not until the family were forced to go to the High Court that they succeeded. The Morgans should not have had to do that.</p>
+	<p pid="a.133.1/30">In the interim, the Met conducted a fourth inquiry, led by Detective Chief Superintendent David Cook. However, the fourth investigation, which the family described as the first honest investigation into the murder, gathered insufficient evidence to prosecute Rees, Fillery</p>
+	<p pid="a.133.1/31">and three other men for the murder. My right hon. Friend <phrase class="honfriend" id="uk.org.publicwhip/member/40517" name="Hazel Blears">the Member for Salford and Eccles (Hazel Blears)</phrase> then refused the family&#8217;s request for a judicial inquiry.</p>
+	<p pid="a.133.1/32">In 2006, a fifth investigation began under Assistant Commissioner John Yates. That happened out of the blue after Alastair Morgan had initially approached the Metropolitan Police Authority chairman, Len Duvall. He had ordered the commissioner to present his own report on the case before that. The family were initially deeply sceptical of the new Yates investigation. Devastatingly, after five years, the case collapsed last year. The Morgan family&#8217;s solicitors have said that this was</p>
+	<p pid="a.133.1/33">&#8220;under the weight of previous corruption&#8221;.</p>
+	<p pid="a.133.1/34">The accused, Jonathan Rees, Fillery and the Vian brothers were ultimately acquitted because the defence would not have had access to all the documents in the case. The Metropolitan police repeatedly mislaid crates of evidence, owing to the sheer number of documents the case had generated. Mr Justice Maddison also ruled that the supergrass witnesses had been mishandled.</p>
+	<p pid="a.133.1/35">I now turn to the situation that the family find themselves in now. Since the collapse of the prosecution, the Met has publicly admitted corruption in the first inquiry. The family believe this corruption had an impact on the second, third, fourth and fifth inquiries. However, what the family did not know during any of the five investigations is the extent to which the relationship between News International, private investigators and the police had an impact on the conduct of the inquiry.</p>
+	<p pid="a.133.1/36">Jonathan Rees and Sid Fillery were at the corrupt nexus of private investigators, police officers and journalists at <i>News of the World.</i> Through the hacking scandal, we now know that Southern Investigations became the hub of a web of police and media contacts involving the illegal theft and disclosure of information obtained through Rees and Fillery&#8217;s corrupted contacts. Southern Investigations sold information to many newspapers during the 1990s, but we think exclusively to News International after Rees was released from jail in 2005.</p>
+	<p pid="a.133.1/37">The main conduit at News International was Alex Marunchak, chief crime reporter for the <i>News of the World</i> and later the paper&#8217;s Irish editor. I want to focus the Minister&#8217;s attention on Marunchak in particular. Rees and Marunchak had a relationship that was so close that they both registered companies at the same address in Thornton Heath. Abbeycover, established by Rees and his colleague from News International, Greg Miskiw, was registered at the same address as Southern Investigations, run by Rees and Fillery. Rees&#8217;s confirmed links with Marunchak take the murder of Daniel Morgan to a new level.</p>
+	<p pid="a.133.1/38">It is important to remember that, in the days before the murder, Daniel&#8217;s family believe that he was on the verge of exposing huge police corruption. That was confirmed by Brian Madagan, Daniel&#8217;s former employer, in a statement in May 1987, in which he said that he believed Daniel was about to sell a story to a newspaper. In a second, later statement, Madagan said he believed that paper to be the <i>News of the World</i> and the contact to be Alex Marunchak who, until recently, still worked for the paper. BBC Radio 4&#8217;s &#8220;Report&#8221; programme also confirmed that it has seen evidence suggesting that, a week before the murder, Daniel was about to take a story exposing police corruption to Mr Marunchak and</p>
+	<p pid="a.133.1/39">was promised a payment of &#163;40,000. We also know, from the investigative reporting of Nick Davies at</p>
+	<p pid="a.133.1/40" class="italic">The Guardian</p>
+	<p pid="a.133.1/41">, that Southern Investigations paid the debts of Alex Marunchak.</p>
+	<p pid="a.133.1/42">As part of the third failed investigation, Operation Nigeria was launched. It included the surveillance of Southern Investigations between May and September 1999 and was run by the Metropolitan police&#8217;s anti-corruption squad, CIB3. It placed a bug in the offices of Southern Investigations that yielded evidence that convicted Rees for a serious and unrelated crime. Police surveillance shows frequent contact between Rees and Marunchak. I understand that the tapes made by the recording by the bug have not all been transcribed; if they were, they would yield more collusion, perhaps criminal in nature, between News International and Jonathan Rees. I hope the Minister will ask the police if that process is under way.</p>
+	<p pid="a.133.1/43">When Rees came out of jail, he was re-hired by the <i>News of the World</i>, then edited by Andy Coulson. Rees also founded a company called Pure Energy, in which Marunchak was involved. The police hold evidence to suggest that Rees discussed the use of Trojan devices with his associate, Sid Fillery. He was an associate of Philip Campbell Smith, who received a custodial sentence on Monday for a crime related to blagging. Campbell Smith is a former Army intelligence officer. I will say no more on Campbell Smith, because I do not want to prejudice the Operation Tuleta inquiry. However, I hope that I have demonstrated to the Minister a close association between Rees and Marunchak.</p>
+	<p pid="a.133.1/44">This is why I think that the Metropolitan police cannot be used in any further investigations: yesterday, the Leveson inquiry heard a startling revelation that Alex Marunchak&#8212;a close business associate of Jonathan Rees, then the prime suspect in a murder case&#8212;chose to put DCI David Cook and his family under close covert surveillance. The person who was investigating a murder was put under close surveillance by a close business associate of the man he was investigating. That was raised with Rebekah Brooks in 2002, the then editor of the <i>News of the World</i>. I would like the Minister to imagine what his response would have been to that information. A journalist employee tried to undermine the murder investigation of his close associate. Rupert Murdoch claims that News International takes a zero-tolerance approach to wrongdoing. However, far from launching a wide-scale inquiry to investigate wrongdoing, Rebekah Brooks promoted Alex Marunchak to the editor&#8217;s job at the <i>News of the World</i> in Ireland.</p>
+	<p pid="a.133.1/45">It gets worse. Last year, Mr Cook&#8217;s then wife, Jacqui Hames, discovered that her records appeared in the evidence file of Glenn Mulcaire. The records show information that she believes could only have been obtained from her private police records. While DCI Cook was investigating a murder, his colleagues in another part of the Met were in receipt of evidence that a close associate of his suspect was illegally targeting him. Did Andy Hayman, the then head of the hacking inquiry, who also happened to be in charge of the fourth investigation into Daniel&#8217;s murder, ensure that his colleague was informed about this? No. When Andy Hayman retired early from the Met, he became a paid contributor for News International&#8212;that is not right. For months, Scotland Yard took no action. Why not? Why was it not willing to pursue what appears to be a</p>
+	<p pid="a.133.1/46">clear attempt to interfere with the murder inquiry of Daniel Morgan.</p>
+	<p pid="a.133.1/47" class="italic">The Guardian </p>
+	<p pid="a.133.1/48">has reported that the reason why no action was taken by Scotland Yard was not to embarrass the Met with newspapers.</p>
+	<p pid="a.133.1/49">It gets worse. I would like the Minster to request to see all the intelligence reports submitted about Alex Marunchak. I believe the Met is sitting on an intelligence report from late 2002 that claims a police contact overheard Marunchak claim he was paying the relatives of police officers in Cambridgeshire for information about the Soham murders. As far as we know, those allegations have not been investigated. I do not know whether the intelligence reports are accurate, but I do know that Alex Maranchek was involved in writing stories about how the Manchester United tops of those young girls were found. I also believe that at least one of the Soham parents appears in the evidence file of Glenn Mulcaire. The Met police failed to investigate both leads when reported in 2002 and 2006. I think that Rupert Murdoch owes the Morgan family an apology, and I do not think that he has made his last apology to the grieving parents of murdered children.</p>
+	<p pid="a.133.1/50">Daniel&#8217;s family will never see his murderer brought to justice&#8212;corruption at the Metropolitan police has ensure that&#8212;but the Minister has it in his power to see that they get an explanation of the failure. He can only do that if the next investigation has their confidence. They seek a judge-led inquiry into the police&#8217;s handling of the murder, because they have lost confidence in the police. In the circumstances, wouldn&#8217;t anyone?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.138.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.138.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.142.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.142.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.142.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.143.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.143.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.143.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.143.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.144.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.144.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.144.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.144.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.145.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.146.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.146.1" newgid="uk.org.publicwhip/westminhall/2012-02-29b.146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.149.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.149.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2012-02-29a.150.0" newgid="uk.org.publicwhip/westminhall/2012-02-29b.150.0" matchtype="perfectmatch"/>
+</publicwhip>
+

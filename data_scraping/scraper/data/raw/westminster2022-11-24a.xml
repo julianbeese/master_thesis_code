@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2022-11-24a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.169.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.169.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.169.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.169.2" newgid="uk.org.publicwhip/westminhall/2022-11-24b.169.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.170.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.170.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.170.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.171.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.171.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.171.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.172.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.172.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.172.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.172.2" newgid="uk.org.publicwhip/westminhall/2022-11-24b.172.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.172.3" newgid="uk.org.publicwhip/westminhall/2022-11-24b.172.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.172.4" newgid="uk.org.publicwhip/westminhall/2022-11-24b.172.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.173.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.173.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.173.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.173.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.173.2" newgid="uk.org.publicwhip/westminhall/2022-11-24b.173.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.173.3" newgid="uk.org.publicwhip/westminhall/2022-11-24b.173.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.173.4" newgid="uk.org.publicwhip/westminhall/2022-11-24b.173.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.174.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.174.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.174.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.175.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.175.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.176.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.176.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.177.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.177.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.177.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.177.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.177.2" newgid="uk.org.publicwhip/westminhall/2022-11-24b.177.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.178.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.178.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.178.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.178.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.179.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.179.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.179.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.179.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.180.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.181.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.181.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.181.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.182.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.182.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.184.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.185.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.185.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.185.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.186.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.188.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.188.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.188.2" newgid="uk.org.publicwhip/westminhall/2022-11-24b.188.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.188.3" newgid="uk.org.publicwhip/westminhall/2022-11-24b.188.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.188.4" newgid="uk.org.publicwhip/westminhall/2022-11-24b.188.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.189.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.189.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.189.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.189.2" newgid="uk.org.publicwhip/westminhall/2022-11-24b.189.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.189.3" newgid="uk.org.publicwhip/westminhall/2022-11-24b.189.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.189.4" newgid="uk.org.publicwhip/westminhall/2022-11-24b.189.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.189.5" newgid="uk.org.publicwhip/westminhall/2022-11-24b.189.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.190.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.190.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.190.2" newgid="uk.org.publicwhip/westminhall/2022-11-24b.190.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.190.3" newgid="uk.org.publicwhip/westminhall/2022-11-24b.190.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.190.4" newgid="uk.org.publicwhip/westminhall/2022-11-24b.190.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.190.5" newgid="uk.org.publicwhip/westminhall/2022-11-24b.190.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.191.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.191.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.191.2" newgid="uk.org.publicwhip/westminhall/2022-11-24b.191.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.191.3" newgid="uk.org.publicwhip/westminhall/2022-11-24b.191.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.191.4" newgid="uk.org.publicwhip/westminhall/2022-11-24b.191.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.191.5" newgid="uk.org.publicwhip/westminhall/2022-11-24b.191.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.191.6" newgid="uk.org.publicwhip/westminhall/2022-11-24b.191.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.191.7" newgid="uk.org.publicwhip/westminhall/2022-11-24b.191.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.191.8" newgid="uk.org.publicwhip/westminhall/2022-11-24b.191.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.192.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.192.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.192.2" newgid="uk.org.publicwhip/westminhall/2022-11-24b.192.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.192.3" newgid="uk.org.publicwhip/westminhall/2022-11-24b.192.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.194.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.194.1" newgid="uk.org.publicwhip/westminhall/2022-11-24b.194.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.194.2" newgid="uk.org.publicwhip/westminhall/2022-11-24b.194.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.197.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.200.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.200.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-11-24a.200.0" speakername="Helen Whately" type="Start Speech" person_id="uk.org.publicwhip/person/25398" colnum="200" time="15:29:00" url="">
+    <p pid="a200.0/1">I congratulate my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/10241" name="Damian Green">the Member for Ashford (Damian Green)</phrase> on securing this debate. I thank him for all the work he does as Chair of the all-party parliamentary group on adult social care and for his long-standing dedication to the social care sector—not least by calling debates such as these. I look forward to more. I thank him for his words earlier. I took away from what he said a phrase that sounded very similar to him saying, “I’ve got your back when it comes to social care.” His dedication to social care is with good reason. Social care is too often overlooked, yet it is so important. It is important to people across the country, important to those who need care to live and vitally important to their families. Social care employs around 1.5 million people across the country and it is a significant part of the economy.</p>
+    <p pid="a200.0/2">I agree with so much of what my right hon. Friend the Member for Ashford has said this afternoon. I agree with him on the importance of the social care workforce, including the important point about status. I agree with him on the importance of the voice of social care within integrated care systems, not just with regard to local authorities but care providers too. I agree with him about the potential of technology, particularly to help people stay in their own homes, and on housing for  older people and those of working age who need care. That in itself would be worth another debate. Indeed, I have recently spoken to our colleague the Housing Minister about that and I know she is interested in taking the matter further. He also rightly talked about the economic value of social care and the importance of unpaid carers, as did <phrase class="honfriend" person_id="uk.org.publicwhip/person/24816" name="Liz Kendall">the hon. Member for Leicester West (Liz Kendall)</phrase> today and on other occasions.</p>
+    <p pid="a200.0/3">I will pick up on some of those points and talk about what we in Government and I as Social Care Minister are doing, starting with what social care does and what it is for. Social care starts with the person who needs care and, closely alongside that, those who may care for them unpaid—usually a family member. Our ambition in Government is to make sure that all those who need care get it and get it in a way that works for them, meeting their own needs and circumstances to a standard that we would rightly expect in our society.</p>
+    <p pid="a200.0/4">Care should enable people to live their lives to the full, with the greatest possible independence, while recognising that caring can also place great demands on unpaid carers. We need to be able to support carers themselves to live their own lives, alongside caring for those they love. While we are on the subject, it is also worth mentioning the significance of social care for working-age adults and remembering that social care is not just about older people living in residential care homes. That is often what people think about but it is far from it. It is about helping many thousands of people earlier in their lives to live life to the full. Many of us will only really consider social care when we or a loved one need to draw on that support—often in a time of crisis. However, we should not wait until that point to realise how important social care is to all our lives.</p>
+    <p pid="a200.0/5">The scale of the social care workforce stands at around 1.5 million people and the size of social care in our economy is valued at around £15 billion per annum. We all know that health and social care are intrinsically linked. While I am always determined to talk about the value of social care in its own right, we also know that one of the reasons we have around 13,000 patients in hospital at the moment who could and should be somewhere else, usually their own home, is because of the pressures on our social care system.</p>
+    <p pid="a200.0/6">My right hon. Friend the Member for Ashford mentioned funding. I will say to him and the hon. Member for Leicester West that last week’s autumn statement showed that the Government recognise the importance of social care. The Chancellor of the Exchequer, my right hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11859" name="Jeremy Hunt">the Member for South West Surrey (Jeremy Hunt)</phrase> announced up to £2.8 billion of additional funding in 2023-24 and up to £4.7 billion in 2024-25, specifically for social care and also discharge from hospital into social care. That was the biggest funding increase that social care has ever had and that is despite the difficult decisions that had to be made in the autumn statement to ensure broader economic stability.</p>
+    <p pid="a200.0/7">In the run-up to that statement, the Government had listened to the concerns of local government and took the difficult decision to delay the planned adult social care charging reform from October next year to October 2025. Crucially, the funding that was in place for that reform over that period will be retained in local authority budgets to help them meet some of the current pressures in social care.</p>
+    <p pid="a200.0/8">The substantial funding settlement that social care received in the autumn statement will do three things. First, it will help social care afford the extra costs the system faces, which I have heard loud and clear from local authorities and care providers. Secondly, it will ensure that more people can be discharged from hospital when they are ready to leave, and that they get the social care and recovery support they need. That builds on the £500 million adult social care discharge fund, which will go to local care systems this winter. Thirdly, and importantly, it means we can proceed with ambitious reforms to the social care system. That involves investing in the workforce, better data and technology, and increasing the oversight of the social care system. That will improve access and quality. My right hon. Friend the Member for Ashford urged us to take wider action, and I assure him that we are doing that.</p>
+    <p pid="a200.0/9">Our 10-year vision for reform was set out in the “People at the Heart of Care” White Paper, and we are already acting on that. In fact, some of the work I kicked off last time I was social care Minister has already made great strides. For instance, the introduction of social care assurance at local authority level, led by the Care Quality Commission, will be launched next year, giving local authorities, the public, hon. Members and the Government much more insight into the vital part that local authorities play in commissioning and overseeing the provision of social care in their areas. The next steps for us are to set out in more detail the plan for some of the other areas of reform—most notably the workforce, data and care records, technology and, with the Department for Levelling Up, Housing and Communities, housing.</p>
+    <p pid="a200.0/10">I assure hon. Members that our reforms are ambitious and will lay the foundations for generations to come. Our wider reforms to social care will go hand in hand with the establishment and development of our integrated care systems. Forty-two ICSs across the country bring together NHS organisations, integrated care boards, local authorities and, importantly, care providers in integrated care partnerships. We are ambitious about doing that crucial thing that many hon. Members have talked about—joining up social care and the health services more effectively.</p>
+    <p pid="a200.0/11">In the work that I am doing as Minister with oversight of hospital discharge—I see myself as important in joining up the two systems at the level I am at—I am already looking to integrated care systems and their leaders to be the lynchpins in joining up the NHS with social care more effectively than ever before, so that people are cared for in the best place for their needs. That is often not hospital. In turn, that ensures that hospitals have space for those who really need to be cared for there.</p>
+    <p pid="a200.0/12">I want to spend a moment talking about the workforce in the near term. Our passionate, compassionate, skilled and dedicated social care workforce, including local authority social workers and occupational therapists, makes such an important contribution to our communities. I truly want social care to be a rewarding career with clear opportunities for progression, where people are rightly recognised for the important work they do. In our reforms, I want to address some of the problems that my right hon. Friend raised for those working in social care—for instance, career progression.</p>
+    <p pid="a200.0/13">Right now, in recognition of the shortages in the workforce and the vacancies, we are working hard with the Department for Work and Pensions to promote  adult social care careers to jobseekers. Earlier this month, we launched a new domestic national recruitment campaign. Anyone who has been watching “I’m a Celebrity”—some colleagues may have been—will have seen some of those very effective adverts. I look forward to them helping more people go into social care in the short term. We are also doing some work to support international recruitment to help with some of the near-term pressures on the workforce.</p>
+    <p pid="a200.0/14">I want to talk a bit more about carers, because for most people care begins at home with their families. Many millions of people across the country care for loved ones, and I recognise what that commitment means for them and their own lives. In fact, today is Carers Rights Day, and I am therefore glad that the Health and Care Act 2022 gave carers new rights. They include new duties on NHS England and the new integrated care boards to involve carers in their public engagement; new provisions on the integrated care boards to involve carers in relation to some of the services that they oversee, such as prevention services and the diagnosis, care and treatment of the person for whom the carer cares; and responsibilities for NHS trusts to involve patients and carers, including young carers, at the earliest opportunity in discharge planning for people who may need care and support as outpatients. Discharge is a moment when there can be a real worry of significantly greater burdens on carers, so involving carers in those decisions is important. I should also flag the importance of respite and support for unpaid carers, which is recognised by the nearly £300 million of funding this year for respite services through the better care fund.</p>
+    <p pid="a200.0/15">I thank all hon. Members for their well-informed and thoughtful contributions to the debate. We are deeply committed to supporting adult social care, the millions of people who rely on it for themselves and their families, and those who work in it. I am committed to supporting social care, reforming social care and making sure that, as a society, we recognise social care for what it is: essential, important and truly valued. Finally, I thank everyone providing care on the frontline—people who go the extra mile, day in and day out. I thank them for what they do.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-11-24a.203.0" newgid="uk.org.publicwhip/westminhall/2022-11-24b.203.0" matchtype="perfectmatch"/>
+</publicwhip>
+

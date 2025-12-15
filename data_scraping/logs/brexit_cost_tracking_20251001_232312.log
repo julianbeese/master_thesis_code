@@ -1,0 +1,125 @@
+2025-10-01 23:23:12,895 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-10-01 23:23:12,895 - __main__ - INFO - Max Debatten: 1
+2025-10-01 23:23:12,895 - __main__ - INFO - Quell-Datenbank: database/data/debates_data.db
+2025-10-01 23:23:12,895 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_test2.db
+2025-10-01 23:23:12,895 - __main__ - INFO - Gemini-Modell: gemini-2.0-flash
+2025-10-01 23:23:12,895 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-10-01 23:23:12,895 - __main__ - INFO - max_debates: 1
+2025-10-01 23:23:12,896 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-10-01 23:23:12,896 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-10-01 23:23:12,896 - __main__ - INFO - estimated_total_tokens: 1375
+2025-10-01 23:23:12,896 - __main__ - INFO - estimated_input_cost: 0.0001
+2025-10-01 23:23:12,896 - __main__ - INFO - estimated_output_cost: 0.0
+2025-10-01 23:23:12,896 - __main__ - INFO - estimated_total_cost: 0.0001
+2025-10-01 23:23:12,896 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-10-01 23:23:12,896 - __main__ - INFO - Initialisiere Komponenten...
+2025-10-01 23:23:12,901 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-2.0-flash' erfolgreich initialisiert
+2025-10-01 23:23:12,901 - __main__ - INFO - ✅ Gemini API verfügbar
+2025-10-01 23:23:12,907 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS sessions (
+            session_id VARCHAR PRIMARY KEY,
+         ...
+2025-10-01 23:23:12,907 - classifier.brexit_database - INFO - Tabelle 'sessions' erstellt/überprüft
+2025-10-01 23:23:12,907 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS debates (
+            debate_id VARCHAR PRIMARY KEY,
+           ...
+2025-10-01 23:23:12,907 - classifier.brexit_database - INFO - Tabelle 'debates' erstellt/überprüft
+2025-10-01 23:23:12,907 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS speakers (
+            speaker_name VARCHAR PRIMARY KEY,
+       ...
+2025-10-01 23:23:12,907 - classifier.brexit_database - INFO - Tabelle 'speakers' erstellt/überprüft
+2025-10-01 23:23:12,908 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS speeches (
+            speech_id VARCHAR PRIMARY KEY,
+          ...
+2025-10-01 23:23:12,908 - classifier.brexit_database - INFO - Tabelle 'speeches' erstellt/überprüft
+2025-10-01 23:23:12,908 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS paragraphs (
+            paragraph_id VARCHAR PRIMARY KEY,
+     ...
+2025-10-01 23:23:12,908 - classifier.brexit_database - INFO - Tabelle 'paragraphs' erstellt/überprüft
+2025-10-01 23:23:12,908 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_keywords (
+            keyword_id INTEGER PRIMARY KEY,
+  ...
+2025-10-01 23:23:12,908 - classifier.brexit_database - INFO - Tabelle 'brexit_keywords' erstellt/überprüft
+2025-10-01 23:23:12,908 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS classification_log (
+            log_id INTEGER PRIMARY KEY,
+   ...
+2025-10-01 23:23:12,908 - classifier.brexit_database - INFO - Tabelle 'classification_log' erstellt/überprüft
+2025-10-01 23:23:12,908 - classifier.brexit_database - INFO - Brexit-Datenbank initialisiert: database/data/brexit_test2.db
+2025-10-01 23:23:12,908 - __main__ - INFO - Kopiere ursprüngliche Parliament-Daten...
+2025-10-01 23:23:12,908 - classifier.brexit_database - INFO - Brexit-Datenbank bereit - nur klassifizierte Daten werden gespeichert
+2025-10-01 23:23:12,908 - __main__ - INFO - Lade Debatten aus der Datenbank...
+2025-10-01 23:23:12,911 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, s.date
+        FROM debates d
+        JOIN sessi...
+2025-10-01 23:23:12,911 - __main__ - INFO - Gefunden: 1 Debatten
+2025-10-01 23:23:12,911 - __main__ - INFO - Starte Klassifikation...
+2025-10-01 23:23:12,911 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM debates WHERE debate_id = ? AND classification_timestamp IS NOT NULL...
+2025-10-01 23:23:12,911 - __main__ - INFO - Verarbeite Debatte 1/1: East-west Rail Connections: North England...
+2025-10-01 23:23:12,912 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, d.heading_id, d.time, d.url, d.column_number,
+  ...
+2025-10-01 23:23:12,915 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT speech_id, speaker_name, speaker_person_id, speaker_title, 
+               time, url...
+2025-10-01 23:23:13,942 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM sessions WHERE session_id = ?...
+2025-10-01 23:23:13,945 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+                INSERT INTO sessions 
+                (session_id, date, session_type, total_debate...
+2025-10-01 23:23:13,954 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO debates 
+            (debate_id, session_id, title, heading_id, ...
+2025-10-01 23:23:13,961 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:23:13,965 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO paragraphs 
+            (paragraph_id, speech_id, text, paragrap...
+2025-10-01 23:23:13,970 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:23:13,973 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO paragraphs 
+            (paragraph_id, speech_id, text, paragrap...
+2025-10-01 23:23:13,977 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:23:13,979 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO paragraphs 
+            (paragraph_id, speech_id, text, paragrap...
+2025-10-01 23:23:13,983 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speeches 
+            (speech_id, session_id, debate_id, speaker...
+2025-10-01 23:23:13,985 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO paragraphs 
+            (paragraph_id, speech_id, text, paragrap...
+2025-10-01 23:23:13,986 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speakers 
+            (speaker_name, person_id, title, party, co...
+2025-10-01 23:23:13,988 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+            INSERT OR REPLACE INTO speakers 
+            (speaker_name, person_id, title, party, co...
+2025-10-01 23:23:13,988 - __main__ - INFO -   ✅ Brexit-Debatte gefunden (Confidence: 0.66)
+2025-10-01 23:23:13,989 - __main__ - INFO - === KLASSIFIKATION ABGESCHLOSSEN ===
+2025-10-01 23:23:13,989 - __main__ - INFO - Verarbeitete Debatten: 1
+2025-10-01 23:23:13,989 - __main__ - INFO - Brexit-Debatten gefunden: 1
+2025-10-01 23:23:13,989 - __main__ - INFO - Brexit-Anteil: 100.0%
+2025-10-01 23:23:13,989 - __main__ - INFO - Dauer: 1.1 Sekunden
+2025-10-01 23:23:13,989 - __main__ - INFO - Fehler: 0
+2025-10-01 23:23:13,989 - __main__ - INFO - === KOSTEN-ANALYSE ===
+2025-10-01 23:23:13,989 - __main__ - INFO - Gesamtkosten: $0.0001
+2025-10-01 23:23:13,989 - __main__ - INFO - Kosten pro Debatte: $0.000065
+2025-10-01 23:23:13,989 - __main__ - INFO - Geschätzte Kosten für 1000 Debatten: $0.07
+2025-10-01 23:23:13,989 - __main__ - INFO - API-Anfragen: 1
+2025-10-01 23:23:13,989 - __main__ - INFO - Geschwindigkeit: 55.2 Anfragen/Minute
+2025-10-01 23:23:13,989 - __main__ - INFO - === REPORTS ===
+2025-10-01 23:23:13,989 - __main__ - INFO - Kosten-Report: results/cost_report_20251001_232312.csv
+2025-10-01 23:23:13,989 - __main__ - INFO - JSON-Report: results/classification_report_20251001_232312.json
+2025-10-01 23:23:13,991 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-10-01 23:23:14,003 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

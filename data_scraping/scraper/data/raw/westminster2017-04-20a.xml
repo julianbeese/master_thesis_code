@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2017-04-20a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.385.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.385.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.385.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.385.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.386.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.386.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.386.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.386.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.389.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.389.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.390.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.390.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.392.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.392.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.392.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.392.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.392.2" newgid="uk.org.publicwhip/westminhall/2017-04-20b.392.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.393.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.393.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.393.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.393.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.396.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.396.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-04-20a.396.0" speakername="John Hayes" person_id="uk.org.publicwhip/person/10265" colnum="396" time="14:15:00" url="">
+    <p pid="a396.0/1">It is a pleasure to serve under your chairmanship, Mr McCabe. I congratulate the Chair of the Transport Select Committee, <phrase class="honfriend" person_id="uk.org.publicwhip/person/10186" name="Louise Ellman">the hon. Member for Liverpool, Riverside (Mrs Ellman)</phrase>, on securing this important debate and bringing this subject to our attention once again. Let me be clear—I apologise if this is repetition, but repetition from one’s own mouth always seems like re-affirmation or re-emphasis; repetition only seems to come from other people’s mouths—that the Government continue to take this matter extremely seriously.</p>
+    <p pid="a396.0/2">As you would expect, Mr McCabe, I want to deal with a number of the specific points raised in the debate, but if I may, I will first address a couple of the issues raised by <phrase class="honfriend" person_id="uk.org.publicwhip/person/25386" name="Daniel Zeichner">the hon. Member for Cambridge (Daniel Zeichner)</phrase> in his remarks, which preceded my contribution. I do not want to be distracted from the main subject of the debate, and you would not allow me to be, Mr McCabe, but air quality is relevant, and we debated it yesterday in this place. The hon. Gentleman asked a number of specific questions. He will understand if I am circumspect about the exact details of what the draft plan on which we will consult will look like, but I am prepared to say —it is right that I am open with him and this Chamber—that I think it is important that public transport is part of our response to the air quality challenge.</p>
+    <p pid="a396.0/3">My view, which I have made crystal clear in the Department, is that if we can get fleet purchasing and public transport, including buses and taxis, in a better place in respect of emissions—by that I mean getting those kind of vehicles moving to a low-emission metric, although I have no fixed idea of exactly what that might look like—we can make quite a significant difference in the worst-affected areas in particular. He will know that we have taken a zonal approach in the past, and I see no reason why that should change fundamentally.</p>
+    <p pid="a396.0/4">That is not say that air quality is not a national concern. The policy will, of course, be a national policy, but it will be focused on the zones where air quality is at its worst, because we know that air quality is closely  related to wellbeing. It has a deleterious effect on health, particularly for vulnerable people—the sick, young children, elderly people and so on—and its effects are exaggerated in urban places, unsurprisingly, because of the density of traffic and population and the coincidence that that brings.</p>
+    <p pid="a396.0/5">Similarly, the hon. Gentleman knows that that plan will be a matter for consultation. A draft will be published, and we will consult widely on that draft with Members of this House, local authorities in the worst-affected areas and others who have interests in this business. We are genuinely open-minded about that. I have worked very closely with my colleagues in the Department for Environment, Food and Rural Affairs. I have been meeting weekly with my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24771" name="Therese Coffey">the Member for Suffolk Coastal (Dr Coffey)</phrase>, which is a great pleasure in itself, but is also a productive, professional business. She and I have engaged our officials to ensure that we get a joined-up approach to this issue.</p>
+    <p pid="a396.0/6">Of course, DEFRA leads on air quality, but as transport is so salient in finding the right solutions, we are very conscious that there has to be a close association between DEFRA’s perspective and ours, and that of other Government Departments. We have been in close liaison and association with them too. It will be an open-minded approach, founded on a clear determination to do the right thing.</p>
+    <p pid="a396.0/7">Mr McCabe, we did not enjoy the pleasure of your chairmanship yesterday, so I hope you will not mind if I inform you and others of what I said then. It is absolutely my view that we must not, in our determined efforts to tackle air quality, disadvantage those who are already worse off—I am thinking in particular of the less well-off drivers of older diesel vehicles. We have to be careful that an unintended consequence of any otherwise efficacious policy should not put those people into a very difficult position indeed. Yesterday, in the debate secured by my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/24779" name="Neil Parish">the Member for Tiverton and Honiton (Neil Parish)</phrase>, we talked about a targeted scrappage scheme, as that was the case he made. I say not what I said to him: of course, we always welcome contributions to the discussion. He made his contribution and that will be fed into our work and our thinking. If one is to have a genuine, open-minded consultation, one must take into account a range of views and opinions, ideas and schemes. Forgive me for repeating—but that did not sound any worse than it did yesterday, at least not from my perspective.</p>
+    <p pid="a396.0/8">The other matter that the hon. Member for Cambridge raised, and quite properly so, was the upcoming changes to testing. It is important to be crystal clear about what the new emission tests are and why they matter. The changes introduce a compliance criterion that is defined as a conformity factor. The conformity factor is the ratio of emissions recorded during the real world test, which is the limit on the laboratory test that must not be exceeded during the real world, on-road testing.</p>
+    <p pid="a396.0/9">In the proposal, the requirement for the real driving emission tests is phased in in a two-step process, to allow manufacturers time to bring compliant products to the market. Step one mandates a conformity factor of 2.1 for all new model types by 2017. Step two achieves full compliance with Euro 6 standards for all new model types in January 2020, with an additional conformity factor margin of 0.5 to take into account measurement uncertainties. That proposal means that after 2019 all new models brought to the market must  meet the Euro 6 limits in the real world tests. That is the bottom line, with a margin for measurement error of the test equipment. The hon. Gentleman asked what the UK’s position had been on that. I can tell him, and I think he will be reassured, that the UK pushed very hard in the negotiations for the introduction of those changes on the timescale I have described. We were anxious to make sure that there was no delay in moving to those real world tests.</p>
+    <p pid="a396.0/10">That point gives me an opportunity to deal with some of the specific matters raised by the hon. Member for Liverpool, Riverside and others and to say a word about how we got to where we are on air quality and emissions. I do not see the air quality challenge as a partisan matter, taking it as read that Members across the House take it seriously. Bluntly, the challenge has been compromised, and I would go so far as to say worsened, by the failure of the EU vehicle emissions regulations to deliver the anticipated reductions in air pollution—we know that now—and by neglect and cheating by some diesel car makers to avoid reducing emissions as they were supposed to. The pollution limits in EU law agreed under the Labour Government in directive 2008/50/EC were based on the assumptions that improvements in vehicle technology were deliverable. Although it is true that in the UK we meet the majority of our air quality limits, it has become clear that, like 17 other countries, we breach annual targets for nitrogen dioxide.</p>
+    <p pid="a396.0/11">Yesterday I committed to make available to those who were in the Chamber then—my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/11216" name="Andrew Selous">the Member for South West Bedfordshire (Andrew Selous)</phrase> is one of them, and the hon. Member for Cambridge is another—the breakdown of the sources of that gas by transport type, which includes shipping, trains and all kinds of other sources. I will make that available to other Members present today, as I think it will be helpful in informing future consideration. However, we are certain, and other Members of the House will be too, that diesel vehicles are a significant part of the problem. They are not the only part, but they are significant. It is right that the hon. Gentleman emphasised buses and other vehicles, because we often think that is about only cars. It is about not just cars but light goods vehicles, HGVs, buses and so on.</p>
+    <p pid="a396.0/12">The failure of Euro standards and the failure therefore of the anticipated improvements to air quality are a pressing problem across Europe. I hesitate to say it is a scandal, but I would say that it is a fundamental failure of the approach of the EU. As in so many other areas of our national life, we have been injuriously affected by the European Union. How wonderful that we will not have to face that prospect in the future as we leave.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.398.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.398.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.398.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.398.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.398.2" newgid="uk.org.publicwhip/westminhall/2017-04-20b.398.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.399.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.399.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.399.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.399.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.399.2" newgid="uk.org.publicwhip/westminhall/2017-04-20b.399.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.401.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.401.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.401.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.401.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.402.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.402.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.403.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.403.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.404.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.404.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.405.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.405.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.406.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.406.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.406.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.406.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.406.2" newgid="uk.org.publicwhip/westminhall/2017-04-20b.406.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.409.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.409.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.411.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.411.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.411.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.411.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.412.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.412.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.412.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.412.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.412.2" newgid="uk.org.publicwhip/westminhall/2017-04-20b.412.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.413.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.413.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.413.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.413.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.415.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.415.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.416.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.416.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.417.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.417.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.418.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.418.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.419.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.419.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.419.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.419.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.420.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.420.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.420.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.420.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.421.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.421.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.421.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.421.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.421.2" newgid="uk.org.publicwhip/westminhall/2017-04-20b.421.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.421.3" newgid="uk.org.publicwhip/westminhall/2017-04-20b.421.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.421.4" newgid="uk.org.publicwhip/westminhall/2017-04-20b.421.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.421.5" newgid="uk.org.publicwhip/westminhall/2017-04-20b.421.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.422.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.422.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.422.1" newgid="uk.org.publicwhip/westminhall/2017-04-20b.422.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-04-20a.423.0" newgid="uk.org.publicwhip/westminhall/2017-04-20b.423.0" matchtype="perfectmatch"/>
+</publicwhip>
+

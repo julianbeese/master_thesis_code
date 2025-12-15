@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2020-11-11a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.379.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.379.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.379.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.379.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.379.2" newgid="uk.org.publicwhip/westminhall/2020-11-11b.379.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.382.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.382.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.382.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.382.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.382.2" newgid="uk.org.publicwhip/westminhall/2020-11-11b.382.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.383.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.383.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.384.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.384.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.384.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.384.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.385.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.385.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.386.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.386.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.386.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.386.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.387.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.387.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.387.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.387.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.388.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.388.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.389.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.389.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.390.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.390.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.390.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.390.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.392.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.392.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.392.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.392.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.393.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.393.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.394.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.394.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.395.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.395.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.395.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.395.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.396.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.396.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.396.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.396.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.396.2" newgid="uk.org.publicwhip/westminhall/2020-11-11b.396.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.397.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.397.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.399.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.399.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.401.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.401.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.402.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.402.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.402.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.402.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.404.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.404.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.404.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.404.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.404.2" newgid="uk.org.publicwhip/westminhall/2020-11-11b.404.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.404.3" newgid="uk.org.publicwhip/westminhall/2020-11-11b.404.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.407.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.407.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.409.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.409.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.409.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.409.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.411.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.411.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.411.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.411.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.411.2" newgid="uk.org.publicwhip/westminhall/2020-11-11b.411.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.411.3" newgid="uk.org.publicwhip/westminhall/2020-11-11b.411.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.414.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.414.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.414.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.414.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.415.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.415.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.417.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.417.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.418.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.418.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.419.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.419.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.421.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.421.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.422.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.422.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.424.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.424.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.425.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.425.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.427.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.427.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.430.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.430.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.432.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.432.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.432.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.432.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.434.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.434.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.435.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.435.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.435.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.435.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.435.2" newgid="uk.org.publicwhip/westminhall/2020-11-11b.435.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.435.3" newgid="uk.org.publicwhip/westminhall/2020-11-11b.435.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-11-11a.435.3" speakername="Andrew Murrison" type="Start Speech" person_id="uk.org.publicwhip/person/11132" colnum="435" time="16:02:00" url="">
+    <p pid="a435.3/1">I beg to move,</p>
+    <p pid="a435.3/2" class="indent" pwmotiontext="yes">That this House has considered the future of the National Trust.</p>
+    <p pid="a435.3/3">Congratulations on your appointment, Ms Bardell; I am sure that we will give you no trouble.</p>
+    <p pid="a435.3/4">This year is the National Trust’s 125th anniversary year. I start by paying tribute to the founding visionaries, benefactors, members, volunteers and staff who have made it the great mediating institution that it certainly is.</p>
+    <p pid="a435.3/5">For the entire eight years of planning and execution, I was the Prime Minister’s point man for the United Kingdom’s commemoration of the centenary of the great war. I was immersed in the sensitive handling and portrayal of history and narrative. I think we did well, and I take particular satisfaction in helping to shed light on the part played by people whose contributions had been overlooked for 100 years.</p>
+    <p pid="a435.3/6">Today is Armistice Day, so I shall recall particularly a truly remarkable exemplar whom we ensured played a big part in the commemorations: Lieutenant Walter Tull. As it happens, his likely last resting place in a plot near Arras has recently been discovered. I mention him in the context of some of the difficult things that I want to touch upon in this short debate. I do not want to be either misconstrued or misrepresented.</p>
+    <p pid="a435.3/7">In my constituency, we have one of the trust’s principal possessions. Stourhead is about a mile from my home and we are frequent visitors, alongside tens of thousands, every normal year. Indeed, pre-covid, the trust had a membership that was gusting 6 million. It has eye-watering financial resources that would be the envy of most charities at this difficult time. It has international standing and an international reputation, and several countries actively seek to emulate it. So what is the problem?</p>
+    <p pid="a435.3/8">The trust mission is clearly laid out in statute: to be clerk of works to a large wedge of our national treasures. There is evidence, however, that in recent years the trust—frustrated no doubt with that simple custodial function—has been interpreting its remit much more broadly. I submit that that requires scrutiny.</p>
+    <p pid="a435.3/9">The key to the unhappiness expressed in recent times is contained within a collection of documents of varying status, some leaked, some published. The material, entitled “Towards a 10-year vision for place and experience”, is a blueprint for a different National Trust from that envisaged in statute in 1907 and in subsequent National Trust Acts.</p>
+    <p pid="a435.3/10">That document might have been convincingly dismissed as a think piece had it not been followed by a series of supporting reset documents. Taken together with the recently announced round of redundancies and reduction in access to small sites, it amounts to a dramatic change in direction—one that has alarmed the trust’s members, volunteers and workforce, and provoked a storm in the media.</p>
+    <p pid="a435.3/11">Of particular concern is the proposed closure of smaller houses, I would say under the cover of covid-19. Those rather crudely referred to by the trust as treasure houses, including Stourhead, have always cross-subsidised those smaller properties. That has been the business model, which is commendable. We now find the properties that have been sustained by that model—for example, George Stephenson’s house in Northumberland—are being closed. It could be that they are closed permanently.</p>
+    <p pid="a435.3/12">We also find that it is not receipts, per se, that are the problem, because the outdoorsy attractions appear not to be in the crosshairs. Rather, the issue is with buildings, particularly what are referred to as mansions. The trust says it does not want to close or repurpose its sites, but has to cut its cloth because of covid-19. But look at its reserves, as well as its access to a huge volunteer workforce, together with furlough and other assistance given by Government during this crisis, and ask whether the trust, faced with the inflexibility of covenants and reserves, has approached either the Charity Commission or the Department for Digital, Culture, Media and Sport to see what statutory or non-statutory mechanisms there might be to assist in freeing up funds in these difficult times, in order to support its charitable purposes.</p>
+    <p pid="a435.3/13">On top of that, we have a hobnailed boot of a document called, “Addressing our histories of colonialism and historic slavery”, which is considered sufficiently off-piste to attract the interest of the Charity Commission as regulator.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.436.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.436.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.436.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.436.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.436.2" newgid="uk.org.publicwhip/westminhall/2020-11-11b.436.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.437.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.437.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-11-11a.437.0" speakername="Andrew Murrison" type="Continuation Speech" person_id="uk.org.publicwhip/person/11132" colnum="437" time="16:02:00" url="">
+    <p pid="a437.0/1">I thank the hon. Gentleman for making that point; I feel sure that he is more expert on upland farming than I am. I would always encourage a landlord to be responsible, especially a big one, and in particular a massive one such as the National Trust. I would be distressed if it was tempted to sell off properties for them to be turned into second homes or holiday homes. That seems entirely the wrong thing for the National Trust to do, and I would argue that it is probably contrary to the 1907 legislation that founded it. The idea behind the National Trust is conservation, and it is difficult to see how selling off property in the way that he has just described would service that end.</p>
+    <p pid="a437.0/2">Much of what we have had from the National Trust in recent times is entirely commensurate with the fears expressed by many that what it is doing, in its own terms and the terms of the leaked documents we have seen, is to dial down its role as what it calls a “major national cultural institution”. We see the corporate upper lip curling at an “outdated mansion experience” that is of interest only to what it calls a “niche audience”, which is apparently “dwindling”. It is a “niche audience” that was on the rise before lockdown and that is bigger now even than the population of the Republic of Ireland, but it is one that the trust’s clairvoyants anticipate will have moved on, as the trust seeks to</p>
+    <p pid="a437.0/3" class="indent" pwmotiontext="yes">“flex its mansion offer to create more active, fun and useful experiences that our audiences will be looking for in the future.”</p>
+    <p pid="a437.0/4">I have “fun” every time I go to a National Trust property —that is the whole point of going—and it is not clear to me what “useful” means, but we do learn that</p>
+    <p pid="a437.0/5" class="indent" pwmotiontext="yes">“Everywhere…we will move away from a narrow focus on family and art history.”</p>
+    <p pid="a437.0/6">This has been pejoratively described as the triumph of the “trendies” over the “tweedies”. What it means in practice is that professional curator posts will fall from 111 to 80. There will be a new curator and it will not surprise right hon. and hon. Members to learn that that curator will be called</p>
+    <p pid="a437.0/7" class="indent" pwmotiontext="yes">“curator of repurposing historic houses”.</p>
+    <p pid="a437.0/8">But out will go actual curators—those internationally renowned experts and scholars, who are specialists in one of the world’s greatest collections.</p>
+    <p pid="a437.0/9">I suspect that most of the membership, like me and my family, flock to National Trust properties to admire an elegant pile of bricks or a beautiful landscape before going for a nice cup of tea and a slice of cake—job done, and happy days. It is leisure, it is breathing space, it is succour for the soul and a welcome break from the remorseless hectoring about this and that, to which, as citizens, we are subjected day in, day out.</p>
+    <p pid="a437.0/10">There are those, particularly on the hard left and perhaps within the trust’s hierarchy, who will say that an organisation makes a political statement every time that it does not advance an opinion—that silence is violence. But the National Trust needs to be a politics-free space, a great mediating institution, and not an organ for promulgating a particular world view, whether one sympathises with that view or not. That, surely, is the service that it renders to civil society.</p>
+    <p pid="a437.0/11">My parents liked to drag me and my brother around National Trust properties when we were younger. Fifty years on, they all merge into a perpetual search for ice cream, but I do have one abiding recollection, and it is not some politically correct right-on narrative, misspelt on a piece of slate. It is inequality. Those great houses stand as silent witness to an unequal past. We do not need to be force-fed that by the trust’s high command; it is there and it is in your face. It is also plain to most visitors that the wealth required to throw up those mini-palaces did not often come from a post office savings account. Some of that money was highly questionable—some of it very dirty indeed by today’s standards and even by the standards of the day. But here we are in 2020, with the public—on whose backs, to a greater or lesser degree, those palaces were built—possessing them. That is a triumph and a restitution.</p>
+    <p pid="a437.0/12">I mentioned that I did not want to be misconstrued or misunderstood, and it is therefore with trepidation and in anticipation of a wall of hate mail and trolling that I come to the document—the trust’s slavery and colonialism report. It is a catalogue of its properties that have some links to those subjects, but much of it is flimsy and tendentious. In 2013, English Heritage published “Slavery and the British country house”, which is a serious, thoughtful, measured contribution to a subject of significant public interest, in contrast with the National Trust’s colonialism and slavery report, whose title, which conflates two things as a common evil, gives the game away. The conflation gets worse because, wittingly or not, it by association diminishes towering figures in British history, notably Winston Churchill. The trust speaks of context, but where is the context for a man who, more than any other, stood against fascism, racism and antisemitism? The best that could be said of that piece of work is that it is plain shoddy. Otherwise, we are left to conclude that it is indicative of the trust’s corporate mindset.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.438.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.438.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.438.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.438.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.439.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.439.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.439.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.439.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.440.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.440.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.441.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.441.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.441.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.441.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.443.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.443.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.443.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.443.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.443.2" newgid="uk.org.publicwhip/westminhall/2020-11-11b.443.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.445.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.445.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.445.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.445.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.445.2" newgid="uk.org.publicwhip/westminhall/2020-11-11b.445.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.446.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.446.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.446.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.446.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.447.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.447.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.449.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.449.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2020-11-11a.449.0" speakername="Conor McGinn" type="Start Speech" person_id="uk.org.publicwhip/person/25423" colnum="449" time="16:54:00" url="">
+    <p pid="a449.0/1">It is a particular pleasure to serve under your chairmanship, Ms Bardell. I endorse what hon. Friends, particularly my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25130" name="Colum Eastwood">the hon. Member for Foyle (Colum Eastwood)</phrase>, have already said. I congratulate him on securing the debate.</p>
+    <p pid="a449.0/2">In supporting the need for a full public inquiry into Pat Finucane’s murder, I want to make it clear that that is not because I or the Finucane family believe in a hierarchy of victims or that the grief and pain of some is greater than that of others. It is the merits of this case and the appalling vista of state involvement and its planning of murder that mark it out as totemic in getting to the truth of exactly what went on during the troubles. Geraldine Finucane’s dignity and dedication to her husband and her pursuit of justice, not only for him but for many other victims, is inspirational. She was left to be her children’s mammy and daddy—to be the breadwinner—and to do it all while suffering the unbearable grief of losing her beloved partner. She is a remarkable woman and I am proud to know her.</p>
+    <p pid="a449.0/3">My friend Phyllis Carrothers is another such woman. Her husband Douglas—or Dougie, as he was known to family and friends—was murdered by the IRA in County Fermanagh in 1991. He was an RUC reserve constable and Phyllis went on to chair the Royal Ulster Constabulary George Cross Widows Association. She and her children have never had the truth, nor has she ever had an apology. The unanswered questions about the who, the what and, fundamentally, the why still remain. She deserves justice too. We must remember that the cases of Pat Finucane and all others is about people, and not just about process—their lived experiences and the impact it had on them and subsequent generations. Time is not always enough to heal.</p>
+    <p pid="a449.0/4">January will be the 45th anniversary of a period of days in 1976 that saw some of the worst incidents of the troubles take place in the part of the world that I come from. On <phrase class="date" code="2020-01-03">3 January</phrase> 1976, a bomb was left outside my grandmother’s pub, the Lough Inn in Camlough. A great deal of damage was caused to the village and my Aunt Ann, who was 12 years old at the time and saw the bombers, was injured. It is widely believed that members of what had become known as the Glenanne gang were involved.</p>
+    <p pid="a449.0/5">The next evening, on <phrase class="date" code="2020-01-04">4 January</phrase>, elements of the same gang, which included members of the security forces, murdered three members of the Reavey family a few miles away in Whitecross and three members of the O’Dowd family—they, like my hon. Friend the Member for Foyle, were members of the Social Democratic and Labour party—in Ballydougan. They were targeted and killed in their home simply because they were Catholics. No one has ever been brought to justice. The following day, <phrase class="date" code="2020-01-05">5 January</phrase>, 10 Protestant workmen from Bessbrook were taken off a minibus and murdered at Kingsmill. Like those the night before, their religion was the only basis on which their lives were so cruelly taken. All those dead left behind loved ones.</p>
+    <p pid="a449.0/6">Eugene Reavey lost his three brothers. The unimaginable impact that must have had on him and his family was exacerbated when, just over 20 years ago, it was said in this House that he had had some involvement in Kingsmill. Whatever the motivation behind that allegation, it caused incredible pain. It was and is completely and utterly  false. The police, including the then chief constable, and the Historical Enquiries Team’s investigation are very clear that Eugene Reavey had no involvement whatsoever in Kingsmill. It is right that the record is corrected here today.</p>
+    <p pid="a449.0/7">There were two survivors of Kingsmill. The first was Richard Hughes, the only Catholic on the bus. When it was stopped by masked men, he was singled out and at first believed that he was going to be killed, only to be told to run and not to look back. He never spoke about it or the trauma and aching pain he must have felt. My memory of Mr Hughes is of the paperboy who delivered the Belfast Telegraph every evening, and of a quiet and kind gentleman. He was a victim too. Although he passed away some years ago, I hope his daughter Bernadette has some comfort that what he and his family have endured is recognised in the House.</p>
+    <p pid="a449.0/8">The second survivor was Alan Black, a Protestant, who was shot 18 times and lay in the rain while the dead bodies of his friends lay on him and around him. I urge hon. Members to read about Alan’s experience and his words. His dignity, loss, compassion and grief are simultaneously inspirational and crushing. I have nothing but respect and admiration for him. He deserves justice too. Alan, along with Brian Sloan and others, set up a cross- community football club in Bessbrook, Brookvale FC. Many years ago, they developed a link with a Merseyside schools football association official, the wonderful and recently sadly deceased Terry Duffy, whose local club Rainford Rangers is, in a pretty remarkable twist of fate, based in my constituency. It was a special and incredible honour for me to welcome Brookvale to Rainford as the MP from Bessbrook for St Helens North.</p>
+    <p pid="a449.0/9">None of this is easy. The answer is not in the wishy-washy, “Why can’t we get along?” whataboutery. I know that these are deeply divisive hugely emotive and seemingly intractable matters, but I do believe that in unlocking the case of Pat Finucane, we can go to the heart of providing a way forward. The Government have a duty to keep their word and ensure a full public inquiry. Then we must all dedicate ourselves to that inclusive, comprehensive approach to dealing with the past; one that puts victims and survivors, truth, justice and remembrance at its core.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.450.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.450.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.452.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.452.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.452.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.452.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.454.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.454.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.456.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.456.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.456.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.456.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.457.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.457.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.457.1" newgid="uk.org.publicwhip/westminhall/2020-11-11b.457.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.457.2" newgid="uk.org.publicwhip/westminhall/2020-11-11b.457.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2020-11-11a.458.0" newgid="uk.org.publicwhip/westminhall/2020-11-11b.458.0" matchtype="perfectmatch"/>
+</publicwhip>
+

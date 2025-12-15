@@ -1,0 +1,29 @@
+# GitHub Pages Jekyll Konfiguration
+# Diese Datei aktiviert Jekyll für GitHub Pages
+
+theme: jekyll-theme-minimal
+title: "Master Thesis: Brexit Framing Analysis"
+description: "Analyzing Rhetorical Framing in Brexit Debates in the House of Commons"
+
+# Markdown Rendering
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "EDA"
+    url: /eda/
+  - title: "Party Analysis"
+    url: /party/
+  - title: "Geographical"
+    url: /geographical/
+  - title: "Demographical"
+    url: /demographical/
+  - title: "Temporal"
+    url: /temporal/
+
+

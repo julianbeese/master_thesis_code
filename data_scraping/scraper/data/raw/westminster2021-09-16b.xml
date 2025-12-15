@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-09-16b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.393.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.393.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.393.1" newgid="uk.org.publicwhip/westminhall/2021-09-16c.393.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.393.2" newgid="uk.org.publicwhip/westminhall/2021-09-16c.393.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.393.3" newgid="uk.org.publicwhip/westminhall/2021-09-16c.393.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.396.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.396.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.396.1" newgid="uk.org.publicwhip/westminhall/2021-09-16c.396.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.397.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.397.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.399.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.399.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.401.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.401.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.401.1" newgid="uk.org.publicwhip/westminhall/2021-09-16c.401.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.401.2" newgid="uk.org.publicwhip/westminhall/2021-09-16c.401.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.402.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.402.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.402.1" newgid="uk.org.publicwhip/westminhall/2021-09-16c.402.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.402.2" newgid="uk.org.publicwhip/westminhall/2021-09-16c.402.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.403.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.403.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.405.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.405.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.407.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.407.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.409.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.409.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.411.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.411.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.411.1" newgid="uk.org.publicwhip/westminhall/2021-09-16c.411.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.411.2" newgid="uk.org.publicwhip/westminhall/2021-09-16c.411.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.413.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.413.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.413.1" newgid="uk.org.publicwhip/westminhall/2021-09-16c.413.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.413.2" newgid="uk.org.publicwhip/westminhall/2021-09-16c.413.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.413.3" newgid="uk.org.publicwhip/westminhall/2021-09-16c.413.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-09-16b.413.3" speakername="Robert Courts" type="Continuation Speech" person_id="uk.org.publicwhip/person/25593" colnum="413" time="14:44:00" url="">
+    <p pid="b413.3/1">I cannot give the right hon. Gentleman the precision he would like, but it will be before the end of the year. I hope that provides some indication of going forward.</p>
+    <p pid="b413.3/2">The industry has historically suffered around productivity and under-investment, and we need to become more competitive on the international stage. Government support is, of course, vital to achieving that aim. It is key that we work in partnership with the sector to reinvigorate its fortunes and those of the wider supply chain, which we have heard so much about today. With that in mind, the new post of shipbuilding tsar—who is, of course, the Secretary of State for Defence, as the right hon. Member for North Durham knows—has been created. That is to support UK industry to enable it to step up and become more productive and innovative. As part of that, a vital step forward has been announced this week: the creation of the National Shipbuilding Office.</p>
+    <p pid="b413.3/3">The right hon. Member for North Durham spoke of the Carrier Alliance. He is quite right that it has been a fantastic project and that it showcases the best of the UK, but I would suggest that it is also slightly different, given that it is a once-in-a-generation major product. We are looking at something that requires ongoing, routine investment in shipyards and that leaves a legacy, because we need to build on the legacy of the shipyards to have that drumbeat of ships that we all wish to see and to provide that for the future.</p>
+    <p pid="b413.3/4">That is what the National Shipbuilding Office is looking to do. It will be the strategic centre driving this change across Government and the industry. In other words, it will do precisely what my hon. Friend the Member for Waveney rightly asked for—as, indeed, did the hon. Member for Strangford—and avoid the siloing that my hon. Friend the Member for Thurrock rightly referred to.</p>
+    <p pid="b413.3/5">That is what the National Shipbuilding Office is intended to do. It is to bring together all the Departments that hon. Members have referred to, but then add industry to ensure that it is a key team effort. That will, of course, support innovation—to ensure that skills are also aligned—and the supply chain. It will outline the vision for the UK’s shipbuilding enterprise, and the strategy that I referred to in answer to the intervention from the right hon. Member for North Durham.</p>
+    <p pid="b413.3/6">A good example of the way the country can showcase its real innovation is the new national flagship, which is a sign of the Government’s determination to support prosperity, jobs and skills in the UK shipbuilding sector. The right hon. Gentleman mentioned Wights, the shipyard company on the Isle of White. I was at the boat show in Southampton yesterday, and met with RS Sailing, which is developing a green, electrically powered, rigid inflatable boat, and with the marine division of Barrus and Bruntons Propellers—highly efficient propeller technology—to give a few examples. The Society of Maritime Industries event, earlier this week on HMS Albion, brought together all those industries, and others.</p>
+    <p pid="b413.3/7">Companies such as that, with technology such as that, could be showcased in this new national flagship, which is a sign of the Government looking to provide a showcase for technology, and be part of the drumbeat of ships, so they would understand when the Government were procuring new vessels. A major part of that is the MOD’s Type 31s and Type 26s, all the way through to our naval support vessels. However, we also have civilian vessels—ice patrol, ocean surveillance, and, of course, research. The RRS Sir David Attenborough is the latest example of those very high-quality ships being produced by the UK. A new fleet of Home Office cutters is also being considered, should funding be confirmed, with the intention of securing UK value for that.</p>
+    <p pid="b413.3/8">I will talk about the DFT’s fleet for a moment, too. That fleet is often overlooked, although it is one of the largest civilian fleets. It is operated by our general lighthouse authorities to ensure that navigational aids remain operational in all circumstances, and that seafarers are made aware of dangers such as wrecks. That role is often understated, but it is terribly important, as <phrase class="honfriend" person_id="uk.org.publicwhip/person/10785" name="Alistair Carmichael">the right hon. Member for Orkney and Shetland (Mr Carmichael)</phrase> might agree; I am sure it is important in his constituency. I will take the opportunity to thank everyone who works for Trinity House, the Northern Lighthouse Board, and Irish Lights, for their professionalism in extremely difficult times, and for keeping people safe. We are also commencing projects to build new vessels for Trinity House and the Northern Lighthouse Board. Both will go out to formal tender shortly.</p>
+    <p pid="b413.3/9">A great deal of vessels, in terms of number and breadth, are available in the Government’s pipeline, and there is no reason for that not to include fishing, as my hon. Friend the Member for Waveney rightly pointed out.</p>
+    <p pid="b413.3/10">I will say a word or two about skills. Skills are clearly part of the Government’s levelling-up agenda and a massive part of the industry. Today, as we also heard from my hon. Friend, the Maritime UK coastal powerhouse event takes place. Coastal communities are very much part of levelling up and of the industry we are discussing today. We need to ensure, as my hon. Friend the Member for Totnes rightly pointed out, that we have the skills we need not just to recover from covid-19, but to look to the future and to ensure we have the skills we need for the industry. That is a key part of the Maritime 2050 strategy, which the Department produced about two years ago. It brings together, in conjunction and consultation with industry, the plan for the future.</p>
+    <p pid="b413.3/11">A key part of that plan is the Maritime Skills Commission. Professor Graham Baldwin was appointed as chair, alongside 18 commissioners, and it has £300,000   in funding. One of its recent focuses has been green skills, to which my hon. Friend also drew attention. The Seafarer Cadet Review was also published in June.</p>
+    <p pid="b413.3/12">I am grateful that hon. Members mentioned East Coast College and South Devon College, which are looking at STEM—science, technology, engineering and maths—skills in their own ways in their parts of the world. That is critically important work, close to all our hearts.</p>
+    <p pid="b413.3/13">My comments must be slightly constrained by the fact that a spending review has been announced recently. The Government will announce how we will continue to invest in public services, and the Department for Business, Energy and Industrial Strategy is working up a business case for a home shipbuilding credit guarantee, which is part of the spending review considerations. We continue to look at what other financial support might be available to work jointly with industry.</p>
+    <p pid="b413.3/14">The hon. Member for Glasgow South West asked me about public procurement. There was a Green Paper, and those responses are being considered by the Cabinet Office. The DFT will continue to review the tonnage tax regime.</p>
+    <p pid="b413.3/15">I am conscious that my speaking time is running out, although there are a great many other things I would like to talk about. My hon. Friend the Member for Totnes rattled off a list of things, each of which could make for a great debate in its own right—flag, tax, supply chain. I would love to have debates on those subjects; maybe he will apply for some. I do not suppose it is my job to encourage the holding of debates, but I just have.</p>
+    <p pid="b413.3/16">I should also give a plug to the debate on the cruise industry scheduled for next week, which I am sure my hon. Friend the Member for Thurrock will attend if she  possibly can. I appreciate the support of and constructive criticism from all Members. We have had an interesting, helpful and constructive debate.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.416.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.416.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.417.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.417.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.417.1" newgid="uk.org.publicwhip/westminhall/2021-09-16c.417.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.417.2" newgid="uk.org.publicwhip/westminhall/2021-09-16c.417.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.417.3" newgid="uk.org.publicwhip/westminhall/2021-09-16c.417.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.420.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.420.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.424.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.424.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.427.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.427.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.428.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.428.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.428.1" newgid="uk.org.publicwhip/westminhall/2021-09-16c.428.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.430.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.430.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.432.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.432.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.434.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.434.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.434.1" newgid="uk.org.publicwhip/westminhall/2021-09-16c.434.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.438.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.438.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.438.1" newgid="uk.org.publicwhip/westminhall/2021-09-16c.438.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-09-16b.440.0" newgid="uk.org.publicwhip/westminhall/2021-09-16c.440.0" matchtype="perfectmatch"/>
+</publicwhip>
+

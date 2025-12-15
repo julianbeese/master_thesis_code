@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2018-10-17a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.309.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.309.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.309.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.309.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.309.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.309.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.314.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.314.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.315.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.315.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.315.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.315.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.315.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.315.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.315.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.315.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.315.4" newgid="uk.org.publicwhip/westminhall/2018-10-17b.315.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.316.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.316.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.317.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.317.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.317.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.317.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.318.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.318.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.318.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.318.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.320.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.320.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.320.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.320.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.320.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.320.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.320.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.320.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.321.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.321.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.321.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.321.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.321.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.321.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.321.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.321.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.321.4" newgid="uk.org.publicwhip/westminhall/2018-10-17b.321.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.321.5" newgid="uk.org.publicwhip/westminhall/2018-10-17b.321.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.321.6" newgid="uk.org.publicwhip/westminhall/2018-10-17b.321.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.322.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.322.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.322.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.322.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.322.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.322.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.322.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.322.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.322.4" newgid="uk.org.publicwhip/westminhall/2018-10-17b.322.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.323.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.323.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.323.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.323.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.323.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.323.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.323.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.323.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.324.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.324.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.325.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.325.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.325.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.325.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.325.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.325.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.325.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.325.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.325.4" newgid="uk.org.publicwhip/westminhall/2018-10-17b.325.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.326.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.326.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.326.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.326.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.327.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.327.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.328.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.328.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.328.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.328.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.330.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.330.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.330.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.330.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.331.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.331.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.333.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.333.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.333.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.333.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.333.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.333.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.333.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.333.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.334.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.334.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.334.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.334.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.334.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.334.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.334.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.334.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.334.4" newgid="uk.org.publicwhip/westminhall/2018-10-17b.334.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.335.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.335.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.335.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.335.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.336.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.336.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.336.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.336.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.336.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.336.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.336.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.336.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.337.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.337.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.337.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.337.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.337.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.337.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.337.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.337.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.337.4" newgid="uk.org.publicwhip/westminhall/2018-10-17b.337.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.338.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.338.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.339.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.339.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.339.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.339.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.340.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.340.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.340.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.340.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.341.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.341.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.341.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.341.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.342.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.342.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.343.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.343.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.343.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.343.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.343.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.343.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.344.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.344.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.345.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.345.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.345.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.345.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.345.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.345.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.345.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.345.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.345.4" newgid="uk.org.publicwhip/westminhall/2018-10-17b.345.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.346.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.346.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.346.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.346.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.347.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.347.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.348.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.348.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.348.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.348.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.349.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.349.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.349.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.349.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.349.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.349.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.350.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.350.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.352.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.352.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.352.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.352.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.353.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.353.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.356.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.356.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.357.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.357.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.357.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.357.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.357.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.357.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.358.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.358.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.358.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.358.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.358.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.358.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.358.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.358.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.358.4" newgid="uk.org.publicwhip/westminhall/2018-10-17b.358.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.358.5" newgid="uk.org.publicwhip/westminhall/2018-10-17b.358.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.359.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.359.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.359.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.359.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.359.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.359.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.360.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.360.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.360.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.360.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.360.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.360.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.360.3" newgid="uk.org.publicwhip/westminhall/2018-10-17b.360.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.361.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.361.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.361.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.361.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-10-17a.361.1" speakername="Rachel Maclean" person_id="uk.org.publicwhip/person/25692" colnum="361" time="16:00:00" url="">
+    <p pid="a361.1/1">My hon. Friend highlights an important point. No doubt he is drawing on his vast experience of housing and local government. I thank him for raising that point; he is absolutely right.</p>
+    <p pid="a361.1/2">I come on to other factors that lead to prisoners coming into the system. Many prisoners are without basic qualifications—many do not have English and maths skills beyond those of an 11-year-old. That is quite a shocking statistic and highlights the need for change, which is why it is at the centre of the strategy. I am pleased that the Government are taking steps to address the problem.</p>
+    <p pid="a361.1/3">We want individuals to be given the skills they need to unlock their potential, based on their strengths. That is a profoundly Conservative value. We want to help individuals get a job as soon as they can after release because that is the chance they have to rebuild their lives. I know the Minister believes that as well. The strategy echoes that vision by setting out several steps to improve the provision of education in prisons. I want to focus on one or two of those steps—the empowerment of prison governors and the establishment of a prisoner apprenticeship pathway. Those two steps in particular will help address the future challenges we face. They will not only help address reoffending, but help to do that in the context of a changing prison population.</p>
+    <p pid="a361.1/4">Many prisoners have low literacy rates, but there is also an increasing number of higher-educated prisoners, as a result of the increased prosecution of fraud, IT and sexual offences, which are often committed by a slightly different demographic. Although it might benefit one prison to be offered basic education services or more practical education courses, it might benefit another to have a greater choice of education options—including, potentially, higher education. By empowering prison governors and giving them the authority to set strategy, they can do what is right for their prison. I understand that the strategy is already in action. I look forward to hearing from the Minister how it is going and where he sees it going in the future.</p>
+    <p pid="a361.1/5">No doubt many prisons would choose the Open University as a provider of higher education. I put on the record my respect for the OU, which has long been trying to reduce the burden of reoffending; it has provided higher education courses to prisoners since 1972. More than 1,000 prisoners have studied with the OU. There is clearly an appetite for self-improvement in prisons. Let us make the most of it.</p>
+    <p pid="a361.1/6">Unfortunately, too many prisoners still do not engage with any education service while they are in prison. Education is a key opportunity for rehabilitation of what is quite literally a captive audience; this is an opportunity that the Government cannot and should not miss.</p>
+    <p pid="a361.1/7">The prisoner apprenticeship pathway is an excellent example of how the strategy will help to increase the uptake of education and training programmes in prisons. It is a superb tool that makes good use of the time people spend in prison. Offenders will train in prison and then put that knowledge to good use in a guaranteed job on release. The scheme guarantees a prisoner a fresh start after release. Surely that is what we all want in our society—people to be given a fresh start to rebuild their lives, which is exceptionally important when it comes to reoffending. Education leads to jobs, which lead to an income, which leads to responsibilities and a lower likelihood of reoffending in future. A job can help someone who has lost their way to successfully transition back into society and normality. In the Conservative Government, we certainly all believe—as I believe others do across the House—that work is the primary way of rebuilding dignity and releasing human potential.</p>
+    <p pid="a361.1/8">With that in mind, there is no reason why a prisoner should not have a job while they are in prison. I am so pleased that work in prisons is being encouraged by this Government. I note that more than 11,000 prisoners were working in prisons in the year 2016-17. That is giving purposeful activity, structure and meaning to a prisoner’s day, which contributes to a more stable prison environment and reduces costs on taxpayers, because prisoners undertake essential services themselves. More importantly, work in prison helps offenders develop many of the skills and attributes needed on release. About two thirds of prisoners are unemployed before entering custody and so may not have good employment records to recommend them to employers on release. Prison has a vital role to play in developing the skills and work ethic that employers are looking for.</p>
+    <p pid="a361.1/9">Offenders who found employment in the 12 months after release from prison had one-year reoffending rates nearly 10 percentage points lower than similar offenders who did not find employment. That is a truly wonderful and life-enhancing statistic, where the value of work in prisons is clear. Employment really does help with a successful transition into society. Of course, that statistic highlights that more can be done, too.</p>
+    <p pid="a361.1/10">There is benefit in exploring what more can be done to better use temporary release to facilitate smoother transitions into the workplace. For whatever reason, the use of temporary release has fallen, but work placements with employers outside prison walls would give prisoners the chance to apply their skills and to prove that they are hard-working and trustworthy, just as we all hope our young people will have a chance to do work experience while they are at school. Such placements would give prisoners a taste of work and a chance to readjust to life outside prison. I will be keen to hear what the Minister thinks about releasing more prisoners on temporary licence.</p>
+    <p pid="a361.1/11">I note that the education and employment strategy recognises the importance of prisoners proving themselves to an employer. Although better education can help ex-offenders overcome some of the barriers to gaining employment on release, it cannot help overcome others; I am thinking particularly of the issue of prejudice. I welcome the strategy’s focus on supporting the offender after release by engaging with employers on issues such as prejudice. Understandably, many employers are reluctant to hire an ex-offender, and prisoners face stigma. I have come across this in my life experience—I was an employer  before I came into Parliament. There is a notable lack of understanding about what prisoners can contribute to a workplace, and there are natural concerns for the other people who work there. I am glad that there will be some practical suggestions in the strategy to help overcome some of those barriers.</p>
+    <p pid="a361.1/12">Employers sometimes express concerns that they might find ex-offenders difficult to trust, or they expect them to be unreliable. However, people who have employed ex-offenders have told me that, with effective rehabilitation, some ex-offenders demonstrate that potential employers’ prejudices are unfounded. Once someone has had a chance to show what they can do and to prove themselves, they can sometimes become the most trustworthy member of a team or organisation. That is to be warmly welcomed.</p>
+    <p pid="a361.1/13">The education and employment strategy sets out a number of steps for improving the employment prospects of ex-offenders, and that is really encouraging. I note that one aspect of the strategy is the introduction of the New Futures Network, which will engage with employers by educating them about the changes that the strategy will bring to prison education and training and by persuading them to take on ex-offenders. I am pleased to see the civil service leading by example by employing ex-offenders—it is obviously in a position to lead and to shine a light on other employers.</p>
+    <p pid="a361.1/14">Challenges remain, of course. Many employers are still at best sceptical about recruiting ex-prisoners at the end of their sentences. A YouGov study recently revealed that 50% of employers would not even consider employing an ex-offender—that is a great shame, because at the moment there are many vacancies that companies are unable to fill. Ex-offenders are a valuable pool of resource, and we ought to be able to give people an opportunity to rebuild their lives. I hope to hear from the Minister about what more can be done.</p>
+    <p pid="a361.1/15">I am pleased that I have been able to raise this important issue in the debate. Of course, we need as a society to see prisons fulfilling their role: to punish offenders. That is absolutely right, that is what the taxpayer demands, and that is justice—its primary purpose. They should also be places of discipline, hard work and self-improvement. It is right that prisoners get the help they need to turn their lives around.</p>
+    <p pid="a361.1/16">Prisons can do more, and I am pleased that the Government have introduced a very positive and constructive strategy that seeks to address that issue. In recent months, we have seen the Minister on our television screens, making many comments about the strategy—that is to be applauded, because we have to put it at the front and centre of our policies as a progressive and compassionate Conservative Government.</p>
+    <p pid="a361.1/17">If we get this right, that will be wholly positive. Prison is an opportunity for rehabilitation, which has clear benefits for society: it leads to less reoffending and a lighter burden on the taxpayer and on society. I warmly welcome the education and employment strategy. I look forward to hearing the Minister’s remarks, and I thank him for coming to the debate.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.363.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.363.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.365.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.365.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.366.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.366.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.366.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.366.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.366.2" newgid="uk.org.publicwhip/westminhall/2018-10-17b.366.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.367.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.367.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.368.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.368.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.370.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.370.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.372.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.372.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.373.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.373.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.375.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.375.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.377.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.377.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.381.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.381.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.381.1" newgid="uk.org.publicwhip/westminhall/2018-10-17b.381.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-17a.382.0" newgid="uk.org.publicwhip/westminhall/2018-10-17b.382.0" matchtype="perfectmatch"/>
+</publicwhip>
+

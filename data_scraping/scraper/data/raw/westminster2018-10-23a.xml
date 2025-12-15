@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2018-10-23a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.33.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.33.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.33.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.33.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.34.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.34.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.34.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.34.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.35.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.35.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.35.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.35.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.37.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.38.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.38.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.39.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.39.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.40.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.40.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.40.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.40.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.40.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.40.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.40.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.41.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.41.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.41.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.42.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.42.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.43.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.44.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.44.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.44.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.44.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.44.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.44.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.45.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.45.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.45.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.45.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.45.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.45.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.46.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.46.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.47.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.47.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.47.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.47.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.47.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.47.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.47.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.47.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.48.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.48.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.48.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.48.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.50.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.50.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.52.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.52.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.54.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.54.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.54.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.54.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.54.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.54.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.54.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.54.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.55.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.55.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.55.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.55.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.56.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.56.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.56.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.56.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.57.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.57.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.57.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.57.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.58.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.58.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.61.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.61.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.61.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.61.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.61.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.61.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.63.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.63.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.63.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.63.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.64.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.64.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.64.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.64.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.64.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.64.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.65.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.65.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.65.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.65.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.66.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.66.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.66.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.66.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.66.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.66.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.67.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.67.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.68.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.68.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.68.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.68.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.69.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.69.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.69.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.69.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.70.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.70.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.70.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.70.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.71.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.71.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.71.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.71.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.71.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.71.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.71.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.71.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.71.4" newgid="uk.org.publicwhip/westminhall/2018-10-23b.71.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.72.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.72.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.72.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.72.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.72.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.72.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.72.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.72.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.72.4" newgid="uk.org.publicwhip/westminhall/2018-10-23b.72.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.73.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.73.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.73.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.73.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.73.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.73.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.73.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.73.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.74.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.74.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.74.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.74.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.74.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.74.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.75.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.75.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.75.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.75.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.75.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.75.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.75.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.75.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.75.4" newgid="uk.org.publicwhip/westminhall/2018-10-23b.75.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.75.5" newgid="uk.org.publicwhip/westminhall/2018-10-23b.75.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.77.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.77.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.78.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.78.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.79.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.79.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.79.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.79.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.79.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.79.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.79.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.80.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.80.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.81.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.81.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.82.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.82.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.83.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.83.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.85.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.85.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.86.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.86.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.87.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.87.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.87.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.87.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.88.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.88.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.88.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.88.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.88.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.88.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.88.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.88.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.89.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.89.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.89.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.89.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.89.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.89.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.89.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.89.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.89.4" newgid="uk.org.publicwhip/westminhall/2018-10-23b.89.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.89.5" newgid="uk.org.publicwhip/westminhall/2018-10-23b.89.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.90.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.90.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.90.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.90.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.91.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.91.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.93.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.93.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.96.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.96.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.97.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.97.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.98.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.98.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.98.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.98.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.100.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.100.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-10-23a.100.0" speakername="John Lamont" person_id="uk.org.publicwhip/person/14026" colnum="100" time="16:57:00" url="">
+    <p pid="a100.0/1">I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/25612" name="Gerard Killen">the hon. Member for Rutherglen and Hamilton West (Ged Killen)</phrase> on leading such an interesting debate. It seems that technology has been developing at such a fast rate in the last decade or so that politicians, parents, teachers and many others, as well as rules and legislation, are struggling to keep up. With mobile phones now an integral part of life for most people, it is easy to understand how some may have become addicted to, or at least over reliant on, their tech.</p>
+    <p pid="a100.0/2">In our work as politicians, we are expected to have a constant presence online, processing thousands of emails and absorbing thousands of messages on Instagram, Twitter and Facebook, to name just some of the platforms on which some of us operate. The same is true for those in many roles in the private and public sectors—and that is before we take into account how we use technology in our private lives or in education. Screen time is almost inevitable today, so I will focus my remarks on the effects of too much of it, regardless of whether we use the term “addiction.”</p>
+    <p pid="a100.0/3">It is well known that social media has an effect on mental health. My right hon. friend the Health and Social Care Secretary highlighted that when he announced this month that the chief medical officer is reviewing the impact that excessive social media can have on children’s mental health. I very much look forward to reading Dame Sally Davies’ findings, and I hope they will help parents—especially those who do not have a good grasp of social media and the internet—to understand better how to manage its use. It is unfortunately not surprising that on platforms where we show only the best of ourselves, our young people find it ever harder to feel as though they are achieving and content with their lives.</p>
+    <p pid="a100.0/4">It is important not to vilify technology and blame it for all our social ills. Phones helped to bring about revolution in the Arab spring and to document the atrocious use of chemical weapons in Syria, and they have provided us with access to information that our predecessors could only have dreamed about. Social media has brought us all closer together and enabled us to stay in touch with our families and friends in a way that otherwise would not have been possible. People are now much more engaged with their representatives and the political system, which no longer feel so out of reach. Those benefits should concentrate our minds on ensuring that addiction to tech does not get out of hand and that people are trained to help when it does. In my constituency in the Scottish borders, the council is training young people in mental health first aid, which I hope will become an exemplar policy to others and go some way towards reducing the risks of tech.</p>
+    <p pid="a100.0/5">I welcome the debate. I am more than happy to support the bid from the hon. Member for Rutherglen and Hamilton West for an all-party parliamentary group and I again congratulate him on securing this important debate.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.101.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.101.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-10-23a.101.0" speakername="Hannah Bardell" person_id="uk.org.publicwhip/person/25409" colnum="101" time="17:00:00" url="">
+    <p pid="a101.0/1">It is a pleasure to serve under your chairmanship, Sir Edward. I again congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/25612" name="Gerard Killen">the hon. Member for Rutherglen and Hamilton West (Ged Killen)</phrase> on initiating the debate. It is very timely, given how much discussion there has been recently about the impact of technology.</p>
+    <p pid="a101.0/2">Let me give my own perspective. At home, my partner and I have instituted “no phones after 10 o’clock” and “no phones at the dinner table” rules. I have lost count of the number of times that I have been in restaurants and seen couples eating their dinner and then going on their phones and not even speaking to each other. I remember being particularly anxious about social media just before the summer recess. I was reflecting on it when I heard a BBC Radio Scotland programme in which the impact of social media was discussed. A guy whose name I have forgotten spoke about how he was starting to see his life through social media: we was looking at every experience he was having in the context of how it would be represented on his various feeds—Instagram, Twitter and Facebook. I thought, “Oh my goodness, I do exactly the same thing.” That really struck me and it made me stop and reflect, so when I was away on holiday in the Scottish highlands, I tried not to use my mobile phone and not to post online. I was not terribly successful. I even said in a post online that I was not going to be engaging with social media and I still failed, because I had a constituency issue that I needed to deal with.</p>
+    <p pid="a101.0/3">Selkirk (John Lamont) made excellent points about the way in which people now engage with their elected representatives through social media. I think that it is a very positive thing, but I have to say that when we are on various platforms and getting messages in our personal accounts as well as our MP accounts, sometimes it can be overwhelming. More and more I have found that my staff are managing not only an email inbox but a Facebook account inbox and checking the personal messages on Twitter. On a few occasions, I have bumped into people and they have said, “Oh, I sent you a message about x or y issue and I haven’t had a response.” I say to them, “Did you email me?” and they say, “No, no. I sent you a message on Facebook,” so I have to go and search for that message and it has perhaps ended up in a different filter.</p>
+    <p pid="a101.0/4">We can all reflect on the impact that technology has had on our lives. The World Health Organisation declared “gaming disorder” an addictive behaviour disorder in June 2018. It is interesting to note that 28 academics wrote to the WHO, protesting that that was poorly informed by science. That feeds into the point made by the hon. Member for Rutherglen and Hamilton West about a lack of research. His proposal to make gaming companies feed into a fund that properly funds research is really important. We have to remember that many companies, particularly in Scotland, have developed games and make a significant contribution to the economy, but this is about balance. I was a gamer myself as a kid. I still have my Nintendo and my Sega Master System lying in a dusty heap in my mum’s loft. I remember having those very defined thumbs and playing old games such as California Games, but we have moved on a lot and now so much is on our phones. My four-year-old niece is champing at the bit to get a mobile phone, and her parents are resisting that, but she knows how to use every piece of technology in the house.</p>
+    <p pid="a101.0/5">We have to face the reality that smartphones and smart technology are part of our everyday lives. The question is how we ensure that there is a balance. The world of play has been diminished by technology. People’s fears about letting their children out have increased, although I am not sure that there is really any more threat than there was when I was a kid and did not have a mobile phone. I would go to the local park and be out for hours, and my mother would phone round all the houses to find out where I was. We are now in a very different world, in which parents can contact their children 24/7. That is good in many respects, but we have to look at the wider issue of childhood obesity and children perhaps not going out to play in the same way as they did before.</p>
+    <p pid="a101.0/6">The debate has been very interesting. I like the hon. Gentleman’s idea of setting up an all-party parliamentary group. I hope that the tech companies will come and discuss that with him. He made a point about what people see now on social media. It was interesting to see the report from the Select Committee on Digital, Culture, Media and Sport. It is not getting as good a response from the Government as it should be, and it would be good to hear the Minister address some of the issues around fake news—the issues that we saw during the EU referendum. It would be good to hear those being properly addressed, because there is a real risk as people move away from traditional media outlets, away from newspapers, on to social media. We must ensure that the news and information that people get online and on their social media platforms is absolutely accurate and not fake.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.102.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.102.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-10-23a.102.0" speakername="Liam Byrne" person_id="uk.org.publicwhip/person/11360" colnum="102" time="17:06:00" url="">
+    <p pid="a102.0/1">It is a pleasure to serve under your chairmanship, Sir Edward. I congratulate my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25612" name="Gerard Killen">the Member for Rutherglen and Hamilton West (Ged Killen)</phrase> on securing the debate and on making a brilliant opening speech; he set out the issues with clarity and great purpose.</p>
+    <p pid="a102.0/2">My hon. Friend started with the fact that it is just 10 years since Steve Jobs gave the world the iPhone. I was intrigued to discover, when researching for this debate, that when he introduced that new technology, he made extremely sure that he did not give it to his children. We now face a period in which we will be having this debate with increasing frequency. Statistics that I have seen show that some 40% of people now have some kind of internet-based addiction, whether that involves checking emails, scrolling through Facebook or Twitter, or online gambling. Indeed, figures that I came across this morning show that Generation Z—just slightly younger than yourself, Sir Edward—are now exposed to some 13 hours of media every single day.</p>
+    <p pid="a102.0/3">We have to recognise that the technology companies that now pervade everyday life will need a very different kind of regulation in the years to come. I was delighted to meet representatives of the Centre for Humane Technology, from the United States, earlier this afternoon. They had a very good analogy. They were looking at various tech scandals around the world and made the point that sometimes, when we look at those symptoms, they are hurricanes, but the addictive technology at the centre is actually more akin to climate change. What we need to do as a legislature is figure out how to introduce  a new regulatory regime that will control that climate change. As Tim Berners-Lee said,</p>
+    <p pid="a102.0/4" class="indent" pwmotiontext="yes">“social networks—they are manmade. If they are not serving humanity, they can and should be changed.”</p>
+    <p pid="a102.0/5">Nearly 30% of children who spend more than three hours on social network sites show symptoms of poor mental health; that is compared with just 12% of children who spend no time on social network sites. It is becoming increasingly obvious to all of us that there is some link between the use of social media, the overuse of social media and, frankly, the mental illness epidemic among many of our young people.</p>
+    <p pid="a102.0/6">We are also beginning to see significant differences in the ways in which people from different income groups relate to social media. I think that it was Ipsos that this week published research showing that children from better-off families use social media for three and a bit hours less than those from poorer families, and of course there are differences in the way it is used.</p>
+    <p pid="a102.0/7">With regard to the most dangerous end of the spectrum, we have The Telegraph to thank for a very compelling campaign in which it showed how, at its worst, social media and addictive technology are used to hook children on gambling, particularly casino-style gambling, and to engage children in suicide games, such as the Blue Whale challenge, which has been linked to 100 teenage deaths in Russia. It is no surprise that earlier this year 50 psychologists in America wrote an open letter accusing many of their colleagues of unethical behaviour in advising technology companies on the misuse of addictive tech. If we compare that problem, which is becoming increasingly well defined, with the sort of social contract that we expect from social media firms, we start to see a gulf emerge.</p>
+    <p pid="a102.0/8">I looked at figures for the taxes paid by social media firms, prepared for me by the Library. It is remarkable how most of the big tech firms in this country are paying very low rates of tax—1.5%, 5%, 6% or 10% at best. That is a long way below even our low levels of corporation tax. We are beginning to see with some clarity the externalities—as economists would call them—or pollution that is created by social media firms, and the taxpayer is expected to clear it up. Unless we begin to change the tax regime and the regulatory regime, this problem will become more pronounced.</p>
+    <p pid="a102.0/9">The Government need to step up to their responsibilities. The Minister’s former boss, the Secretary of State for Business, Energy and Industrial Strategy, and others have made a splash in the newspapers, wringing their hands in big interviews, but their concern has not translated into Government action. The Foreign Secretary recently told the newspapers that he thinks there should be safeguards, and that the failure of technology companies to provide these safeguards is “morally wrong” and “unfair on parents”. The chief medical officer has a review in hand and we are waiting with bated breath for the White Paper on internet safety, but I call on the Government to step up.</p>
+    <p pid="a102.0/10">I have three pleas for the Minister. First, she should look closely at the recommendations that have been made by my hon. Friend the Member for Rutherglen and Hamilton West and by those on the Labour Front Bench who have called for a duty of care to be placed on social media companies. If I bought a chunk of  land, built a stadium and put loads of people in it, I would quite rightly be held to some pretty rigorous health and safety legislation. If I build a virtual forum, where I put loads of people, there are no obligations on me whatsoever. We need to ensure that there is a duty of care, which is rooted in some tried and tested legislation that goes back to the early 1970s. We need to ensure that the social media firms are understanding and analysing the dangers that their work can pose to their customers. We need them proactively to put in place measures to ameliorate that risk. That needs to be auditable and punishable with significant fines if these firms fall short of their obligations.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.104.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.104.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.104.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.104.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.104.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.104.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.104.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.105.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.105.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.105.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.105.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.105.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2018-10-23a.105.2" speakername="Margot James" person_id="uk.org.publicwhip/person/24876" colnum="105" time="17:16:00" url="">
+    <p pid="a105.2/1">What a bad start! I do apologise to <phrase class="honfriend" person_id="uk.org.publicwhip/person/25612" name="Gerard Killen">the hon. Member for Rutherglen and Hamilton West (Ged Killen)</phrase> and to my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/14026" name="John Lamont">the Member for Berwickshire, Roxburgh and Selkirk (John Lamont)</phrase>. Of course, I meant to thank the hon. Member for Rutherglen and Hamilton West. I share his amazement that it has only been 10 years since the advent of the Apple iPhone. He made an excellent speech, and I identified, as I am sure other hon. Members did, with the examples he gave of the intensity of the relationship that so many of us have with our devices, and how that is—in his view and mine—tipping over to the point where we question whether it is healthy.</p>
+    <p pid="a105.2/2">The shadow Minister mentioned the Centre for Humane Technology, an excellent organisation, which was founded by scientists and researchers employed by the large social media platforms. One of them, an ethicist working for one of the major platforms, was tasked with trying to bring a more ethical framework to the development of apps and activity on that particular platform. He bowed out with the rather depressing realisation that change was not possible from within and that he would have more effect from outside, so he founded this organisation.</p>
+    <p pid="a105.2/3">That is a powerful reminder that there is a difficulty in the perceived conflict in companies’ need for more and more of our attention. It really is a competition for attention and, for the companies that get it, the question then is how to keep it. That is the driving force behind the algorithms that are constantly developing and furthering the reach of these platforms into our lives. It is very important that we monitor usage and that we expect more from technology companies in terms of putting right some of the things that are alleged to have gone wrong, as the hon. Member for Rutherglen and Hamilton West said.</p>
+    <p pid="a105.2/4">My hon. Friend the Member for Berwickshire, Roxburgh and Selkirk made the point that although the debate is about addiction, we are also talking more broadly about excessive screen time. There is a scale, running from what might be called a healthy amount of screen time, which might tip over into dependency, over-involvement and straightforward addiction.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.106.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.106.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.106.1" newgid="uk.org.publicwhip/westminhall/2018-10-23b.106.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.106.2" newgid="uk.org.publicwhip/westminhall/2018-10-23b.106.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.106.3" newgid="uk.org.publicwhip/westminhall/2018-10-23b.106.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2018-10-23a.108.0" newgid="uk.org.publicwhip/westminhall/2018-10-23b.108.0" matchtype="perfectmatch"/>
+</publicwhip>
+

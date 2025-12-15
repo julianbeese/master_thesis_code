@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2017-03-06a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.197.0" newgid="uk.org.publicwhip/westminhall/2017-03-06b.197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.197.1" newgid="uk.org.publicwhip/westminhall/2017-03-06b.197.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.200.0" newgid="uk.org.publicwhip/westminhall/2017-03-06b.200.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.200.1" newgid="uk.org.publicwhip/westminhall/2017-03-06b.200.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.201.0" newgid="uk.org.publicwhip/westminhall/2017-03-06b.201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.201.1" newgid="uk.org.publicwhip/westminhall/2017-03-06b.201.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.201.2" newgid="uk.org.publicwhip/westminhall/2017-03-06b.201.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.201.3" newgid="uk.org.publicwhip/westminhall/2017-03-06b.201.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.202.0" newgid="uk.org.publicwhip/westminhall/2017-03-06b.202.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.203.0" newgid="uk.org.publicwhip/westminhall/2017-03-06b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.203.1" newgid="uk.org.publicwhip/westminhall/2017-03-06b.203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.204.0" newgid="uk.org.publicwhip/westminhall/2017-03-06b.204.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.205.0" newgid="uk.org.publicwhip/westminhall/2017-03-06b.205.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.205.1" newgid="uk.org.publicwhip/westminhall/2017-03-06b.205.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.205.2" newgid="uk.org.publicwhip/westminhall/2017-03-06b.205.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.208.0" newgid="uk.org.publicwhip/westminhall/2017-03-06b.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.210.0" newgid="uk.org.publicwhip/westminhall/2017-03-06b.210.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2017-03-06a.210.0" speakername="Caroline Dinenage" person_id="uk.org.publicwhip/person/24873" colnum="210" time="17:23:00" url="">
+    <p pid="a210.0/1">It is a great pleasure to serve under your chairmanship, Mr Hanson. I thank <phrase class="honfriend" person_id="uk.org.publicwhip/person/10319" name="Helen Jones">the hon. Member for Warrington North (Helen Jones)</phrase> for securing this important debate and for setting out the issues so clearly, and in some cases shockingly, in her opening speech. I congratulate all the other Members who have taken part.</p>
+    <p pid="a210.0/2">I am grateful to the Petitions Committee and the Women and Equalities Committee for their report on high heels and workplace dress codes. It is clearly concerning, and highlights both unacceptable behaviour and the persistent challenges faced by some women in the workplace. I am most grateful to Nicola Thorp and other brave whistleblowers like her who have shone a light on this important issue.</p>
+    <p pid="a210.0/3">Let me be clear: the Government will not tolerate any form of discrimination on any grounds, including gender. As <phrase class="honfriend" person_id="uk.org.publicwhip/person/25421" name="Paula Sherriff">the hon. Member for Dewsbury (Paula Sherriff)</phrase> said, it is International Women’s Day this Wednesday, so this debate could not be more timely. The international theme this year is “Be Bold for Change”, and our own national theme is supporting women in the workplace. When it comes to supporting women in the workplace, we mean to be bold, including by enforcing strong laws to tackle sex discrimination at work, including dress codes.</p>
+    <p pid="a210.0/4">We should renew our efforts to be bold for change. After all, we have had anti-discrimination laws in this area for over 40 years, yet it is a safe bet that this sort of dress code has still existed under the radar, and that female employees have put up with discrimination because “that’s the way things are”. However, whether shod in heels or flats, we are collectively putting our foot down. Attitudes are changing, and this petition has brought that change clearly into the public domain.</p>
+    <p pid="a210.0/5">However, this is not just about shoes; it is way bigger than that. It is about how people are treated in the workplace, and this debate is specifically about how women are treated in the workplace. We have a higher number of women in work than ever before, but it is essential that they should feel comfortable and confident in their employers’ due regard for their health and wellbeing. They should feel empowered to do their best and be rewarded for their hard work. They should feel confident of their rights and that they can redress a problem where it persists. Employers must meet their legal obligations towards their employees, and we will support them to do so.</p>
+    <p pid="a210.0/6">We are carefully considering the Committees’ report and recommendations and will be issuing a response later this month. I do not want to pre-empt that response, but the evidence sessions conducted by the Committees were invaluable in setting out the extent of the problem. They highlighted some shocking workplace dress code requirements, such as the requirement to re-apply makeup throughout the day and to dress in a sexualised fashion, supposedly to attract clients and customers. I do not know who should feel most insulted by that: the person being required to re-apply their makeup or the consumers whose intelligence is being insulted by the suggestion that a fresh coat of lipstick will somehow induce them to purchase something.</p>
+    <p pid="a210.0/7">The report also shows that the problem is compounded by the further issue of health and safety, which many hon. Members have mentioned. If an employer requires staff to wear particular shoes as part of a dress code, they should consider the implications. It is absolutely right that the Committees are shining a spotlight on discriminatory dress code practices. In 2017, such outdated and sexist employment practices should not be part of the workplace.</p>
+    <p pid="a210.0/8">I am proud that in this country, women have a voice and a way to bring such issues to Parliament. We now have plenty of female parliamentarians—maybe not quite enough yet, but enough to bring this issue to Parliament. However, we must also ensure that women have a choice. Whether they choose to wear high heels or not—we have heard very good cases for and against; personally, at 5 foot 10 inches, I have never really needed a few extra inches—should be up to them, not up to some outdated, dodgy 1970s workplace diktat. I must reiterate that the Government utterly condemn such dress requirements where their effect is discriminatory. We strongly support the existing equality legislation that provides protection to women and indeed men who are treated less favourably because of gender in the workplace, but clearly the legislation must be more widely understood and better enforced.</p>
+    <p pid="a210.0/9">The Equality Act 2010 clearly prohibits an employer from discriminating against an employee or job applicant because of their sex when deciding whom to offer  employment or in relation to the terms on which employment is offered. Dress policies for men and women do not have to be identical, but the standards imposed should be equivalent, meaning that where an employer or an agency supplying staff imposes a dress code, then unless similar or equivalent rules are laid down for both male and female employees, that code may be directly discriminatory. For example, a man may be asked to wear a shirt and tie while a woman is not, but she would be expected to wear equivalent smart work wear. A code that results in a degree of discomfort or expense for a female employee that a male colleague would not be expected to endure is likely to be discriminatory. In the case of a requirement for high heels, as <phrase class="honfriend" person_id="uk.org.publicwhip/person/25294" name="Kirsten Oswald">the hon. Member for East Renfrewshire (Kirsten Oswald)</phrase> pointed out, a blanket rule for women might also be indirectly discriminatory on grounds of disability—for example, if a female employee has difficulty in walking because of a medical condition but is required to wear heels along with her colleagues.</p>
+    <p pid="a210.0/10">Dress codes can be a legitimate part of an employer’s terms and conditions of service—we accept the importance that some firms place on presenting a smart, uniform corporate image, particularly where services are offered to the public—but such codes must apply fairly to men and women. I was thinking about whether there are any workplaces in which both men and women are required to wear high heels, but the only one that I could think of was the musical “Kinky Boots”, in which everyone seems to wear high heels at the end. Personally, I fail to see why a high heel should be a byword for smartness.</p>
+    <p pid="a210.0/11">I hope that this case acts as a reminder to employers of their responsibilities and makes employees of both genders aware of their rights under the 2010 Act. However, to ensure that the message is driven home, particularly to employers, the Government and the Equality and Human Rights Commission are taking action. The Government are clear that the law to deal with such cases of discrimination is adequate, but we recognise that some employers lack awareness of the law or even choose to flout it. We are therefore developing guidance for employers, working closely with the Advisory, Conciliation and Arbitration Service, the EHRC and the Health and Safety Executive, in response to the recommendations in the Committees’ report. I welcome the work that the EHRC has already done to raise awareness of discriminatory code practices on social media; I am also aware of, and welcome, the fact that it is looking more generally at how to sharpen and improve its enforcement work under the 2010 Act.</p>
+    <p pid="a210.0/12">I commend Nicola Thorp and I encourage other whistleblowers to call out employers on these outdated and potentially unlawful practices. These kinds of headlines do not show anybody in a good light, and people should be calling out the employers concerned. Taking that action is never easy, but it is invaluable in raising the profile of the issue and in encouraging employers to review and, where necessary, revise their current dress code practices—as the employer in this case went on to do.</p>
+    <p pid="a210.0/13">I would like to use this debate to challenge all employers with dress codes to review them and consider whether they remain relevant and lawful. I urge employers to consult the existing guidance available from EHRC and ACAS on the issue, and our forthcoming guidance, which will be prepared with the Thorp petition and the  Women and Equalities Committee’s report in mind. Consulting with employees on any proposed dress code may ensure that the code is acceptable both to the organisation and to its staff. In particular, I expect the sectors highlighted in the report—hotels and tourism, travel and airlines, temporary agencies, corporate services, retail and hospitality—to review their dress codes, if they have not already done so. With that in mind, I have recently written to all the trade bodies that represent those sectors. I have drawn their attention to the report and asked them to impress on their members the importance of treating their employees, both male and female, fairly and decently when setting dress codes. I am already beginning to get responses from the trade bodies, and so far they have been very positive.</p>
+    <p pid="a210.0/14">The hon. Member for Warrington North mentioned that women are sometimes afraid to take complaints against employers further. It is important to emphasise that the 2010 Act has victimisation protections that can give women the confidence to complain about dress codes that may be unlawful, safe in the knowledge that their employer cannot dismiss them for making a complaint. However, there is room for improvement, especially in employees’ understanding of their rights, and the Government have a role to play in that. We will look at how we can improve awareness and understanding of the protections available and how better to enforce them.</p>
+    <p pid="a210.0/15">To further our ability to spot and respond to this type of discriminatory practice, the Equality Advisory Support Service has agreed to refer any reports of dress code issues to the EHRC to consider further action. That will ensure that the situation is investigated, that whistleblowers are supported and that we can assess whether further action is required on the part of the Government or other bodies.</p>
+    <p pid="a210.0/16">The lack of test cases is nothing to do with EHRC budgets. The EHRC has not historically taken on cases of this sort; it has been concerned with taking on strategic cases, generally those that might extend or expand the law, and a basic dress code would not normally be part of that category. However, the EHRC is now looking at strategic cases, to see whether they can include more basic areas of public or parliamentary concern such as this.</p>
+    <p pid="a210.0/17">We want the UK to lead the way in gender equality in the workplace to ensure that we are a true meritocracy that harnesses the talents of everyone. Making women wear sexualised clothing is about as far away as it is possible to get from our vision of gender parity in the workplace.</p>
+    <p pid="a210.0/18">The EHRC budget is a bit of a red herring. The EHRC has and will continue to have sufficient funds to fulfil its functions. Its total budget allocation in 2016-17 is £20.435 million. To put that in perspective, it has four times as many staff as my entire Department and the entire Government Equalities Office. We are confident that it has sufficient money and resources to continue to fulfil its statutory functions.</p>
+    <p pid="a210.0/19">We are committed to enhancing the role of women and removing barriers to equality, including outdated practices and attitudes, by tackling the gender pay gap, increasing the number of women on boards, increasing support for childcare costs and ensuring that employers are aware of their obligations to pregnant women.</p>
+    <p pid="a210.0/20">A number of hon. Members raised tribunal fees. We are currently consulting on proposals to extend the support available under the help with fees scheme. Under these proposals, the gross monthly income threshold for a full fee remission would be increased to £1,250 a month—broadly the level of the national wage. If implemented, the proposals will help people on low incomes.</p>
+    <p pid="a210.0/21">We have made great progress on tackling gender discrimination, but there is still much more to do, and it is the responsibility of all of us. We will continue to work hard to ensure that women are not excluded from or held back in the workplace because of exactly the type of outdated attitudes, practices and discriminatory dress codes that we have heard about today.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2017-03-06a.214.0" newgid="uk.org.publicwhip/westminhall/2017-03-06b.214.0" matchtype="perfectmatch"/>
+</publicwhip>
+

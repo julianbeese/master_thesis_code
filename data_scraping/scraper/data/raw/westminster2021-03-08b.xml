@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2021-03-08b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.1.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.1.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.1.2" newgid="uk.org.publicwhip/westminhall/2021-03-08c.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.1.3" newgid="uk.org.publicwhip/westminhall/2021-03-08c.1.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.4.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.4.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.5.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.5.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.5.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.6.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.7.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.7.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.7.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.8.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.9.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.9.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.9.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.10.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.10.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.10.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.10.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.11.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.12.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.13.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.13.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.13.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.13.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.14.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.14.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.15.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.15.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.16.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.16.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.16.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.16.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.18.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.18.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.20.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.20.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.20.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.20.2" newgid="uk.org.publicwhip/westminhall/2021-03-08c.20.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.20.3" newgid="uk.org.publicwhip/westminhall/2021-03-08c.20.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.21.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.21.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.24.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.24.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.24.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.24.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.24.2" newgid="uk.org.publicwhip/westminhall/2021-03-08c.24.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.24.3" newgid="uk.org.publicwhip/westminhall/2021-03-08c.24.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.25.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.25.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.25.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.25.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.25.2" newgid="uk.org.publicwhip/westminhall/2021-03-08c.25.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.25.3" newgid="uk.org.publicwhip/westminhall/2021-03-08c.25.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.28.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.28.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.28.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.29.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.29.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.30.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.30.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.30.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.30.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.30.2" newgid="uk.org.publicwhip/westminhall/2021-03-08c.30.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.31.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.31.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.32.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.32.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.33.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.33.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.33.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.33.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.34.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.34.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.35.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.35.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.35.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.35.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.37.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.38.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.38.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.38.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.38.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.38.2" newgid="uk.org.publicwhip/westminhall/2021-03-08c.38.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.40.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.40.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.40.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.41.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.41.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.41.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.42.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.42.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.42.1" newgid="uk.org.publicwhip/westminhall/2021-03-08c.42.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.43.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.45.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.45.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.47.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.47.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2021-03-08b.47.0" speakername="Kemi Badenoch" type="Start Speech" person_id="uk.org.publicwhip/person/25693" colnum="47" time="19:32:00" url="">
+    <p pid="b47.0/1">It is a pleasure to speak under your chairmanship, Mr Gray. May I start by thanking those who signed the petition for raising the important issue of conversion therapy, and my hon. Friend <phrase class="honfriend" person_id="uk.org.publicwhip/person/25907" name="Elliot Colburn">the Member for Carshalton and Wallington (Elliot Colburn)</phrase> for introducing the debate? I also thank all colleagues for speaking so passionately about this issue. I know how important it is to so many parliamentarians, and it is right that we should have this time to debate it. I will endeavour to answer the various questions put this evening.</p>
+    <p pid="b47.0/2">I am pleased to be able to respond not just to acknowledge the importance of the topic but to say more about the Government’s approach to ending conversion therapy. We have a proud record of championing equal opportunity, and it is of great importance to me and the Government that everyone has the freedom to live their life as they see fit without fear or intimidation.</p>
+    <p pid="b47.0/3">I assure hon. Members that we are committed to ending conversion therapy in the UK and we take the issue very seriously. The Prime Minister reiterated recently that we want to end conversion therapy and underlined that the practice has</p>
+    <p pid="b47.0/4" class="indent" pwmotiontext="yes">“no place in a civilised society”.</p>
+    <p pid="b47.0/5">It is indeed shocking to think that conversion therapy practices still take place in modern Britain, yet the 2017 national LGBT survey found that 5% of respondents—people in the UK—had been offered conversion therapy and 2% had undergone it. The national LGBT survey was launched in 2017 and received more than 108,000 responses, making it the largest survey of its kind in the UK. The aim was to gather more information about the life experiences of LGBT people in the UK and the biggest difficulties they face, including conversion therapy.</p>
+    <p pid="b47.0/6">Acknowledging that conversion therapy is wrong and should end is only the first step in tackling such behaviours. The Government want to ensure that we correctly identify and capture these harmful practices. To do that, we have been working hard to establish a clear view of what constitutes conversion therapy. “Conversion therapy” is often used as an umbrella term for a number of acts. On the most egregious end of the spectrum are acts of violence. Around the world, sexual violence, including rape, is used in sinister attempts supposedly to cure someone of an innate aspect of their person. People may also be beaten, or forced to fast or to take snake-oil medicines, all because of who they are and who they love. We are fortunate that in this country we have cultivated a robust criminal law framework for dealing with those types of conversion therapy.</p>
+    <p pid="b47.0/7">I would like to take this opportunity to be clear that if someone commits an existing offence in the course of conversion therapy, they will be prosecuted to the full extent of the law, no matter what their reason for doing so is. At the extreme end of such practices, someone could face charges of rape or grievous bodily harm. At the other end of the spectrum are acts that are primarily delivered through the spoken word or through the guise of healthcare support, such as advertising and selling products, or charging a fee to undergo conversion therapy practices.</p>
+    <p pid="b47.0/8">The Government have been clear that we do not intend to stop those who wish to seek spiritual counselling as they explore their sexual orientation, but there will be cases when a line is crossed, where someone is actively seeking to change another’s sexual orientation—an innate aspect of their personal identity—via coercion under the guise of spiritual support. The Government will exercise great care when considering what does and does not constitute conversion therapy, and how to intervene. Just because greater care is required, however, it does not mean that we should shy from protecting our most vulnerable from those practices.</p>
+    <p pid="b47.0/9">It is clear that conversion therapy is associated with significant mental health problems and isolation from a support network. That, in turn, can lead to homelessness and abuse. We are also alive to the need to ensure that the action we take does not push those practices underground, which could ultimately cause more harm to those who are victim to them. Our response to the issue will ensure that we end those practices, not hide them.</p>
+    <p pid="b47.0/10">It may help to explain the work that the Government are doing to tackle conversion therapy. Officials are undertaking a review of the current legislative framework to see how conversion therapy can be stopped by making use of existing laws and offences. As I have mentioned previously, many acts of conversion therapy are already illegal, including sexual violence and kidnapping, as well as inciting violence. People who engage in those criminal activities can and will be prosecuted for doing so. Where dangerous practices are not already unlawful, we are examining the best ways to stop them without sending them underground.</p>
+    <p pid="b47.0/11">The Government believe that a comprehensive approach is needed to end the suffering that those practices inflict. We need to explore all measures to combat those abhorrent practices, ensuring that survivors have access to the help and care that they need. In addition to the work on legislative and non-legislative measures to end conversion therapy, we have commissioned research into the scope of practices and the experiences of those subjected to conversion therapy, so that we can fully consider the needs of all those whom it affects. That is important in our approach to establishing the most effective way to stop it happening. Once the findings have been reviewed, we will continue to engage with key stakeholders to ensure that we progress an effective approach as quickly as we can.</p>
+    <p pid="b47.0/12">I know that there may be questions around what a legal ban could include, and we have heard a number of views on that. We are actively considering that issue, on which we have been consulting widely to seek a broad range of views. We will continue that engagement to ensure that any action that we take is proportionate and effective. As I said earlier, I want to make it absolutely clear that we do not want to prevent LGBT people from  seeking support on their own terms. People will always have the right to seek support from anyone and have conversations to rationalise and understand their own identity. We will not restrict the right to seek counsel when needed, but that does not mean that we will tolerate the use of conversion therapy described in the debate. We are working to understand the impacts on wider rights and freedoms of any Government action to tackle conversion therapy. The legal landscape is complex, and we want to ensure that we get our proposals absolutely right.</p>
+    <p pid="b47.0/13">We will continue to engage with religious organisations and groups to understand how best support to LGBT people of faith. It is not the place of Government to dictate what is legitimate spiritual guidance, but it is the Government’s place to protect all their citizens, and we will not tolerate the use of harmful coercive practices under the guise of spiritual support. I am also pleased that all major counselling and psychotherapy bodies in the UK have agreed to tackle conversion therapy in healthcare settings. We will engage with experts to understand the best way of ending conversion therapy in these contexts in a targeted and proportionate way.</p>
+    <p pid="b47.0/14">It is also encouraging to see jurisdictions around the world starting to take notice of the issue, and join us with their own commitments to ending conversion therapy. We are in conversations with international counterparts, both those who have introduced a variety of legislative and non-legislative actions and those who plan to. Although it is important to figure out what will work in a UK context, we may also look to our friends around the world to understand the effectiveness of different approaches. Hon. Members have mentioned, for example, that Germany has implemented a ban on conversion therapy for minors only, or when an adult has been coerced, and I understand that other countries such as Malta have also taken this route. However, we understand that different countries will take different approaches that best suit their needs. This is not a one-size-fits-all approach.</p>
+    <p pid="b47.0/15">The safety of LGBT people in the UK in every aspect of their life is of the utmost importance to me, including in our work on conversion therapy. However, this is only part of the work we are doing to promote equality for everyone. The Government understand that colleagues across the House who have taken the time to attend the debate are passionate about the work that my officials and I are doing, so I wish to update them on all the broader LGBT work we are undertaking. In April 2019, we appointed Dr Michael Brady of King’s College Hospital to be the first national adviser on LGBT healthcare. This appointment shows the Government’s commitment to improving healthcare for all. I am very proud that in December 2020, the Department of Health and Social Care announced that men who have sex with men in a long-term relationship will be able to donate blood in England, following changes to blood donation criteria that will be implemented in the summer.</p>
+    <p pid="b47.0/16">I am also aware that waiting times for gender identity services are currently very long. We are taking meaningful actions to address the historical problems that have resulted in long waiting times, and I am pleased that we will establish at least three new gender identity clinics over 2021, with the first of these opened by the Chelsea   and Westminster NHS Foundation Trust in July. This is the first service of its kind established in the NHS in England for around 20 years.</p>
+    <p pid="b47.0/17">There is so much more that I would say about the work that the Government are doing, but I am afraid that we are out of time. Our goal now is to end these harmful practices, and we are going to engage widely and listen carefully so that we can develop measures that end them for good. I know that all Members are keen to know the timetable. We continue to work to ensure that the actions we take are proportionate and effective, and will set out our next steps soon. We have heard a range of views and voices, and it is imperative that we continue a constructive dialogue to ensure that we get our proposals right. To answer the question asked by <phrase class="honfriend" person_id="uk.org.publicwhip/person/11323" name="Hywel Williams">the hon. Member for Arfon (Hywel Williams)</phrase>, officials from the Government Equalities Office have been in liaison with Welsh Government officials, and the Welsh Government have not requested devolved competence.</p>
+    <p pid="b47.0/18">Put simply, being LGBT is not an illness to be treated or cured. This is an issue that has cross-party support, and the call to end conversion therapy is backed by those in the health, counselling and psychotherapy industry. I am absolutely committed to ensuring that LGBT people can be truly safe and free to live their life as they wish, and this will be the next important step in ending conversion therapy for good.</p>
+    <p pid="b47.0/19">I take this opportunity to thank all colleagues who have spoken in today’s debate in support of ending conversion therapy. It is wonderful to see so many people united against this abhorrent practice, and I look forward to many more debates on the issue. I am happy to continue individual engagement, as I have already done, where there are further questions.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2021-03-08b.50.0" newgid="uk.org.publicwhip/westminhall/2021-03-08c.50.0" matchtype="perfectmatch"/>
+</publicwhip>
+

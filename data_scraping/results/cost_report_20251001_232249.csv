@@ -1,0 +1,10 @@
+Metric,Value,Unit
+Total Requests,2,count
+Total Input Tokens,907,tokens
+Total Output Tokens,326,tokens
+Total Characters,4934,characters
+Total Cost,0.0002,USD
+Duration,3.76,seconds
+Requests per Minute,31.95,req/min
+Avg Cost per Request,8.3e-05,USD
+Estimated Cost for 1000 Debates,0.08,USD

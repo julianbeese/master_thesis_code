@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/westminhall/westminster2022-02-03a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.213.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.213.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.213.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.213.2" newgid="uk.org.publicwhip/westminhall/2022-02-03b.213.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.215.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.216.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.216.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.217.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.217.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.217.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.217.2" newgid="uk.org.publicwhip/westminhall/2022-02-03b.217.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.219.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.219.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.219.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.221.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.223.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.223.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.224.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.224.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.224.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.226.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.226.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/westminhall/2022-02-03a.226.0" speakername="Alan Brown" type="Start Speech" person_id="uk.org.publicwhip/person/25268" colnum="226" time="14:23:00" url="">
+    <p pid="a226.0/1">It is a pleasure to serve under your chairmanship, Mr Rosindell. I congratulate <phrase class="honfriend" person_id="uk.org.publicwhip/person/24893" name="Alec Shelbrooke">the right hon. Member for Elmet and Rothwell (Alec Shelbrooke)</phrase> on securing the debate. Without being facetious, I think it is the first time in my seven years in this place that I have agreed completely with his entire contribution.</p>
+    <p pid="a226.0/2">The right hon. Gentleman focused on mesh. I will talk more about sodium valproate, but I agree with everything he said, and I have dealt with a constituent who came to me after her life was ruined by a mesh implant. She was suffering from pain and—others have mentioned this—economic hardship, as she had to reduce her hours at work, but she was lucky that she could still work three days a week. On top of all that, her personal independence payment for mobility was taken away, and I had to fight in Parliament to get it restored. That is a further way in which the state is letting down some of these people. They have already suffered from the operation; then they do not get the support they deserve, let alone the redress we are talking about.</p>
+    <p pid="a226.0/3">I want to make the case for my constituents Mr and Mrs McKerrow and their daughter Claire. Mrs McKerrow was prescribed sodium valproate and Claire then suffered foetal anticonvulsant syndrome, which has affected her entire life. It has also affected her parents, and they have long campaigned for justice. They tried legal action, but were let down. They have been part of support groups. They engaged with and gave evidence to the Cumberlege review, so I can only imagine how hopeful they were when the thorough and comprehensive report from Baroness Cumberlege was printed.</p>
+    <p pid="a226.0/4">Paragraph 1.38 states that</p>
+    <p pid="a226.0/5" class="indent" pwmotiontext="yes">“valproate has caused physical and neurodevelopmental harm. We believe that the state and manufacturers have an ethical responsibility to provide ex gratia payments to those who have experienced avoidable damage from the interventions we have reviewed.”</p>
+    <p pid="a226.0/6">The key sentence in paragraph 1.38 is:</p>
+    <p pid="a226.0/7" class="indent" pwmotiontext="yes">“Patients have waited far too long for redress.”</p>
+    <p pid="a226.0/8">I can only imagine how disappointed and angry people were when the UK Government ignored that in their response in July 2021. What a let-down! How can the Government ignore the key recommendation, which says that those affected by the interventions reviewed have waited too long for redress? As <phrase class="honfriend" person_id="uk.org.publicwhip/person/10426" name="Theresa May">the right hon. Member for Maidenhead (Mrs May)</phrase> said, every week is another week that those people are waiting and suffering.</p>
+    <p pid="a226.0/9">As the right hon. Member for Elmet and Rothwell said, the UK Government have accepted recommendation 1 and issued a full apology, but that apology is somewhat hollow unless they consider setting up a redress scheme for those who underwent these interventions. On one level, it feels like an apology from the Prime Minister—absolutely meaningless. We should not be surprised that  the Government have so far also ignored recommendation 3 —that a new redress agency should be created. The report states that such an agency should be</p>
+    <p pid="a226.0/10" class="indent" pwmotiontext="yes">“based on models operating effectively in other countries. The Redress Agency will administer decisions using a non-adversarial process with determinations based on avoidable harm looking at systemic failings, rather than blaming individuals.”</p>
+    <p pid="a226.0/11">That all sounds logical, and one would think that the Government wanted to address this issue, so hopefully the Minister will explain exactly why they have rejected the recommendation. Importantly, what other agencies in other countries have they reviewed? Baroness Cumberlege said that such agencies operate successfully elsewhere; what review did the Government carry out of those agencies before choosing to reject the recommendation?</p>
+    <p pid="a226.0/12">Prior to the Cumberlege review, my constituents the McKerrows had made significant progress; they dealt directly with the BBC, professors of medicine, GPs and hospital consultants at each and every stage of Claire’s life in order to demonstrate the link between taking sodium valproate while pregnant, the disabilities that their daughter has suffered, and the ongoing impact on her growth, development and ability to have a normal family life. As I said, they took part in a Cumberlege review meeting and gave evidence. Mr McKerrow explained to me that redress, which we know is morally due, as was stated in the review, would put him at ease by protecting his daughter and addressing her future needs.</p>
+    <p pid="a226.0/13">The Cumberlege review rightly talks about the psychological damage done to those harmed by the various interventions, but there is guilt for the mothers who took a medicine—social valproate—that caused damage to their child. Of course, they are completely blameless, but that is not exactly how the mind always operates. That is another aspect of people’s fighting to get justice, and to right the wrongs of being prescribed a harmful drug.</p>
+    <p pid="a226.0/14">On redress, I recently submitted a written parliamentary question in the naive hope of getting a more positive response on compensation for the harm caused by sodium valproate. However, the Government’s answer stated again that they</p>
+    <p pid="a226.0/15" class="indent" pwmotiontext="yes">“did not accept the recommendation to establish separate redress schemes for the three interventions in the report, including sodium valproate. Our primary focus is on improving future medicines and medical devices safety and it is therefore crucial that we focus Government funds on initiatives that directly improve future safety (including specialist mesh centres and support for families affected by medicines in pregnancy).”</p>
+    <p pid="a226.0/16">As the right hon. Member for Elmet and Rothwell said, the mesh centres are not working anyway. In the final part of the answer to my written question, the Government said:</p>
+    <p pid="a226.0/17" class="indent" pwmotiontext="yes">“For this reason, redress schemes will not be established in response to the recommendation in the report.”</p>
+    <p pid="a226.0/18">Can the Minister honestly look these families in the eye and say, “Look, we’ve apologised. It’s time to move on and look forward. We’re not going to deal with you just now. We want to focus on future initiatives”? Can she not see how absurd that position is? Does she understand that all the people who gave their time to the Cumberlege review in the hope that justice would be served were effectively kicked in the teeth by the  Government’s rejecting the recommendation for a redress scheme? Why undertake the review and not adhere to the key recommendations?</p>
+    <p pid="a226.0/19">I am looking for an explanation from the Minister, but in an ideal world, we would see a U-turn. U-turns can be ridiculed in politics, but sometimes they are very welcome. This is certainly one U-turn that I, my constituents and everybody else who has suffered from such interventions would welcome.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.228.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.228.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.230.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.232.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.235.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.235.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.237.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.240.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.242.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.242.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.243.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.243.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.243.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.243.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.244.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.244.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.245.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.245.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.245.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.245.2" newgid="uk.org.publicwhip/westminhall/2022-02-03b.245.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.246.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.246.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.246.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.246.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.246.2" newgid="uk.org.publicwhip/westminhall/2022-02-03b.246.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.246.3" newgid="uk.org.publicwhip/westminhall/2022-02-03b.246.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.247.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.247.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.247.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.247.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.247.2" newgid="uk.org.publicwhip/westminhall/2022-02-03b.247.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.247.3" newgid="uk.org.publicwhip/westminhall/2022-02-03b.247.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.248.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.248.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.248.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.248.2" newgid="uk.org.publicwhip/westminhall/2022-02-03b.248.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.248.3" newgid="uk.org.publicwhip/westminhall/2022-02-03b.248.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.248.4" newgid="uk.org.publicwhip/westminhall/2022-02-03b.248.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.248.5" newgid="uk.org.publicwhip/westminhall/2022-02-03b.248.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.248.6" newgid="uk.org.publicwhip/westminhall/2022-02-03b.248.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.248.7" newgid="uk.org.publicwhip/westminhall/2022-02-03b.248.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.248.8" newgid="uk.org.publicwhip/westminhall/2022-02-03b.248.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.249.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.249.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.249.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.249.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.251.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.251.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.251.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.252.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.252.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.252.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.252.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.252.2" newgid="uk.org.publicwhip/westminhall/2022-02-03b.252.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.252.3" newgid="uk.org.publicwhip/westminhall/2022-02-03b.252.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.252.4" newgid="uk.org.publicwhip/westminhall/2022-02-03b.252.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.254.0" newgid="uk.org.publicwhip/westminhall/2022-02-03b.254.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.254.1" newgid="uk.org.publicwhip/westminhall/2022-02-03b.254.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/westminhall/2022-02-03a.254.2" newgid="uk.org.publicwhip/westminhall/2022-02-03b.254.2" matchtype="perfectmatch"/>
+</publicwhip>
+

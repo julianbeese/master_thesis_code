@@ -1,0 +1,132 @@
+2025-09-28 21:37:27,686 - __main__ - INFO - === Brexit-Klassifikation mit Kosten-Tracking ===
+2025-09-28 21:37:27,686 - __main__ - INFO - Max Debatten: 5
+2025-09-28 21:37:27,686 - __main__ - INFO - Quell-Datenbank: database/data/parliament_data.db
+2025-09-28 21:37:27,686 - __main__ - INFO - Brexit-Datenbank: database/data/brexit_data_test.db
+2025-09-28 21:37:27,687 - __main__ - INFO - Gemini-Modell: gemini-2.0-flash
+2025-09-28 21:37:27,687 - __main__ - INFO - === KOSTENSCHÄTZUNG ===
+2025-09-28 21:37:27,687 - __main__ - INFO - max_debates: 5
+2025-09-28 21:37:27,687 - __main__ - INFO - avg_debate_length_chars: 5000
+2025-09-28 21:37:27,687 - __main__ - INFO - estimated_tokens_per_debate: 1250
+2025-09-28 21:37:27,687 - __main__ - INFO - estimated_total_tokens: 6875
+2025-09-28 21:37:27,687 - __main__ - INFO - estimated_input_cost: 0.0005
+2025-09-28 21:37:27,687 - __main__ - INFO - estimated_output_cost: 0.0002
+2025-09-28 21:37:27,687 - __main__ - INFO - estimated_total_cost: 0.0007
+2025-09-28 21:37:27,687 - __main__ - INFO - estimated_cost_per_debate: 0.000131
+2025-09-28 21:37:27,687 - __main__ - INFO - Initialisiere Komponenten...
+2025-09-28 21:37:27,693 - classifier.brexit_classifier - INFO - Gemini-Modell 'gemini-2.0-flash' erfolgreich initialisiert
+2025-09-28 21:37:27,693 - __main__ - INFO - ✅ Gemini API verfügbar
+2025-09-28 21:37:27,700 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_sessions (
+            session_id TEXT PRIMARY KEY,
+     ...
+2025-09-28 21:37:27,700 - classifier.brexit_database - INFO - Tabelle 'brexit_sessions' erstellt/überprüft
+2025-09-28 21:37:27,701 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_debates (
+            debate_id INTEGER PRIMARY KEY,
+    ...
+2025-09-28 21:37:27,701 - classifier.brexit_database - INFO - Tabelle 'brexit_debates' erstellt/überprüft
+2025-09-28 21:37:27,701 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_speeches (
+            speech_id TEXT PRIMARY KEY,
+      ...
+2025-09-28 21:37:27,701 - classifier.brexit_database - INFO - Tabelle 'brexit_speeches' erstellt/überprüft
+2025-09-28 21:37:27,701 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS brexit_keywords (
+            keyword_id INTEGER PRIMARY KEY,
+  ...
+2025-09-28 21:37:27,702 - classifier.brexit_database - INFO - Tabelle 'brexit_keywords' erstellt/überprüft
+2025-09-28 21:37:27,702 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        CREATE TABLE IF NOT EXISTS classification_log (
+            log_id INTEGER PRIMARY KEY,
+   ...
+2025-09-28 21:37:27,702 - classifier.brexit_database - INFO - Tabelle 'classification_log' erstellt/überprüft
+2025-09-28 21:37:27,702 - classifier.brexit_database - INFO - Brexit-Datenbank initialisiert: database/data/brexit_data_test.db
+2025-09-28 21:37:27,702 - __main__ - INFO - Lade Debatten aus der Datenbank...
+2025-09-28 21:37:27,704 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: 
+        SELECT d.debate_id, d.title, d.session_id, s.date
+        FROM parliament_debates d
+       ...
+2025-09-28 21:37:27,704 - __main__ - INFO - Gefunden: 5 Debatten
+2025-09-28 21:37:27,704 - __main__ - INFO - Starte Klassifikation...
+2025-09-28 21:37:27,705 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-09-28 21:37:27,705 - __main__ - INFO - Verarbeite Debatte 1/5: Growth Strategy — [Mr Philip Hollobone in the Chai...
+2025-09-28 21:37:27,710 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name debates does not exist!
+Did you mean "duckdb_types"?
+
+LINE 3:         FROM debates d
+                     ^
+2025-09-28 21:37:27,710 - __main__ - ERROR - Fehler beim Laden der Debatte 1: Catalog Error: Table with name debates does not exist!
+Did you mean "duckdb_types"?
+
+LINE 3:         FROM debates d
+                     ^
+2025-09-28 21:37:27,710 - __main__ - WARNING - Debatte 1 konnte nicht geladen werden
+2025-09-28 21:37:27,711 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-09-28 21:37:27,711 - __main__ - INFO - Verarbeite Debatte 2/5: Economy and Society: Contribution of Music...
+2025-09-28 21:37:27,711 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name debates does not exist!
+Did you mean "duckdb_types"?
+
+LINE 3:         FROM debates d
+                     ^
+2025-09-28 21:37:27,711 - __main__ - ERROR - Fehler beim Laden der Debatte 2: Catalog Error: Table with name debates does not exist!
+Did you mean "duckdb_types"?
+
+LINE 3:         FROM debates d
+                     ^
+2025-09-28 21:37:27,711 - __main__ - WARNING - Debatte 2 konnte nicht geladen werden
+2025-09-28 21:37:27,711 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-09-28 21:37:27,711 - __main__ - INFO - Verarbeite Debatte 3/5: Motorhomes and Vehicle Excise Duty — [Sir David Am...
+2025-09-28 21:37:27,711 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name debates does not exist!
+Did you mean "duckdb_types"?
+
+LINE 3:         FROM debates d
+                     ^
+2025-09-28 21:37:27,711 - __main__ - ERROR - Fehler beim Laden der Debatte 3: Catalog Error: Table with name debates does not exist!
+Did you mean "duckdb_types"?
+
+LINE 3:         FROM debates d
+                     ^
+2025-09-28 21:37:27,711 - __main__ - WARNING - Debatte 3 konnte nicht geladen werden
+2025-09-28 21:37:27,712 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-09-28 21:37:27,712 - __main__ - INFO - Verarbeite Debatte 4/5: Surrogacy: Government Policy...
+2025-09-28 21:37:27,712 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name debates does not exist!
+Did you mean "duckdb_types"?
+
+LINE 3:         FROM debates d
+                     ^
+2025-09-28 21:37:27,712 - __main__ - ERROR - Fehler beim Laden der Debatte 4: Catalog Error: Table with name debates does not exist!
+Did you mean "duckdb_types"?
+
+LINE 3:         FROM debates d
+                     ^
+2025-09-28 21:37:27,712 - __main__ - WARNING - Debatte 4 konnte nicht geladen werden
+2025-09-28 21:37:27,712 - database.managers.database_manager - INFO - Query erfolgreich ausgeführt: SELECT COUNT(*) FROM brexit_debates WHERE debate_id = ?...
+2025-09-28 21:37:27,712 - __main__ - INFO - Verarbeite Debatte 5/5: Growth Strategy — [Mr Philip Hollobone in the Chai...
+2025-09-28 21:37:27,712 - database.managers.database_manager - ERROR - Fehler bei Query-Ausführung: Catalog Error: Table with name debates does not exist!
+Did you mean "duckdb_types"?
+
+LINE 3:         FROM debates d
+                     ^
+2025-09-28 21:37:27,712 - __main__ - ERROR - Fehler beim Laden der Debatte 5: Catalog Error: Table with name debates does not exist!
+Did you mean "duckdb_types"?
+
+LINE 3:         FROM debates d
+                     ^
+2025-09-28 21:37:27,712 - __main__ - WARNING - Debatte 5 konnte nicht geladen werden
+2025-09-28 21:37:27,713 - __main__ - INFO - === KLASSIFIKATION ABGESCHLOSSEN ===
+2025-09-28 21:37:27,713 - __main__ - INFO - Verarbeitete Debatten: 0
+2025-09-28 21:37:27,713 - __main__ - INFO - Brexit-Debatten gefunden: 0
+2025-09-28 21:37:27,713 - __main__ - INFO - Brexit-Anteil: 0.0%
+2025-09-28 21:37:27,713 - __main__ - INFO - Dauer: 0.0 Sekunden
+2025-09-28 21:37:27,713 - __main__ - INFO - Fehler: 0
+2025-09-28 21:37:27,713 - __main__ - INFO - === KOSTEN-ANALYSE ===
+2025-09-28 21:37:27,713 - __main__ - INFO - Gesamtkosten: $0.0000
+2025-09-28 21:37:27,713 - __main__ - INFO - Kosten pro Debatte: $0.000000
+2025-09-28 21:37:27,713 - __main__ - INFO - Geschätzte Kosten für 1000 Debatten: $0.00
+2025-09-28 21:37:27,713 - __main__ - INFO - API-Anfragen: 0
+2025-09-28 21:37:27,713 - __main__ - INFO - Geschwindigkeit: 0.0 Anfragen/Minute
+2025-09-28 21:37:27,713 - __main__ - INFO - === REPORTS ===
+2025-09-28 21:37:27,713 - __main__ - INFO - Kosten-Report: results/cost_report_20250928_213727.csv
+2025-09-28 21:37:27,713 - __main__ - INFO - JSON-Report: results/classification_report_20250928_213727.json
+2025-09-28 21:37:27,714 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen
+2025-09-28 21:37:27,715 - database.managers.database_manager - INFO - Datenbankverbindung geschlossen

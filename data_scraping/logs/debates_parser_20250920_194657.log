@@ -1,0 +1,45 @@
+2025-09-20 19:46:57,825 - __main__ - INFO - === Debates XML-Parser und Datenbank-Import ===
+2025-09-20 19:46:57,825 - __main__ - INFO - Input-Verzeichnis: scraper/data/debates
+2025-09-20 19:46:57,825 - __main__ - INFO - Datenbank-Pfad: database/data/debates_data.db
+2025-09-20 19:46:57,825 - __main__ - INFO - Max-Dateien: alle
+2025-09-20 19:46:57,825 - __main__ - INFO - Batch-Größe: 100
+2025-09-20 19:46:57,825 - __main__ - INFO - Test-Modus: True
+2025-09-20 19:46:57,825 - __main__ - INFO - Test-Modus aktiviert: Max-Dateien auf 5 gesetzt
+2025-09-20 19:46:57,825 - __main__ - INFO - Initialisiere Database Manager...
+2025-09-20 19:46:57,834 - __main__ - INFO - Gefunden: 2945 XML-Dateien
+2025-09-20 19:46:57,834 - __main__ - INFO - Starte XML-Parsing und Datenbank-Import...
+2025-09-20 19:46:57,834 - database_manager - INFO - Starte Import aus scraper/data/debates
+2025-09-20 19:46:57,837 - database_manager - INFO - Verarbeite 5 XML-Dateien aus scraper/data/debates
+2025-09-20 19:46:57,837 - database_manager - INFO - Verarbeite Datei 1/5: debates2012-01-10a.xml
+2025-09-20 19:46:57,837 - database_manager - INFO - Parse debates XML-Datei: debates2012-01-10a.xml
+2025-09-20 19:46:57,838 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:46:57,838 - database_manager - INFO - Verarbeite Datei 2/5: debates2021-11-18c.xml
+2025-09-20 19:46:57,838 - database_manager - INFO - Parse debates XML-Datei: debates2021-11-18c.xml
+2025-09-20 19:46:57,838 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:46:57,838 - database_manager - INFO - Verarbeite Datei 3/5: debates2017-03-16a.xml
+2025-09-20 19:46:57,839 - database_manager - INFO - Parse debates XML-Datei: debates2017-03-16a.xml
+2025-09-20 19:46:57,849 - database_manager - INFO - Debates XML erfolgreich geparst: 24 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:46:57,849 - database_manager - INFO - Verarbeite Datei 4/5: debates2012-10-31b.xml
+2025-09-20 19:46:57,849 - database_manager - INFO - Parse debates XML-Datei: debates2012-10-31b.xml
+2025-09-20 19:46:57,850 - database_manager - INFO - Debates XML erfolgreich geparst: 0 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:46:57,850 - database_manager - INFO - Verarbeite Datei 5/5: debates2021-06-30b.xml
+2025-09-20 19:46:57,850 - database_manager - INFO - Parse debates XML-Datei: debates2021-06-30b.xml
+2025-09-20 19:46:57,865 - database_manager - INFO - Debates XML erfolgreich geparst: 17 Debatten, 0 Reden, 0 Wörter
+2025-09-20 19:46:57,865 - database_manager - INFO - Verarbeitung abgeschlossen: 5 Sitzungen erfolgreich geparst
+2025-09-20 19:46:57,865 - database_manager - INFO - Konvertiere 5 Sitzungen zu DataFrames
+2025-09-20 19:46:57,871 - database_manager - INFO - DataFrames erstellt: ['sessions', 'debates', 'speeches', 'speakers', 'paragraphs']
+2025-09-20 19:46:57,876 - database_manager - INFO - Indizes erfolgreich erstellt
+2025-09-20 19:46:57,876 - database_manager - INFO - Debates-Tabellen erfolgreich erstellt
+2025-09-20 19:46:57,880 - database_manager - ERROR - Fehler beim Erstellen der Tabelle sessions: Catalog Error: Table with name "sessions" already exists!
+2025-09-20 19:46:57,880 - __main__ - ERROR - Fehler bei der Verarbeitung: Catalog Error: Table with name "sessions" already exists!
+Traceback (most recent call last):
+  File "/Users/julianbeese/Developer/Master/Data/run_debates_parser.py", line 134, in main
+    import_stats = db_manager.import_xml_directory(
+  File "/Users/julianbeese/Developer/Master/Data/database/managers/debates_database_manager.py", line 224, in import_xml_directory
+    import_stats = self._import_dataframes(dataframes, batch_size)
+  File "/Users/julianbeese/Developer/Master/Data/database/managers/debates_database_manager.py", line 266, in _import_dataframes
+    self.create_table_from_polars(df, table_name, 'append')
+  File "/Users/julianbeese/Developer/Master/Data/database/managers/database_manager.py", line 129, in create_table_from_polars
+    self.connection.execute(f"CREATE TABLE {table_name} AS SELECT * FROM temp_df")
+_duckdb.CatalogException: Catalog Error: Table with name "sessions" already exists!
+2025-09-20 19:46:57,883 - database_manager - INFO - Datenbankverbindung geschlossen
