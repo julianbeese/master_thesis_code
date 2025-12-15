@@ -34,12 +34,13 @@ def convert_notebook(notebook_path: Path, output_dir: Path):
     # Create output directory if it doesn't exist
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    # Convert notebook to HTML
+    # Convert notebook to HTML (without showing code cells)
     cmd = [
         "jupyter",
         "nbconvert",
         "--to",
         "html",
+        "--no-input",
         "--output-dir",
         str(output_dir),
         str(notebook_path),
